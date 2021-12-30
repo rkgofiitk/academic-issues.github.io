@@ -7,8 +7,8 @@ against a target of 18K in 2014-2019. The Directors of IITs attribute two main r
 
  
 
-     -Nonavailability of the faculty.
-     -Inadequate infrastructure. 
+ -Nonavailability of the faculty.
+ -Inadequate infrastructure. 
 
  
 
