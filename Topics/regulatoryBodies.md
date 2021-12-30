@@ -41,6 +41,8 @@ We talk about Washington Accord, NEP, etc., etc. However, no acts or accords wil
 politicians and banish them from meddling into temples of learning. Politicians want people to remain uneducated and unskilled. They survive exploiting the 
 discontents among the mass. Equally enough, there is a requirement that academicians stop lobbying for plum posts. 
 
+
+[Back to Index](../index.md)
   
 
 
