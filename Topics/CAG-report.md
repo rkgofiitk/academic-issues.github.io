@@ -51,4 +51,4 @@ assists in career growth. Unnecessary bureaucratic hassle and roadblocks may int
 sensitized to act as second fiddle. The registrar, the deputy registrars, and the faculty coteries around the Director should only act as facilitators, not as 
 constrictors.  
 
- 
+ [Back to Index](../index.md)
