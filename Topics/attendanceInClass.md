@@ -33,16 +33,13 @@ Of late, some university depts have started using Python. Python is catching up 
 memory serves me correctly, perhaps PASCAL was taught until 2000 to the students in IIT Kanpur. It is pedagogically the best programming language, as it is the 
 closest implementation of algorithms into code.  
 
- 
 
 As far as Python is concerned, the three major advantages are:
 
  
-
-    - Creating Python programs take significantly less time than programming either in Java or in C++ or C. 
-    - Python programs are shorter than the equivalent programs in Java or C++ because of dynamic typing and built-in types.
-    - A large set of highly useful libraries are available that support easy to use in Python programs. 
-
+- Creating Python programs take significantly less time than programming either in Java or in C++ or C. 
+- Python programs are shorter than the equivalent programs in Java or C++ because of dynamic typing and built-in types.
+- A large set of highly useful libraries are available that support easy to use in Python programs. 
  
 
 Most leading universities in the US, including MIT, CMU, Berkeley, UIUC teach Python as the first programming language course ( Esther Shein , Python for 
