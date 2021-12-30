@@ -22,3 +22,5 @@ the researches done entirely by others.  If denied, these influential researcher
 that blog readers watch the movie PHD (Piled Higher and Deeper) to understand what I mean. Cronyism has extended its tentacles to even some of the prestigious 
 IEEE journals.  We have come across people with 50-60 publications who could not correctly explain their research when questioned a little deeper and do not 
 understand the fundamentals of the subject. 
+
+[Back to Index](../index.md)
