@@ -22,4 +22,6 @@ not sure how much of that intent is in practice. India's regulatory bodies are e
 hungry sarks. It isn't easy to believe that the IoEs are genuinely autonomous. 
 
 Another less known part of IoE implementation policy is to return 80% of the application money to successful IoEs. I don't know if  the UGC is yet to return the 
-money even after three years. Whether it is another example of sloppy bureaucratic operation or deliberate withholding of the amount is a question we must ponder. 
+money even after three years. Whether it is another example of sloppy bureaucratic operation or deliberate withholding of the amount is a question we must ponder.
+
+[Back to Index](../index.md)
