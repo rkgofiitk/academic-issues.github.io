@@ -53,3 +53,5 @@ both useful and available. After all, one learns program to create some software
 public server. So, I believe the approach is likely to have greater acceptance among the students. Pedagogically, it will not be a major shift from teaching 
 Python. But has an added advantage of student learning HTML, CSS, Flask along with Python. Teaching Python through web programming approach came from Rajat 
 Moona, the incumbent director of IIT Bhilai. Since the faculty at IIT Bhilai is young, they enthusiastically supported it.  
+
+[Back to Index](../index.md)
