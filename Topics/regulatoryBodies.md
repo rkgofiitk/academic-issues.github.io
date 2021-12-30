@@ -2,17 +2,14 @@
 
 India has many regulatory bodies for academic institutions. 
 
- 
 
-    -At the first level, there are university senates.
-    -Next comes university syndicates. 
-    -The state governor is the Chancellor and is a proxy for the state govt. 
-    -Then we have 14 councils of higher education, which includes bodies such as UGC, AICTE, MCI. 
+- At the first level, there are university senates.
+- Next comes university syndicates. 
+- The state governor is the Chancellor and is a proxy for the state govt. 
+- Then we have 14 councils of higher education, which includes bodies such as UGC, AICTE, MCI. 
 
- 
 
 All first-level bodies except for the Senates of some IITs, none of these have remained insulated from politics.
-
  
 
 A university senate body is typically composed of nominated members and elected members. Most of the universities have 50% of the members nominated by the 
