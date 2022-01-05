@@ -20,15 +20,21 @@ wanted Cray machines. I believe, they were apprehensive for two reasons:
   <li>They did not have faith on homegrown technology which ultimately relied on imported components, and</li>
   <li>They did not have any training on design of parallel algorithms or MPI</li>
   </ul> 
-Naturally, all the efforts of Atmanirvar Bharat quickly transformed to US nirvar Bharat. There were also outside experts from other highly acclaimed institutions
-of national importance, who favoured the thinking of agencies. On one occasion I was challenged for trained parallel programmer by one scientist of an agency. 
-I accepted his challenge and asked him to send his programmer for an upskill training. But he never sent any trainees to us. So, my participation to India's
-HPC-cum parallel computing ended prematurely. 
+Naturally, all the efforts of Atmanirvar Bharat quickly transformed to US nirvar Bharat. On one during the discussion, I was challenged by one senior 
+scientist belonging to an agency for taking responsibility of training of parallel programmers. I accepted his challenge and asked him to send 20 of his
+programmers for an upskilling in parallel program. But he never sent any trainees to us. So, my participation to India's HPC-cum parallel computing ended
+prematurely. 
 
-The art of programming and programming tools have undergone a sea of change from 1990s. Now even multicore laptops. Using AWS and Kubernets it is possible to
-acquire clusters programming on the cloud. Companies like Bodo (http://bodo.ai/) offers tools for automatic parallelization of Python programs. Bodo collobration
-with Xlinx brings simplicity of Python to large scale media processing. So with simplicity of native Python coding it provides a new approach to HPC style
-parallel programming. The idea ultimately leads us to having a bunch of intelligent people trained in classical programming skills. Graduates from a good school 
-could very easily fit into the job. Unfortunately, the training is lacking. A root cause analysis will point to the fact that the educators don't have the skill
-to train. A skilled person from an average school is mostly self taught. What are the options left? 
+The art of programming and programming tools have undergone a sea of change from 1990s. Most laptops have quad core processors. Amazon EKS (Elastic 
+Kubernetes Services) make it possible to acquire clusters on the cloud and deploy programs on them. Bodo (http://bodo.ai/) offers tools for automatic 
+parallelization of Python data analytics programs. Furthermore, in collobration with Xilinx (http:www.xilinx.com) Bodo brings simplicity of Python to 
+large scale media processing. Using native Python coding it provides a new approach to HPC style parallel programming. The idea ultimately leads to a 
+scenario where the requirement is for disciplined coder rather than higly skilled smart programmer. If a bunch of intelligent people trained in classical
+programming skills and tools can become as productive as expensive programmer. Any graduates from a good school could very easily fit into the job.
+Unfortunately, at most of the schools the training is poor. A root cause analysis will point to the fact that the educators don't have the required skill
+to impart the training. A skilled person from an average school is mostly self taught. What are the options left? An Economic Times report (https://economictimes.indiatimes.com/tech/information-tech/indian-it-firms-step-up-hiring-of-non-engineers-to-bridge-talent-shortfall/articleshow/87189175.cms) 
+says to bridge the talent gap Indian IT firms are hiring fresh non-engineering students. I believe it is a polite way of saying some engineering graduates 
+do not possess adequate skill. They also require retraining. Many head hunting firms also run finishing schools for upskilling engineering
+graduates. I am not sure if NASSCOM, AICTE, UGC, Ministry of Education and other regulatory bodies realize the problem of ill-trained Engineering graduates. 
+We have do have Teacher Training Institutes. However, I seriously doubt whether if they really have any contributory role to upskill the educators.
 
