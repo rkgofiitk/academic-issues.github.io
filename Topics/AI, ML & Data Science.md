@@ -1,5 +1,5 @@
-I have been trying gathering info about how many CS students are pursuing PhDs in ML, AI and Data Science at IISc and IITs?  It appears from a recent post
-on LinkedIn by Prof Smruti Sarangi of IIT Delhi that at least 80% are doing so. At one point of time most PhDs in Soft Computing were from ISI Kolkata.  
+I have been trying gathering info about how many CS students are pursuing PhDs in ML, AI and Data Science at IISc and IITs?  It appears from a [recent post
+on LinkedIn by Prof Smruti Sarangi](https://www.linkedin.com/posts/smruti-sarangi-1120286_how-a-false-love-for-aiml-is-destroying-ugcPost-6890555621486292992-Oc0r) of IIT Delhi that at least 80% are doing so. At one point of time most PhDs in Soft Computing were from ISI Kolkata.  
 If I am not mistaken, very few ISI graduates feature in CS faculty at IITs or IISc. One my colleagues once remarked ISI Ph. Ds are good at research and publishing
 papers but are too unidimensional for engineering faculty material. I don't know if he will revise his opinion about the recent stream of Ph. Ds from IITs. 
 I fully concur with Prof Sarangi's observation that out of 500 odd candidates we have interviewed in various selection committees even 5% have basic 
