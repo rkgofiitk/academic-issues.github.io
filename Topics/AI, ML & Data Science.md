@@ -16,8 +16,27 @@ stasticians". Some comments on Prof Sarangi's post may be valid on surface. One 
 entertainment business) comments that AI and ML provide higher order of abstractions which can aid in more complex problem solving. He cites the complexity of
 ray tracing in discovering gaming alternatives which AI easily do. He also goes on to say that mechaninical engieers, biologists need not understand intricacies 
 of neural networks to solve their problems. But the question that remains is how does the mechnical engineer or the biologist even know that the problem is solved
-correctly? If none of them are trained in their core competence then the ability to even judge a solution would not exist. Possibly, no one has been able to
-get to the bottom of the main theme of Prof Sarangi's post except for a few. It is high time we wake up to the divastation that AI and ML can do to core 
+correctly? If none of them are trained in their core competence then the ability to even judge a solution would not exist. Some of software tools make people 
+dumb. MATLAB is one perfect example. Electrical engineers have reasons to use MATLAB, but network simulation Possibly, no one has been able to
+get to the bottom of the main theme of Prof Sarangi's post except for a few. He says that he has high regard for ML and AI techniques. He has used those for his
+research. It is not as if an ameture is out there to opine. I read the note on ["Reak Risk of AI"](https://cacm.acm.org/magazines/2017/10/221330-the-real-risks-
+of-artificial-intelligence/fulltext) by David L. Parans, Prof Emeritus of McMaster University. He says  
+that the research on AI relied more on intutition than disciplined approach of problem solving that is practiced in physics, mathematics or engineering. In 
+discipilined aproach, a problem is thoroughly analyzed, mathematics behnid the problem is unraveled completely, often hand simulated, and then proved 
+possibly through assertion-based model checkers. Though Prof Sarangi's post is a bit blunt to taste of AI and ML enthusiast, David Pranas puts the same thing 
+in should I say "higher order of abstractions". He states that there are three different ways of AI research:
+
+- Building programs that imitate human behavior in order to understand human thinking;
+- Building programs that play games well; and
+- Showing that practical computerized products can use the methods that humans use.
+
+The first one tries to model human brain where certain elements are unexplained (not understood) and dublicated as black box. He recognizes that "writing
+game-playing programs is harmless and builds capabilities". However, it may be dangerous if practical products apply human methods. The programs that imitating
+humans intuitions are not always the best way of problem solving with computers. 
+To explain my reservations about AI, this column discusses incidents from the early days of AI research. Though the stories are old, the lessons they teach us remain relevant today.
+    
+The first 
+em high time we wake up to the divastation that AI and ML can do to core 
 engineering disciplines.  
 
 It is unfortunate craze promoted by industry honcos to create fissures in foundations of engineering education. I am not sure if industries are only driven by 
