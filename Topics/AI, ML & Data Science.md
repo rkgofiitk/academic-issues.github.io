@@ -17,52 +17,58 @@ the panel member from IITB told me that he knew that the lady panelist would be 
 Forget network, database, computer architecture, compilers or OS, the candidates don't even have good background on fundamentals like DS, 
 Algorithms, and Discrete Structures.
 
-I will add Data Science to ML and AI craze.  Data scientists are "Stasticians masquareding as computer programmers" or "Programmers masquerading as 
-stasticians". However, I believe some of the readers' reactions to Prof Sarangi's post may be valid on surface. One guy from some industry (possibly 
+I will add Data Science to ML-AI craze.  Data scientists are "Stasticians masquareding as computer programmers" or "Programmers masquerading as 
+stasticians". However, I believe some of the readers' reactions to Prof Sarangi's post may be valid on the surface. One guy from some industry (possibly 
 from gaming and entertainment business) comments that AI and ML provide higher order of abstractions which can aid in more complex problem solving. He 
-cites the complexity of ray tracing in discovering gaming alternatives which AI easily do. He also goes on to say that mechaninical engieers, biologists 
-need not understand intricacies of neural networks to solve their problems. But the question that remains unanswered is: 
+cites the complexity of ray tracing in discovering gaming alternatives which AI can easily do. He also goes on to say that mechaninical engieers, 
+biologists need not understand intricacies of neural networks to solve their problems. But the question that remains unanswered is: 
+
 - How does the mechnical engineer or the biologist even know that the solution is correct? 
 
-If none of them are trained in their core competence then they will also lack the ability to even judge a solution. Some of software tools make 
-people dumb. MATLAB is one perfect example. Electrical engineers have reasons to use MATLAB, power and controls engineers use MATLAB a lot. But a 
-solid understanding of the core is required to use the toll intelligently.  Possibly, those who have a different point of view have not been able to
-get to the bottom of the main theme of Prof Sarangi's post. He is no ameture in the area. He does have a high regard for ML and AI techniques. 
+If none of them are trained in their core competence then they will also lack the ability to even judge a solution. So the real risk of AI is not 
+in super intelligent machnines controling humans but in machine that are not smart enough to perform the tasks that humans give them.
+The other side of spectrum is humans turn dumb when they think some software tools could make smarter decision on their behalf.  
+MATLAB is one such example. Electrical engineers have reasons to use MATLAB. Power and controls engineers use MATLAB a lot. But a 
+solid understanding of the core is required to use the tools intelligently.  Possibly, those who have a different point of view have not been able to
+get to the bottom of the main theme of Prof Sarangi's post. He is no ameture in the area of AI-ML. He does have a high regard for ML and AI techniques. 
 Like him, many other researchers also use AI and techniques based on heuristics and learning for their research. 
 
 David L. Parans, Prof Emeritus of McMaster University published a note on 
 ["Real Risk of AI"](https://cacm.acm.org/magazines/2017/10/221330-the-real-risks-of-artificial-intelligence/fulltext). He had early training in AI as a
-student where his teachers were pioneers in the field of AI research. He says that AI relied more on intutitions than disciplined approach to problem 
-solving that is practiced in physics, mathematics or engineering. In a discipilined aproach, a problem is thoroughly analyzed, mathematics behnid 
-the problem is unraveled completely, often hand simulated, and then often proved using assertion-based model checkers. He goes on to say that "CMU 
-Professors were clever but had cavalier attitude" to 
-specfic questions and recommended the students to "try and fix it". Therefore, the foundation of AI research is based on mimicking human intuition and
-ptoblem solving through heuritics. However, heuristics works if it is used to select one from possible alternatives or to determine presentation
-order. It is typically used for speeding up the solution in search and prune kind of scenarios. In other situation heuristics are untrustworthy.
-Though Prof Sarangi's post is a bit blunt to taste of AI 
+student from Professor who were pioneers in the field of AI research. He says that AI relied more on intutitions than disciplined approach to problem 
+solving that is practiced in physics, mathematics or engineering. In a discipilined aproach, a problem is thoroughly analyzed, mathematics and physics
+behnid the problem is unraveled, the solutions are often hand simulated, and furthermore assertion-based model checkers are used for verification. 
+He goes on to say that his Professors at CMU were "clever but had cavalier attitude" to 
+specfic questions and recommended the students to "try and fix it". The foundation of AI research is based on mimicking human intuition and
+ptoblem solving through heuritics. However, a heuristics works if it is used to select one from possible alternatives or to determine presentation
+order. More frequently heuristics are used for speeding up the searching of solution space applying intelligent prunning and feasibility measures. 
+In other situation heuristics are untrustworthy. Though Prof Sarangi's post is a bit blunt to taste of AI 
 and ML enthusiast, David Pranas puts the same thing using "higher order of abstractions". He states that there are three different ways of AI 
 research:
 
 - Building programs that imitate human behavior in order to understand human thinking;
 - Building programs that play games well; and
 - Showing that practical computerized products can use the methods that humans use.
-
-The first one tries to model human brain where certain elements are unexplained (not understood) and dublicated as black box. He recognizes that 
+ 
+The first one tries to model human brain where certain elements are unexplained (not understood) and dublicated as black boxes. He recognizes that 
 "writing game-playing programs is harmless and builds capabilities". However, it may be dangerous if practical products mimics human methods. He cites
 the example of Captch based recognitions work because the character recoginition has not be solved prorammatically. The 
-programs that imitating humans intuitions are not always the best way of problem solving with computers. 
-He concludes that his impressions about AI techniques are old, the lessons they taught him remain relevant today. 
+programs that imitating humans intuitions are not always the best way of problem solving with computers. In fact imitating human intuition could make
+programs untrustworthy and dangerous. He gives a set of examples to conclude that his impressions about AI techniques are old, however, the lessons they 
+taught him remain relevant even today. 
     
-One may ask: how it has destoyed engineering education in general and CSE in particular? The problem lies in how the lessions are conducted by the
-faculty. If they have not written much of code themselves, their expectation from the students would be low. In fact, many faculty members who
+One may ask: how it has destoyed engineering education in general and CSE in particular? The problem lies in how the lessions are conducted. If teachers
+have not written much of code themselves, their expectation from the students would be low. In fact, many faculty members who
 teach Data Structure course rely on teaching theory and complexity analysis and do not give programming assignments. The other problem in checking
-programming assignment is rampant copies from Internet sources. I used moss to check copies, and found about 30-35% students indulge in copying. 
-It becomes a serious human problem to deal with the copies. Most students deny their roles in copying or assisting friends to copy. Sometimes, the 
-problem goes down to acute interpersonal bickerings. Quite obviously, no one likes to be a part of it. 
-About twenty five 
-years back, we used to give rigorous programming practice to the undergraduate students. An average UG students may write about 25-30K lines of C code 
+programming assignment is an ardous task. Rampant copies from Internet sources make assignment useless. I used moss to check copies, and found about 
+30-35% students indulge in copying. It becomes a serious problem to deal with the copies. Most students deny their involvement in copying or 
+assisting friends to copy. The explanations were crazy and outrightly false. Sometimes, the problem goes down to acute interpersonal bickerings among
+TAs and students. Quite obviously, no one likes to be a part of it. So, the alternative is not to bother about checking assignments.  
+
+Someone writes that an average CS UG students at IITs do write 50k lines of code before graduating out. Probably, he must be talking about the situation
+twenty five years back, when the Internet resources were not available that easily. We used to give rigorous programming practice to the undergraduate students. The class size used to be small. Any copy in assignments can be detected easily. An average UG students may write about 25-30K lines of C code 
 if not more. Most system courses like OS, Databases, Networks, Compilers would require each student to write in an average 10k lines of C code. 
-Even in Data Structures course one would typically do a project that often require 5-7k lines of code. It is not true these days. I remember
+Even in Data Structures course one would typically do a project that often required 5-7k lines of code. It is not true these days. I remember
 having spent two semesters at one of the older IITs where I taught Design of Algorithms in one semester. I asked the students to write programs for a 
 hypothetical coin game and test their strategies by conducting tournaments among the program creaters. We had a program to play out one student's 
 program against the other. The idea was to train the students in discovering better strategies in a competitive environment. The entire class 
@@ -73,10 +79,10 @@ check copying by downloading codes from Geeks for Geeks, Programiz, Rosetta, etc
 who submitted assigment copied. About 15% did not bother to submit assignments. They estimated the time to spend in coding can pay off better if
 they only work for their exams. I noticed a comment on Prof Sarangi's post that IIT graduates 25 years back used to write 50k lines of code in 
 an average. Someone else tells that it is stupid to ask a Ph. D. student how many lines of code he has written. I am not sure if many of these readers
-are in timewraps. Most of them are successful today because they received training 20-25 years back when the Internet resources were not available.
-One of the tricks that works is an element of surprise. We used whatsapp based exam for remote conduct of exam, because our protocol had full of
+are in timewraps. Most of them are successful today because they received training 20-25 years back. The only tricks that works today is an element of 
+surprise. For example, we used whatsapp based exam for remote conduct of exam. We created a protocol which had full of
 surprises for students in the beginning of COVID-19 lockdown. Now I understand, that students use two computers simultaneously to search for
-solution and one for sending solutions. Thinking and learning goes to the basics of the understanding. As Turing says machine cannot thing.
+solution and one for sending solutions. Thinking and learning goes to the basics of the understanding. 
 
-It is unfortunate craze promoted by industry honcos to create fissures in foundations of engineering education. I am not sure if industries are only driven by 
-short term gains or see AI, ML and Data Science can really propel industry 4.0.
+It is unfortunate craze promoted by industry honcos to create fissures in foundations of engineering education. I am not sure if industries are only 
+driven by short term gains or see AI, ML and Data Science can really propel industry 4.0.
