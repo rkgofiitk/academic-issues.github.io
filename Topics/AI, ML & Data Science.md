@@ -31,11 +31,15 @@ get to the bottom of the main theme of Prof Sarangi's post. He is no ameture in 
 Like him, many other researchers also use AI and techniques based on heuristics and learning for their research. 
 
 David L. Parans, Prof Emeritus of McMaster University published a note on 
-["Reak Risk of AI"](https://cacm.acm.org/magazines/2017/10/221330-the-real-risks-of-artificial-intelligence/fulltext). He had early training in AI
-at CMU. According to him  the research on AI relied more on intutitions than disciplined approach to problem solving that is practiced in physics,
-mathematics or engineering. In a discipilined aproach, a problem is thoroughly analyzed, mathematics behnid the problem is unraveled completely,
-often hand simulated, and then often proved using assertion-based model checkers. He goes on to say that "CMU Prof often has cavalier attitude" to 
-specfic questions and recommended students to "try and find out". Though Prof Sarangi's post is a bit blunt to taste of AI 
+["Real Risk of AI"](https://cacm.acm.org/magazines/2017/10/221330-the-real-risks-of-artificial-intelligence/fulltext). He had early training in AI as a
+student where his teachers were pioneers in the field of AI research. He says that AI relied more on intutitions than disciplined approach to problem 
+solving that is practiced in physics, mathematics or engineering. In a discipilined aproach, a problem is thoroughly analyzed, mathematics behnid 
+the problem is unraveled completely, often hand simulated, and then often proved using assertion-based model checkers. He goes on to say that "CMU 
+Professors were clever but had cavalier attitude" to 
+specfic questions and recommended the students to "try and fix it". Therefore, the foundation of AI research is based on mimicking human intuition and
+ptoblem solving through heuritics. However, heuristics works if it is used to select one from possible alternatives or to determine presentation
+order. It is typically used for speeding up the solution in search and prune kind of scenarios. In other situation heuristics are untrustworthy.
+Though Prof Sarangi's post is a bit blunt to taste of AI 
 and ML enthusiast, David Pranas puts the same thing using "higher order of abstractions". He states that there are three different ways of AI 
 research:
 
@@ -44,7 +48,8 @@ research:
 - Showing that practical computerized products can use the methods that humans use.
 
 The first one tries to model human brain where certain elements are unexplained (not understood) and dublicated as black box. He recognizes that 
-"writing game-playing programs is harmless and builds capabilities". However, it may be dangerous if practical products mimics human methods. The 
+"writing game-playing programs is harmless and builds capabilities". However, it may be dangerous if practical products mimics human methods. He cites
+the example of Captch based recognitions work because the character recoginition has not be solved prorammatically. The 
 programs that imitating humans intuitions are not always the best way of problem solving with computers. 
 He concludes that his impressions about AI techniques are old, the lessons they taught him remain relevant today. 
     
