@@ -1,43 +1,69 @@
-I have been trying gathering info about how many CS students are pursuing PhDs in ML, AI and Data Science at IISc and IITs?  It appears from a [recent post
-on LinkedIn by Prof Smruti Sarangi](https://www.linkedin.com/posts/smruti-sarangi-1120286_how-a-false-love-for-aiml-is-destroying-ugcPost-6890555621486292992-Oc0r) of IIT Delhi that at least 80% are doing so. At one point of time most PhDs in Soft Computing were from ISI Kolkata.  
-If I am not mistaken, very few ISI graduates feature in CS faculty at IITs or IISc. One my colleagues once remarked ISI Ph. Ds are good at research and publishing
-papers but are too unidimensional for engineering faculty material. I don't know if he will revise his opinion about the recent stream of Ph. Ds from IITs. 
-I fully concur with Prof Sarangi's observation that out of 500 odd candidates we have interviewed in various selection committees even 5% have basic 
-understanding of programming. In fact, it reminds of a selection committee where one professor from a reputed cental institute dared to ask the student to write
-print hello program in C. I was ashtonished and asked her in inaudible voice: "Are you serious?". She was very confident, and replied back in equally inaudible
-voice: "Just wait and see".  One other independent panel member (I believe a Prof in mechanincal engieering from IITB) was curiously witnessing our exchanges.
-The candidate did not have any clue of C programming though he claimed to have written programs in C for his dissertation. After the candidate went out, the panel 
-member from IITB told me that he knew that the lady panelist would be right. Now it seems IITs and IISc have joined the stream. As Prof Sarangi says it probably
-signals the end of innovations that the CS graduates were spearheading in India until now.  
+I have been trying gathering information about ML, AI research in India, especially at IITs and IISc. It appears from a 
+[recent post on LinkedIn by Prof Smruti Sarangi](https://www.linkedin.com/posts/smruti-sarangi-1120286_how-a-false-love-for-aiml-is-destroying-ugcPost-6890555621486292992-Oc0r) 
+that at least 80% of current Ph. D. aspirants are pursuing research in ML, and AI. Until 2000, PhDs in Soft Computing were mostly from ISI Kolkata. I 
+believe ISI produced about 10-15 odd Ph. Ds every year around the time. IITs looked for people in core 
+areas of computer science. If I am not mistaken, very few softcomputing specialists feature in CS 
+faculty at IITs or IISc.  One of our senior colleagues once remarked that ISI Ph. Ds are good researchers and published a lot. However, their research
+is too unidimensional for a CS dept at IITs. I am not sure if he may want to revise his opinion about the recent stream of Ph. Ds from IITs with 80% are in ML, AI and Data Science. 
 
-Forget network, database, computer architecture, or OS, the candidates cannot even answer fundamentals like DS, Algorithms, and Discrete Structures. Data
-Science is another dampner. As one commented data scientists are "Stasticians masquareding as computer programmers" or "Programmers masquerading as 
-stasticians". Some comments on Prof Sarangi's post may be valid on surface. One guy from some industry (possibly quite excited about gaming and 
-entertainment business) comments that AI and ML provide higher order of abstractions which can aid in more complex problem solving. He cites the complexity of
-ray tracing in discovering gaming alternatives which AI easily do. He also goes on to say that mechaninical engieers, biologists need not understand intricacies 
-of neural networks to solve their problems. But the question that remains is how does the mechnical engineer or the biologist even know that the problem is solved
-correctly? If none of them are trained in their core competence then the ability to even judge a solution would not exist. Some of software tools make people 
-dumb. MATLAB is one perfect example. Electrical engineers have reasons to use MATLAB, but network simulation Possibly, no one has been able to
-get to the bottom of the main theme of Prof Sarangi's post except for a few. He says that he has high regard for ML and AI techniques. He has used those for his
-research. It is not as if an ameture is out there to opine. I read the note on ["Reak Risk of AI"](https://cacm.acm.org/magazines/2017/10/221330-the-real-risks-
-of-artificial-intelligence/fulltext) by David L. Parans, Prof Emeritus of McMaster University. He says  
-that the research on AI relied more on intutition than disciplined approach of problem solving that is practiced in physics, mathematics or engineering. In 
-discipilined aproach, a problem is thoroughly analyzed, mathematics behnid the problem is unraveled completely, often hand simulated, and then proved 
-possibly through assertion-based model checkers. Though Prof Sarangi's post is a bit blunt to taste of AI and ML enthusiast, David Pranas puts the same thing 
-in should I say "higher order of abstractions". He states that there are three different ways of AI research:
+I fully concur with Prof Sarangi's observations about the knowledge of candidates in the core areas of computer science and Engineering. Out of many 
+candidates I have interviewed in various selection committees not even 10% have basic understanding of programming and algorithms. In fact, In one of 
+the selection committees at a NIT, one of the panelists from dared to ask a candidate to write
+print hello program in C. I was ashtonished and asked the said panelist in inaudible voice: "Are you serious?". She was very confident, and replied back 
+in equally inaudible voice: "Just wait and see".  One other independent panel member (I believe a Prof in mechanincal engieering from IITB) was
+curiously watching our exchanges.
+The candidate did not have any clue of C programming though he claimed to have written programs in C for his dissertation. After the candidate went out, 
+the panel member from IITB told me that he knew that the lady panelist would be right. Now it seems IITs and IISc have joined the stream.  
+Forget network, database, computer architecture, compilers or OS, the candidates don't even have good background on fundamentals like DS, 
+Algorithms, and Discrete Structures.
+
+I will add Data Science to ML and AI craze.  Data scientists are "Stasticians masquareding as computer programmers" or "Programmers masquerading as 
+stasticians". However, I believe some of the readers' reactions to Prof Sarangi's post may be valid on surface. One guy from some industry (possibly 
+from gaming and entertainment business) comments that AI and ML provide higher order of abstractions which can aid in more complex problem solving. He 
+cites the complexity of ray tracing in discovering gaming alternatives which AI easily do. He also goes on to say that mechaninical engieers, biologists 
+need not understand intricacies of neural networks to solve their problems. But the question that remains unanswered is: 
+- How does the mechnical engineer or the biologist even know that the solution is correct? 
+
+If none of them are trained in their core competence then they will also lack the ability to even judge a solution. Some of software tools make 
+people dumb. MATLAB is one perfect example. Electrical engineers have reasons to use MATLAB, power and controls engineers use MATLAB a lot. But a 
+solid understanding of the core is required to use the toll intelligently.  Possibly, those who have a different point of view have not been able to
+get to the bottom of the main theme of Prof Sarangi's post. He is no ameture in the area. He does have a high regard for ML and AI techniques. 
+Like him, many other researchers also use AI and techniques based on heuristics and learning for their research. 
+
+David L. Parans, Prof Emeritus of McMaster University published a note on 
+["Reak Risk of AI"](https://cacm.acm.org/magazines/2017/10/221330-the-real-risks-of-artificial-intelligence/fulltext). He had early training in AI
+at CMU. According to him  the research on AI relied more on intutitions than disciplined approach to problem solving that is practiced in physics,
+mathematics or engineering. In a discipilined aproach, a problem is thoroughly analyzed, mathematics behnid the problem is unraveled completely,
+often hand simulated, and then often proved using assertion-based model checkers. He goes on to say that "CMU Prof often has cavalier attitude" to 
+specfic questions and recommended students to "try and find out". Though Prof Sarangi's post is a bit blunt to taste of AI 
+and ML enthusiast, David Pranas puts the same thing using "higher order of abstractions". He states that there are three different ways of AI 
+research:
 
 - Building programs that imitate human behavior in order to understand human thinking;
 - Building programs that play games well; and
 - Showing that practical computerized products can use the methods that humans use.
 
-The first one tries to model human brain where certain elements are unexplained (not understood) and dublicated as black box. He recognizes that "writing
-game-playing programs is harmless and builds capabilities". However, it may be dangerous if practical products apply human methods. The programs that imitating
-humans intuitions are not always the best way of problem solving with computers. 
-To explain my reservations about AI, this column discusses incidents from the early days of AI research. Though the stories are old, the lessons they teach us remain relevant today.
+The first one tries to model human brain where certain elements are unexplained (not understood) and dublicated as black box. He recognizes that 
+"writing game-playing programs is harmless and builds capabilities". However, it may be dangerous if practical products mimics human methods. The 
+programs that imitating humans intuitions are not always the best way of problem solving with computers. 
+He concludes that his impressions about AI techniques are old, the lessons they taught him remain relevant today. 
     
-The first 
-em high time we wake up to the divastation that AI and ML can do to core 
-engineering disciplines.  
+One may ask: how it has destoyed engineering education in general and CSE in particular? The problem lies in how the lessions are conducted by the
+faculty. If they have not written much of code themselves, their expectation from the students would be low. In fact, many faculty members who
+teach Data Structure course rely on teaching theory and complexity analysis and do not give programming assignments. The other problem in checking
+programming assignment is rampant copies from Internet sources. I used moss to check copies, and found about 30-35% students indulge in copying. 
+It becomes a serious human problem to deal with the copies. Most students deny their roles in copying or assisting friends to copy. Sometimes, the 
+problem goes down to acute interpersonal bickerings. Quite obviously, no one likes to be a part of it. 
+About twenty five 
+years back, we used to give rigorous programming practice to the undergraduate students. An average UG students may write about 25-30K lines of C code 
+if not more. Most system courses like OS, Databases, Networks, Compilers would require each student to write in an average 10k lines of C code. 
+Even in Data Structures course one would typically do a project that often require 5-7k lines of code. It is not true these days. I remember
+having spent two semesters at one of the older IITs where I taught Design of Algorithms in one semester. I asked the students to write programs for a 
+hypothetical coin game and test their strategies by conducting tournaments among the program creaters. We had a program to play out one student's 
+program against the other. The idea was to train the students in discovering better strategies in a competitive environment. The entire class 
+refused to take part in the tournament based assignment. Of course, one of the major argument was that it would vitiate the camadrie among batch mates.
+
+As the Internet resources became widely available, most students resorted to copy and paste kind 
 
 It is unfortunate craze promoted by industry honcos to create fissures in foundations of engineering education. I am not sure if industries are only driven by 
 short term gains or see AI, ML and Data Science can really propel industry 4.0.
