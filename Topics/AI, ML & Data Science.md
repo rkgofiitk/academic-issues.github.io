@@ -68,7 +68,15 @@ hypothetical coin game and test their strategies by conducting tournaments among
 program against the other. The idea was to train the students in discovering better strategies in a competitive environment. The entire class 
 refused to take part in the tournament based assignment. Of course, one of the major argument was that it would vitiate the camadrie among batch mates.
 
-As the Internet resources became widely available, most students resorted to copy and paste kind 
+As the Internet resources became widely available, most students resorted to copy and paste kind of approach to problem solving. I used MOSS to 
+check copying by downloading codes from Geeks for Geeks, Programiz, Rosetta, etc and including them as assignments. Invariably 30% of the student
+who submitted assigment copied. About 15% did not bother to submit assignments. They estimated the time to spend in coding can pay off better if
+they only work for their exams. I noticed a comment on Prof Sarangi's post that IIT graduates 25 years back used to write 50k lines of code in 
+an average. Someone else tells that it is stupid to ask a Ph. D. student how many lines of code he has written. I am not sure if many of these readers
+are in timewraps. Most of them are successful today because they received training 20-25 years back when the Internet resources were not available.
+One of the tricks that works is an element of surprise. We used whatsapp based exam for remote conduct of exam, because our protocol had full of
+surprises for students in the beginning of COVID-19 lockdown. Now I understand, that students use two computers simultaneously to search for
+solution and one for sending solutions. Thinking and learning goes to the basics of the understanding. As Turing says machine cannot thing.
 
 It is unfortunate craze promoted by industry honcos to create fissures in foundations of engineering education. I am not sure if industries are only driven by 
 short term gains or see AI, ML and Data Science can really propel industry 4.0.
