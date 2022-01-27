@@ -19,12 +19,13 @@ have cashed on
 it. BYJU'S reported turnover is about 2400cr in 2019-2020, up by 1300cr from 2018-2019. Now multinational companies like 21KSchool are also logging into
 the lucrative market with Indian collaborators. [India global business](https://www.indiaglobalbusiness.com/industry/education/why-indias-online-education-market-will-grow-10x-in-5-years) reports 
 that according to Bangaluru-based research firm RedSeer the eduTech market in India is poised to reach a staggering US$5 billion in 2025.
+
 JEE, GATE, and NEET examinations primarily drive the requirement for the Coaching segment. JEE (Joint Entrance for Engineering) is a common test for 
 admission to engineering across NIIT, IITs, IIESTs, and other CFTIs. GATE (Graduate Aptitude Test for Engineering) is initially designed for M. Tech 
-admissions to IITs and IISc. It soon became a standard even for recruitments graduate engineers in many Public and Private sectors companies. NEET (National 
-Eligibility cum Entrance Test)   for admission into Medical and Dental schools in India. One of my students is a founder of online coaching for GATE. They 
-employ an interesting business model to create content. They pay handsomely to students who can create technically vetted content for fundamental topics in 
-engineering subjects.  
+admissions to IITs and IISc. It soon became a standard even for recruitments graduate engineers in many Public and Private sectors companies. NEET 
+(National Eligibility cum Entrance Test)   for admission into Medical and Dental schools in India. One of my students is a founder of online coaching for 
+GATE. They employ an interesting business model to create content. They pay handsomely to students who can create technically vetted content for 
+fundamental topics in engineering subjects.  
 
 However, the third segment is a bit disorganized. Its focus is on acquiring the skill to become a software developer. While tips and toy development 
 scenarios can be very helpful, they are not entirely sufficient to become productive even after going through the certification regimen. Therefore, many 
