@@ -16,7 +16,7 @@ upskilling in the three segments mentioned above.
 The requirement in the K12 segment is quite apparent. By and large, it is believed that a foundation for higher education begins with middle and
 high education. So most parents would happily invest in skill developments of their wards for K12 education. Some early startups like BAYJU'S
 have cashed on 
-it. BYJU'S reported turnover is about 2400cr in 2019-2020, up by 1300crs from 2018-2019. Now multinational companies like 21KSchool are also logging into
+it. BYJU'S reported turnover is about 2400cr in 2019-2020, up by 1300cr from 2018-2019. Now multinational companies like 21KSchool are also logging into
 the lucrative market with Indian collaborators. [India global business](https://www.indiaglobalbusiness.com/industry/education/why-indias-online-education-market-will-grow-10x-in-5-years) reports 
 that according to Bangaluru-based research firm RedSeer the eduTech market in India is poised to reach a staggering US$5 billion in 2025.
 JEE, GATE, and NEET examinations primarily drive the requirement for the Coaching segment. JEE (Joint Entrance for Engineering) is a common test for 
