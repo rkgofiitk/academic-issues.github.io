@@ -1,7 +1,7 @@
 ## AI, ML and Data Science
 
-I have been trying to gather information about ML, AI research in India, especially at IITs and IISc. From a recent post on LinkedIn by Prof Smruti 
-Sarangi, it appears that at least 80% of current Ph. D. aspirants are pursuing research in ML and AI. Until 2000, PhDs in Soft Computing were mostly from 
+I have been trying to gather information about ML, AI research in India, especially at IITs and IISc. From a [recent post on LinkedIn by Prof Smruti 
+Sarangi](https://www.linkedin.com/posts/smruti-sarangi-1120286_how-a-false-love-for-aiml-is-destroying-ugcPost-6890555621486292992-Oc0r), it appears that at least 80% of current Ph. D. aspirants are pursuing research in ML and AI. Until 2000, PhDs in Soft Computing were mostly from 
 ISI Kolkata. I believe ISI at that time may have produced about 3-5 Ph Ds in CS per year. All five older IITs looked for faculty candidates in core areas 
 of computer science. If I am not mistaken, very few soft computing specialists feature CS faculty at IITs or IISc. One of our senior colleagues once 
 remarked that ISI Ph. Ds are good researchers and published a lot. However, their research is too unidimensional for a CS dept at IITs. I am not sure if he 
@@ -27,7 +27,7 @@ If none of them are trained in their core competence, they will also lack the ab
 
 MATLAB is one such example. Power and controls engineers use MATLAB a lot. But a solid understanding of the core is required to use the tools intelligently. Possibly, those who have a different point of view have not been able to get to the bottom of the central theme of Prof Sarangi's post. He is no ameture in the area of AI-ML. He does have high regard for ML and AI techniques. Like him, many other researchers also use AI and techniques based on heuristics and learning for their research.
 
-David L. Parans, Prof Emeritus of McMaster University, published a note on "Real Risk of AI". He had early training in AI as a student from Professors who 
+David L. Parans, Prof Emeritus of McMaster University, published a note on ["Real Risk of AI"](https://cacm.acm.org/magazines/2017/10/221330-the-real-risks-of-artificial-intelligence/fulltext). He had early training in AI as a student from Professors who 
 were pioneers in AI research. He says that AI relied more on intuitions than a disciplined approach to physics, mathematics, or engineering problem-
 solving. In a disciplined approach, a problem is thoroughly analyzed, mathematics and physics behind the problem is unraveled, the solutions are often hand 
 simulated and verified using assertion-based model checkers. He says that his Professors at CMU were "clever but had the cavalier attitude" to specific 
