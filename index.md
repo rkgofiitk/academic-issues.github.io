@@ -10,7 +10,7 @@ time govt comes up with an intervention to course correct the educators to suppo
 certain policies from a neutral viewpoint.
 
 ### Blog Links
-
+- [Upskilling Engineering Education](Topics/finishingSchool.md)
 - [AI-ML and Data Science](Topics/AI-ML-DataScience.md)
 - [CAG report on performance of 2nd Generation IITs](Topics/CAG-report.md)
 - [Academic Regulatory Bodies in India](Topics/regulatoryBodies.md)
