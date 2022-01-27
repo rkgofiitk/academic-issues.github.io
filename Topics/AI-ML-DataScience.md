@@ -74,8 +74,8 @@ worked for their exams.
 
 Someone else comments that asking a Ph. D. student how many lines of code he has written is stupid. He is successful today because he 
 received training 20-25 years back. He should perhaps go to the bottom of the candidate's background and the dilution in standards for Ph. Ds at 
-different institutions. At least I know CSE of one older IIT where the comprehensive test for registration to Ph. D has been done away. The requirement of
-coursework has been diluted. In their hurry to get the requisite number of Ph.D guidances, the supervisor doesn't care much about the quality of the
+different institutions. At least I know CSE of one older IIT where the comprehensive test for registration to Ph. D has been done away. The requirement of 
+coursework has been diluted. In their hurry to get the requisite number of Ph.D guidances, the supervisors don't care much about the quality of the
 output. Thinking, learning and slugging are keys to knowledge and understanding. These are sadly missing, and no one cares. The current craze for ML-AI
 has further diluted the standards of UG education. 
 
