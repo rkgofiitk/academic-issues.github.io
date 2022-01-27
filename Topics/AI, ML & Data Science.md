@@ -1,3 +1,5 @@
+## AI, ML and Data Science
+
 I have been trying to gather information about ML, AI research in India, especially at IITs and IISc. From a recent post on LinkedIn by Prof Smruti 
 Sarangi, it appears that at least 80% of current Ph. D. aspirants are pursuing research in ML and AI. Until 2000, PhDs in Soft Computing were mostly from 
 ISI Kolkata. I believe ISI at that time may have produced about 3-5 Ph Ds in CS per year. All five older IITs looked for faculty candidates in core areas 
