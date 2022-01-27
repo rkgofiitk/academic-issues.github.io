@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [AI-ML and Data Science](Topics/AI-ML-DataScience.md)
 - [CAG report on performance of 2nd Generation IITs](Topics/CAG-report.md)
 - [Academic Regulatory Bodies in India](Topics/regulatoryBodies.md)
 - [Insitute of Eminence](Topics/IoE.md)
