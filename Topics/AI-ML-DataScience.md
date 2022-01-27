@@ -80,4 +80,4 @@ output. Thinking, learning and slugging are keys to knowledge and understanding.
 has further diluted the standards of UG education. 
 
 It is an unfortunate craze promoted by industry honchos to create fissures in the foundations of engineering education. I am not sure if short-term gains 
-or AI only drives industries; ML and Data Science can propel industry 4.0.
+or AI, ML and Data Science without support of core technologies can drive and propel industry 4.0.
