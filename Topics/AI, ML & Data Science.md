@@ -48,7 +48,8 @@ conclude that his impressions about AI techniques are old; however, the lessons 
 One may ask: how has it destroyed engineering education in general and CSE in particular? The problem lies in how the lessons are conducted. If teachers 
 have not written much of the code themselves, their  expectations from the students would also be low. Many faculty members who teach Data Structure 
 courses rely on theory and complexity analysis and do not give programming assignments. The other problem in checking programming assignments is an arduous 
-task. Rampant copies from Internet sources make assignments useless. I used MOSS code checker and found that about 30-35% of students indulge in copying. 
+task. Rampant copies from Internet sources make assignments useless. I used [MOSS code checker](https://theory.stanford.edu/~aiken/moss/) and 
+found that about 30-35% of students indulge in copying. 
 It becomes a serious problem to deal with the copies. Most students deny their involvement in copying or assisting friends to copy. The explanations were 
 as crazy as that guy was sitting behind me and memorized the entire code of 200 lines. Sometimes, the problem goes down to acute interpersonal bickerings 
 among TAs and students. Quite obviously, no one likes to be a part of it. So, the alternative is not to bother about checking assignments.
