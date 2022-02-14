@@ -70,9 +70,9 @@ one of the older IITs where I taught Design of Algorithms in one semester. I ask
 their strategies by conducting tournaments among the program creators. We had a program to play out one student's program against the other. The idea was 
 to train the students in discovering better strategies in a competitive environment. The entire class refused to take part in the tournament-based 
 assignment. One of the primary arguments was that it would vitiate the camaraderie among the batch mates.
-As Internet resources became widely available, most students resorted to copying and pasting approaches to problem-solving. They optimize efforts to spend 
-more time for better pay off in the exams. The exams account for major part of the credit requirement of a course. We don't have ways and means to 
-to create a better framework for evaluation. The system of higher education requires a kind of overhaul for which the country is unprepared at the moment.
+As Internet resources became widely available, most students resorted to copying and pasting approaches to problem-solving. They optimize their efforts to spend 
+more time for better pay offs in the exams. The exams account for major part of the credit requirements of a course. The system of higher education requires a 
+kind of overhaul for which the country is unprepared at the moment.
 
 Someone else comments that asking a Ph. D. student how many lines of code he has written is stupid. He is successful today because he 
 received training 20-25 years back. He should perhaps go to the bottom of the candidate's background and the dilution in standards for Ph. Ds at 
