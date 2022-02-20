@@ -1,7 +1,13 @@
 ## Story telling, History, Literature and Learning
 
-Learning is a continuous process but maturity is slow. The handshaking between the two needs a bit of external staging. I
-remember a lot of story telling by our primary and middle school teachers. Unfortunately, we did not understand its effectiveness
+Learning is a continuous process but maturity is slow. The handshaking between the two needs a bit of external staging. It is 
+made possible through the system of school and college syllabi and teachers. The choic of text books and the selection of 
+teachers are important cogs in wheel of building intellectual capital of a nation. The subjects we collectively
+refer to as Humanties and Social Sciences become critical. Humanities refers to subjects such as  history, geography, literature, 
+economics, political scinece, psychology, and philosphy. Sometimes gender studies and human rights are also considered as
+parts of Humanities. However, I consider History and Literture most human centric subjects than others. 
+
+I remember a lot of story telling by our primary and middle school teachers. Unfortunately, we did not understand its effectiveness
 until it was too late. I believe most of our school teachers were themselves unaware of the fact that the story teling is anything
 other than babysitting. Most parents also think that way. Story telling mostly left to grand parents who I believe do willingly
 as they have no role in harnessing resources for a family after retirement. Panchatantra, Mahabharat and Ramyan were all time 
