@@ -1,4 +1,4 @@
-## Story telling, History, Literature and Learning
+## Storytelling, History, and Literature
 
 Learning is a continuous process, but maturity is slow. A bit of external staging is necessary for the handshaking between the two. It is 
 made possible through the system of school and college syllabi and teachers. The choice of textbooks and the selection of 
