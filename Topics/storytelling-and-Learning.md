@@ -1,8 +1,8 @@
 ## Storytelling, History, and Literature
 
-Learning is a continuous process, but maturity is slow. A bit of external staging is necessary for the handshaking between the two. It is 
-made possible through the system of school and college syllabi and teachers. The choice of textbooks and the selection of 
-teachers are essential cogs in the wheel of building the intellectual capital of a nation. The subjects we collectively
+Learning is a continuous process, but maturity is slow. A bit of external staging is necessary for the handshaking between the two. 
+It is made possible through the system of school and college syllabi and teachers. The choice of textbooks and the selection of 
+teachers are essential cogs in the wheel to build the intellectual capital. The subjects we collectively
 refer to as Humanities and Social Sciences become critical. Humanities refer to history, geography, literature, 
 economics, political science, psychology, and philosophy. Sometimes gender studies and human rights are also considered as
 parts of Humanities. However, I feel that History and Literature are the most human-centric subjects than others. 
