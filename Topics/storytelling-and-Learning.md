@@ -58,7 +58,7 @@ tutorial. The lecturer went through my answer, but she could not believe I had w
 furious that I was trying to convince her that I had written it. That was the last time I had sincerely written a precis. 
 I did not prepare for the English comprehension test for the university exam and just scraped through.
 
-The History o India by far is a subject with the most politicized content. Dishonest writers designed the contents to influence the
+The History of modern India by far is a subject with the most politicized content. Dishonest writers designed the contents to influence the
 students at an impressionable age as per the directions of the politicians. Fortunately, technical content 
 cannot be developed without mathematics. Therefore, neither the bureaucrats nor the politicians can influence content development.
 
