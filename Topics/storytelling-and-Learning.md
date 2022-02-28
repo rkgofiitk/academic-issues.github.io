@@ -12,7 +12,7 @@ until it was too late. I believe most of our school teachers were themselves una
 other than babysitting. Most parents also think that way. Grandparents willingly indulge in storytelling for their grandchildren. 
 Panchatantra, Mahabharata, and Ramayana were all-time 
 favorites with the children. Many writers have tried retelling of Ramayana from modern perspectives. However, I don't believe any of those
-can connect to children's imagination as the original Ramayana tales. It is a complete package which tells about respecting Wisemen (rishis),
+could connect to children's imagination as the original Ramayana tales did. It is a complete package which tells about respecting Wisemen (rishis),
 preserving flora and fauna (forest and animals) by destroying evils (poachers as asuras). I tried to narrate a couple of small anecdotes
 from Ramayan to my daughter when she was a toddler. I liberally used wireless communication, remote access, tele-transmission, and laser-guided missiles in narrations. Though she liked the stories initially but quickly lost interest. It may be partly because my way of
 storytelling was boring or because the prominence of modern gadgets made the story weaker. R. K. Narayan's book on Ramayana mentions the 
