@@ -11,7 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
-- [Storytelling, History and Literature](Topics/storytelling-and-learning.md)
+- [Storytelling, History and Literature](Topics/storytelling-and-Learning.md)
 - [Upskilling Engineering Graduates](Topics/finishingSchool.md)
 - [AI-ML and Data Science](Topics/AI-ML-DataScience.md)
 - [CAG report on performance of 2nd Generation IITs](Topics/CAG-report.md)
