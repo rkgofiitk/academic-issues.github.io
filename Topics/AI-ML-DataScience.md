@@ -84,3 +84,5 @@ The current craze for ML-AI has further diluted the standards of UG education.
 It is an unfortunate craze promoted by the industry honchos to create fissures in the foundations of engineering education. I am not sure if industry honchos
 are only interested for short-term gains or really think that AI, ML, and Data Science can lead to the realization of industry 4.0 without core support of
 underlying technologies.
+
+[Back to Index](../index.md)
