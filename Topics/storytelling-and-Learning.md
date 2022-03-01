@@ -65,6 +65,7 @@ The History syllabi of schools in India by far is a subject with the most politi
 contents to influence the students at an impressionable age as per the directions of the politicians. Fortunately, technical content 
 cannot be developed without mathematics. Therefore, neither the bureaucrats nor the politicians can influence content development.
 
+PS: Incidentally, the surname our high school history teacher is Bose. 
 
-
+[Back to Index](../index.md)
 
