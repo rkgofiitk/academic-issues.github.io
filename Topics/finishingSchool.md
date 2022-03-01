@@ -36,3 +36,5 @@ except for a few IITs, NIITs, and IISc. The demand for DevOp jobs is much more t
 education across India. I believe institutions offering UG or PG degrees should either shut down or shape up to the market requirements. Instead of 
 employing babysitters for the class, they must hire technically competent teachers and offer them competitive salaries. It will also save them from
 the embarrassment of closure. The AICTE, as a watchdog of technical education, has not been doing what it should have done.   
+
+[Back to Index](../index.md)
