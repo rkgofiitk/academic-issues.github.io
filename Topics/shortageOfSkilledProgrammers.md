@@ -38,3 +38,4 @@ do not possess adequate skill. They also require retraining. Many head hunting f
 graduates. I am not sure if NASSCOM, AICTE, UGC, Ministry of Education and other regulatory bodies realize the problem of ill-trained Engineering graduates. 
 We have do have Teacher Training Institutes. However, I seriously doubt whether if they really have any contributory role to upskill the educators.
 
+[Back to Index](../index.md)
