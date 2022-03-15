@@ -49,9 +49,9 @@ did ot did is silent say
 something on Ukraine Russia conflict?" I don't understand if an average person has anything to do with Ukraine war execept being
 harassed due to price inflation. The rampant use of greetings like good morning, good evening, or even "international day of morons" 
 makes me wonder if the God has suddenly decided to make everyone happy, and the world has become flat. Yet hatred, spewing
-venom on tweeter becomes essential. I guess some "influencers" get paid by groups in look out for trouble. The businesss of
-dirts and gossip is just mind bugling. Only one thing that appears in my mind is how much of digital flith actually sell. 
-Unmindful of personal privacy people ogle at digital filth and actively participate in make the flith more and more stinking. 
+venom on tweeter becomes essential. I guess some "influencers" get paid by the groups in look out for trouble. The businesss of
+dirts and gossip is just mind bugling. Only one thing that comes to my mind that "digital flith actually sells." 
+Unmindful of personal privacy people ogle at the digital filth and actively participate to make the flith stink more. 
 In they expose themselves to privacy invasion. Profling becomes simple due to digital foot prints. AI, ML and Data Science 
 gain importance over foundational technologies.
 
