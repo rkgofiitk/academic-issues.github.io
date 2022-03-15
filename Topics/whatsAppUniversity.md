@@ -38,9 +38,10 @@ However, the most irritations come in the form of trolls and unsolicited knowled
 systems. I keep getting rehashed and recirculated whatsApp media files every alternate days. I don't know if whatsApp has a
 spam filter or how to turn it on. It is a high time that instant messaging app developers should provide easy ways to 
 kill spams. Trolls are big nuisance. A troll can make an average person break within 
-a couple of minutes. Usually the unconnected trollers gang together without any reason. Sometime, people who don't have 
-anything to do with the issue start commenting. I have to subscribe to a large whatsApp group where 
-people seem to have a view on every damn thing from Kashmir to Gujrat, from toothbrush to broom, from Buddha to Confucius, 
+a couple of minutes. Usually the unconnected trollers find it tempting to gang together without any reason. It confirms the 
+herd mentality of Animal Firm. Sometime, people who don't have 
+anything to do with the issue but start commenting. I have to subscribe to a large whatsApp group where 
+people seem to have a view on every damn thing from  from toothbrush to broom, Kashmir to Gujrat, from Buddha to Confucius, 
 from Chanakya to Machiaevelli. I fondly call them WIU Profs (WhatsApp International University Professors). But honestly, from the
 quality of posts it does not show that the academic excellence of the nation has increased one bit. Rather the profanity in
 public discourse has deteroriated. You may get a 100 messages if you ever say anything like why "PM Modi is silent or said
