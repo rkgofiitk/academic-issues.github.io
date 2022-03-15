@@ -34,7 +34,7 @@ live incommunicado mode to escape the nuisance of disruptive intervention in per
 solving the privacy problems. The blocker apps create database of cell numbers and market them with impunity to advertising firms.
 The nexus is frightening. 
 
-However, the most irritation comes in the form of trolls and unsolicited knowlede dissemination through Instant messageing
+However, the most irritations come in the form of trolls and unsolicited knowlede dissemination through Instant messageing
 systems. I keep getting rehashed and recirculated whatsApp media files every alternate days. I don't know if whatsApp has a
 spam filter or how to turn it on. It is a high time that instant messaging app developers should provide easy ways to 
 kill spams. Trolls are big nuisance. A troll can make an average person break within 
