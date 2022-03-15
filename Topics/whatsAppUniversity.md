@@ -6,38 +6,49 @@ system we are familiar with are Facebook, LinkedIn, Youtube, and WeChat. Telegra
 messing system. Both communication technologies are excellent innovation to bring world closer. However, the flip side of the 
 such disruptive communication has overburdened already stressed lives of ordinary people while app creators are having roaring
 business along with network service providers. Meta, Google and Microsoft have already started controlling the govt policies 
-world wide. In communication space Ukrain seems to be winning over Russia in the ongoing conflict. Meta has changed its message
-posting policies to allow for abuse of Russian Political Dispensation. However, this post is not about Ukrain and Russia conflict. 
+world wide. In communication space Ukraine seems to be winning over Russia in the ongoing conflict. Meta has changed its message
+posting policies to allow for abuse of Russian Political Dispensation. However, this post is not about Ukraine and Russia conflict. 
 The purpose of the post is to evolve a discussion on etiquettes of using disruptive communication.
 
-I remember when Arnab Goswami transformed the Times Now TV news, his sole aim was to bring a disruption in the news transmission.
-Mr Goswami became instant betenoir for the people holding leftist views, but TRP of Times Now increased tremendously. Finally
-Mr. Goswami was kicked out of Times Now and Republic TV came into existence. The diruptive new transmission is yet another 
-example of distruptive communication. Again my intension is not to go into disruptive interventions in the TV news anchoring. 
-However, the point is that the disruptive intervenions created a chasm among people in both sides of center. People including 
-the political parties and groups either developed strong likes or strong dislikes but they could not ignore Mr. Goswami.
+I remember when disruptive intervention of Arnab Goswami transformed the Times Now TV news. His only motivation was to bring a
+change TV transmission of news from passive electronic medium like the Radio or Akashvani.
+Mr Goswami became instant bete noire for all news anchors and the people holding leftist views, but TRP of Times Now increased 
+tremendously. Mr. Goswami was eventually kicked out of Times Now and Republic TV came into existence. The diruptive news 
+transmission is another example of distruptive communication. My intension is not to go into disruptive interventions in the TV
+news anchoring. 
+The point I want to make is that the disruptive intervenions created a chasm among people in both sides of center. The free
+use of profanities jolted people. But eventually all including seasoned political commentators, 
+the political parties and groups either developed strong likes or strong dislikes but they could not ignore Mr. Goswami while
+he went on meerily creating his TRP and establishing Republic TV. 
 
-Having pointed out the importance of disruptive communication, let us focus on whatsApp or other instant messaging app. World
-over have been dragged into disruptive communication system due to cell phones and Instant messaging apps. There are two sides
-of the tale. The brighter side is communication have become easy for self employed workforce such as a carpenter, plumber, 
-electricians, and small artisans. Business communication has turned instant. Consumers find it easy to communicate with service
-providers. However, large bussiness establishment use instant messaging to create disruptive intervention in personal privacies. 
-I keep getting robot calls during important meeting. It had forced me to leave the phone switched off. People have to turn 
-incommunicado mode to escape the nuisance of disruptive intervention in personal privacy. Blocking numbers does more harm to 
-privacy than it solving the problem. Blocker apps create database of cell numbers and market them to advertising firms. The
-nexus is frightening. 
+Having pointed out the importance of disruptive communication, let us focus on whatsApp or other instant messaging apps. World
+over have been dragged into disruptive communication system due to the end device called cell phones and numerous Instant 
+messaging apps. There are two sides of any tale. The brighter side is communication have become easy for self employed 
+workforce such as a carpenters, plumbers, 
+electricians, and small artisans. Business communication has turned instant for the aggregators firms. The consumers find
+it easy to communicate with service
+providers. However, large bussiness establishment soon learnt to use instant messaging to create disruptive intervention in 
+personal privacies. 
+I keep getting robot calls during important meetings. It had forced me to leave the phone switched off. People have to learn to 
+live incommunicado mode to escape the nuisance of disruptive intervention in personal privacy. Blocking numbers does more harm than 
+solving the privacy problems. The blocker apps create database of cell numbers and market them with impunity to advertising firms.
+The nexus is frightening. 
 
-However, the most irritation comes in the form of trolls and unsolicited knowlede dissemination. I keep getting rehashed or 
-recirculated whatsApp media files every alternate days. I don't know if whatsApp has a spam filter. It is a high time that 
-instant messaging app developers should provide one. Trolls are big nuisance. A troll can make an average person break within 
-a couple of hours. Usually trollers gang together without any reason. I have to subscribe to a large whatsApp group where 
-people seem to have a view on every damn thing from Kashmir to Gujrat, from toothbrush to broom, from Buddha to Confucious, 
-from Chanakya to Machievelle. I fondly call them WIU Profs (WhatsApp Internation University Professors). But honestly from the
-quality of posts it does not show that the academic excellence of the nation has increased a bit. Rather the profanity of 
-public discourse has deteroriated. You may get a 100 messages if you ever say anything like why PM Modi is silent or said
-something on Ukrain Russia conflict. The rampant use of greetings like good morning, good evening, this or that happy day 
-makes me wonder if the God has suddenly decided to make everyone happy. Only one thing that appears in my mind is how much of
-digital flith that the people world over have created. Profiling a person becomes easy if any data mining company looks 
-carefully into the profanity of whatsApp message.
+However, the most irritation comes in the form of trolls and unsolicited knowlede dissemination through Instant messageing
+systems. I keep getting rehashed and recirculated whatsApp media files every alternate days. I don't know if whatsApp has a
+spam filter or how to turn it on. It is a high time that instant messaging app developers should provide easy ways to 
+kill spams. Trolls are big nuisance. A troll can make an average person break within 
+a couple of minutes. Usually the unconnected trollers gang together without any reason. Sometime, people who don't have 
+anything to do with the issue start commenting. I have to subscribe to a large whatsApp group where 
+people seem to have a view on every damn thing from Kashmir to Gujrat, from toothbrush to broom, from Buddha to Confucius, 
+from Chanakya to Machiaevelli. I fondly call them WIU Profs (WhatsApp International University Professors). But honestly, from the
+quality of posts it does not show that the academic excellence of the nation has increased one bit. Rather the profanity in
+public discourse has deteroriated. You may get a 100 messages if you ever say anything like why "PM Modi is silent or said
+something on Ukraine Russia conflict". I don't understand if an average person has anything to do with Ukraine war execept being
+harassed due to price inflation. The rampant use of greetings like good morning, good evening, this or that happy day 
+makes me wonder if the God has suddenly decided to make everyone happy, and the world has become flat. Only one thing that 
+appears in my mind is how much of digital flith that the people world over have created. Profiling a person has become easy,
+AI, ML and Data Science gain importance over foundational technologies.
+
 
 
