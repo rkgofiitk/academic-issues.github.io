@@ -42,14 +42,18 @@ a couple of minutes. Usually the unconnected trollers find it tempting to gang t
 herd mentality of Animal Firm. Sometime, people who don't have 
 anything to do with the issue but start commenting. I have to subscribe to a large whatsApp group where 
 people seem to have a view on every damn thing from  from toothbrush to broom, Kashmir to Gujrat, from Buddha to Confucius, 
-from Chanakya to Machiaevelli. I fondly call them WIU Profs (WhatsApp International University Professors). But honestly, from the
+from Chanakya to Machiaevelli. I fondly call them Professors of IWU (International WhatsApp University). But honestly, from the
 quality of posts it does not show that the academic excellence of the nation has increased one bit. Rather the profanity in
-public discourse has deteroriated. You may get a 100 messages if you ever say anything like why "PM Modi is silent or said
-something on Ukraine Russia conflict". I don't understand if an average person has anything to do with Ukraine war execept being
-harassed due to price inflation. The rampant use of greetings like good morning, good evening, this or that happy day 
-makes me wonder if the God has suddenly decided to make everyone happy, and the world has become flat. Only one thing that 
-appears in my mind is how much of digital flith that the people world over have created. Profiling a person has become easy,
-AI, ML and Data Science gain importance over foundational technologies.
+public discourse has deteroriated. You may get a 1000 messages if you ever say anything like Why sky looks blue today? or "Why PM 
+did ot did is silent say 
+something on Ukraine Russia conflict?" I don't understand if an average person has anything to do with Ukraine war execept being
+harassed due to price inflation. The rampant use of greetings like good morning, good evening, or even "international day of morons" 
+makes me wonder if the God has suddenly decided to make everyone happy, and the world has become flat. Yet hatred, spewing
+venom on tweeter becomes essential. I guess some "influencers" get paid by groups in look out for trouble. The businesss of
+dirts and gossip is just mind bugling. Only one thing that appears in my mind is how much of digital flith actually sell. 
+Unmindful of personal privacy people ogle at digital filth and actively participate in make the flith more and more stinking. 
+In they expose themselves to privacy invasion. Profling becomes simple due to digital foot prints. AI, ML and Data Science 
+gain importance over foundational technologies.
 
 
 
