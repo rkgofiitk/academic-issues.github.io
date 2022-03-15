@@ -1,4 +1,4 @@
-## Distruptive Technologies
+## International WhatsApp University & Distruptive Intervention in Personal Privacy
 
 Disruptive communication technology is one that significantly alters the way of communication. In recent years we witnessed two 
 disruptive communication systems (i) social networking systems and (ii) Instant messaging systems. We are familiar with a few social 
