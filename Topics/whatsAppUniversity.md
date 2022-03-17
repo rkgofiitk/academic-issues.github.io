@@ -9,7 +9,7 @@ geographical boundaries. The flip side of such disruptive communication has over
 ordinary people while app creators, manintainers, promoters are have roaring business along with network service 
 providers. Meta, Google, and Microsoft have already started controlling the govt policies worldwide. 
 Ukraine seems to be winning over Russia in the ongoing conflict in the e-communication space. Meta has changed its
-message posting policies to allow for Russian political dispensation abuse. However, this post is not about Ukraine
+message posting policies to allow people to post abuses targeting Russian political dispensation and leaders. However, this post is not about Ukraine
 and Russia conflict. The purpose of the post is to let the readers think about the etiquettes of using disruptive 
 communication channels. I will draw some analogues from mass media mainly e-media. 
 
