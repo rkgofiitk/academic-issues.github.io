@@ -50,11 +50,15 @@ University). But honestly, the quality of posts does not show that the academic 
 Rather the use of profanities in public discourse has increased tremendously. You may get 1000 messages if you ever say anything like Why sky looks 
 blue today? or "Why PM did or did not say something on Ukraine Russia conflict?"
 
-I don't understand if an average person has anything to do with Ukraine war except being hassled by price inflation. The 
-rampant use of greetings like good morning, good evening, or even "international day of morons" makes me wonder if God has suddenly 
-decided to bestow everyone happy, and the world has become flat with happiness. Yet hatred, spewing venom on Twitter becomes essential. Some 
-"influencers" get paid by the groups seeking to create troubles. The business of dirt and gossip is just mind bugling. Only one 
-thing that comes to my mind is that "digital flith sells." Unmindful personal privacy, people ogle at the digital filth and actively 
+An average person may not have any understanding of Russia-Ukraine conflict except being hassled by the price
+inflation due disruption of fossil fuel. So, it does not make sense why an average person should target abuses to Putin or 
+Zelensky, or Biden or NATO. The flood od whatsApp messaging on the conflict is just irrelevant digital garbage. 
+
+The other notable whatsApp digitla flit is due to rampant use of greetings like good morning, good evening, or even
+"international day of morons" makes me wonder if God has suddenly decided to bestow everyone with happiness, and the
+world has become flat with happiness. Yet hatred, spewing venom on Twitter becomes essential. Some 
+"influencers" get paid by the groups seeking to create troubles. The business of dirt and gossip is just mind bugling. 
+Only one thing that comes to my mind is that "digital flith sells." Unmindful personal privacy, people ogle at the digital filth and actively 
 participate in making the flith stink more and more. In they expose themselves to privacy invasion. Profiling becomes simple due to digital 
 footprints. AI, ML, and Data Science gain importance over foundational technologies.
 
