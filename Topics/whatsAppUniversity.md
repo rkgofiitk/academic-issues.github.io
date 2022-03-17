@@ -56,3 +56,5 @@ decided to bestow everyone happy, and the world has become flat with happiness. 
 thing that comes to my mind is that "digital flith sells." Unmindful personal privacy, people ogle at the digital filth and actively 
 participate in making the flith stink more and more. In they expose themselves to privacy invasion. Profiling becomes simple due to digital 
 footprints. AI, ML, and Data Science gain importance over foundational technologies.
+
+[Back to Index](../index.md)
