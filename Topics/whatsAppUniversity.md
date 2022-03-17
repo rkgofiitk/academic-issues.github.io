@@ -22,7 +22,7 @@ communication. I do not intend to go into disruptive interventions in the TV new
 disruptive interventions created a chasm among people on both sides of the center. The free use of profanities jolted people. But 
 eventually, all seasoned political commentators, the political parties, and groups either developed strong likes or strong dislikes. 
 However, they could not ignore Mr. Goswami while he merrily created his TRP and established Republic TV. I have witnessed
-  increased use of profanities by the politicians and political commentators from the opposition. 
+  increased use of profanities by the politicians and the political commentators from the opposition. 
 
 Having pointed out the importance of disruptive communication, let us focus on Whatsapp or other instant messaging apps. World over 
 have been dragged into disruptive communication systems due to the end devices (cell phones) and numerous Instant messaging 
@@ -46,7 +46,7 @@ start commenting.
 I have to subscribe to a large WhatsApp group where people seem to have a view on every damn thing from toothbrush to broom, Kashmir 
 to Gujrat, from Buddha to Confucius, from Chanakya to Machiavelli. I fondly call them Professors of WIU (WhatsApp International 
 University). But honestly, the quality of posts does not show that the academic excellence of the nation has increased one bit. 
-Rather the profanity in public discourse has deteriorated. You may get 1000 messages if you ever say anything like Why sky looks 
+Rather the use of profanities in public discourse has increased tremendously. You may get 1000 messages if you ever say anything like Why sky looks 
 blue today? or "Why PM did or did not say something on Ukraine Russia conflict?"
 
 I don't understand if an average person has anything to do with Ukraine war except being hassled by price inflation. The 
