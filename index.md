@@ -11,6 +11,8 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [WhatsApp International University & Disruptive Communication](Topics/
+whatsAppUniversity.md)
 - [Storytelling, History and Literature](Topics/storytelling-and-Learning.md)
 - [Upskilling Engineering Graduates](Topics/finishingSchool.md)
 - [AI-ML and Data Science](Topics/AI-ML-DataScience.md)
