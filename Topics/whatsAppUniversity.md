@@ -51,7 +51,7 @@ blue today? or "Why PM did or did not say something on Ukraine Russia conflict?"
 
 I don't understand if an average person has anything to do with Ukraine war except being hassled by price inflation. The 
 rampant use of greetings like good morning, good evening, or even "international day of morons" makes me wonder if God has suddenly 
-decided to bestow everyone happy, and the world has become flat with happiness. Yet hatred, spewing venom on tweeter becomes essential. Some 
+decided to bestow everyone happy, and the world has become flat with happiness. Yet hatred, spewing venom on Twitter becomes essential. Some 
 "influencers" get paid by the groups seeking to create troubles. The business of dirt and gossip is just mind bugling. Only one 
 thing that comes to my mind is that "digital flith sells." Unmindful personal privacy, people ogle at the digital filth and actively 
 participate in making the flith stink more and more. In they expose themselves to privacy invasion. Profiling becomes simple due to digital 
