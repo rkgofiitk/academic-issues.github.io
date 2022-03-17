@@ -15,7 +15,7 @@ communication channels. I will draw some analogues from mass media mainly e-medi
 
 I remember when the disruptive intervention of Arnab Goswami transformed the Times Now TV news. His only motivation was 
 to create a niche for the news transmission on TV from a passive electronic medium like the Radio or Akashvani. Mr.
-Goswami became instant <i>bete noire</i? for all news anchors and the people holding leftist views, but TRP of Times Now 
+Goswami became instant <i>bete noire</i> for all news anchors and the people holding leftist views, but TRP of Times Now 
 increased tremendously. Mr. Goswami was eventually kicked out of Times Now, and Republic TV came into existence. The 
 disruptive news transmission is another example of disruptive 
 communication. I do not intend to go into disruptive interventions in the TV news anchoring. I want to make the point that the 
