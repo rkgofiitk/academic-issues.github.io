@@ -1,6 +1,6 @@
 ##  WhatsApp International University & Distruptive Intervention in Personal Space
 
-Disruptive communication technology significantly alters the way of communication. In recent years we witnessed two 
+Disruptive communication technology significantly alters the ways of communication and interaction among people. In recent years we witnessed two 
 types of disruptive communication systems (i) social networking systems and (ii) Instant messaging systems. Almost
 every reader of this blog must have an account in one social networking site or the other. Examples are Facebook, 
 LinkedIn, Youtube, and WeChat. Telegram, WhatsApp, Instagram are examples of Instant messing systems. Both 
