@@ -50,14 +50,14 @@ blue today? or "Why PM did or did not say something on Ukraine Russia conflict?"
 
 An average person may not have any understanding of Russia-Ukraine conflict except being hassled by the price
 inflation due disruption of fossil fuel. So, it does not make sense why an average person should target abuses to Putin or 
-Zelensky, or Biden or NATO. The flood od whatsApp messaging on the conflict is just irrelevant digital garbage. 
+Zelensky, or Biden or NATO. The flood of whatsApp messaging on the conflict is just irrelevant digital garbage. 
 
-The other notable whatsApp digitla flith is due to rampant use of greetings like good morning, good evening, or even
+The other notable whatsApp digital flith is due to rampant use of greetings like good morning, good evening, or even
 "international day of morons" makes me wonder if God has suddenly decided to bestow everyone with happiness, and the
 world has become flat with happiness. Yet hatred, spewing venom on Twitter becomes essential. Some 
-"influencers" get paid by the groups seeking to create troubles. The business of dirt and gossip is just mind bugling. 
-Only one thing that comes to my mind is that "digital flith sells." Unmindful personal privacy, people ogle at the digital filth and actively 
-participate in making the flith stink more and more. In they expose themselves to privacy invasion. Profiling becomes simple due to digital 
-footprints. AI, ML, and Data Science gain importance over foundational technologies.
+"influencers" get paid by the groups seeking to create troubles. The business of dirt and gossip is just mind boggling. 
+Only one thing that comes to my mind is that "flith any kind sells, even in digital space." Unmindful personal privacy, people ogle at the digital 
+filth and actively participate in making the flith stink more and more. If they expose themselves to privacy invasion, profiling becomes 
+simple due to digital footprints. AI, ML, and Data Science gain importance over foundational technologies.
 
 [Back to Index](../index.md)
