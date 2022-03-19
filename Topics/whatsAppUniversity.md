@@ -6,7 +6,7 @@ every reader of this blog must have an account in one social networking site or 
 LinkedIn, Youtube, and WeChat. Telegram, WhatsApp, Instagram are examples of Instant messing systems. Both 
 communication technologies are excellent innovations to bring the world closer and people to collaborate without
 geographical boundaries. The flip side of such disruptive communication has overburdened the already stressed lives of 
-ordinary people while app creators, manintainers, promoters are have roaring business along with network service 
+ordinary people while app creators, manintainers, promoters are having roaring business along with network service 
 providers. Meta, Google, and Microsoft have already started controlling the govt policies worldwide. 
 Ukraine seems to be winning over Russia in the ongoing conflict in the e-communication space. Meta has changed its
 message posting policies to allow people to post abuses targeting the Russian political dispensation and its leaders.
