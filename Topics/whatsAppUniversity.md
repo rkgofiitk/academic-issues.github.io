@@ -25,13 +25,11 @@ eventually, all seasoned political commentators, the political parties, and grou
 However, they could not ignore Mr. Goswami while he merrily created his TRP and established Republic TV. I have witnessed
   increased use of profanities by the politicians and the political commentators from the opposition. 
 
-Having pointed out the importance of disruptive communication, let us focus on Whatsapp or other instant messaging apps. World over 
-have been dragged into disruptive communication systems due to the end devices (cell phones) and numerous Instant messaging 
+Having pointed out the importance of disruptive communication, let us focus on Whatsapp or other instant messaging apps. People across the world
+have been dragged into disruptive communication systems by smart end devices (cell phones) and numerous Instant messaging 
 apps. There are two sides to any tale. The brighter side is that communication has become easy for the self-employed 
-  unorganized workforce such 
-as a carpenter, plumbers, electricians, and small artisans. Business communication has turned instant for the 
-  aggregators' firms. 
-Consumers find it easy to communicate with service providers. However, large business establishments soon learned to use instant 
+unorganized workforce such as a carpenter, plumbers, electricians, and small artisans. Business communication has turned instant for the 
+aggregators' firms. Consumers find it easy to communicate with service providers. However, large business establishments soon learned to use instant 
 messaging to create disruptive interventions in personal privacies. I keep getting robot calls during important meetings. It had 
 forced me to leave the phone switched off or decline calls. People have to learn to live incommunicado mode to escape the nuisance of disruptive 
 intervention in personal space. Blocking numbers does more harm than solving privacy problems. The blocker apps create a database 
@@ -54,7 +52,7 @@ An average person may not have any understanding of Russia-Ukraine conflict exce
 inflation due disruption of fossil fuel. So, it does not make sense why an average person should target abuses to Putin or 
 Zelensky, or Biden or NATO. The flood od whatsApp messaging on the conflict is just irrelevant digital garbage. 
 
-The other notable whatsApp digitla flit is due to rampant use of greetings like good morning, good evening, or even
+The other notable whatsApp digitla flith is due to rampant use of greetings like good morning, good evening, or even
 "international day of morons" makes me wonder if God has suddenly decided to bestow everyone with happiness, and the
 world has become flat with happiness. Yet hatred, spewing venom on Twitter becomes essential. Some 
 "influencers" get paid by the groups seeking to create troubles. The business of dirt and gossip is just mind bugling. 
