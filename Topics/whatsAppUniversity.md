@@ -28,7 +28,7 @@ However, they could not ignore Mr. Goswami while he merrily created his TRP and 
 Having pointed out the importance of disruptive communication, let us focus on Whatsapp or other instant messaging apps. People across the world
 have been dragged into disruptive communication systems by smart end devices (cell phones) and numerous Instant messaging 
 apps. There are two sides to any tale. The brighter side is that communication has become easy for the self-employed 
-unorganized workforce such as a carpenter, plumbers, electricians, and small artisans. Business communication has turned instant for the 
+unorganized workforce such as a carpenters, plumbers, electricians, and small artisans. Business communication has turned instant for the 
 aggregators' firms. Consumers find it easy to communicate with service providers. However, large business establishments soon learned to use instant 
 messaging to create disruptive interventions in personal privacies. I keep getting robot calls during important meetings. It had 
 forced me to leave the phone switched off or decline calls. People have to learn to live incommunicado mode to escape the nuisance of disruptive 
@@ -36,8 +36,8 @@ intervention in personal space. Blocking numbers does more harm than solving pri
 of cell numbers and market them with impunity to advertising firms. The nexus is frightening.
 
 However, the most irritations come in trolls and unsolicited knowledge dissemination through Instant messaging systems. I keep 
-getting rehashed and recirculated WhatsApp media files every alternate day from unknown sources. I don't know if WhatsApp has a spam filter or turn it 
-on. It is high time that instant messaging app developers should provide easy ways to kill spam. Trolls are a big nuisance. A troll 
+getting rehashed and recirculated WhatsApp media files every alternate day from unknown sources. I don't know if WhatsApp has a spam filter or how to turn it 
+on. It is high time that instant messaging app developers should provide easy ways to kill spam or block specific members of a whatsApp gorup. Trolls are a big nuisance. A troll 
 can make an average person break within a couple of minutes. Usually, the unconnected trollers find it tempting to gang together 
 without any reason. It confirms the herd mentality of Animal Firm. Sometimes, people who don't have anything to do with the issue 
 start commenting.
