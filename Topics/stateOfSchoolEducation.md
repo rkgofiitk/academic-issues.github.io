@@ -35,5 +35,20 @@ located in villages and small semi-urban settlements in India. The basic issues 
 - The political parties in general are either apathetic or scared to empower people by educating them.
 - The political parties depend only giving out freebies for winning election and capturing power.
 
-Recently, GOI appointed a new chairpersoon of UGC. 
+A research report by a group of educators under chairmanship of UGC vice chairperson says India's GER in 2017-2018 was around 27.4.
+It translates to 3.74 corers across roughly 1k universities 40K affiliate colleges. The report says EER (Eligibility Enrollment
+Ratio) should be more approriate than GER. EER refers to ratio of eligible population. That basically admits the poor state of
+primary and school education in India. In other words, the suggestion to use EER is a kind of sugarcoating offered to the politicians
+by the bureacrats responsible for framing education policies for the gove. The report mentions about GERs of 10 other nations 
+that include US, UK, Germany, France, Brazil, China, Indonesia, South Africa and Pakistan. Understandably only South Africa and 
+Pakistan are have lower GER than India.  China at 49.1% and Brazi at 51.3% GER are way ahead of India. The rest of nations have
+GER over 60% with US leading at 88.2%. 
+
+GOI appointed a new chairpersoon of UGC. Prof M. Jagadish was vice-chancellor or JNU and had served as a professor at IIT Delhi. 
+He brings in a huge experience both as an acdemic administrator and educator. I believe he understands and realizes the situation 
+more than anyone else in the Govt. However, I guess his task won't be easy given the shape of primary and secondary education in the
+country. Pulling up GER would be a herculean harakiri unless the state govts cooperate. Education is a concurrent subject under 
+constitution. It allows states to legistate and control in the mattrs of education. Though having a uniformity in education across
+India is undesirable, I believe the "knowledge quotient (KQ)" is an important issue. By KQ I refer to intrinsic understanding of
+the subject rather than specifics. In technical education, however, KQ may have a kind of uniformity across the country. 
 
