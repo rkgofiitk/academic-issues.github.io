@@ -10,8 +10,8 @@ based on the intrinsic capabilities of the students rather than their abilities 
 institutions rather than graduates with coding capabilities. If the students have a good attitude, they can learn quickly and become productive 
 quite soon. Yet, the companies would still prefer graduates who can be productive from day 1. In-job training is only possible for short durations like a 
 week or two or three weeks. With this in mind, most companies will prefer undergraduates with good aptitude and who have received enough  
-programming and data structures training. So, in this blog, I address the issue of training in programming and data structures. Let me address these issues one at a time. 
-The first is the choice of programming language. 
+programming and data structures training. So, in this blog, I address the issue of training in programming and data structures. Let me address these issues one at a 
+time. The first is the choice of programming language. 
 
 
 A few of our colleagues in the department were excited about Java and ignored the saner voices to introduce Java for teaching programming to  
