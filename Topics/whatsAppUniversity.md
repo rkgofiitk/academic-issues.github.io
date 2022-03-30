@@ -50,7 +50,7 @@ Instead, the use of profanities in public discourse has increased tremendously. 
 blue today? or "Why did PM not say something about Ukraine Russia conflict?"
 
 An average person may not understand the Russia-Ukraine conflict except for being hassled by the price
-inflation due to the disruption of fossil fuel. So, it does not make sense why an average person should target the abuses of Putin or 
+inflation due to the disruption in supply of oil and gas. So, it does not make sense why an average person should target the abuses of Putin or 
 Zelensky, or Biden or NATO. The flood of whatsApp messaging on the conflict is just irrelevant digital garbage. 
 
 The other notable whatsApp digital filth is the rampant use of greetings like good morning, good evening, or even
