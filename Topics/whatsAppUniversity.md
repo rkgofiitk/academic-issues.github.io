@@ -1,15 +1,17 @@
 ##  WhatsApp International University & Distruptive Intervention in Personal Space
 
+
+
 Disruptive communication technology significantly alters the ways of communication and interaction among people. In recent years we witnessed two 
 types of disruptive communication systems (i) social networking systems and (ii) Instant messaging systems. Almost
 every blog reader must have an account on one social networking site or another. Examples are Facebook, 
 LinkedIn, Youtube, and WeChat. Telegram, WhatsApp, Instagram are examples of Instant messing systems. Both 
-communication technologies are excellent innovations to bring the world closer and people to collaborate without
+communication technologies are excellent innovations to bring the world closer and allow people to collaborate without
 geographical boundaries. The flip side of such disruptive communication has overburdened the already stressed lives of 
 ordinary people while app creators, maintainers, promoters are having roaring business along with network service 
 providers. Meta, Google, and Microsoft have already started controlling the govt policies worldwide. 
 Ukraine seems to be winning over Russia in the ongoing conflict in the e-communication space. Meta has changed its
-message posting policies to allow people to post abuses targeting the Russian political dispensation and its leaders.
+message posting policies to allow people post abuses targeting the Russian political dispensation and its leaders.
 However, this post is not about Ukraine
 and Russia conflict. The purpose of the post is to let the readers think about the etiquette of using disruptive 
 communication channels. I will draw some analogs from mass media, mainly e-media. 
@@ -17,8 +19,8 @@ communication channels. I will draw some analogs from mass media, mainly e-media
 I remember when the disruptive intervention of Arnab Goswami transformed the Times Now TV news. His only motivation was 
 to create a niche for the news transmission on TV from a passive electronic medium like the Radio or Akashvani. Mr.
 Goswami became instant <i>bete noire</i> for all news anchors and the people holding leftist views, but TRP of Times Now 
-increased tremendously. Mr. Goswami was eventually kicked out of Times Now, and Republic TV came into existence. The 
-disruptive news transmission is another example of disruptive 
+increased tremendously. Mr. Goswami was eventually kicked out of Times Now, and Republic TV came into existence.  
+The disruptive news transmission is another example of disruptive 
 communication. I do not intend to go into disruptive interventions in TV news anchoring. I want to point out that the 
 disruptive interventions created a chasm among people on both sides of the center. The free use of profanities jolted people. But 
 eventually, all seasoned political commentators, political parties, and groups developed strong likes or dislikes. 
@@ -44,11 +46,11 @@ start commenting.
 I have to subscribe to a large WhatsApp group where people seem to have a view on every damn thing from a toothbrush to broom, Kashmir 
 to Gujrat, from Buddha to Confucius, from Chanakya to Machiavelli. I fondly call them Professors of WIU (WhatsApp International 
 University). But honestly, the quality of posts does not show that the academic excellence of the nation has increased one bit. 
-Instead, the use of profanities in public discourse has increased tremendously. You may get 1000 messages if you ever say anything like Why sky looks 
-blue today? or "Why PM did or did not say something on Ukraine Russia conflict?"
+Instead, the use of profanities in public discourse has increased tremendously. You may get 1000 messages if you ever say anything like Why does the sky looks 
+blue today? or "Why did PM not say something about Ukraine Russia conflict?"
 
 An average person may not understand the Russia-Ukraine conflict except for being hassled by the price
-inflation due to the disruption of fossil fuel. So, it does not make sense why an average person should target the abuses to Putin or 
+inflation due to the disruption of fossil fuel. So, it does not make sense why an average person should target the abuses of Putin or 
 Zelensky, or Biden or NATO. The flood of whatsApp messaging on the conflict is just irrelevant digital garbage. 
 
 The other notable whatsApp digital filth is the rampant use of greetings like good morning, good evening, or even
