@@ -39,7 +39,7 @@ video brings out are as follows:
 - The social awareness of the education sector is also very low among people, especially in underdeveloped states.
 
 In general, the political parties are either apathetic or scared to empower people by educating them.
-The political parties depend only on giving out freebies for winning the election and capturing power.
+They depend only on giving out freebies for winning the election and capturing power.
 
 A research report by a group of educators under the chairmanship of the UGC vice chairperson says India's GER in 2017-2018 
 was around 27.4. It translates to 3.74 corers across roughly 1k universities 40K affiliate colleges. The report says EER 
