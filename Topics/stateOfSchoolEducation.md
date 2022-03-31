@@ -42,7 +42,7 @@ In general, the political parties are either apathetic or scared to empower peop
 They depend only on giving out freebies for winning the election and capturing power.
 
 A research report by a group of educators under the chairmanship of the UGC vice chairperson says India's GER in 2017-2018 
-was around 27.4. It translates to 3.74 corers across roughly 1k universities 40K affiliate colleges. The report says EER 
+was around 27.4. It translates to 3.74 corers across roughly 1k universities 40k affiliate colleges. The report says EER 
 (Eligibility Enrollment Ratio) should be more appropriate than GER. EER refers to the ratio of the eligible population. 
 That admits the poor state of primary and school education in India. In other words, the suggestion to use EER is a 
 sugarcoating offered to the politicians by the bureaucrats responsible for framing education policies for the gove. The 
