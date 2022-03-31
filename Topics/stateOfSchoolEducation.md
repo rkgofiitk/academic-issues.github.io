@@ -56,7 +56,7 @@ realizes the situation more than anyone else in the Govt. However, I guess his t
 primary and secondary education. Pulling up GER would be a herculean harakiri unless the state govts cooperate. Education 
 is a concurrent subject under the constitution. It allows states to legislate and control the matters of education. Though 
 having uniformity in education across India is undesirable, I believe the "knowledge quotient (KQ)" is an important issue. 
-By KQ, I refer to an intrinsic understanding of the subject rather than specifics. However, in technical education, KQ may 
-have a kind of uniformity across the country.
+By KQ, I refer to an intrinsic understanding of the subject rather than specifics. However, in technical education, KQ 
+should desirably be uniform across the country.
 
 [Back to Index](../index.md)
