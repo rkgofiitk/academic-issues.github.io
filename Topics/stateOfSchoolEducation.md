@@ -41,11 +41,12 @@ video brings out are as follows:
 In general, politicians across parties are either apathetic or scared to empower people by educating them.
 They depend only on giving out freebies for winning the election and capturing power.
 
-A research report by a group of educators under the chairmanship of the UGC vice chairperson says India's GER in 2017-2018 
-was around 27.4. It translates to 3.74 corers across roughly 1k universities 40k affiliate colleges. The report says EER 
-(Eligibility Enrollment Ratio) should be more appropriate than GER. EER refers to the ratio of the eligible population. 
-That admits the poor state of primary and school education in India. In other words, the suggestion to use EER is a 
-subterfuge to avoid criticism. The 
+India has roughly 1k universities with 40k affiliated colleges. In 2019-20, the GER (Gross Enrollment Ratio) was 27.1, which
+translates to approximately 3.7 corers enrollments for the population in the age group of 18-23 years. A group of 
+experts headed by the UGC vice-chairperson suggested that EER (Eligibility Enrollment Ratio) should be more appropriate measure
+than GER. EER refers to the ratio of the eligible population. I see it as an indirect admission of India's poor state of primary
+and school education. Ineligibility of enrollment for higher education is due to heavy dropouts at lower levels.
+So, the suggestion to use EER is a subterfuge to avoid criticism that not all is honky dory in the state education system. The 
 report mentions GERs of 10 different nations, including the US, UK, Germany, France, Brazil, China, Indonesia, South Africa, 
 and Pakistan. Understandably only South Africa and Pakistan have lower GER than India. China at 49.1% and Brazil at 51.3% 
 GER is way ahead of India. The rest of the nations have GER over 60%, with the US leading at 88.2%.
