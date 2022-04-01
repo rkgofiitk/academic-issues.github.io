@@ -2,6 +2,7 @@
 
 Jharkhand is carved mainly from Santhal Parganas and Chhotnagpur divisions of the then southern Bihar. The prominent tribal leader Birsa Munda's 
 birth anniversary falls on 15th November. New Jharkhand state was founded on November 15, 2000 to coincide with Birsa Munda's birth anniversary.  
+
 Birsa Munda was a tribal freedom fighter and the leader of religious movement in late 19th century. Ranchi Airport is named after Birsa Munda. 
 For more details about Birsa Munda the readers may refer to the [wikipedia page](https://en.wikipedia.org/wiki/Birsa_Munda).
 Recently, during random browsing of youtube channels, I came across a video on the state of primary and middle school education in Jharkhand. Most
