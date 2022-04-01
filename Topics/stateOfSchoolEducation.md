@@ -12,15 +12,6 @@ was difficult to comprehend in every detail. However, how he presented the video
 wanted to convey.
 
 
-Jharkhand is carved mainly from Santhal Parganas and Chhotnagpur divisions of the then southern Bihar. The prominent tribal leader Birsa Munda's 
-birth anniversary falls on November 15. New Jharkhand state was founded on November 15, 2000, to coincide with Birsa Munda's birth anniversary.  
-Birsa Munda was a tribal freedom fighter and a religious movement leader in the late 19th century. The airport at Ranchi is known as Birsa Munda Airport. 
-For more details about Birsa Munda, the readers may refer to the [wikipedia page](https://en.wikipedia.org/wiki/Birsa_Munda).
-Recently, during random browsing of youtube channels, I came across a video on the state of primary and middle school education in Jharkhand. The place where the anchor shot the video is probably somewhere in Palamau District. It gives revealing details of
-the abject state of the state's primary and middle school education. The anchor presented the video in a local dialect of Hindi, which 
-was challenging to comprehend in every detail. However, how he presented the video leaves no doubt about the message he 
-wanted to convey.
-
 Let me first dwell a bit on the video before focusing on the issues that the anchor wanted to bring out. The school in the 
 video is a govt run middle school. It had an enrollment of 450, according to the school coordinator. The school employs 
 four teachers against a sanctioned strength of eight. About 120 students are registered for class 8, but the classroom can 
