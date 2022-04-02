@@ -1,4 +1,4 @@
-## Raising GER in Higher Education India 
+## Fundamental Challenge in Raising GER in Higher Education India 
 
 The prominent tribal leader Birsa Munda's birth anniversary falls on 15th November. He was a freedom fighter and a leader of mass religious 
 movement in late 19th century. The airport at Ranchi is named after him. For more details about Birsa Munda the readers may refer to the 
