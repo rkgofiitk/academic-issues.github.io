@@ -15,11 +15,11 @@ the state's apathy toward primary and secondary education even after 75 years of
 
 Let me first dwell a bit on the video before focusing on the issues it brings out. The school featured in the 
 video is a govt run middle school. It had an enrollment of 450, according to the school coordinator. The school employs 
-four teachers against a sanctioned strength of eight. About 120 students are registered for class 8, but the capacity of the classroom
+four teachers against a sanctioned strength of eight. About 120 students are registered for class 8, but the classroom capacity is
 hardly 60. According to a class teacher, only about 40-45 students attend the school on any day. The building and infrastructure are in an
-abysmal state. The class room is too cluttered with rickety benches and tables leaving no space for movements. Both daylight and 
-ventilation are poor in the classroom. However, infrastructure is more of a resource problem. The state's ministry of education can quickly solve 
-it by a one-time act. The bigger problem is the poor training that the kids are getting in the school.
+abysmal state. The classroom is too cluttered with rickety benches and tables, leaving no movement space. Both daylight and 
+ventilation are poor in the room. However, infrastructure is more of a resource problem. The state's ministry of education can quickly solve 
+it by a one-time act. The bigger problem is the poor training that the kids are getting in school.
 
 Out of 45 odd students, only one can successfully name the subjects in the syllabus for class 8. When asked about maths, 
 one student told the anchor that he could do up to 30. The anchor assumed that the student had memorized tables for numbers 
