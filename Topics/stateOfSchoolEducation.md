@@ -1,24 +1,24 @@
 ## State of Primary and Middle Education in India
 
-Jharkhand is carved mainly from Santhal Parganas and Chhotnagpur divisions of the then southern Bihar. The prominent tribal leader Birsa Munda's 
-birth anniversary falls on 15th November. New Jharkhand state was founded on November 15, 2000 to coincide with Birsa Munda's birth anniversary.  
-
-Birsa Munda was a tribal freedom fighter and the leader of religious movement in late 19th century. Ranchi Airport is named after Birsa Munda. 
-For more details about Birsa Munda the readers may refer to the [wikipedia page](https://en.wikipedia.org/wiki/Birsa_Munda).
-Recently, during random browsing of youtube channels, I came across a video on the state of primary and middle school education in Jharkhand. Most
-probably, the location of the place where the anchor shot the video is somewhere in Palamau District. However, it gives a revealing details of
-abject state of the state's primary and middle school education. The anchor presented the video in a local dialect of Hindi, which 
-was difficult to comprehend in every detail. However, how he presented the video leaves no doubt about the message he 
-wanted to convey.
+The prominent tribal leader Birsa Munda's birth anniversary falls on 15th November. He was a freedom fighter and a leader of mass religious 
+movement in late 19th century. The airport at Ranchi is named after him. For more details about Birsa Munda the readers may refer to the 
+[wikipedia page](https://en.wikipedia.org/wiki/Birsa_Munda). Jharkhand state was inaugurated on November 15, 2000 
+to coincide with Birsa Munda's birth anniversary. It was carved mainly from Santhal Parganas and Chhotnagpur divisions of the then southern Bihar 
+through Bihar State Reorganization bill. 
 
 
-Let me first dwell a bit on the video before focusing on the issues that the anchor wanted to bring out. The school in the 
+Recently, during random browsing of youtube channels,  I came across a video on the state of primary and middle school education in Jharkhand. Most
+probably, the location of the school is somewhere in Palamau District. The video reveals the abject state of the state's primary and middle school education. 
+The anchor presents the video in a local dialect of Hindi, which is difficult to comprehend in every detail. However, the video provides ample evidence of
+the state's apathy toward primary and secondary education even after 75 years of India's independence.
+
+
+Let me first dwell a bit on the video before focusing on the issues it brings out. The school featured in the 
 video is a govt run middle school. It had an enrollment of 450, according to the school coordinator. The school employs 
 four teachers against a sanctioned strength of eight. About 120 students are registered for class 8, but the classroom can 
 hold just about 60 students. Hardly 40-45 students attend the school on any day. The building and infrastructure are in an 
 abysmal state. The infrastructure is a problem, and the building is too cluttered for a decent school. Both daylight and 
-ventilation are poor in the classroom. However, infrastructure and the building are more of a resource problem that could 
-be solved with a good samaritan act by the state ministry of education. The bigger problem is the way the state is training the kids.
+ventilation are poor in the classroom. However, infrastructure is more of a resource problem. The state ministry of education can quickly solve it by a one-time act. The bigger problem is the poor training that the kids are getting in school.
 
 Out of 45 odd students, only one can successfully name the subjects in the syllabus for class 8. When asked about maths, 
 one student told the anchor that he could do up to 30. The anchor assumed that the student had memorized tables for numbers 
@@ -27,10 +27,10 @@ could only count up to 30! No student could correctly spell the names of months 
 three times, the teacher misspelled February. One of the smarter kids in the class corrected the spelling. She
 incidentally could spell the word "science" correctly both in English and in Hindi. The rest of the students in the class could not even spell Vigyan (in Hindi).
 
-The purpose of giving a short description of the video is not to denigrate the school but 
-to understand the issues in the management of school education and the apathy of the state govt to create a vibrant base 
-for higher and technical education in the state of Jharkhand. I believe most government-run schools are in similar 
-conditions. Especially those located in villages and small semi-urban settlements in India. The primary issues that the 
+The purpose of giving a brief description of the video is not to denigrate the school but 
+to understand the issues in the management of school education and the apathy of the state govt to create a solid foundation 
+for higher and technical education in the state. I believe most government-run schools are in similar 
+conditions across the country. Especially those located in villages and small semi-urban settlements in India. The primary issues that the 
 video brings out are as follows:
 
 - The teachers are untrained, and there is hardly any knowledge gap between the teacher and the taught.
@@ -38,27 +38,29 @@ video brings out are as follows:
 - The govt spending on schooling is non-existent or extremely low.
 - Societal awareness about school education is lacking among people, especially in underdeveloped states.
 
-In general, politicians across parties are either apathetic or scared to empower people by educating them.
-They depend only on giving out freebies for winning the election and capturing power.
+Politicians across parties are either apathetic or too scared to self-empower people by providing a decent education system.
+They depend only on giving out freebies for winning the election and capturing power. People must realize that there is "no free lunch." 
+If people rely only on freebies, it only creates a nation of beggars and homeless destitute. 
 
-India has roughly 1k universities with 40k affiliated colleges. In 2019-20, the GER (Gross Enrollment Ratio) was 27.1, which
+India has roughly 1k universities with 40k affiliated colleges. In 2019-20, the GER (Gross Enrollment Ratio) was 27.1. It 
 translates to approximately 3.7 corers enrollments for the population in the age group of 18-23 years. A group of 
-experts headed by the UGC vice-chairperson suggested that EER (Eligibility Enrollment Ratio) should be more appropriate measure
-than GER. EER refers to the ratio of the eligible population. I see it as an indirect admission of India's poor state of primary
-and school education. Ineligibility of enrollment for higher education is due to heavy dropouts at lower levels.
-So, the suggestion to use EER is a subterfuge to avoid criticism that not all is honky dory in the state education system. The 
+experts headed by the UGC vice-chairperson suggested that EER (Eligibility Enrollment Ratio) is more appropriate 
+than GER. EER refers to the ratio of the eligible population. I see it as an indirect admission of India's poor primary
+and school education system. Ineligibility of enrollment for higher education is due to heavy dropouts at school levels.
+The suggestion to use EER is a subterfuge to avoid criticism that not all is "honky dory" in the state education system. The 
 report mentions GERs of 10 different nations, including the US, UK, Germany, France, Brazil, China, Indonesia, South Africa, 
 and Pakistan. Understandably only South Africa and Pakistan have lower GER than India. China at 49.1% and Brazil at 51.3% 
 GER is way ahead of India. The rest of the nations have GER over 60%, with the US leading at 88.2%.
 
-GOI appointed a new chairperson of UGC. Prof M. Jagadish was vice-chancellor of JNU and had served as a professor at IIT 
-Delhi. He brings in considerable experience both as an academic administrator and educator. I believe he understands and 
-realizes the situation more than anyone else in the Govt. However, I guess his task won't be easy given the state of the country's 
-primary and secondary education. Pulling up GER would be a "herculean harakiri" unless the state governments cooperate. Education 
+Recently, the Government of India appointed Prof M. Jagadish as the new chairperson of UGC. He was vice-chancellor of JNU and had served as a professor at IIT 
+Delhi. He brings in considerable experience both as an academic administrator and an educator. I believe he understands and 
+realizes the situation more than anyone else in the Govt. However, I guess his task won't be easy, given the state of the country's 
+primary and secondary education. Pulling up GER would be a "Herculean Harakiri" unless the state governments cooperate. Education 
 is a concurrent subject under the constitution. It allows states to legislate and control the education sector in a state. Though 
 having uniformity in education across India is undesirable, I believe the "knowledge quotient (KQ)" is an important issue. 
 By KQ, I refer to an intrinsic understanding of the subject rather than specifics. However, in technical education, KQ 
-should be uniform across the country. It is perhaps the reason for students' low success rate from some areas of the country in any 
-common tests such as JEE, Advance JEE, NEET, GATE, CLAT. 
+should be uniform across the country. It is perhaps the reason for the low success rate of aspirants from some areas of the country in any 
+common tests such as JEE, Advance JEE, NEET, GATE, and CLAT. It is high time that people realize the importance of education. 
+
 
 [Back to Index](../index.md)
