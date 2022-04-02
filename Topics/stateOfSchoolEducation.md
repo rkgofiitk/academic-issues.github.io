@@ -60,7 +60,8 @@ is a concurrent subject under the constitution. It allows states to legislate an
 having uniformity in education across India is undesirable, I believe the "Knowledge Quotient" (KQ) is an important issue. 
 By KQ, I refer to an intrinsic understanding of the subject rather than specifics. However, in technical education, KQ 
 should be uniform across the country. It is perhaps the reason for the low success rate of aspirants from some areas of the country in any 
-common tests such as JEE, Advance JEE, NEET, GATE, and CLAT. It is high time that people realize the importance of education. 
+common tests such as JEE, Advance JEE, NEET, GATE, and CLAT. It is high time that, as a nation, we realize the need for  foundational changes in the 
+school education system. 
 
 
 [Back to Index](../index.md)
