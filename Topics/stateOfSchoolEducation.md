@@ -57,7 +57,7 @@ Delhi. He brings in considerable experience both as an academic administrator an
 realizes the situation more than anyone else in the Govt. However, I guess his task won't be easy, given the state of the country's 
 primary and secondary education. Pulling up GER would be a "Herculean Harakiri" unless the state governments cooperate. Education 
 is a concurrent subject under the constitution. It allows states to legislate and control the education sector in a state. Though 
-having uniformity in education across India is undesirable, I believe the "knowledge quotient (KQ)" is an important issue. 
+having uniformity in education across India is undesirable, I believe the "Knowledge Quotient" (KQ) is an important issue. 
 By KQ, I refer to an intrinsic understanding of the subject rather than specifics. However, in technical education, KQ 
 should be uniform across the country. It is perhaps the reason for the low success rate of aspirants from some areas of the country in any 
 common tests such as JEE, Advance JEE, NEET, GATE, and CLAT. It is high time that people realize the importance of education. 
