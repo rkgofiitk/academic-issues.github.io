@@ -36,8 +36,8 @@ education in the state. I believe most government-run schools are in similar con
 those located in villages and small semi-urban settlements in India. The primary issues that the video brings out are as 
 follows:
 
-- The teachers are untrained, and there is hardly any knowledge gap between the teacher and the taught.
-- Education is the last welfare priority for the party in power.
+- The teachers are untrained, and the knowledge gap between the teacher and the taught is small.
+- Education is the last welfare priority for any political party.
 - The govt spending on schooling is non-existent or extremely low.
 - Societal awareness about school education is lacking among the people, especially in underdeveloped states.
 
