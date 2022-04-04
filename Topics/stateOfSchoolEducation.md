@@ -45,15 +45,13 @@ Politicians across parties are either apathetic or too scared to self-empower pe
 system. They depend only on giving out freebies for winning the election and capturing power. People must realize that 
 there is "no free lunch." If they rely only on freebies, it will only create a nation of beggars and homeless destitute. 
 
-India has roughly 1k universities with 40k affiliated colleges. In 2019-20, the GER (Gross Enrollment Ratio) was 27.1. It 
-translates to approximately 3.7 corers enrollments for the population in the age group of 18-23 years. A group of 
-experts headed by the UGC vice-chairperson suggested that EER (Eligibility Enrollment Ratio) is more appropriate 
-than GER. EER refers to the ratio of the eligible population. I see it as an indirect admission of India's poor primary
-and school education system. Ineligibility of enrollment for higher education is due to heavy dropouts at school levels.
-The suggestion to use EER is a subterfuge to avoid criticism that not all is "hunky dory" in the state education system. 
-The report mentions GERs of 10 different nations, including the US, UK, Germany, France, Brazil, China, Indonesia, South 
-Africa, and Pakistan. Understandably only South Africa and Pakistan have lower GER than India. China at 49.1% and Brazil at 
-51.3% GER is way ahead of India. The rest of the nations have GER over 60%, with the US leading at 88.2%.
+India has roughly 1k universities with 40k affiliated colleges. In 2019-20, the GER (Gross Enrollment Ratio) was 27.1. It translates to approximately 3.7 corers 
+enrollments for the population in the age group of 18-23 years. A group of experts headed by the UGC vice-chairperson suggested that EER (Eligibility Enrollment Ratio) 
+is more appropriate than GER. EER refers to the ratio of the eligible population. I see it as an indirect admission of India's poor primary and school education 
+system. Ineligibility of enrollment for higher education is due to heavy dropouts at school levels. The suggestion to use EER is a subterfuge to avoid criticism that 
+not all is "hunky-dory" in the state education system. The report mentions GERs of 10 different nations, including the US, UK, Germany, France, Brazil, China, 
+Indonesia, South Africa, and Pakistan. Understandably only South Africa and Pakistan have lower GER than India. China at 49.1% and Brazil at 51.3% GER 
+are ways ahead of India. The rest of the nations have GER over 60%, with the US leading at 88.2%. 
 
 Recently, the Government of India appointed Prof M. Jagadish as the new chairperson of UGC. He was vice-chancellor of JNU and had served as a professor at IIT 
 Delhi. He brings in considerable experience both as an academic administrator and an educator. I believe he understands and 
