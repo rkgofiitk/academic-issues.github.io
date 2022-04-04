@@ -13,7 +13,7 @@ certain policies from a neutral viewpoint.
 
 
 
-- [Challenges in Increasing GER in Higher Education](Topics/stateOfSchoolEducation.md
+- [Challenges in Increasing GER in Higher Education](Topics/stateOfSchoolEducation.md)
 - [WhatsApp International University and Disruptive communication](Topics/whatsAppUniversity.md)
 - [Storytelling, History and Literature](Topics/storytelling-and-Learning.md)
 - [Upskilling Engineering Graduates](Topics/finishingSchool.md)
