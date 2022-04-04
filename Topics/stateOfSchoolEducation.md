@@ -50,7 +50,7 @@ translates to approximately 3.7 corers enrollments for the population in the age
 experts headed by the UGC vice-chairperson suggested that EER (Eligibility Enrollment Ratio) is more appropriate 
 than GER. EER refers to the ratio of the eligible population. I see it as an indirect admission of India's poor primary
 and school education system. Ineligibility of enrollment for higher education is due to heavy dropouts at school levels.
-The suggestion to use EER is a subterfuge to avoid criticism that not all is "honky dory" in the state education system. 
+The suggestion to use EER is a subterfuge to avoid criticism that not all is "hunky dory" in the state education system. 
 The report mentions GERs of 10 different nations, including the US, UK, Germany, France, Brazil, China, Indonesia, South 
 Africa, and Pakistan. Understandably only South Africa and Pakistan have lower GER than India. China at 49.1% and Brazil at 
 51.3% GER is way ahead of India. The rest of the nations have GER over 60%, with the US leading at 88.2%.
