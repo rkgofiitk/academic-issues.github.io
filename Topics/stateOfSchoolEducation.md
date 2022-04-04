@@ -43,7 +43,7 @@ follows:
 
 Politicians across parties are either apathetic or too scared to self-empower people by providing a decent education 
 system. They depend only on giving out freebies for winning the election and capturing power. People must realize that 
-there is "no free lunch." If people rely only on freebies, it only creates a nation of beggars and homeless destitute. 
+there is "no free lunch." If they rely only on freebies, it will only create a nation of beggars and homeless destitute. 
 
 India has roughly 1k universities with 40k affiliated colleges. In 2019-20, the GER (Gross Enrollment Ratio) was 27.1. It 
 translates to approximately 3.7 corers enrollments for the population in the age group of 18-23 years. A group of 
