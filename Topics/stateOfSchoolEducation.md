@@ -1,14 +1,14 @@
 ## Challenges in Increasing GER of Higher Education
 
-The prominent tribal leader Birsa Munda's birth anniversary falls on 15th November. He was a freedom fighter and a leader of mass religious 
-movement in late 19th century. The airport at Ranchi is named after him. For more details about Birsa Munda the readers may refer to the 
-[wikipedia page](https://en.wikipedia.org/wiki/Birsa_Munda). Jharkhand state was inaugurated on November 15, 2000 
+The prominent tribal leader Birsa Munda's birth anniversary falls on 15th November. He was a freedom fighter and a leader of a mass religious 
+movement in the late 19th century. The airport at Ranchi is named after him. For more details about Birsa Munda, the readers may refer to the 
+[wikipedia page](https://en.wikipedia.org/wiki/Birsa_Munda). Jharkhand state was inaugurated on 15th November 2000 
 to coincide with Birsa Munda's birth anniversary. It was carved out of Santhal Parganas and Chhotnagpur divisions of the then southern Bihar 
-through Bihar State Reorganization bill. 
+through the Bihar State Reorganization bill. 
 
 
 Recently, during random browsing of youtube channels,  I came across a video on the state of primary and middle school education in Jharkhand. Most
-probably, the location of the school is somewhere in Palamau District. The video reveals the abject state of the primary and middle school education in Jharkhand. 
+probably, the location of the school is somewhere in Palamau District. The footage reveals the abject state of primary and middle school education in Jharkhand. 
 The anchor presents the video in a local dialect of Hindi, which is difficult to comprehend in every detail. However, the video provides ample evidence of
 the state's apathy toward primary and secondary education even after 75 years of India's independence.
 
@@ -17,7 +17,7 @@ Let me first dwell a bit on the video before focusing on the issues it brings ou
 video is a govt run middle school. It had an enrollment of 450, according to the school coordinator. The school employs 
 four teachers against a sanctioned strength of eight. About 120 students are registered for class 8, but the classroom capacity is
 hardly 60. According to a class teacher, only about 40-45 students attend the school on any day. The building and infrastructure are in an
-abysmal state. The classroom is too cluttered with rickety benches and tables, leaving no movement space. Both daylight and 
+abysmal state. The classroom is cluttered with rickety benches and tables, leaving no movement space. Both daylight and 
 ventilation are poor in the room. However, infrastructure is more of a resource problem. The state's ministry of education can quickly solve 
 it by a one-time act. The bigger problem is the poor training that the kids are getting in school.
 
@@ -37,7 +37,7 @@ video brings out are as follows:
 - The teachers are untrained, and there is hardly any knowledge gap between the teacher and the taught.
 - Education is the last welfare priority for the party in power.
 - The govt spending on schooling is non-existent or extremely low.
-- Societal awareness about school education is lacking among the people, especially in the underdeveloped states.
+- Societal awareness about school education is lacking among the people, especially in underdeveloped states.
 
 Politicians across parties are either apathetic or too scared to self-empower people by providing a decent education system.
 They depend only on giving out freebies for winning the election and capturing power. People must realize that there is "no free lunch." 
@@ -61,7 +61,7 @@ is a concurrent subject under the constitution. It allows states to legislate an
 having uniformity in education across India is undesirable, I believe the "Knowledge Quotient" (KQ) is an important issue. 
 By KQ, I refer to an intrinsic understanding of the subject rather than specifics. However, in technical education, KQ 
 should be uniform across the country. It is perhaps the reason for the low success rate of aspirants from some areas of the country in any 
-common tests such as JEE, Advance JEE, NEET, GATE, and CLAT. It is high time that, as a nation, we realize the need for  foundational changes in the 
+common tests such as JEE, Advance JEE, NEET, GATE, and CLAT. It is high time that, as a nation, we realize the need for foundational changes in the 
 school education system. 
 
 
