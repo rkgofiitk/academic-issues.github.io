@@ -7,11 +7,16 @@ named Shakti. Two of these tests were recorded in seisemic monitors. The others 
 seisemic monitors. The tests were widely condemned by US, China, Canada and Pakistan. The US was acutely embarassed as it was 
 continuously monitoring Indian activities in Pokharan test range but failed to detect any preparation for the test. It  reacted by 
 imposing strict sanction against export of sensitive technology. Exporting high end super computers is one of these technology, because
-it was believed TIFR's super computers were used for simulation in preparation for the tests. Around the same time IBM exited from India.
-It created problems for experimental scientists who reled heavily on simulation.  
+it was believed TIFR's super computers were used for simulation in preparation for the tests. Around 1978 IBM had exited from India.
+It created problems for many experimental scientists who reled heavily on simulation.  
 
-CDAC was established in August 1988. It created a flutter in technology landscape of India by announcing PARAM. At round the same time, three other govt 
-research labs, NAL-Bangalore, BARC with DRDO Hyderabad and CSIR with C-DOT were building High Performance Parallel Computers.  
+Indian supercomputing initiative began in 1980s. NAL built first parallel computer called Flosolver-MK1 in 1986. Following it, different
+govt organizations like NAL, CDOT-CSIR, BARC-DRDO, and CDAC focused on building supercomputers. CDAC was established in August 1988. 
+It announced PARAM series of supercomputers which could achieve speed of 6.4GF. It could consist of 160 nodes and an MIMD type 
+parallel computer. But national supercomputing project was launched only in 2015. The US sanctions helped India to develop indigeneous
+computer capabilities and propelled supercomputing activities. However, Indian scientific initiatives were severely impeded by 
+bureacratic browbeating and machination of a section of application users at govt depts and defence establishments. Though it is 
+difficult to actually identify pain-points, it did not help to fastrack some of wonderful initiatives. 
 
 I finished my Ph. D. in 1985 with specialization in Design of Parallel Algorithms. I was lucky to get a few research papers published in reputed
 professional journal. But, I did not know how could I contribute to HPC research in India. Only way things worked in job market in those days was to get 
