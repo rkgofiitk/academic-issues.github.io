@@ -1,6 +1,14 @@
 ## Shortage of Skilled Programmers
 
-India's first thermo-nuclear test code named Smiling Budha was conducted in 1974 on Buddha Jayanti day. The yield from the test remains wrapped in controversies. Many external experts believe it was a failure. US conceded that test was inconsequential in acquiring capabilities for building weapon graded devices.  In 1998, India detonated 5 thermo nuclear devices under project code named Shakti. Two of these tests were recorded in seisemic monitors. The tests were widely condemned by US, China and Pakistan. However, US was acutely embarassed as it was continuous monitoring Indian activities in Pokharan test range but failed to detect preparation for the test. It  imposed strict sanction against export of sensitive technology following Pokhran-II test.
+India's first thermo-nuclear test code named Smiling Budha was conducted in 1974 on Buddha Jayanti day. The yield from the test remains 
+wrapped in controversies. Many external experts believe it was a failure. The US conceded that test was inconsequential in quest for
+acquiring building capabilities for weapon graded devices.  In 1998, India detonated 5 thermo nuclear devices under the project code
+named Shakti. Two of these tests were recorded in seisemic monitors. The others were sub-kiloton devices which could not be recorded by
+seisemic monitors. The tests were widely condemned by US, China, Canada and Pakistan. The US was acutely embarassed as it was 
+continuously monitoring Indian activities in Pokharan test range but failed to detect any preparation for the test. It  reacted by 
+imposing strict sanction against export of sensitive technology. Exporting high end super computers is one of these technology, because
+it was believed TIFR's super computers were used for simulation in preparation for the tests. Around the same time IBM exited from India.
+It created problems for experimental scientists who reled heavily on simulation.  
 
 CDAC was established in August 1988. It created a flutter in technology landscape of India by announcing PARAM. At round the same time, three other govt 
 research labs, NAL-Bangalore, BARC with DRDO Hyderabad and CSIR with C-DOT were building High Performance Parallel Computers.  
