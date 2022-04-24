@@ -47,7 +47,8 @@ cascading effects on software industries. Let me list out only a few:
 - HR depts resort to unfair rules in blocking individuals who want to leave.
 - Ongoing projects of companies are delayed due to a lack of in-house expertise.
 
-An Economic Times report (https://economictimes.indiatimes.com/tech/information-tech/indian-it-firms-step-up-hiring-of-non-engineers-to-bridge-talent-shortfall/articleshow/87189175.cms) says to bridge the talent gap Indian IT firms are hiring fresh non-engineering students. I believe it is a polite way of saying that some engineering 
+[An Economic Times report](https://economictimes.indiatimes.com/tech/information-tech/indian-it-firms-step-up-hiring-of-non-engineers-to-bridge-talent-shortfall/articleshow/87189175.cms) 
+says to bridge the talent gap Indian IT firms are hiring fresh non-engineering students. I believe it is a polite way of saying that some engineering 
 graduates do not possess the adequate skill. They also require retraining. Programming requires systematic application intuitions. Any graduates with a bit of training in 
 maths from a good school could very easily fit into the job. Learning the syntax of a programming language is relatively easy. The availability of good IDEs has made syntax 
 largely irrelevant. Unfortunately, at most of the schools, the training is poor. A root cause analysis will point out that the educators don’t have the required skill to 
