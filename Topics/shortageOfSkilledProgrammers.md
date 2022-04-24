@@ -50,10 +50,10 @@ industries. Let me list out only a few:
 - Ongoing projects of companies are delayed due to a lack of in-house expertise.
 
 [An Economic Times report](https://economictimes.indiatimes.com/tech/information-tech/indian-it-firms-step-up-hiring-of-non-engineers-to-bridge-talent-shortfall/articleshow/87189175.cms) 
-says to bridge the talent gap Indian IT firms are hiring fresh non-engineering students. I believe it is a polite way of saying that some engineering 
-graduates do not possess the adequate skill. They also require retraining. Programming requires systematic application intuitions. Any graduates with a bit of training in 
+says to bridge the talent gap Indian IT firms are hiring fresh non-engineering students. I believe it is a polite way of saying that some computer science & engineering 
+graduates do not possess the adequate skills. They also require retraining. Programming requires systematic application intuitions. Any graduates with a bit of training in 
 maths from a good school could very easily fit into the job. Learning the syntax of a programming language is relatively easy. The availability of good IDEs has made syntax 
-largely irrelevant. Unfortunately, at most of the schools, the training is poor. A root cause analysis will point out that the educators don’t have the required skill to 
+largely irrelevant. Unfortunately, at most of the schools, the training is poor. A root cause analysis will point out that the educators don’t have the required skills to 
 impart the training. A skilled person from an average school is primarily self-taught. Coursera, MIT OCW, NPTEL, and other line resources could help serious sluggers self-
 train to become DevOps specialists. Many headhunting firms also run finishing schools for upskilling engineering graduates. I am not sure if NASSCOM, AICTE, UGC, Ministry 
 of Education, and other regulatory bodies realize the problem of ill-trained Engineering graduates. We do have Teacher Training Institutes. However, I seriously doubt 
