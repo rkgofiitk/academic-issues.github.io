@@ -10,7 +10,7 @@ received IBM 1620. Six years later, in 1969, Vikram Sarabhai inaugurated TDC-12 
 simple, assembly-like language called ECOBOL for COBOL programmers. It was pretty popular among COBOL programmers. By the early 1990s, it became clear to ECIL that TDC-16 
 computers had outlived their existence.  ECIL’s computer group did not have a good R&D group to innovate and design a new generation of machines. It had a few excellent 
 hardware experts. But unfortunately, they were stretched out in troubleshooting customer installations. ECIL's service engineers were young rookies.  As a result, the real 
-experts were forced to work in the field. Furthermore, ECIL’s market strategist and board of directors were probably unable to realize the growth potential of data analytics in the commercial space. Or maybe they failed to convince the Department of Electronics to invest in research and development.
+experts were forced to work in the field. Furthermore, ECIL’s market strategists and board of directors were probably unable to realize the growth potential of data analytics in the commercial space. Or maybe they failed to convince the Department of Electronics to invest in research and development.
 
 Interestingly, the Indian supercomputing initiative began in the late 1980s. NAL built the first indigenous parallel computer called Flosolver MK-1 in 1986. Following it, 
 different govt organizations like CDOT-CSIR, BARC-DRDO, and CDAC focused on building supercomputers. CDAC was established in August 1988. It announced the PARAM series of 
