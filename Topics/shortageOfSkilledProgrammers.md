@@ -36,11 +36,13 @@ that Infosys throws out nearly 1500 of its new recruitees. Of course, Infosys cl
 ex-employees from joining the competitors like IBM, Cognizant, TCS, Tech Mahindra, LT infotech. I am not sure if such an agreement could be enforceable by the law of 
 the land. 
 
-The HR depts of the companies come up with such stupid rules from time to time to exert their control over recruits. One of the fundamental issues
-in the attrition rate that the software industry faces now could be due to the clash of HR specialists and core technical specialists. 
-Ironically, the HR specialists contribute little to the revenue earnings of a company. But they can control core specialists due to their proximity to the administration 
-and the management. Consequently, the frustration among core specialists is high, and it contributes to high attrition rate. The above narrative aims to build the
-background that led to the shortage of skilled programmers. The lack of skilled programmers has cascading effects on software industries. Let me list out only a few:
+The HR depts of the companies come up with such stupid rules from time to time to exert their control over recruits. One of the fundamental reasons for
+the high attrition rate in software companies could the unending clash between HR dept and core technical specialists both at individual and group levels. 
+Ironically, the HR dept contribute little to the revenue earnings of a company. But they can control core specialists due to their proximity to the administration 
+and the management. Consequently, the frustration among core specialists is high, and it contributes to high attrition rate. NDAs intentionally drafted in universal
+clauses to prevent a technical expert from expanding new ideas at a different place. There is a tendency among specialists to keep innovation within self. 
+The above narrative aims to build the background that led to the shortage of skilled programmers. The lack of skilled programmers has cascading effects on software 
+industries. Let me list out only a few:
 
 - Companies compete against one another to lure trained professionals.
 - Professionals with more than one job offer a bargain for better offers.
