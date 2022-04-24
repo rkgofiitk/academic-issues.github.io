@@ -13,6 +13,7 @@ certain policies from a neutral viewpoint.
 
 
 
+- [Shortage of Skilled Programmers](Topics/SshortageOfSkilledProgrammers.md)
 - [Challenges in Increasing GER of Higher Education](Topics/stateOfSchoolEducation.md)
 - [WhatsApp International University and Disruptive communication](Topics/whatsAppUniversity.md)
 - [Storytelling, History and Literature](Topics/storytelling-and-Learning.md)
