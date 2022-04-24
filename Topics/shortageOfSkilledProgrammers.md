@@ -30,15 +30,14 @@ assuring DevOps jobs.  Even on-line skill enhancement companies also have roarin
 Very few people in govt bureaucracy understand that the IT sector requires a foundational knowledge base rather than just B. Tech or M. Tech 
 degrees in CS or IT. 
 
-Most software companies like Infosys, TCS, Wipro, Mindtree, Tech Mahindra have in-house training schools. Infosys training center at Mysore is much bigger than a 
-mid-sized University. It can accommodate roughly 10k trainees. I am not sure about the success rate of the trainees, but I guess about 10-15% fail to qualify. It 
-essentially means that Infosys throws out nearly 1500 of its new recruitees. Of course, Infosys claims a success rate of 99%. There is a recent controversy regarding 
-Infosys banning their ex-employees from joining the competitors like IBM, Cognizant, TCS, etc. I am not sure if such an agreement 
-could be enforceable by the law of the land. However, the HR dept of the companies come up with such stupid rules from time to time to exert their control over recruits. 
-One of the fundamental issues in the attrition rate that the software industry faces now could be the clash of HR specialists and core technical specialists. Ironically, 
-the HR specialists who do not contribute anything to the revenue earnings of a company are in position to control core specilists due to their proximity to the 
-administration and the management. The above narrative aims to build the background that led to the shortage of skilled programmers. The lack of skilled programmers has 
-cascading effects on software industries. Let me list out only a few: 
+Most software companies like Infosys, TCS, Wipro, Mindtree, Tech Mahindra have in-house training schools. Infosys training center at Mysore is much bigger than a mid-sized 
+University. It can accommodate roughly 10k trainees. I am not sure about the success rate of the trainees, but I guess about 10-15% fail to qualify. It essentially means 
+that Infosys throws out nearly 1500 of its new recruitees. Of course, Infosys claims a success rate of 99%. There is a recent controversy regarding Infosys banning their 
+ex-employees from joining the competitors like IBM, Cognizant, TCS, etc. I am not sure if such an agreement could be enforceable by the law of the land. However, the HR 
+dept of the companies come up with such stupid rules from time to time to exert their control over recruits. One of the fundamental issues in the attrition rate that the 
+software industry faces now could be the clash of HR specialists and core technical specialists. Ironically, the HR specialists do not contribute anything to the revenue 
+earnings of a company. But are in a position to control core specialists due to their proximity to the administration and the management. The above narrative aims to build 
+the background that led to the shortage of skilled programmers. The lack of skilled programmers has cascading effects on software industries. Let me list out only a few:
 
 - Companies compete against one another to lure trained professionals.
 - Professionals with more than one job offer a bargain for better offers.
