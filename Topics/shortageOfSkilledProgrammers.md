@@ -45,7 +45,7 @@ The above narrative aims to build the background that led to the shortage of ski
 industries. Let me list out only a few:
 
 - Companies compete against one another to lure trained professionals.
-- Professionals with more than one job offer a bargain for better offers.
+- Professionals with more than one job offers indulge in hard bargains for better offers.
 - HR depts resort to unfair rules in blocking individuals who want to leave.
 - Ongoing projects of companies are delayed due to a lack of in-house expertise.
 
