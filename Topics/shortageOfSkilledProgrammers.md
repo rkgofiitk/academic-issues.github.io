@@ -38,8 +38,9 @@ the land.
 
 The HR depts of the companies come up with such stupid rules from time to time to exert their control over recruits. One of the fundamental issues
 in the attrition rate that the software industry faces now could be due to the clash of HR specialists and core technical specialists. 
-Ironically, the HR specialists contribute little to the revenue earnings of a company. But they can control core specialists due to their proximity to the administration and the management. The above narrative aims to build the background that led to the shortage of skilled programmers. The lack of skilled programmers has
-cascading effects on software industries. Let me list out only a few:
+Ironically, the HR specialists contribute little to the revenue earnings of a company. But they can control core specialists due to their proximity to the administration 
+and the management. As a result, core specialists get frustrated and it contributes to high attrition rate. The above narrative aims to build the background that
+led to the shortage of skilled programmers. The lack of skilled programmers has cascading effects on software industries. Let me list out only a few:
 
 - Companies compete against one another to lure trained professionals.
 - Professionals with more than one job offer a bargain for better offers.
