@@ -66,7 +66,7 @@ On a different note, I feel the propensity to circumvent the law at every opport
 Indians. People litter waiting areas in stations without thinking about the inconveniences it causes to fellow citizens. No one has respect for the time of others. People 
 try to muscle their way into the waiting queues. People use derogatory, disrespectable and contemptuous words against others who cross their way. A short sampling of 
 posts on Twitter, facebook, and other social media as well as contemporary TV debates will explain what I wanted to convey. Notably social media posts are not by
-illiterrate people but by tech-savvy educated folks who can influence public opinion and perhaps impact govt's policies. 
+illiterate people but by tech-savvy educated folks who can influence public opinion and perhaps impact govt's policies. 
 
 
 
