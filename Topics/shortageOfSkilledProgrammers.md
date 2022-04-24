@@ -32,39 +32,44 @@ contribute to talent pool. It led to growth of another set of unscruplous operat
 companies with promises for placements. They charge huge sum of money assuring devOp jobs. Very few people in govt bureaucracy understand 
 that the IT sector is requires a foundational knowledge base rather than just B. Tech or M. Tech degrees in CS or IT. Most software
 companies like Infosys, TCS, Wipro, Mindtree, Tech Mahindra have their in-house training schools. In fact, Infosys training
-center at Mysore is much bigger than a small sized University. 
+center at Mysore is much bigger than a small sized University. It can accommodate roughly 10k trainees. I am not sure about the success
+rate of the trainees, but I guess about 10-15% fail to qualify. It essentially means out of total recruitees Infosys throws out nearly
+15%. However, Infosys claims a success rate of 99%. 
+
+There is a recent controversy regarding Infosys banning their ex-employees from joining the competitors like IBM, Cognigent, TCS, etc.
+I am not sure if such agreement could be enforceable by law of the land. However, the HR dept of the companies come up with such stupid
+rules from time to time to exert their control over new recruits. One of the fundamental issues in attrition rate that the software 
+industry is facing now could be due to clash of HR specialists and core technical specialists. It is ironic that the HR specialists
+who do not contribute anything to the revenue earnings of a company are in position to control core specilists due to their proximity
+to the administration and the management.  
+
+The purpose of the above narrative is to build the background that led to shortage of skilled programmers. The shortage of skilled
+programmers has cascading effects on software industries. Let me list out only a few:
+
+1. Companies compete against one another to lure trained professionals. 
+2. Professionals with more than one job offers bargain for better offers.
+3. HR depts resort to unfair rules in blocking individuals who want to leave.
+4. Ongoing projects of companies are delayed due to lack of in-house expertise.
+
+An Economic Times report (https://economictimes.indiatimes.com/tech/information-tech/indian-it-firms-step-up-hiring-of-non-engineers-to-bridge-talent-shortfall/articleshow/87189175.cms) 
+says to bridge the talent gap Indian IT firms are hiring fresh non-engineering students. I believe it is a polite way of saying some 
+engineering graduates do not possess adequate skill. They also require retraining. Programming is requires systematic application 
+intuitions. Any graduates with a bit of training in maths from a good school could very easily fit into the job. Learning syntax of a 
+programming language is quite easy. Availability of good IDEs have made systax largely irrelevant. 
+
+Unfortunately, at most of the schools the training is poor. A root cause analysis will point to the fact that the
+educators don't have the required skill to impart the training. A skilled person from an average school is mostly self-taught. 
+Coursera, MIT OCW, NPTEL and other line resources could help a serious sluggers to self-train to become a DevOP specialist. 
+Many head hunting firms also run finishing schools for upskilling engineering graduates. I am not sure if NASSCOM, AICTE, UGC, 
+Ministry of Education and other regulatory bodies realize the problem of ill-trained Engineering graduates. We have do have Teacher 
+Training Institutes. However, I seriously doubt whether if they really have any contributory role to upskill the educators. MEITY, AICTE
+and other govt sponsoring agencies provide funds for FDPs. But most of these FDPs are not focused for skill development. FDPs are
+available for a range of high end topics like ML, AI, Blockchain, Wireless Sensor Networks, IoTs, etc. But how many of the FDPs are
+funded for training teachers in imparting coding? Furthermore, the FDPs are typically of short duration, anywhere from 3 days to 
+2 weeks. Getting a certificate is more important for teachers than actual learning. Most teachers take FDPs as adding a line in
+their CV. To an extent, I  believe as a nation we are a bunch of opportunists and have little feeling towards nation building. 
+I have seen people littering waiting areas without thinking about inconveniences to fellow citizens. 
 
 
-But the national supercomputing project was launched only in 2015. In a sense, the 
-US sanctions helped India to develop indigeneous computer capabilities and propelled supercomputing activities. However, 
-Indian scientific initiatives were severely impeded by bureacratic browbeating and machination of a section of application users at 
-the govt depts like NCMRWF. Though it is difficult to actually identify pain-points, it did not help to fastrack some of the 
-wonderful initiatives. Many influential and corrupt politicians lobbyed for imports with the active assistances of corporate middlemen. 
-However, it was an eyeopener for me to come in direct and indirect contact with "a few good men" among scientific faternity who were
-undone by a collection of influential rouges in bureaucracy and people close to political establisment. 
-
-The purpose of the  narrative is to build the background that led to shortage of skilled programmers.
-
-In a country of over billion of people, there is always a few good men who swim against the general tide and invest sweat and blood to 
-correct the course of "traditions and practices" in the system. Unfortuanely, they seldom succeed and at times villianized. The
-curious case of ISRO's Nambi Narayanan is an example. 
-
-
-The art of programming and programming tools have undergone a sea of change from 1990s. Most laptops have quad core processors. 
-Amazon EKS (Elastic Kubernetes Services) make it possible to acquire clusters on the cloud and deploy programs on them. Bodo
-(http://bodo.ai/) offers tools for automatic parallelization of Python data analytics programs. Furthermore, in collobration with
-Xilinx (http:www.xilinx.com) Bodo brings simplicity of Python to large scale media processing. Using native Python coding it provides
-a new approach to HPC style parallel programming. The idea ultimately leads to a scenario where the requirement is for disciplined
-coder rather than higly skilled smart programmer. A bunch of intelligent people trained in classical programming skills and tools 
-can become as productive as expert programmer. 
-
-
-Any graduates from a good school could very easily fit into the job.
-Unfortunately, at most of the schools the training is poor. A root cause analysis will point to the fact that the educators don't have the required skill
-to impart the training. A skilled person from an average school is mostly self taught. What are the options left? An Economic Times report (https://economictimes.indiatimes.com/tech/information-tech/indian-it-firms-step-up-hiring-of-non-engineers-to-bridge-talent-shortfall/articleshow/87189175.cms) 
-says to bridge the talent gap Indian IT firms are hiring fresh non-engineering students. I believe it is a polite way of saying some engineering graduates 
-do not possess adequate skill. They also require retraining. Many head hunting firms also run finishing schools for upskilling engineering
-graduates. I am not sure if NASSCOM, AICTE, UGC, Ministry of Education and other regulatory bodies realize the problem of ill-trained Engineering graduates. 
-We have do have Teacher Training Institutes. However, I seriously doubt whether if they really have any contributory role to upskill the educators.
 
 [Back to Index](../index.md)
