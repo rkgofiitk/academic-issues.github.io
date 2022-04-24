@@ -2,26 +2,37 @@
 
 
 
-Before focusing on shortage of skilled programmer, let us look back in time about 50 years back to understand where we were and
-where we stand now. Vikram Sarabhai inaugurated TDC-12 computers in 1969. TDC-16 computers were marketed by ECIL during 1980s.
-However, by early 1990s it became clear to ECIL that TDC-16 computers have become obsolete. ECIL's computer group did not have an
-R&D group to innovate and design new generation machines. It had a few excellent hardware experts who were only engaged in 
-troubleshooting customer installations. Service engineers were not up to mark. So, the real experts were forced to work on field. 
+Before focusing on shortage of skilled programmer, let me take the readers about 50 years back to understand where we were and
+where we stand now. IBM 1620 was installed at IIT Kanpur in 1963. Vikram Sarabhai inaugurated TDC-12 computers in 1969. TDC-16 
+computers were marketed by ECIL during 1980s. ECIL designed a special purpose simple assembly like language called ECOBOL for COBOL 
+programmers. It was quite popular among COBOL programmers. By early 1990s it became clear to ECIL that TDC-16 computers have outlived 
+their existence. However, ECIL's computer group did not have good R&D group to innovate and design new generation machines. It had a 
+few excellent hardware experts who were only engaged in troubleshooting customer installations as the Service engineers were not up 
+to mark. So, the real experts were forced to work on field.  Furthermore, ECIL's market strategist and board of directors were 
+probably unable to realize the growth potentials of data analytics in commercial space. Or they simply failed to convince Department
+of Electronics to invest in research and development. 
 
-Indian supercomputing initiative began in 1980s. NAL built the first indigeneous parallel computer called Flosolver-MK1 in 1986. 
-Following it, different govt organizations like NAL, CDOT-CSIR, BARC-DRDO, and CDAC focused on building supercomputers. CDAC was 
-established in August 1988. It announced PARAM series of supercomputers which could achieve peak speed of 6.4GF. It could consist 
-of 160 nodes and an MIMD type parallel computer. So, the policy planners in Govt were very much aware of the low talent pool in the
-country. But until late eighties they did not think of the dire situation and that talent pool has bottomed out. 
+Interestingly, Indian supercomputing initiative began in late 1980s. NAL built the first indigeneous parallel computer called 
+Flosolver MK-1 in 1986. Following it, different govt organizations like CDOT-CSIR, BARC-DRDO, and CDAC focused on building 
+supercomputers. CDAC was established in August 1988. It announced PARAM series of supercomputers which could achieve peak speed of 
+6.4GF. It could consist of 160 nodes and an MIMD type parallel computer. A group of experts led by an IISc Professor Swami Monohar
+built first Indian tablet based on transputers in 1999. Aakash tablet was designed based on Prof Swami Monohar's initial efforts.
+So, the policy planners in Govt were very much aware of the low talent pool in the country. But until late eighties they did not 
+think of the dire situation and that the talent pool in India has bottomed out due to lack of opportunities. Most brilliant brains
+found ready acceptance in the US and other western countries.  The govt of the day had extremely myopic vision of research
+and development and relied more on importing technology.  
 
 NASSCOM was established in 1988 with mission to support IT BPM industry in India. One of its main goals is to facilitate growth of 
-intellectual capital and strengthen talent pool in the country.  However, while it spent hours in
-devising policies and architectural framework, it did not invest sufficiently or was not earnest in addressing implementational
-issues. The flexibilities
-in the framework were exploited by unscruplous operators and the talent pool was contaminated severely. Workforce with no training or
-skill aspired to get cush IT jobs. Only a few institutes like IITs and NIIs could meaningfully contribute to talent pool. It led
-to another set of unscruplous operators to establish "finishing schools" with promises for placements. The basic problem is IT 
-sector is requires a foundational knowledge base rather than just obtaining a degree. 
+intellectual capital and strengthen talent pool in the country.  It spent years in devising policies and architectural framework for
+growth of talent pool in software development and computer science education. However, it either did not invest sufficiently or did
+not address the implementation related issues. Micro detailings were left to bureaucrats of IT and HRD who messed up severly. The
+flexibilities in the framework were exploited by unscruplous operators and the talent pool was contaminated with digitally illiterate
+people. Workforce with no training or skill aspired to get cushy IT jobs. Only a few institutes like IITs and NIIs could meaningfully 
+contribute to talent pool. It led to growth of another set of unscruplous operators who created "finishing schools" with head-hunting
+companies with promises for placements. They charge huge sum of money assuring devOp jobs. Very few people in govt bureaucracy understand 
+that the IT sector is requires a foundational knowledge base rather than just B. Tech or M. Tech degrees in CS or IT. Most software
+companies like Infosys, TCS, Wipro, Mindtree, Tech Mahindra have their in-house training schools. In fact, Infosys training
+center at Mysore is much bigger than a small sized University. 
 
 
 But the national supercomputing project was launched only in 2015. In a sense, the 
