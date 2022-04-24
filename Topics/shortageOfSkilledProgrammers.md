@@ -35,10 +35,10 @@ University. It can accommodate roughly 10k trainees. I am not sure about the suc
 that Infosys throws out nearly 1500 of its new recruitees. Of course, Infosys claims a success rate of 99%. There is a recent controversy regarding Infosys banning their 
 ex-employees from joining the competitors like IBM, Cognizant, TCS, Tech Mahindra, LT infotech. I am not sure if such an agreement could be enforceable by the law of 
 the land. However, the HR dept of the companies come up with such stupid rules from time to time to exert their control over recruits. One of the fundamental issues
-in the attrition rate that the software industry faces now could be due to the clash of HR specialists and core technical specialists. Ironically, the HR specialists  
-contribute little to the revenue earnings of a company. But they are in a position to control core specialists due to their proximity to the administration and the
-management. The above narrative aims to build the background that led to the shortage of skilled programmers. The lack of skilled programmers has cascading effects 
-on software industries. Let me list out only a few:
+in the attrition rate that the software industry faces now could be due to the clash of HR specialists and core technical specialists. Ironically,  
+the HR specialists  contribute little to the revenue earnings of a company. But they are in a position to control core specialists due to their proximity to the 
+administration and the management. The above narrative aims to build the background that led to the shortage of skilled programmers. The lack of skilled programmers has
+cascading effects on software industries. Let me list out only a few:
 
 - Companies compete against one another to lure trained professionals.
 - Professionals with more than one job offer a bargain for better offers.
