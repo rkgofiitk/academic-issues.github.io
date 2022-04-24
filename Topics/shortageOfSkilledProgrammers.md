@@ -16,9 +16,9 @@ Interestingly, the Indian supercomputing initiative began in the late 1980s. NAL
 different govt organizations like CDOT-CSIR, BARC-DRDO, and CDAC focused on building supercomputers. CDAC was established in August 1988. It announced the PARAM series of 
 supercomputers that could achieve a peak speed of 6.4GF. It could consist of 160 nodes and a MIMD-type parallel computer. A group of experts led by an IISc Professor Swami 
 Monohar built the first Indian tablet based on transputers in 1999. Aakash tablet was designed based on Prof Swami Monohar’s initial efforts. So, the policy planners in 
-Govt were very much aware of the low talent pool in the country. But until the late eighties, they did not think of the dire situation and that the talent pool in India had 
-bottomed out due to lack of opportunities. Most brilliant brains found ready acceptance in the US and other western countries. The govt of the day had a highly myopic 
-vision of research and development and relied more on importing technology.
+Govt were very much aware of the low talent pool in the country. But until the late eighties, they did not think of the dire situation that the talent pool in India had 
+bottomed out due to lack of opportunities. Most brilliant minds moved out of the country and found ready acceptance in the US and other western countries. The govt of 
+the day had a highly myopic vision of research and development and relied more on importing technology.
 
 NASSCOM was established in 1988 to support IT-BPM industry in India. One of its main goals is to facilitate the growth of intellectual capital and strengthen the talent 
 pool in the country. It spent years devising policies and architectural frameworks to grow the talent pool in software development and computer science education. However, 
