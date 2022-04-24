@@ -22,15 +22,18 @@ the day had a highly myopic vision of research and development and relied more o
 
 NASSCOM was established in 1988 to support IT-BPM industry in India. One of its main goals is to facilitate the growth of intellectual capital and strengthen the talent 
 pool in the country. It spent years devising policies and architectural frameworks to grow the talent pool in software development and computer science education. However, 
-it either did not invest sufficiently or did not address the implementation-related issues. Micro detailings were left to bureaucrats of IT and HRD who messed up severely. 
-Unscruplous operators exploited the flexibilities in the framework, and the talent pool was contaminated with digitally illiterate people. Workforce with no training or 
-skill aspired to get cushy IT jobs. Only a few institutes like IITs and NITs could meaningfully contribute to the talent pool. It led to the growth of another set of 
-unscrupulous operators who created “finishing schools” with head-hunting companies with promises for placements. They charge a huge sum of money assuring DevOps jobs. Very 
-few people in govt bureaucracy understand that the IT sector requires a foundational knowledge base rather than just B. Tech or M. Tech degrees in CS or IT. Most software 
-companies like Infosys, TCS, Wipro, Mindtree, Tech Mahindra have in-house training schools. Infosys training center at Mysore is much bigger than a small-sized University. 
-It can accommodate roughly 10k trainees. I am not sure about the success rate of the trainees, but I guess about 10-15% fail to qualify. It essentially means that Infosys 
-throws out nearly 15% out of total recruitees. However, Infosys claims a success rate of 99%.
-There is a recent controversy regarding Infosys banning their ex-employees from joining the competitors like IBM, Cognizant, TCS, etc. I am not sure if such an agreement 
+it either did not invest sufficiently or did not address the implementation-related issues. Micro detailings were left to the low level bureaucrats of IT and MHRD 
+who messed up big. Unscruplous operators exploited the flexibilities in the framework, and the talent pool was contaminated with digitally illiterate people. Workforce 
+with no training or skill aspired to get cushy IT jobs. Only a few institutes like IITs and NITs could meaningfully contribute to the talent pool. It led to the growth 
+of another set of unscrupulous operators who created “finishing schools” with head-hunting companies with promises for placements. They charge a hepty sum of money 
+assuring DevOps jobs.  Even on-line skill enhancement companies also have roaring business at the expense of poor untrained students. 
+Very few people in govt bureaucracy understand that the IT sector requires a foundational knowledge base rather than just B. Tech or M. Tech 
+degrees in CS or IT. 
+
+Most software companies like Infosys, TCS, Wipro, Mindtree, Tech Mahindra have in-house training schools. Infosys training center at Mysore is much bigger than a 
+mid-sized University. It can accommodate roughly 10k trainees. I am not sure about the success rate of the trainees, but I guess about 10-15% fail to qualify. It 
+essentially means that Infosys throws out nearly 1500 of its new recruitees. Of course, Infosys claims a success rate of 99%. There is a recent controversy regarding 
+Infosys banning their ex-employees from joining the competitors like IBM, Cognizant, TCS, etc. I am not sure if such an agreement 
 could be enforceable by the law of the land. However, the HR dept of the companies come up with such stupid rules from time to time to exert their control over recruits. 
 One of the fundamental issues in the attrition rate that the software industry faces now could be the clash of HR specialists and core technical specialists. Ironically, 
 the HR specialists who do not contribute anything to the revenue earnings of a company are in position to control core specilists due to their proximity to the 
