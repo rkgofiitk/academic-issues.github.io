@@ -40,7 +40,7 @@ The HR depts of the companies come up with such stupid rules from time to time t
 the high attrition rate in software companies could the unending clash between HR dept and core technical specialists both at individual and group levels. 
 Ironically, the HR dept contribute little to the revenue earnings of a company. But they can control core specialists due to their proximity to the administration 
 and the management. Consequently, the frustration among core specialists is high, and it contributes to high attrition rate. NDAs intentionally drafted in universal
-clauses to prevent a technical expert from expanding new ideas at a different place. There is a tendency among specialists to keep innovation within self. 
+clauses to prevent a technical expert from expanding new ideas at a different place. There is a tendency among specialists to keep innovations within self. 
 The above narrative aims to build the background that led to the shortage of skilled programmers. The lack of skilled programmers has cascading effects on software 
 industries. Let me list out only a few:
 
