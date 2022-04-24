@@ -37,8 +37,8 @@ ex-employees from joining the competitors like IBM, Cognizant, TCS, Tech Mahindr
 the land. 
 
 The HR dept of the companies come up with such stupid rules from time to time to exert their control over recruits. One of the fundamental issues
-in the attrition rate that the software industry faces now could be due to the clash of HR specialists and core technical specialists. Ironically,  
-the HR specialists contribute little to the revenue earnings of a company. But they are in a position to control core specialists due to their proximity to the 
+in the attrition rate that the software industry faces now could be due to the clash of HR specialists and core technical specialists. 
+Ironically, the HR specialists contribute little to the revenue earnings of a company. But they are in a position to control core specialists due to their proximity to the 
 administration and the management. The above narrative aims to build the background that led to the shortage of skilled programmers. The lack of skilled programmers has
 cascading effects on software industries. Let me list out only a few:
 
