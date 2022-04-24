@@ -59,7 +59,7 @@ teachers than actual learning. Most teachers take FDPs as adding a line to their
 
 On a different note, I feel the propensity to circumvent the law at every opportunity is ok if it benefits oneself. The commitment to a fellow citizen is low among 
 Indians. People litter waiting areas in stations without thinking about the inconveniences it causes to fellow citizens. No one has respect for the time of others. People 
-try to muscle their way into the waiting queues.People use derogatory, disrespectable epitaphs against others who come to cross their way. A short sampling of posts on 
+try to muscle their way into the waiting queues. People use derogatory, disrespectable epitaphs against others who come to cross their way. A short sampling of posts on 
 twitter, facebook, and other social media and TV debates will explain what I wanted to convey. Notably social media posts are not by illiterrate people but by tech-savvy
 educated folks who can influence public opinion and may impact govt's policies. 
 
