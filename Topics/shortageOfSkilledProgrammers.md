@@ -54,16 +54,16 @@ says to bridge the talent gap Indian IT firms are hiring fresh non-engineering s
 graduates do not possess the adequate skills. They also require retraining. Programming requires systematic application intuitions. Any graduates with a bit of training in 
 maths from a good school could very easily fit into the job. Learning the syntax of a programming language is relatively easy. The availability of good IDEs has made syntax 
 largely irrelevant. Unfortunately, at most of the schools, the training is poor. A root cause analysis will point out that the educators don’t have the required skills to 
-impart the training. A skilled person from an average school is primarily self-taught. Coursera, MIT OCW, NPTEL, and other online resources could help serious sluggers 
-self-train to become DevOps specialists. Many headhunting firms also run finishing schools for upskilling engineering graduates. I am not sure if NASSCOM, AICTE, UGC, 
-Ministry of Education, and other regulatory bodies realize the problem of ill-trained Engineering graduates. We do have Teacher Training Institutes. However, I seriously 
-doubt whether they have any contributory role in upskilling the educators. MEITY, AICTE, and other govt sponsoring agencies provide funds for FDPs. But most of these FDPs 
+impart the training. A skilled person from an average school is primarily self-taught. Coursera, MIT OCW, NPTEL, and other online resources could help a serious slugger to
+self-train and become a DevOps specialist. Many head-hunting firms also run finishing schools for upskilling engineering graduates. I am not sure if NASSCOM, AICTE, UGC, 
+Ministry of Education, and other regulatory bodies realize the problem of ill-trained CS Engineering graduates. We do have Teacher Training Institutes. However, I seriously 
+doubt if they have any contributory role in upskilling the educators. MEITY, AICTE, and other govt sponsoring agencies provide funds for FDPs. But most of these FDPs 
 are not focused on skill development. FDPs are available for high-end topics like ML, AI, Blockchain, Wireless Sensor Networks, IoT, etc. But how many of the FDPs are 
 funded for training teachers in imparting coding? Furthermore, the FDPs are typically of short duration, anywhere from 3 days to 2 weeks. Getting a certificate is more 
-important for the teachers than actual learning. Most teachers treat FDPs as just adding a line to their CV. To an extent, I believe that we are a bunch of opportunists 
-and have little feeling toward nation-building.
+important for the teachers than actual learning or gathering knowledge. Most teachers use FDPs for adding lines to their CVs. To an extent, I believe that we are a bunch of opportunists 
+and have little commitment toward nation-building.
 
-On a different note, I feel the propensity to circumvent the law at every opportunity is ok if it benefits oneself. The commitment to a fellow citizen is low among 
+On a different note, I feel the propensity to circumvent the law at every opportunity is ok as long as it benefits oneself. The commitment to a fellow citizen is low among 
 Indians. People litter waiting areas in stations without thinking about the inconveniences it causes to fellow citizens. No one has respect for the time of others. People 
 try to muscle their way into the waiting queues. People use derogatory, disrespectable and contemptuous words against others who cross their way. A short sampling of 
 posts on Twitter, facebook, and other social media as well as contemporary TV debates will explain what I wanted to convey. Notably social media posts are not by
