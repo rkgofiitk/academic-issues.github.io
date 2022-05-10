@@ -1,3 +1,5 @@
+## Directors of Institute of National Importance
+
 British rule framed India's modern education system. In 1857 three universities, one each at Calcutta, Bombay, and 
 Madras started functioning. These universities were governed by rules similar to those in force in England at the time. 
 The British rulers did tinker with administration and the policies to ensure that the university system did not provide
@@ -26,9 +28,13 @@ rather than perform an advisory role.  The procedure Followed by the Universitie
 modeled after MIT, the procedure followed in the appointment of the MIT president should have significantly influenced the 
 procedure for the appointment of IIT Directors.
 
-A brief outline of the procedure for selecting MIT's President is as follows. An 18-member faculty advisory committee along with MIT corporation committee on the selection of presidency interviews the faculty members in every department of MIT.  It ascertains their views of the issues,  the challenges, and the opportunities facing a new president and, by extension, helps define the skills and the experience that a new president should have to become successful. 
+A brief outline of the procedure for selecting MIT's President is as follows. An 18-member faculty advisory committee along 
+with MIT corporation committee on the selection of presidency interviews the faculty members in every department of MIT.  
+It ascertains their views of the issues,  the challenges, and the opportunities facing a new president and, by extension,
+helps define the skills and the experience that a new president should have to become successful. 
 
-We also looked at the selection process of the Vice-Chancellor of Cambridge and Oxford. Cambridge University has a governing board called the council. The council consists of 19 elected members from the following classes.
+We also looked at the selection process of the Vice-Chancellor of Cambridge and Oxford. Cambridge University has a 
+governing board called the council. The council consists of 19 elected members from the following classes.
  
 1. four heads of the colleges 
 2. four Professors or Readers 
@@ -41,9 +47,17 @@ from the list sent by the council. It is clear from the composition of the counc
 of the Vice-Chancellor rests on the direct stakeholders. The Regent House essentially performs the job of an oversight 
 committee. 
 
-Oxford University's structure is slightly different from that of Cambridge. It has a congregation and a council. The congregation performs the job of the Regent House, as in the case of Cambridge University. It consists of 4000 members drawn from the university's academic staff, the heads of the departments, and other members of the governing bodies of the colleges. The congregation is empowered to change the statutes and the regulations, electing members to the council and appointment of Vice-Chancellor. 
+Oxford University's structure is slightly different from that of Cambridge. It has a congregation and a council. The 
+congregation performs the job of the Regent House, as in the case of Cambridge University. It consists of 4000 members 
+drawn from the university's academic staff, the heads of the departments, and other members of the governing bodies of the 
+colleges. The congregation is empowered to change the statutes and the regulations, electing members to the council and 
+appointment of Vice-Chancellor. 
 
-We studied the general framework for the Presidents' appointments for the universities in the USA. The President's role is different from that of a Vice-Chancellor of a university in Europe or India. The President is the chief executive officer of a university. They work in close collaboration with the Provosts. The Provost is generally responsible for academic affairs. The faculty typically elects the Provost. The role of the President is mainly to lead the fundraising efforts and foster a positive public image of the university and its academic community to the external world. 
+We studied the general framework for the Presidents' appointments for the universities in the USA. The President's role is 
+different from that of a Vice-Chancellor of a university in Europe or India. The President is the chief executive officer 
+of a university. They work in close collaboration with the Provosts. The Provost is generally responsible for academic 
+affairs. The faculty typically elects the Provost. The role of the President is mainly to lead the fundraising efforts and 
+foster a positive public image of the university and its academic community to the external world. 
 
 A governing board of a university possesses fundamental legal authority over the university. Harvard University, for 
 example, has two governing bodies: (i) Harvard corporation and (ii) The board of overseers. Harvard corporation is a seven-
@@ -57,7 +71,10 @@ In summary, the appointment of chief academic and executive officer of an instit
 decided solely by the direct stakeholders. Leaders can not lead unless they have the complete confidence of the faculty and 
 the students.
 
-The Directors of IITs perform the combined role of a President and the Provost. Therefore, the political interference in the appointments of Directors over the years has ruined the IIT system. We think the roadmap to evolve a good selection process and the refinement of the same over time should start with the transparency in the method. One good thing that has happened is the practice of advertising the post. 
+The Directors of IITs perform the combined role of a President and the Provost. Therefore, the political interference in 
+the appointments of Directors over the years has ruined the IIT system. We think the roadmap to evolve a good selection 
+process and the refinement of the same over time should start with the transparency in the method. One good thing that has 
+happened is the practice of advertising the post. 
 
 However, the process of selection still rests almost entirely with MHRD. The IIT Council acts as a proxy for the ministry 
 of education.  The person who becomes a Director is essentially a proxy for the ministry. It allows the minister and the 
@@ -86,37 +103,64 @@ The two significant points of this letter are as follows:
 
  1. The appointment of Directors/Vice-Chancellors of new IITs, IIMs, IISERs, central universities, and AIIMS must be made by a search committee with an independent chair capable of exercising the highest quality of judgment. He says that direct involvement of Administrative Ministries can result in an unfortunate situation. 
 
-2. The appointment of Chairpersons and members of governing councils/boards needs to be carefully crafted to benefit the most comprehensive inputs from academia and society. The revamp and overhaul of the selection process should be on the following lines in the future. 
-a) Apart from inviting applications through public advertisement, the selection process should incorporate views from faculty and students of respective IITs for which the Director's appointment is being made. 
+2. The appointment of Chairpersons and members of governing councils/boards needs to be carefully crafted to benefit the 
+most comprehensive inputs from academia and society. The revamp and overhaul of the selection process should be on the following lines in the future. 
 
-b) Since every IIT already has the Senate as a statutory body, feedback on the candidates should be sought from a faculty advisory committee (FAC) set up by the Senate. 
+a) Apart from inviting applications through public advertisement, the selection process should incorporate views from 
+faculty and students of respective IITs for which the Director's appointment is being made. 
+
+b) Since every IIT already has the Senate as a statutory body, feedback on the candidates should be sought from a faculty 
+advisory committee (FAC) set up by the Senate. 
+
 The composition of FAC could be as follows:
- – Senior-most Professor who is not an applicant for the post of Director. 
+– Senior-most Professor who is not an applicant for the post of Director. 
 – Senior-most Associate Professor.
- – Three Senior-most Assistant Professors.
+– Three Senior-most Assistant Professors.
 – Five elected heads of departments. 
 – One student member of the Senate. 
+
 FAC would thus consist of at least nine members, with the Chairperson being elected by the committee members itself.
 
- c) If the FAC gives negative feedback on any candidate, then that candidate's name should be automatically dropped from further consideration.
+c) If the FAC gives negative feedback on any candidate, then that candidate's name should be automatically dropped from 
+further consideration.
 
- d) The candidates for directorial assignment should possess the following attributes. 
-– They should be eligible for recommendation to the post of a senior professor at IITs and internationally acclaimed as eminent scholars and widely respected in society. In this context, it is appropriate to mention the Kothari Commission report, which states that a head of the institution stands for the institute's commitment to scholarship and pursuit of truth (Kothari Commission report 1964-66, pp 334). 
-– They should not hold the position of Directors or heads of the institutes of national importance. We believe that if a candidate has accepted a comparable position.  It should be understood that they have a certain vision and conviction regarding their abilities to lead their chosen institution. Any explicit or implicit desire to switch a position afterward should be considered a disqualification. The switching of positions disturbs the administrative set up in one institution and could potentially lead to foisting an unwilling person to the other. 
+d) The candidates for directorial assignment should possess the following attributes. 
+– They should be eligible for recommendation to the post of a senior professor at IITs and internationally acclaimed as 
+eminent scholars and widely respected in society. In this context, it is appropriate to mention the Kothari Commission 
+report, which states that a head of the institution stands for the institute's commitment to scholarship and pursuit of 
+truth (Kothari Commission report 1964-66, pp 334). 
+– They should not hold the position of Directors or heads of the institutes of national importance. We believe that if a 
+candidate has accepted a comparable position.  It should be understood that they have a certain vision and conviction 
+regarding their abilities to lead their chosen institution. Any explicit or implicit desire to switch a position afterward 
+should be considered a disqualification. The switching of positions disturbs the administrative set up in one institution 
+and could potentially lead to foisting an unwilling person to the other. 
 – They should not have been past Directors of the IITs or served as a Vice-Chancellor of any university. It is more to ensure that no person should be given any extension beyond a 5-year term. A 10-year term (as has been the practice recently) is detrimental to the institute's growth and its faculty. Conflict of views may arise from time to time between the chief administrator and many groups of faculty members on the issue concerning institute academic governance. If chief administrators stay for  extended terms, they may break or make any employee's career. The faculty members are the most critical asset of an institution, so efforts must be made to ensure a stress-free environment. 
 – They should not have held any position at least in the last 15 years in the same institute for which they are being considered for a Director's positions. Generally, it is found that such appointees, who benefit from being an insider, hold biased views and tend to micro-manage the day-to-day affairs. We believe that the job of a Director is not micro-manage but to provide vision and outline a roadmap for leading the institute to excellence. 
 – Their should not have been involved in cases of intellectual plagiarism, sexual harassment, or criminal or financial embezzlement. 
 e) After the candidates are short-listed, they should be asked to draw up a vision document outlining their roadmap to lead the institute.
  f) FAC should be entrusted to invite feedback from entire faculty on the vision documents, collate the feedback, and prepare an evaluation report on the suitability of the candidates.
  g) Top three candidates in the list should give a presentation to the institute's faculty. After that, the faculty advisory committee should give the visitor an ordered list of candidates. The visitor should make the appointment.
-h) A midterm evaluation should be made by the institute's faculty. The faculty forum of the institute should be entrusted to collect the feedback through a web-based interface with proper encryption and anonymization. The evaluation results should be intimated to the Board, IIT council and the Director. An appropriate moderation of feedbacks should be done to remove any derogatory remarks in the feedback. The Director should be allowed to defend or present their views on which a joint committee of the Senate and the Board should a decide on extending or terminating the Director's term. The joint committee should consist of 4
- – The Chairperson of the board 
+h) A midterm evaluation should be made by the institute's faculty. The faculty forum of the institute should be entrusted 
+to collect the feedback through a web-based interface with proper encryption and anonymization. The evaluation results 
+should be intimated to the Board, IIT council and the Director. An appropriate moderation of feedbacks should be done to 
+remove any derogatory remarks in the feedback. The Director should be allowed to defend or present their views on which a 
+joint committee of the Senate and the Board should a decide on extending or terminating the Director's term. The joint 
+committee should consist of 4
+
+– The Chairperson of the board 
 – One elected board member. 
-– Two nominated members (other than govt representatives) of the board. – Senior-most Professor of the institute. 
+– Two nominated members (other than govt representatives) of the board. 
+– Senior-most Professor of the institute. 
 – Five elected heads of the department. 
 – Senior-most Associate Professor 
 – Senior-most Assistant Professor.
- – One student Senate nominee 
+– One student Senate nominee 
 – One nominee from non-academic staff.
 
-There is a steady decline in the qualities and norms of public life and probity in India. The primary reason is the excessive interference by the politicians and the bureaucrat's nexus in the micro-management of institutions. While the resistance to interference is gaining ground, the extent of interference has also increased several folds. Unfortunately, the slow and sluggishness of the judicial review system has emboldened the above nexus. By the time any court reaches a judgment, the relevance of court intervention has ceased, or the involved bureaucrat would have retired or died.  Politicians were never caught or let off with at most a warning.  The flow of funds has increased considerably in recent years. It has become reason for aggressive political and bureaucratic interference in almost all public institutions. 
+There is a steady decline in the qualities and norms of public life and probity in India. The primary reason is the 
+excessive interference by the politicians and the bureaucrat's nexus in the micro-management of institutions. While the 
+resistance to interference is gaining ground, the extent of interference has also increased several folds. Unfortunately, 
+the slow and sluggishness of the judicial review system has emboldened the above nexus. By the time any court reaches a 
+judgment, the relevance of court intervention has ceased, or the involved bureaucrat would have retired or died.  
+Politicians were never caught or let off with at most a warning.  The flow of funds has increased considerably in recent 
+years. It has become reason for aggressive political and bureaucratic interference in almost all public institutions. 
