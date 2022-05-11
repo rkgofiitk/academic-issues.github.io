@@ -96,7 +96,6 @@ the institute's autonomy. The Directors do not act as proxies of the ministry of
 Executive committee, the faculty of each IIT should have a say in nominating the Director of IITs for the selection process. We 
 propose as follows:
 
-
 - The board of IIT for which the director appointment is due should spell out the short-listing process followed, 
 - The specific nominations made and the membership of the search committee, and its report. 
 - The search committee for short-listing should induct an elected representative of the IIT faculty. 
@@ -122,19 +121,20 @@ Director's appointment is being made. Since every IIT already has the Senate as 
 be sought from a faculty advisory committee (FAC) set up by the Senate. 
 
 We propose following composition of FAC:
-
-– Senior-most Professor who is not an applicant for the post of Director. 
-– Senior-most Associate Professor.
-– Three Senior-most Assistant Professors.
-– Five elected heads of departments. 
-– One student member of the Senate. 
+<ol>
+ <li> Senior-most Professor who is not an applicant for the post of Director </li>
+ <li> Senior-most Associate Professor</li>
+ <li> Three Senior-most Assistant Professors</li>
+ <li> Five elected heads of departments </li>
+ <li> One student member of the Senate. </li>
+ </ol>
 
 The FAC would thus consist of at least nine members, with the Chairperson being elected by the committee members itself.
 If the FAC gives negative feedback on any candidate, then that candidate's name should be automatically dropped from 
 further consideration.
 
 The candidates for directorial assignment should possess the following attributes. 
-<ol>
+<ul>
   <li> They should be eligible for recommendation to the post of a senior professor at IITs and internationally acclaimed as eminent 
   scholars and widely respected in society. In this context, it is appropriate to mention the Kothari Commission report, which 
   states that a head of the institution stands for the institute's commitment to scholarship and pursuit of truth 
@@ -155,7 +155,7 @@ The candidates for directorial assignment should possess the following attribute
   micro-manage the day-to-day affairs. We believe that the job of a Director is not micro-manage but to provide vision and outline a  
  roadmap for leading the institute to excellence. </li>
 <li> Their should not have been involved in cases of intellectual plagiarism, sexual harassment, or criminal or financial embezzlement. 
- </li></ol>
+ </li></ul>
 After the candidates are short-listed, they should be asked to draw up a vision document outlining their roadmap to lead the institute.
 FAC should be entrusted to invite feedback from entire faculty on the vision documents, collate the feedback, and prepare an evaluation 
 report on the suitability of the candidates. Top three candidates in the list should give a presentation to the institute's faculty. 
@@ -168,16 +168,17 @@ should be intimated to the Board, IIT council and the Director. An appropriate m
 remove any derogatory remarks in the feedback. The Director should be allowed to defend or present their views on which a 
 joint committee of the Senate and the Board should a decide on extending or terminating the Director's term. The joint 
 committee should consist of 
-
-– The Chairperson of the board 
-– One elected board member. 
-– Two nominated members (other than govt representatives) of the board. 
-– Senior-most Professor of the institute. 
-– Five elected heads of the department. 
-– Senior-most Associate Professor 
-– Senior-most Assistant Professor.
-– One student Senate nominee 
-– One nominee from non-academic staff.
+<ol>
+<li>The Chairperson of the board  </li> 
+ <li>One elected board member.  </li> 
+<li>Two nominated members (other than govt representatives) of the board.  </li>
+ <li>Senior-most Professor of the institute.  </li>
+<li>Five elected heads of the department.  </li>
+<li>Senior-most Associate Professor  </li>
+<li>Senior-most Assistant Professor. </li>
+ <li>One student Senate nominee </li>
+ <li>One nominee from non-academic staff.</li>
+ </ol>
 
 In general, there is a steady decline in the qualities and norms of public life and probity in India. The primary reason is the 
 excessive interference by the politicians and the bureaucrat's nexus in the micro-management of institutions. While the 
