@@ -77,7 +77,7 @@ The Directors of IITs perform the combined role of a President and the Provost. 
 university, the operational complexities are not any less. The dual role of academic Provost and Chief administrative
 officer is a bit of overburden for a person. Sadly, the chairpersons of IITs have only an ornamental role. In the past, most of 
 these persons were retired bureaucrats or retired corporate executives or emeritus academicians. They use
-IIT tags only to enjoy perquisites or enhance their waning public image. None of them that I know of, have ever supported the
+IIT tags only to enjoy perquisites or enhance their waning public images. None of them that I know of, have ever supported the
 cause of either the faculty or the academics. A few of these people sided with the MHRD, who wanted to dismantle IIT JEE during
 the UPA rule. They failed miserably primarily due to Senates of three older IITs, Kanpur, Delhi and Bombay. 
 
