@@ -162,6 +162,7 @@ report on the suitability of the candidates. Top three candidates in the list sh
 After that, the faculty advisory committee should give the visitor an ordered list of candidates. The visitor should make the 
 appointment.
 
+
 A midterm evaluation should be made by the institute's faculty. The faculty forum of the institute should be entrusted 
 to collect the feedback through a web-based interface with proper encryption and anonymization. The evaluation results 
 should be intimated to the Board, IIT council and the Director. An appropriate moderation of feedbacks should be done to 
