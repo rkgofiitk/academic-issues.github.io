@@ -76,11 +76,11 @@ the students.
 
 The Directors of IITs perform the combined role of a President and the Provost. Sadly, the chairpersons of IITs have only 
 ornamental role. In the past, most of these persons were either retired bureaucrats or retired corporate executives. They use
-IIT tag only to enjoy perquisites or enhance their public image. None of them I know of have ever acted positively to further the
-cause of faculty or academics. A few of these people sided with the MHRD when it wanted to dismantle IIT JEE during UPA rule.
-University chancellors do not have any power. They act as instructed by the state politicians in power. So it is even more 
-pathetic situation at State Universities.  In summary, neither IIT system nor the university system in India is politically
-or academically insulated.   
+IIT tag only to enjoy perquisites or enhance their public image. None of them that I know of, have ever acted positively to further the
+cause of either the faculty or the academics. A few of these people sided with the MHRD when it wanted to dismantle IIT JEE during
+the UPA rule. The Chancellors of the state universities do not have any executive power. They act as instructed by the state 
+politicians in power. So the situation at the State Universities is even more pathetic.  In summary, neither IIT system nor 
+the university system in India is politically or academically insulated.   
 
 Let us focus exclusively on IIT system because IITs mainly drive India's talent pool. We think the roadmap to evolve a good 
 selection process and the refinement of the same over time should start with the transparency in the method. One good thing that has 
