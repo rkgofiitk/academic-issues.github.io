@@ -26,7 +26,7 @@ the IIT council was to perform liaison across IITs so that each one could adopt 
 from time to time. Over the years, the IIT council has become a proxy power center for the ministry of education to control 
 IIT administrators (directors) instead of performing an advisory role.  
 
-The procedure Followed by the Universities in Europe and USA. Since the IIT system is modeled after MIT, the procedure followed
+The procedure followed by the Universities in Europe and USA. Since the IIT system is modeled after MIT, the procedure followed
 for the appointment of the MIT president should have significantly influenced the appointment of IIT Directors.
 A brief outline of the procedure for selecting MIT's President is as follows. An 18-member faculty advisory committee along 
 with MIT corporation committee on the selection of presidency interviews the faculty members in every department of MIT.  
