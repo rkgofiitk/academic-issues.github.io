@@ -1,4 +1,4 @@
-## Of Academic Institutions, Autonomy and Appointments
+## Of Academic Institutions, Autonomy, and Appointments
 
 The British rulers framed India's modern education system. In 1857 three universities, one each at Calcutta, Bombay, and 
 Madras started functioning. These universities were governed by rules similar to those in force at London University at the time. 
