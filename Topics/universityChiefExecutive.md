@@ -116,21 +116,18 @@ The two significant points of this letter are as follows:
    most comprehensive inputs from academia and society. The revamp and overhaul of the selection process should be on the following lines 
    in the future. 
 
-- Apart from inviting applications through public advertisement, the selection process should incorporate views from 
-  faculty and students of respective IITs for which the Director's appointment is being made. 
+Unfortunately, Sam Pitroda refrained from touching the internal aspects of IIT's autonomy. Apart from inviting applications through
+public advertisement, the selection process should incorporate views from faculty and students of respective IITs for which the
+Director's appointment is being made. Since every IIT already has the Senate as a statutory body, feedback on the candidates should 
+be sought from a faculty advisory committee (FAC) set up by the Senate. 
 
-Since every IIT already has the Senate as a statutory body, feedback on the candidates should be sought from a faculty 
-advisory committee (FAC) set up by the Senate. 
-
-The composition of FAC could be as follows:
+We propose following composition of FAC:
 – Senior-most Professor who is not an applicant for the post of Director. 
 – Senior-most Associate Professor.
 – Three Senior-most Assistant Professors.
 – Five elected heads of departments. 
 – One student member of the Senate. 
-
-FAC would thus consist of at least nine members, with the Chairperson being elected by the committee members itself.
-
+The FAC would thus consist of at least nine members, with the Chairperson being elected by the committee members itself.
 If the FAC gives negative feedback on any candidate, then that candidate's name should be automatically dropped from 
 further consideration.
 
@@ -150,10 +147,10 @@ and could potentially lead to foisting an unwilling person to the other.
 – Their should not have been involved in cases of intellectual plagiarism, sexual harassment, or criminal or financial embezzlement. 
 
 After the candidates are short-listed, they should be asked to draw up a vision document outlining their roadmap to lead the institute.
-
-FAC should be entrusted to invite feedback from entire faculty on the vision documents, collate the feedback, and prepare an evaluation report on the suitability of the candidates.
-
-Top three candidates in the list should give a presentation to the institute's faculty. After that, the faculty advisory committee should give the visitor an ordered list of candidates. The visitor should make the appointment.
+FAC should be entrusted to invite feedback from entire faculty on the vision documents, collate the feedback, and prepare an evaluation 
+report on the suitability of the candidates. Top three candidates in the list should give a presentation to the institute's faculty. 
+After that, the faculty advisory committee should give the visitor an ordered list of candidates. The visitor should make the 
+appointment.
 
 A midterm evaluation should be made by the institute's faculty. The faculty forum of the institute should be entrusted 
 to collect the feedback through a web-based interface with proper encryption and anonymization. The evaluation results 
