@@ -16,7 +16,7 @@ At the insistence of two prominent Indian members of the council, a 22-member co
 Nalini Ranjan Sarkar was formed in 1946. The committee recommended the 
 establishment of four technical institutions in line with the MIT. The govt accepted the Sarkar committee's recommendations.
 Had it not been an initiative of the Indian members of the Viceroy's council, IITs would not have seen the light 
-of the day. Today, IITs have acquired a brand value that even unscrupulous minds find it easy to exploit. 
+of the day. Today, IITs have acquired a brand value that even unscrupulous minds find easy to exploit. 
 
 The organization of the IIT system is clearly defined under the Acts of IITs. Every IIT has a Board whose Chairperson is 
 different from its Director. The Director of an IIT is the administrative and the academic Head. The decision to keep the 
