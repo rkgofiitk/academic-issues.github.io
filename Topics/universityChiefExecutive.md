@@ -134,28 +134,28 @@ If the FAC gives negative feedback on any candidate, then that candidate's name 
 further consideration.
 
 The candidates for directorial assignment should possess the following attributes. 
-
-– They should be eligible for recommendation to the post of a senior professor at IITs and internationally acclaimed as eminent 
+<ol>
+  <li> They should be eligible for recommendation to the post of a senior professor at IITs and internationally acclaimed as eminent 
   scholars and widely respected in society. In this context, it is appropriate to mention the Kothari Commission report, which 
   states that a head of the institution stands for the institute's commitment to scholarship and pursuit of truth 
-  (Kothari Commission report 1964-66, pp 334). 
-– They should not hold the position of Directors or heads of the institutes of national importance. We believe that if a candidate 
+   (Kothari Commission report 1964-66, pp 334). </li>
+ <li> They should not hold the position of Directors or heads of the institutes of national importance. We believe that if a candidate 
   has accepted a comparable position.  It should be understood that they have a certain vision and conviction regarding their 
   abilities to lead their chosen institution. Any explicit or implicit desire to switch a position afterward should be considered 
   a disqualification. The switching of positions disturbs the administrative set up in one institution and could potentially lead
-  to foisting an unwilling person to the other. 
-– They should not have been past Directors of the IITs or served as a Vice-Chancellor of any university. It is more to ensure that no
+  to foisting an unwilling person to the other. </li>
+ <li> They should not have been past Directors of the IITs or served as a Vice-Chancellor of any university. It is more to ensure that no
   person should be given any extension beyond a 5-year term. A 10-year term (as has been the practice recently) is detrimental to the 
   institute's growth and its faculty. Conflict of views may arise from time to time between the chief administrator and many groups of 
   faculty members on the issue concerning institute academic governance. If chief administrators stay for  extended terms, they may break 
   or make any employee's career. The faculty members are the most critical asset of an institution, so efforts must be made to ensure a 
-  stress-free environment. 
-– They should not have held any position at least in the last 15 years in the same institute for which they are being considered for a 
+  stress-free environment. </li>
+<li> They should not have held any position at least in the last 15 years in the same institute for which they are being considered for a 
   Director's positions. Generally, it is found that such appointees, who benefit from being an insider, hold biased views and tend to 
   micro-manage the day-to-day affairs. We believe that the job of a Director is not micro-manage but to provide vision and outline a  
-  roadmap for leading the institute to excellence. 
-– Their should not have been involved in cases of intellectual plagiarism, sexual harassment, or criminal or financial embezzlement. 
-
+ roadmap for leading the institute to excellence. </li>
+<li> Their should not have been involved in cases of intellectual plagiarism, sexual harassment, or criminal or financial embezzlement. 
+ </li></ol>
 After the candidates are short-listed, they should be asked to draw up a vision document outlining their roadmap to lead the institute.
 FAC should be entrusted to invite feedback from entire faculty on the vision documents, collate the feedback, and prepare an evaluation 
 report on the suitability of the candidates. Top three candidates in the list should give a presentation to the institute's faculty. 
