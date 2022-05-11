@@ -187,6 +187,8 @@ There is a steady decline in the qualities and norms of public life and probity 
 excessive interference by the politicians and the bureaucrat's nexus in the micro-management of institutions. While the 
 resistance to interference is gaining ground, the extent of interference has also increased several folds. Unfortunately, 
 the slow and sluggishness of the judicial review system has emboldened the nexus. By the time any court reaches a 
-judgment, the relevance of court intervention has ceased, or the involved bureaucrats/politicians would have retired or died.  
-Unfortunately, politicians were never caught or let off with at most a warning. The flow of funds has increased considerably in recent 
-years. It has become a reason for aggressive political and bureaucratic interference in almost all public institutions. 
+judgment, the relevance of court intervention has ceased, or the involved bureaucrats/politicians would have 
+retired or died.  Unfortunately, politicians are never caught or let off with at most a warning. The flow of funds has increased 
+considerably in recent years. It has become a reason for aggressive political and bureaucratic interference in almost all public institutions. 
+
+[Back to Index](../index.md)
