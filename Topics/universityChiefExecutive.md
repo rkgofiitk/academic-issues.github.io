@@ -10,11 +10,11 @@ carry out their academic activities. JC Bose was perhaps the most versatile and 
 recognized much, but CV Raman got a Nobel prize. 
 
 Unfortunately, the older universities were unable to keep up either with the space of the progress or the aspirations of 
-the gifted students. India witnessed a large-scale exodus of talented people to foreign universities. After the independence,  
-the govt of the day realized that there was a massive shortage of engineers and technical experts. At the insistence of two 
-prominent Indian members of the Viceroy's executive council, a 22-member committee headed by Nalini Ranjan Sarkar was 
-formed in 1946 before India gained independence from British rule. The committee recommended the establishment of four technical 
-institutions in line with the MIT. The govt accepted the Sarkar committee's recommendations.
+the gifted students. India witnessed a large-scale exodus of talented people to foreign universities. In preparation for
+power transfer, the govt of the day realized that there may be a massive shortage of engineers and technical experts. 
+At the insistence of two prominent Indian members of the Viceroy's executive council, a 22-member committee headed by 
+Nalini Ranjan Sarkar was formed in 1946 before India gained independence from British rule. The committee recommended the 
+establishment of four technical institutions in line with the MIT. The govt accepted the Sarkar committee's recommendations.
 
 Possibly had it not been an initiative of the Indian members of the Viceroy's committee, IITs would not have seen the light 
 of the day. Today, IITs have acquired a brand value that unscrupulous minds would always want to cash on from within the system. 
