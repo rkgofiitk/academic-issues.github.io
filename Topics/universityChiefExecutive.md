@@ -26,16 +26,15 @@ the IIT council was to perform liaison across IITs so that each one could adopt 
 from time to time. Over the years, the IIT council has become a proxy power center for the ministry of education to control 
 IIT administrators (directors) instead of performing an advisory role.  
 
-Since the IIT system is modeled after MIT, the procedure followed for the appointment of the MIT president should have 
+Since the IIT system is modeled after MIT, the procedure followed for the appointment of the MIT president may have 
 significantly influenced the appointment of IIT Directors. A brief outline of the procedure for selecting MIT's President is as follows. 
-
-An 18-member faculty advisory committee along 
-with MIT corporation committee on the selection of presidency interviews the faculty members in every department of MIT.  
-It ascertains their views of the issues, the challenges, and the opportunities facing a new president. By extension, it
-helps define the skills and the experience that a new president should have to become successful. 
+An 18-member faculty advisory committee along with MIT corporation committee for the selection of presidency interviews the 
+faculty members in every department of MIT.  It ascertains their views of the issues, the challenges which a new President
+may fact, and the available opportunities for the person. The exercise helps to define the skills and the experience that a 
+new president should possess to become successful. 
 
 Let us also look at the selection process of the Vice-Chancellor of Cambridge and Oxford. Cambridge University has a 
-governing board called the council. The council consists of 19 elected members from the following classes.
+governing board called the council. The council consists of nineteen elected members from the following constituencies.
  
 1. Four heads of the colleges 
 2. Four Professors or Readers 
@@ -44,56 +43,58 @@ governing board called the council. The council consists of 19 elected members f
 
 The Regent House is the principal electoral constituency of the university. It has more than 4500 members comprising 
 university officers, heads of the depts, and fellows of the colleges. The Regent House elects one of the nominees as Vice-Chancellor 
-from the list sent by the council. It is clear from the composition of the council that the direct stakeholders have a significant
-influence on the selection of the Vice-Chancellor. The Regent House performs the job of an oversight committee. 
+from the list sent by the council. It is clear from the composition that the direct stakeholders have a significant
+influence over the selection of the Vice-Chancellor. The Regent House basically performs the job of an oversight committee. 
 
 Oxford University's structure is slightly different from that of Cambridge. It has a congregation and a council. The 
-congregation performs the job of the Regent House like in the case of Cambridge University. It consists of 4000 members 
+congregation performs the job of the oversight like the Regent House of Cambridge University. It consists of 4000 members 
 drawn from the university's academic staff, the Heads of the Departments, and other members of the governing bodies of the 
 colleges. The congregation is empowered to change the statutes and the regulations, electing members to the council and 
-appointment of Vice-Chancellor. The congregation is like the senate of the University system in India, but not as
-politicized. Many members of the university senate system in India owe allegiance to parties, mainly the party in power in 
-the state. 
+appointment of Vice-Chancellor. The congregation functions like a senate of the University system in India. However, the
+congregation is not as politicized as the Senates. Many members of the university senates in India owe allegiance to the 
+political parties. 
 
 We studied the general framework for the appointments of the Presidents for the US universities. A President's role is 
 different from that of a Vice-Chancellor of a university either in Europe or in India. The Presidents are the chief executive officers 
-of universities. They work in close collaboration with the Provosts. The Provost is responsible for academic 
-affairs. The faculty typically elects the Provost. The role of the President is to lead the fundraising efforts and 
+of universities. They work in close collaboration with the Provosts. The Provost is responsible for the academic 
+affairs. The faculty typically elect the Provost. The role of the President is to lead the fundraising efforts, and
 foster a positive public image of the university and its academic community to the external world.
 
 A governing board of a university possesses fundamental legal authority over the university. Harvard University, for 
 example, has two governing bodies: (i) Harvard corporation and (ii) The board of overseers. Harvard corporation is a seven-
 member executive body consisting of the President and the Fellows of Harvard College. The body of overseers consists of 30 
 members elected by Harvard degree holders. Two boards have joint committees for appointments. Even with so many checks and 
-balances, Larry Summers had to step down from the president-ship in June 2006 (Nature vol 440, pp 8-9, 2006), due to 
-intense criticism from the academics (Nature vol 433, pp 190-192). It does go on to so not everything is hunky-dory with US 
-university system. However, it does not generally affect the university's faculty or academic programs.
+balances, Larry Summers had to step down from the president-ship in June 2006 (Nature vol 440, pp 8-9, 2006) due to 
+intense criticism from the academics (Nature vol 433, pp 190-192). So not everything is hunky-dory with US 
+university system. However, it never affects the university's faculty or its academic programs.
 
-In summary, the appointment of chief academic and executive officer of an institute of higher learning, the world over, is 
-decided solely by the direct stakeholders. Leaders can not lead unless they have the complete confidence of the faculty and 
+In summary, world over the appointments of chief academic and executive officers of an institute of higher learning is 
+decided solely by the direct stakeholders. The leaders can not lead unless they have the complete confidence of the faculty and 
 the students.
 
 The Directors of IITs perform the combined role of a President and the Provost. Sadly, the chairpersons of IITs have only 
 ornamental role. In the past, most of these persons were either retired bureaucrats or retired corporate executives. They use
-IIT tag only to enjoy perquisites or enhance their public image. None of them that I know of, have ever acted positively to further the
-cause of either the faculty or the academics. A few of these people sided with the MHRD when it wanted to dismantle IIT JEE during
-the UPA rule. The Chancellors of the state universities do not have any executive power. They act as instructed by the state 
+IIT tags only to enjoy perquisites or enhance their public image. None of them that I know of, have ever acted support the
+cause of either the faculty or the academics. A few of these people sided with the MHRD who wanted to dismantle IIT JEE during
+the UPA rule. They failed miserably primarily due to Senates of three older IITs, Kanpur, Delhi and Bombay. 
+
+The Chancellors (the state Governers) of the state universities do not have any executive power. They act as instructed by the state 
 politicians in power. So the situation at the State Universities is even more pathetic.  In summary, neither IIT system nor 
 the university system in India is politically or academically insulated.   
 
 Let us focus exclusively on IIT system because IITs mainly drive India's talent pool. We think the roadmap to evolve a good 
 selection process and the refinement of the same over time should start with the transparency in the method. One good thing that has 
 happened is the practice of advertising the post. However, the process of selection still rests almost entirely with MHRD. The IIT
-Council acts as a proxy for the ministry of education. By extension, the person who becomes a Director is a proxy for the ministry.
+Council acts as a proxy for the ministry of education. The person who becomes a Director by extension becomes a proxy for the ministry.
 It allows the minister and the education department to control the IITs by installing a pliable Director. The 
-bureaucrats tinker with the academic policies at IITs in the mid-way. The senates of IITs have become nonfunctional bodies
-to put the stamp of approval for the award of degrees. It has adversely affected IITs' autonomy and functioning so  
-that their brand value has declined consistently. The deterioration has been pretty fast during the last 20 years. It has declined 
-the stature of the academic community and overall degradation of the academic standards.
+bureaucrats tinker with the academic policies at IITs in the mid-way. The senates of IITs have become nonfunctional with exit of
+independent thinkers among the faculty. Its job is reduced to put the stamp of approval for the award of degrees. Nonfunctional
+Senates has adversely affected IITs' autonomy. It has eroded the brand value of IITs consistently. The deterioration has been pretty
+fast during the last 20 years. 
 
 We, therefore,  propose a revamping the Directors' selection process. Provisions for adequate safeguards should be made to preserve 
-the institute's autonomy. The Directors do not act as proxies of the ministry of education. For the starter, the faculty of each IIT should have a say in nominating the Director of IITs for the selection process. We 
-propose as follows:
+the institute's autonomy. The Directors should not act as proxies of the ministry of education. For the starter, the faculty of each IIT 
+should have a say in nominating the Director of IITs for the selection process. We propose as follows:
 
 - The board of IIT for which the director appointment is due should spell out the short-listing process followed, 
 - The specific nominations made, the search committee's membership, and its report. 
@@ -101,8 +102,9 @@ propose as follows:
 - The short list should be made available to the faculty for feedback. 
 - The feedback should be taken as input. 
 
-Sam Pitroda sent a letter to the then prime minister Manmohan Singh on the issues of the appointment of Directors and Chairpersons of 
-governing councils/boards. It made a strong case for transparency and seeking inputs from academia and society. 
+Sam Pitroda sent a letter to the then prime minister Manmohan Singh on the issues of the appointment of the Directors and Chairpersons of 
+governing councils/boards for institutes of national importance. It made a strong case for transparency and seeking inputs from 
+the academia and the society. 
 
 The two significant points of this letter are as follows:
 
@@ -114,7 +116,7 @@ The two significant points of this letter are as follows:
    most comprehensive inputs from academia and society. The revamp and overhaul of the selection process should be on the following lines 
    in the future. 
 
-Unfortunately, Sam Pitroda's letter refrained from touching on the internal aspects of institution's autonomy. Apart from inviting 
+Unfortunately, Sam Pitroda's letter refrained from touching the internal aspects of institution's autonomy. Apart from inviting 
 applications through public advertisement, the selection process should incorporate views from faculty and students of respective 
 institute for which the Vice-chancellor/Director's appointment is being made. Since every institutions already has the Senate as a 
 statutory body, it could seek feedback on the candidates by setting up a faculty advisory committee (FAC). 
@@ -128,7 +130,7 @@ We propose following composition of FAC:
  <li> Three student members of the academic Senate. </li>
  </ol>
 
-The FAC would thus consist of at least eleven members, with the Chairperson being elected by the committee members themselves.
+The FAC would consist of at least eleven members, with the Chairperson being elected by the committee members themselves.
 If the FAC gives negative feedback on any candidate, then that candidate's name should be automatically dropped from 
 further consideration.
 
