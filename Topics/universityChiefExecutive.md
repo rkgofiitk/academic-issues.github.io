@@ -156,6 +156,7 @@ The candidates for directorial assignment should possess the following attribute
  roadmap for leading the institute to excellence. </li>
 <li> Their should not have been involved in cases of intellectual plagiarism, sexual harassment, or criminal or financial embezzlement. 
  </li></ul>
+ 
 After the candidates are short-listed, they should be asked to draw up a vision document outlining their roadmap to lead the institute.
 FAC should be entrusted to invite feedback from entire faculty on the vision documents, collate the feedback, and prepare an evaluation 
 report on the suitability of the candidates. Top three candidates in the list should give a presentation to the institute's faculty. 
@@ -169,6 +170,7 @@ should be intimated to the Board, IIT council and the Director. An appropriate m
 remove any derogatory remarks in the feedback. The Director should be allowed to defend or present their views on which a 
 joint committee of the Senate and the Board should a decide on extending or terminating the Director's term. The joint 
 committee should consist of 
+
 <ol>
 <li>The Chairperson of the board  </li> 
  <li>One elected board member.  </li> 
