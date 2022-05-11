@@ -1,34 +1,33 @@
 ## Of Academic Institutions, Autonomy, and Appointments
 
 The British rulers framed India's modern education system. In 1857 three universities, one each at Calcutta, Bombay, and 
-Madras started functioning. These universities were governed by rules similar to those in force at London University at the time. 
+Madras started functioning. These universities were governed by rules similar to those in force at London University during the time. 
 The British rulers did tinker with the administration and the policies to ensure that the university system did not provide
-a catalyst for increasing opposition to the British rule from within India. However, there was still a highly vibrant academic atmosphere 
-at the universities in India. The academicians not actively interested in opposing the British rule were largely unaffected. 
+a catalyst for increasing opposition to the British rule from within India. However, there was still a highly vibrant academic 
+atmosphere at the universities in India. The academicians not actively interested in opposing the British rule were largely unaffected. 
 The system nurtured and allowed the scientists like Satyen Bose, JC Bose, Meghnad Shah, CV Raman, and others to 
-carry out their academic activities. JC Bose was perhaps the most versatile and learned academician who was not 
-recognized much, but CV Raman got a Nobel prize. 
+carry out their academic activities. JC Bose was perhaps the most versatile and learned academician who did not get his due 
+recognition. However CV Raman received the Nobel prize in Physics. 
 
-Unfortunately, the older universities were unable to keep up either with the space of the progress or the aspirations of 
+Unfortunately, the older universities were unable to keep up either with the pace of the progress or the aspirations of 
 the gifted students. India witnessed a large-scale exodus of talented people to foreign universities. In preparation for
-power transfer, the govt of the day realized that there may be a massive shortage of engineers and technical experts. 
-At the insistence of two prominent Indian members of the Viceroy's executive council, a 22-member committee headed by 
-Nalini Ranjan Sarkar was formed in 1946 before India gained independence from British rule. The committee recommended the 
+power transfer, the Viceroy's executive council realized that there may be a massive shortage of engineers and technical experts. 
+At the insistence of two prominent Indian members of the council, a 22-member committee headed by 
+Nalini Ranjan Sarkar was formed in 1946. The committee recommended the 
 establishment of four technical institutions in line with the MIT. The govt accepted the Sarkar committee's recommendations.
-
-Possibly had it not been an initiative of the Indian members of the Viceroy's committee, IITs would not have seen the light 
+Had it not been an initiative of the Indian members of the Viceroy's council, IITs would not have seen the light 
 of the day. Today, IITs have acquired a brand value that unscrupulous minds would always want to cash on from within the system. 
+
 The organization of the IIT system is clearly defined under the Acts of IITs. Every IIT has a Board whose Chairperson is 
 different from its Director. The Director of an IIT is its administrative and academic Head. The decision to keep the 
-The Chairperson of the Board, separate from the executive Head is to provide a cushion against government pressures and enable 
-the Directors to enjoy critical breathing space to make independent decisions regarding their institutions. The role of 
+The Chairperson of the Board separate from the executive Head is to provide a cushion against government pressures and enable 
+the Directors to enjoy critical breathing space, and make independent decisions regarding their institutions. The role of 
 the IIT council was to perform liaison across IITs so that each one could adopt or adapt from the policies of the other 
 from time to time. Over the years, the IIT council has become a proxy power center for the ministry of education to control 
 IIT administrators (directors) instead of performing an advisory role.  
 
-The procedure followed by the universities in Europe and USA. Since the IIT system is modeled after MIT, the procedure followed
-for the appointment of the MIT president should have significantly influenced the appointment of IIT Directors.
-A brief outline of the procedure for selecting MIT's President is as follows. 
+Since the IIT system is modeled after MIT, the procedure followed for the appointment of the MIT president should have 
+significantly influenced the appointment of IIT Directors. A brief outline of the procedure for selecting MIT's President is as follows. 
 
 An 18-member faculty advisory committee along 
 with MIT corporation committee on the selection of presidency interviews the faculty members in every department of MIT.  
