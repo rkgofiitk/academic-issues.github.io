@@ -126,10 +126,10 @@ We propose following composition of FAC:
  <li> Senior-most Associate Professor</li>
  <li> Three Senior-most Assistant Professors</li>
  <li> Five elected heads of departments </li>
- <li> One student member of the Senate. </li>
+ <li> Three student members of the academic Senate. </li>
  </ol>
 
-The FAC would thus consist of at least nine members, with the Chairperson being elected by the committee members themselves.
+The FAC would thus consist of at least eleven members, with the Chairperson being elected by the committee members themselves.
 If the FAC gives negative feedback on any candidate, then that candidate's name should be automatically dropped from 
 further consideration.
 
