@@ -1,4 +1,4 @@
-## Of Autonomy and Appointments in Academic Institutions
+## Of Academic Institution, Autonomy and Appointments
 
 The British rulers framed India's modern education system. In 1857 three universities, one each at Calcutta, Bombay, and 
 Madras started functioning. These universities were governed by rules similar to those in force at London University at the time. 
@@ -96,7 +96,7 @@ the institute's autonomy. The Directors do not act as proxies of the ministry of
 propose as follows:
 
 - The board of IIT for which the director appointment is due should spell out the short-listing process followed, 
-the specific nominations made, the search committee's membership, and its report. 
+- The specific nominations made, the search committee's membership, and its report. 
 - The search committee for short-listing should induct an elected representative of the IIT faculty. 
 - The short list should be made available to the faculty for feedback. 
 - The feedback should be taken as input. 
@@ -114,9 +114,10 @@ The two significant points of this letter are as follows:
    most comprehensive inputs from academia and society. The revamp and overhaul of the selection process should be on the following lines 
    in the future. 
 
-Unfortunately, Sam Pitroda refrained from touching on the internal aspects of IIT's autonomy. Apart from inviting applications through
-public advertisement, the selection process should incorporate views from faculty and students of respective IITs for which the
-Director's appointment is being made. Since every IIT already has the Senate as a statutory body, it should seek feedback on the candidates by setting up a faculty advisory committee (FAC). 
+Unfortunately, Sam Pitroda's letter refrained from touching on the internal aspects of institution's autonomy. Apart from inviting 
+applications through public advertisement, the selection process should incorporate views from faculty and students of respective 
+institute for which the Vice-chancellor/Director's appointment is being made. Since every institutions already has the Senate as a 
+statutory body, it could seek feedback on the candidates by setting up a faculty advisory committee (FAC). 
 
 We propose following composition of FAC:
 <ol>
@@ -156,10 +157,10 @@ The candidates for directorial assignments should possess the following attribut
  </li></ul>
  
 After the candidates are short-listed, they should draw up a vision document outlining their roadmap to lead the institute.
-FAC should be entrusted to invite feedback from the entire faculty on the vision documents, collate the feedback, and prepare an evaluation 
-report on the suitability of the candidates. Top three candidates on the list should give a presentation to the institute's faculty. 
-After that, the faculty advisory committee should give the visitor an ordered list of candidates. The visitor should make the 
-appointment.
+FAC should be entrusted to invite feedback from the entire faculty on the vision documents, collate them, and prepare an 
+evaluation report on the suitability of the candidates. Top three candidates on the list should give a presentation to the institute's 
+faculty. The faculty advisory committee should give the visitor/chancellor an ordered list of candidates. The visitor/chancellor
+should make the appointment from the list.
 
 
 The institute's faculty should make a midterm evaluation of the Director. The faculty forum of the institute should be entrusted 
