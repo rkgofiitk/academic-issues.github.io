@@ -45,21 +45,20 @@ governing board called the council. The council consists of 19 elected members f
 
 The Regent House is the principal electoral constituency of the university. It has more than 4500 members comprising 
 university officers, heads of the depts, and fellows of the colleges. The Regent House elects one of the nominees as Vice-Chancellor 
-from the list sent by the council. It is clear from the composition of the council that it has a significant say in the matters selection 
-of the Vice-Chancellor rests on the direct stakeholders. The Regent House essentially performs the job of an oversight 
-committee. 
+from the list sent by the council. It is clear from the composition of the council that the direct stakeholders have a significant
+influence on the selection of the Vice-Chancellor. The Regent House performs the job of an oversight committee. 
 
 Oxford University's structure is slightly different from that of Cambridge. It has a congregation and a council. The 
 congregation performs the job of the Regent House like in the case of Cambridge University. It consists of 4000 members 
-drawn from the university's academic staff, the heads of the departments, and other members of the governing bodies of the 
+drawn from the university's academic staff, the Heads of the Departments, and other members of the governing bodies of the 
 colleges. The congregation is empowered to change the statutes and the regulations, electing members to the council and 
-appointment of Vice-Chancellor. The congregation is essentially like Senates of the University system in India but not as
+appointment of Vice-Chancellor. The congregation is like the senate of the University system in India, but not as
 politicized. Many members of the university senate system in India owe allegiance to parties, mainly the party in power in 
 the state. 
 
-We studied the general framework for the Presidents' appointments for the universities in the USA. The President's role is 
-different from that of a Vice-Chancellor of a university in Europe or India. The President is the chief executive officer 
-of a university. They work in close collaboration with the Provosts. The Provost is generally responsible for academic 
+We studied the general framework for the appointments of the Presidents for the US universities. A President's role is 
+different from that of a Vice-Chancellor of a university either in Europe or in India. The Presidents are the chief executive officers 
+of universities. They work in close collaboration with the Provosts. The Provost is responsible for academic 
 affairs. The faculty typically elects the Provost. The role of the President is to lead the fundraising efforts and 
 foster a positive public image of the university and its academic community to the external world.
 
