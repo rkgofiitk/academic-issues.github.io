@@ -180,7 +180,7 @@ Senate and the Board can then extend or terminate the Director's term. The joint
  <li>Two senior-most Professors, </li>
 <li>The senior-most Associate Professor,  </li>
 <li>The senior-most Assistant Professor, </li>
- <li>Three student senate nominees (one must be graduate student), and </li>
+ <li>Three student senate nominees (one must be a graduate student), and </li>
  <li>One nominee from non-academic staff.</li>
  </ol>
 
