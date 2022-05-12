@@ -90,18 +90,18 @@ Let us focus exclusively on the IIT system because India's technical talent pool
 evolve a good selection process and refine the same over time should start by making it transparent. One good 
 thing that has happened is the practice of advertising the post. However, the selection process is still very much opaque and
 controlled almost entirely by the ministry of education. The IIT Council acts as a proxy for the ministry. The person who becomes 
-a Director, by extension, becomes a proxy for the ministry. It allows the minister and the dept bureaucrats to control the IITs by 
-installing a pliable Director. The bureaucrats tinker with the academic policies at IITs in the mid-way. The senates of IITs have 
+a Director, by extension, is a proxy for the ministry. It allows the minister and the dept bureaucrats to control the IITs. 
+The bureaucrats tinker with the academic policies at IITs in the mid-way. The senates of IITs have 
 become nonfunctional with the exit of independent thinkers among the faculty. Nonfunctional Senates have adversely affected IITs' 
 autonomy. It has eroded the brand value of IITs consistently. The deterioration has been pretty fast during the last 20 years. 
 
 We, therefore,  propose a revamping the Directors' selection process. The Directors should not act as proxies of the ministry of 
 education. Therefore, the faculty of each IIT must have a say in nominating the Director of IITs for the selection 
-process. We propose as follows:
+process. We propose the following transparencies in selection process:
 
-- The board of IIT for which the director appointment is due should spell out the short-listing process followed, 
+- The board of IIT for which the director appointment is due should spell out the short-listing process, 
 - The specific nominations made for the post, the search committee's membership, and its report,
-- The search committee for short-listing should induct at least one elected representative of the IIT faculty,
+- At least one elected representative of the IIT faculty should be co-opted for the short-listing process,
 - The short list should be made available to the faculty for feedback, and 
 - The feedback should be taken as input. 
 
@@ -175,12 +175,12 @@ Senate and the Board can then extend or terminate the Director's term. The joint
 <li>The Chairperson of the board,  </li> 
  <li>One elected board member,  </li> 
 <li>Two nominated members (other than govt representatives) of the board,  </li>
- <li>Senior-most Professor of the institute,  </li>
+ <li>The senior-most Professor of a different IIT,  </li>
 <li>Five elected heads of the department,  </li>
  <li>Two senior-most Professors, </li>
 <li>The senior-most Associate Professor,  </li>
 <li>The senior-most Assistant Professor, </li>
- <li>Three student senate nominees, and </li>
+ <li>Three student senate nominees (one must be graduate student), and </li>
  <li>One nominee from non-academic staff.</li>
  </ol>
 
