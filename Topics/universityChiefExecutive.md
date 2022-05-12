@@ -30,9 +30,9 @@ Since the IIT system is modeled after MIT, the procedure followed for the appoin
 significantly influenced the selection of IIT Directors. A brief outline of selecting MIT's President is as follows. 
 
 An 18-member faculty advisory committee and MIT corporation committee for the selection of presidency interview the 
-faculty members in every department of MIT.  It ascertains their views of the issues, the challenges that a new President
-may face, and the opportunities to overcome them. The exercise helps define the skills and the experience that a 
-new president should possess to become successful. 
+faculty members in every department of MIT to ascertains their views. It identifies the issues and the challenges that 
+a new President might face, and the opportunities that person could use to overcome them. The exercise helps define the 
+skill set and the experience that a new president should possess to become successful. 
 
 Let us also look at the selection process of the Vice-Chancellors of Cambridge and Oxford. Cambridge University has a 
 governing board called the council. The council consists of nineteen elected members from the following constituencies.
