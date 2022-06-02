@@ -8,7 +8,8 @@ transformation program mainly focuses on infrastructure such as:
 - Audiovisual equipment for teaching
 - Acess to e-libraries
 - Access to well equipped science labs
-- Comfortable seating space for students
+- Comfortable seating space for student
+
 The CM while dedicating the transformed schools to people of Odisha hoped that students will have access to better pedagogic training for 
 foundational education at highschools. Overall, it is indeed a laudable step which no other state govt has undertaken so far. An improved 
 ambiance at govt schools is certainly going to increase the enrollment. Preference for private schools will decrease. It is a win-win situation 
