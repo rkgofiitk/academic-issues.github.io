@@ -24,11 +24,17 @@ students receive quality education at high schools they are expected to excel in
 Unfortunately, I did not see any reference to one key area of a school transformation program. It pertains to employing adequate number of well 
 trained teachers. Perhaps, the govt is already working on it. However, a news item on a popular daily news paper from Odisha is quite
 disturbing to read. The evaluation of high school leaving examination is now being carried out in the state. The news item reports that 
-the teachers for game and extracurricular activities are pressed for evaluating maths exam copies. Apparently, after the news appeared in print, 
-steps are being taken to avoid such embarassments. However, one thing is clear there is a severe shortage of well trained teachers in the
-govt schools. Creating infrastructure is short time-bound project. There are two aspect to overall upgradation or transformation of 
-foundationational educatioon system.
+the teachers for game and extracurricular activities are pressed for evaluating maths exam copies. Apparently, after the news appeared in 
+print, steps are being taken to avoid such embarassments. However, one thing is clear there is a severe shortage of well trained teachers
+in the govt schools. Creating infrastructure is a time-bound, one time investment. Maintaining the infrastructure is, however, a more 
+difficult proposition. There are two aspects to overall upgradation or transformation of 
+foundationational education system. 
+- The availability of well trained, dedicated teachers
+- Maintaining the school ambinance and infrastructure 
 
+The first one is extremely important, because the students at impressionable age look up to some role model. The first educators become their
+most preferred role model. So, investing in human resources is extremely important. Providing better pay and allowing competitive enrollment
+for 
 
 
 
