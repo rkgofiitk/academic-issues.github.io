@@ -54,9 +54,10 @@ result in a truly transformative improvement in India's school education system.
 - Use National Test Agency to conduct eligibility tests for the recruitment of teachers,
 - Create an independent commission like PSC to conduct interviews of eligible candidates.
 
-My recommendations may sound like a wish list in the current political climate. However, I believe that these procedures will only protect
-the recruitment process from bureaucratic and political meddling. It has the potential to overhaul the high school education 
-system entirely. However, the Odisha govt has made appreciable efforts in this direction.
+My recommendations may sound like a wish list considering the level of bureaucratic and political meddlings in education system in India. 
+I believe that these procedures will not only restore sanctity of the recruitment process but will bring a truly transformational change in
+foundational education system in the country. Even without that the initial efforts of the govt of Odisha in this direction are appreciable.
+
 
 
 [Back to Index](../index.md)
