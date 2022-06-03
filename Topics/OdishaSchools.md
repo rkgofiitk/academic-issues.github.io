@@ -26,19 +26,31 @@ students receive quality education at high schools they are expected to excel in
 Unfortunately, I did not see any reference to one key area of a school transformation program. It pertains to employing adequate number of well 
 trained teachers. Perhaps, the govt is already working on it. However, a news item on a popular daily news paper from Odisha is quite
 disturbing to read. The evaluation of high school leaving examination is now being carried out in the state. The news item reports that 
-the teachers for game and extracurricular activities are pressed for evaluating maths exam copies. Apparently, after the news appeared in 
-print, steps are being taken to avoid such embarassments. However, one thing is clear there is a severe shortage of well trained teachers
-in the govt schools. Creating infrastructure is a time-bound, one time investment. Maintaining the infrastructure is, however, a more 
-difficult proposition. There are two aspects to overall upgradation or transformation of foundational education system. 
+the teachers for game and extracurricular activities are invited for evaluation maths exam copies. Apparently, after the news appeared in 
+print, steps are being taken to avoid further embarassments. However, one thing is clear there is a severe shortage of well trained teachers
+in the govt schools. 
+
+Creating infrastructure is a time-bound, one time investment. Maintaining the infrastructure is a more difficult proposition. Untrained
+teachers will not allow the students to use new facilities. The school will put the equipment under locks in Cupboards and storerooms. 
+Some of the audio-visual equipement will be used for entertainment or some will be diverted to living rooms of powerful
+breaucrats or local level politicians. In my opinion if the creation facilities without proper planning is a wastage taxpayers money. 
+
+There are two very aspects to real upgradation or transformation of foundational education system. 
 - The availability of well trained, dedicated teachers
-- Maintaining the school ambinance and infrastructure 
+- Creation and maintenance of the school infrastructure and ambiance
 
-The first one is extremely important, because the students at impressionable age look up to a role model. The first educators become their
-most preferred role model.  Investing in human resources is extremely important. Providing better pay and allowing competitive teacher
-enrollment could make a truly transformational change in school education system in India. I have a few suggestions here.
-- Make teacher recruitment open to all across India
-- Restructure pay-package of teachers to attract talents
-- Allow schools to make 
+The first one is extremely important, because the students at impressionable age look up for a role models. The first educators become their
+most preferred role models.  Investing in human resources is extremely important, especially for nation building. Providing better pay and 
+allowing open competitive teacher recruitment could make a truly transformational change in school education system in India. I have a few 
+suggestions here:
+- Make recruitment of teachers open all across India,
+- Restructure pay-package to attract best talents even outside the state,
+- Allow schools to make limited changes to suit to local conditions and special needs of students,
+- Use standardized text in subjects like science, maths and social sciences,
+- Choice of Literature texts may vary,
+- Use National Test Agency to conduct eligibility test for recruitment of teachers,
+- Create an independent commission like PSC to conduct interviews of eligible candidates.
 
-
+Perhaps my suggestions will sound like a wishlist under prevailing political scenario. However, I believe these measures can only insulate the
+recruitment from interferences of bureaucrats and politicians. It can make a truly transformational change in highschool education system.  
 
