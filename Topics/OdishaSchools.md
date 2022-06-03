@@ -43,7 +43,7 @@ The actual upgrade or transformation of the high school education system has two
 - The availability of well trained, dedicated teachers
 - Creation and maintenance of the school infrastructure and ambiance
 
-The first is crucial because young kids look up to role models. They look up to their first teachers as role models. Investing in human
+The first is crucial because young kids look up to role models. They consider their first teachers as initial role models. Investing in human
 resources is critical, especially when it comes to nation-building. Better remuneration and open competitive teacher recruitment could 
 result in a truly transformative improvement in India's school education system. I have a few suggestions on it:
 - Make recruitment of teachers open all across India,
