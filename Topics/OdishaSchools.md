@@ -1,5 +1,9 @@
 ## 5T Transformation of School Education System in Odisha
 
+I described about the public schools in Jharkhand in one of my recent blogs. The state seems to have abdicated its responsibilities 
+in guaranteeing a minimum middle and elementary-level school education. It is heartening to see the opposite in the neighboring state
+of Odisha. 
+
 Recently, I saw a full-page advertisement regarding the Odisha government's claim to have transformed 532 schools in the state. According to 
 the ad, these schools' infrastructure has been updated as part of the much-hyped 5T school transformation program. Transparency, 
 technology, teamwork, time, and transformation, are the five Ts that describe the government's vision for the state. It is uncertain whether
