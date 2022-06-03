@@ -1,4 +1,4 @@
-## 5T Transformation of School Education System in Odisha
+## 5T Transformation of Schools in Odisha
 
 I described about the public schools in Jharkhand in one of my recent blogs. The state seems to have abdicated its responsibilities 
 in guaranteeing a minimum middle and elementary-level school education. It is heartening to see the opposite in the neighboring state
