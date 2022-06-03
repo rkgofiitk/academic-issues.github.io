@@ -14,6 +14,7 @@ certain policies from a neutral viewpoint.
 
 
 - [Of Academic institutions, Autonomy and Appointments](Topics/universityChiefExecutive.md)
+- - [Of Academic institutions, Autonomy and Appointments](Topics/odishaSchools.md)
 - [Shortage of Skilled Programmers](Topics/shortageOfSkilledProgrammers.md)
 - [Challenges in Increasing GER of Higher Education](Topics/stateOfSchoolEducation.md)
 - [WhatsApp International University and Disruptive communication](Topics/whatsAppUniversity.md)
