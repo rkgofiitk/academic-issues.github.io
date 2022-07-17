@@ -6,12 +6,14 @@ Iran, Maldives, Mayanmar, Yemen. On the other hand, the number of Indian student
 is very high. About 18000 Indian students were evacuted from Ukraine war zone recently. About 25K Indian students are enrolled in Chinese Unversities. 
 India announced new National Education Policy (NEP) in 2020. The NEP is supposed to increase enrollement of foreign studies in India. It spells out many 
 shortcomings of current education system in India. Notable among these are:
+
 1. Moving towards more multidisciplinary undergraduate eduction.
 2. Allowing faculty and edcuation autonomy
 3. Using well established padegogic practice for better student experience
 4. Reaffirming faculty integrity through honest merit-based evaluation and career progression of faculty based on teaching, research and service
 5. Establishment of a National Research Foundation fund for outstanding peer-reviewed research and actively seeding research in universities and colleges.
 Governance of institution by high qualified independent boards having academic.
+
 All the above points were general operating principles of most IITs and IISc when they were established on recommendations of Viceroy's Committee on 
 technical education headed by Prof Nalini Ranjan Sarkar. But over the years, the govt of the day tampered with administrative autonomy and sought to 
 place pliable directors and appointed persons of questionable credentials as the Chairpersons of IITs. Even some of the educationists who were board 
