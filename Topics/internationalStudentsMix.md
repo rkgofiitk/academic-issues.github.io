@@ -11,7 +11,7 @@ shortcomings of current education system in India. Notable among these are:
 3. Using well established padegogic practice for better student experience
 4. Reaffirming faculty integrity through honest merit-based evaluation and career progression of faculty based on teaching, research and service
 5. Establishment of a National Research Foundation fund for outstanding peer-reviewed research and actively seeding research in universities and colleges.
-6. Governance of institution by high qualified independent boards having academic.
+Governance of institution by high qualified independent boards having academic.
 All the above points were general operating principles of most IITs and IISc when they were established on recommendations of Viceroy's Committee on 
 technical education headed by Prof Nalini Ranjan Sarkar. But over the years, the govt of the day tampered with administrative autonomy and sought to 
 place pliable directors and appointed persons of questionable credentials as the Chairpersons of IITs. Even some of the educationists who were board 
