@@ -1,15 +1,25 @@
 ## International Students Mix at Indian Universities
 
-About 3.3 lac students from 160 different countries enrolled at various Indian Universities over five years from 2016 to 2021. In 2019 about
+About 3.3 lac students from 160 different countries were enrolled at various Indian Universities over five years, from 2016 to 2021. In 2019 about
 75k chose India to pursue higher studies. Most international students in India come from Nigeria, Sudan, Tanzania, Ethiopia, and 
-very few from Malaysia, Iran, Maldives, Myanmar, and Yemen. On the other hand, the number of Indian students opting for medical studies in Chinese and 
-Ukrainian Universities are very high. About 18000 Indian students were evacuated from the Ukraine war zone recently. About 25K Indian students are enrolled
-in Chinese Universities. Some Indian students even go to South Korea and Japan. The problem of student exchange between non-English speaking countries is 
-understandably low. However, India and most African countries were under British rule for a long time. So the English language did influence the higher 
-education system in such countries. China has been an exception as it consciously introduced English in higher education. South Korea also realized the 
-importance of English as a window for interaction in science education. Most well-known universities worldwide have exchange programs for international 
-students.
+very few from Malaysia, Iran, Maldives, Myanmar, and Yemen. In contrast, the number of Indian students opting for medical studies in Chinese and 
+Ukrainian Universities are considerably higher. More than 18000 Indian students were recently evacuated from the Ukraine war zone. About 25K Indian students are 
+enrolled in Chinese Universities. Some students from India even go to South Korea and Japan. The problem of student exchange between non-English 
+speaking countries is understandably low. However, India and most African countries were under British rule for a long time. So the English language
+did influence the higher education system in these countries. But the student exchange program between India and other erstwhile British colonies seems 
+low.  Britain could secure a 99-year lease on Hong Kong and trading rights in the ports of Shangai and Canton
+following the Opium War, but their influence did not reach mainland China. Deng Xiao Peng understood the importance of the English language as a window for interaction with the world outside China. So, English
+was consciously introduced into higher education in China. 
 
+South Korea has realized the importance of English for interaction in technical education. They aggressively scout for English-speaking faculty.
+Once I went to Busan for a keynote address at a conference. During a break, the Chair of the dept of a University at Busan offered me 
+the position of a visiting professor and wanted to know if I could start immediately. Understandably I was unprepared and did not take the offer.  
+I am not sure how the university administration function in South Korea. But in India, according to MHRD rules, we cannot
+offer a visiting position to a foreign national without prior approval. At IIT Kanpur, we used to ignore these rules for short-term visits. Luckily
+MHRD never objected. However, they could if they wanted to. I believe IIT Kanpur appointed even non-Indian citizens as regular faculty. I am not aware of how it
+is done. But apparently, established IITs and IISc can manage to select foreign nationals as regular faculty. So, NEP should be seen as an enabler. 
+
+Most well-known universities worldwide have exchange programs for international students.
 India announced a new National Education Policy (NEP) in 2020. The NEP is supposed to increase enrollment in foreign studies in India. It spells out many 
 shortcomings of the current education system in India. Notable among these are:
 
@@ -40,9 +50,9 @@ At one point in time, Roorkee and BE College Shibpur were very reputed instituti
 over these two universities. Roorkee was elevated to IIT, and BE college Shibpur became IIEST. Unfortunately,
 BE college lost the race to gain the status of IITs. I am not sure what went wrong. Perhaps there is a policy to have only one IIT per state. 
 I am sure NEP will not make any difference unless state govts cooperate or, eventually, higher education is taken off the concurrent list, or
-at least science, medical, and engineering education are deleted from the concurrent list. One may view my proposal as partial to science and technical education. HSS does have a role.
-But I am sure politicians won't agree to let HSS depts go out of the concurrent list. Arousing parochial passions is the elixir of political existence
-of many state-level parties. 
+at least science, medical, and engineering education are deleted from the concurrent list. One may view my proposal as partial to science and technical 
+education. HSS does have a role. But I am sure politicians won't agree to let HSS depts go out of the concurrent list. Arousing parochial passions is the 
+elixir of the political existence of many state-level parties. 
 
 Higher Education has been an arena for political slugfest for far too long. JNU, Jadavpur, and UoH are symptomatic of these 
 unsavory slugfests. However, I believe these three universities have intrinsic capabilities to bounce back if Govt make the right decisions.
