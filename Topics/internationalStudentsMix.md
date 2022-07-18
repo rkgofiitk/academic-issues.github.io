@@ -9,7 +9,7 @@ Some students from India even go to South Korea and Japan. The problem of studen
 speaking countries is understandably low. However, India and most African countries were under British rule for a long time. 
 So the English language did influence the higher education system in these countries. But the student exchange program 
 between India and other erstwhile British colonies seems low. Britain could secure a 99-year lease on Hong Kong and trading 
-rights in the ports of Shangai and Canton following the Opium War, but their influence did not reach mainland China. Except 
+rights in the ports of Shanghai and Canton following the Opium War, but their influence did not reach mainland China. Except 
 for Hong Kong, there is very little influence of English in Chinese education system. However, Deng Xiao Peng, the architect 
 of modern China, understood the importance of the English language as a window for
 interaction with the world outside China. So, English was consciously introduced into higher education in China. 
