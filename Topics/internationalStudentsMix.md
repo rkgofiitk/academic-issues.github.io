@@ -3,13 +3,14 @@
 About 3.3 lac students from 160 different countries were enrolled at various Indian Universities over five years, from 2016 to 2021. In 2019 about
 75k chose India to pursue higher studies. Most international students in India come from Nigeria, Sudan, Tanzania, Ethiopia, and 
 very few from Malaysia, Iran, Maldives, Myanmar, and Yemen. In contrast, the number of Indian students opting for medical studies in Chinese and 
-Ukrainian Universities are considerably higher. More than 18000 Indian students were recently evacuated from the Ukraine war zone. About 25K Indian students are 
-enrolled in Chinese Universities. Some students from India even go to South Korea and Japan. The problem of student exchange between non-English 
+Ukrainian Universities are considerably higher. More than 18K Indian students were recently evacuated from the Ukraine war zone. About 25K Indian 
+students are enrolled in Chinese Universities. Some students from India even go to South Korea and Japan. The problem of student exchange between non-English 
 speaking countries is understandably low. However, India and most African countries were under British rule for a long time. So the English language
 did influence the higher education system in these countries. But the student exchange program between India and other erstwhile British colonies seems 
-low.  Britain could secure a 99-year lease on Hong Kong and trading rights in the ports of Shangai and Canton
-following the Opium War, but their influence did not reach mainland China. Deng Xiao Peng understood the importance of the English language as a window for interaction with the world outside China. So, English
-was consciously introduced into higher education in China. 
+low. Britain could secure a 99-year lease on Hong Kong and trading rights in the ports of Shangai and Canton
+following the Opium War, but their influence did not reach mainland China. Except for Hong Kong, there is very little influence of English in  
+Chinese education system. However, Deng Xiao Peng, the architect of modern China, understood the importance of the English language as a window for
+interaction with the world outside China. So, English was consciously introduced into higher education in China. 
 
 South Korea has realized the importance of English for interaction in technical education. They aggressively scout for English-speaking faculty.
 Once I went to Busan for a keynote address at a conference. During a break, the Chair of the dept of a University at Busan offered me 
