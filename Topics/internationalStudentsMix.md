@@ -24,7 +24,7 @@ All the above points were general operating principles of most IITs when they we
 technical education headed by Prof Nalini Ranjan Sarkar. I am also certain that IISc has such a forward looking SoP on admitting international students.
 But over the years, the govt of the day tampered with administrative autonomy and sought to place pliable directors and appointed persons of questionable 
 credentials as the Chairpersons of IITs. Even some of the educationists who were board chairpersons of different IITs tried to tinker IITs by
-micro-managing through the directors. So, on paper, everything looks fine. Yet things are not conducive for admission of International students. With or
+micro-managing through the directors. So, on the paper, everything looks fine. Yet things are not conducive for admittance of International students. With or
 without NEP, no educational institute will ever become immune from external tinkering. There is also an amount of rigidity among educationists, which 
 prevented glasnost in engineering education. The less is said about the state universities, the better it is. The state Universities are under the direct 
 control of the state govts, which never allows universities to frame their policies. Odisha, for example, has turned state universities into an extended 
@@ -32,7 +32,7 @@ arm of the state education dept.  A couple of vice-chancellors of Utkal and Berh
 true about other state govts. While commenting on his premature quitting, the former vice-chancellor of a state university commented that "the bureaucrat 
 lackeys of a CM were extending too much affection" in an unofficial private gathering. Officially, the govts may say that the VCs leaving in the middle were
 incompetent. But the fact remains that bureaucrats and politicians have pulverized the education system, and the court has done little to dissuade the
-interferences. It is ironic to observe that court takes suo moto cognizance in politically sensitive cases. 
+interferences. 
 
 At one point in time, Roorkee and BE College Shibpur were very reputed institutions. But both deteriorated to the extent that the Central govt proposed to take 
 over these two universities. Roorkee was elevated to IIT, and BE college Shibpur became IIEST. Unfortunately,
