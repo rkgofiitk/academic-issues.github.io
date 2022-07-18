@@ -11,8 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
-
-
+- [International Students Mix in Indian Universities](internationalStudentsMix.md)
 - [5T Transformation of Schools in Odisha](Topics/OdishaSchools.md)
 - [Of Academic institutions, Autonomy and Appointments](Topics/universityChiefExecutive.md)
 - [Shortage of Skilled Programmers](Topics/shortageOfSkilledProgrammers.md)
