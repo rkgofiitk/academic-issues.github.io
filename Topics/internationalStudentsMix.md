@@ -30,9 +30,9 @@ prevented glasnost in engineering education. The less is said about the state un
 control of the state govts, which never allows universities to frame their policies. Odisha, for example, has turned state universities into an extended 
 arm of the state education dept.  A couple of vice-chancellors of Utkal and Berhampur Universities left before completing their terms. I am sure that same is 
 true about other state govts. While commenting on his premature quitting, the former vice-chancellor of a state university commented that "the bureaucrat 
-lackeys of a CM were extending too much affection" in an unofficial private gathering. Officially, the govt may say that the VCs leaving in the middle were
+lackeys of a CM were extending too much affection" in an unofficial private gathering. Officially, the govts may say that the VCs leaving in the middle were
 incompetent. But the fact remains that bureaucrats and politicians have pulverized the education system, and the court has done little to dissuade the
-interferences. 
+interferences. It is ironic to observe that court takes suo moto cognizance in politically sensitive cases. 
 
 At one point in time, Roorkee and BE College Shibpur were very reputed institutions. But both deteriorated to the extent that the Central govt proposed to take 
 over these two universities. Roorkee was elevated to IIT, and BE college Shibpur became IIEST. Unfortunately,
@@ -44,9 +44,8 @@ of many state-level parties.
 
 Higher Education has been an arena for political slugfest for far too long. JNU, Jadavpur, and UoH are symptomatic of these 
 unsavory slugfests. However, I believe these three universities have intrinsic capabilities to bounce back if Govt make the right decisions.
-I am a bit surprised how the NIRF ranking
-of JNU is so high. Traditionally, politics has not had much influence on science and engineering education. Perhaps JNU's ranking is high because of 
-science depts.  
+I am a bit surprised how the NIRF ranking of JNU is so high. Traditionally, politics has not had much influence on science and engineering education. 
+Perhaps JNU's ranking is high because of science depts.  
 
 Coming back to enrollment of international students, in early 2000, only 5-6 students from Bangladesh were enrolled at IIT Kanpur. I know at least 1 or 2 who 
 did not perform well. At that time, IIT Kanpur did not have a proactive international students' cell. Student counseling services were not taken up seriously.
