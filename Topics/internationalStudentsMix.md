@@ -1,11 +1,11 @@
 ## International Students Mix at Indian Universities
 
 About 3.3 lac students from 160 different countries enrolled at various Indian Universities over five years from 2016 to 2021. In 2019 about
-75k chose India to pursue higher studies. Most international students in India come from countries like Nigeria, Sudan, Tanzania, and Ethiopia, and 
+75k chose India to pursue higher studies. Most international students in India come from Nigeria, Sudan, Tanzania, Ethiopia, and 
 very few from Malaysia, Iran, Maldives, Myanmar, and Yemen. On the other hand, the number of Indian students opting for medical studies in Chinese and 
 Ukrainian Universities are very high. About 18000 Indian students were evacuated from the Ukraine war zone recently. About 25K Indian students are enrolled
 in Chinese Universities. Some Indian students even go to South Korea and Japan. The problem of student exchange between non-English speaking countries is 
-understandablylow. However, India and most African countries were under British rule for a long time. So the English language did influence the higher 
+understandably low. However, India and most African countries were under British rule for a long time. So the English language did influence the higher 
 education system in such countries. China has been an exception as it consciously introduced English in higher education. South Korea also realized the 
 importance of English as a window for interaction in science education. Most well-known universities worldwide have exchange programs for international 
 students.
@@ -21,15 +21,14 @@ shortcomings of the current education system in India. Notable among these are:
 Governance of institution by high qualified independent boards having academic.
 
 All the above points were general operating principles of most IITs when they were established on recommendations of the Viceroy's Committee on 
-technical education headed by Prof Nalini Ranjan Sarkar. I am also certain that IISc has such a forward looking SoP on admitting international students.
+technical education headed by Prof Nalini Ranjan Sarkar. I am also sure that IISc has a forward-looking SoP for admitting international students.
 But over the years, the govt of the day tampered with administrative autonomy and sought to place pliable directors and appointed persons of questionable 
-credentials as the Chairpersons of IITs. Even some of the educationists who were board chairpersons of different IITs tried to tinker IITs by
-micro-managing through the directors. So, on the paper, everything looks fine. Yet things are not conducive for admittance of International students. With or
-without NEP, no educational institute will ever become immune from external tinkering. There is also an amount of rigidity among educationists, which 
-prevented glasnost in engineering education. There are another class of pseudo academicians who like to do the bidding of the bureaucrats and the politicians
+credentials as the Chairpersons of IITs. Even some of the educationists who were board chairpersons of different IITs tried to tinker with IITs by
+micro-managing through the directors. So, on paper, everything looks fine. Yet things are not conducive to the admittance of international students. No educational institute will ever become immune from external tinkering with or without NEP. There is also an amount of rigidity among educationists, which 
+prevented glasnost in engineering education. A class of pseudo academicians likes to do the bidding of the bureaucrats and the politicians
 to become Directors and Vice Chancellors. 
 
-The less is said about the state universities, the better it is. The state Universities are under the direct 
+The less is said about the state universities, the better it is. The State Universities are under the direct 
 control of the state govts, which never allows universities to frame their policies. Odisha, for example, has turned state universities into an extended 
 arm of the state education dept.  A couple of vice-chancellors of Utkal and Berhampur Universities left before completing their terms. I am sure that same is 
 true about other state govts. While commenting on his premature quitting, the former vice-chancellor of a state university commented that "the bureaucrat 
@@ -40,8 +39,8 @@ interferences.
 At one point in time, Roorkee and BE College Shibpur were very reputed institutions. But both deteriorated to the extent that the Central govt proposed to take 
 over these two universities. Roorkee was elevated to IIT, and BE college Shibpur became IIEST. Unfortunately,
 BE college lost the race to gain the status of IITs. I am not sure what went wrong. Perhaps there is a policy to have only one IIT per state. 
-I am sure NEP will not make any difference unless state govts cooperate or, eventually, higher education is taken off the concurrent list. Or
-at least science, medical, and engineering education are deleted from the concurrent list. One may view my proposal as partial. HSS does have a role.
+I am sure NEP will not make any difference unless state govts cooperate or, eventually, higher education is taken off the concurrent list, or
+at least science, medical, and engineering education are deleted from the concurrent list. One may view my proposal as partial to science and technical education. HSS does have a role.
 But I am sure politicians won't agree to let HSS depts go out of the concurrent list. Arousing parochial passions is the elixir of political existence
 of many state-level parties. 
 
