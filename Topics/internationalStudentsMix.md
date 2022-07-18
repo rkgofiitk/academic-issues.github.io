@@ -16,11 +16,12 @@ Once I went to Busan for a keynote address at a conference. During a break, the 
 the position of a visiting professor and wanted to know if I could start immediately. Understandably I was unprepared and did not take the offer.  
 I am not sure how the university administration function in South Korea. But in India, according to MHRD rules, we cannot
 offer a visiting position to a foreign national without prior approval. At IIT Kanpur, we used to ignore these rules for short-term visits. Luckily
-MHRD never objected. However, they could if they wanted to. I believe IIT Kanpur appointed even non-Indian citizens as regular faculty. I am not aware of how it
-is done. But apparently, established IITs and IISc can manage to select foreign nationals as regular faculty. So, NEP should be seen as an enabler. 
+MHRD never objected. However, they could if they wanted to. I believe IIT Kanpur appointed even non-Indian citizens as regular faculty.
+I am not aware of how it is done. But apparently, established IITs and IISc can manage to select foreign nationals as regular faculty. So, the 
+new National Education Policy (NEP) should be seen only as an enabler. 
 
 Most well-known universities worldwide have exchange programs for international students.
-India announced a new National Education Policy (NEP) in 2020. The NEP is supposed to increase enrollment in foreign studies in India. It spells out many 
+India announced the NEP in 2020. The NEP is supposed to increase enrollment in foreign studies in India. It spells out many 
 shortcomings of the current education system in India. Notable among these are:
 
 1. Moving towards more multidisciplinary undergraduate education.
