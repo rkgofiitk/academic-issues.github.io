@@ -26,7 +26,10 @@ But over the years, the govt of the day tampered with administrative autonomy an
 credentials as the Chairpersons of IITs. Even some of the educationists who were board chairpersons of different IITs tried to tinker IITs by
 micro-managing through the directors. So, on the paper, everything looks fine. Yet things are not conducive for admittance of International students. With or
 without NEP, no educational institute will ever become immune from external tinkering. There is also an amount of rigidity among educationists, which 
-prevented glasnost in engineering education. The less is said about the state universities, the better it is. The state Universities are under the direct 
+prevented glasnost in engineering education. There are another class of pseudo academicians who like to do the bidding of the bureaucrats and the politicians
+to become Directors and Vice Chancellors. 
+
+The less is said about the state universities, the better it is. The state Universities are under the direct 
 control of the state govts, which never allows universities to frame their policies. Odisha, for example, has turned state universities into an extended 
 arm of the state education dept.  A couple of vice-chancellors of Utkal and Berhampur Universities left before completing their terms. I am sure that same is 
 true about other state govts. While commenting on his premature quitting, the former vice-chancellor of a state university commented that "the bureaucrat 
