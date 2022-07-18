@@ -51,8 +51,7 @@ over these two universities. Roorkee was elevated to IIT, and BE college Shibpur
 BE college lost the race to gain the status of IITs. I am not sure what went wrong. Perhaps there is a policy to have only one IIT per state. 
 I am sure NEP will not make any difference unless state govts cooperate or, eventually, higher education is taken off the concurrent list, or
 at least science, medical, and engineering education are deleted from the concurrent list. One may view my proposal as partial to science and technical 
-education. HSS does have a role. But I am sure politicians won't agree to let HSS depts go out of the concurrent list. Arousing parochial passions is the 
-elixir of the political existence of many state-level parties. 
+education. HSS does have a role. But for obvious reasons, the state level politicians won't agree to let HSS depts go out of the concurrent list.
 
 Higher Education has been an arena for political slugfest for far too long. JNU, Jadavpur, and UoH are symptomatic of these 
 unsavory slugfests. However, I believe these three universities have intrinsic capabilities to bounce back if Govt make the right decisions.
