@@ -65,3 +65,5 @@ international students. The US, for example, has thrived because of its open pol
 universities do not offer the academic standards comparable to US universities, but some of the institutions can be upgraded easily to levels of 
 US universities, at least for graduate studies. However, govt meddling should stop entirely and immediately for universities to become competitive. NIRF 
 ranking or regulations cannot work unless the attitude of politicians and bureaucrats changes. 
+
+[Back to index](../index.md)
