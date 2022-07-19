@@ -3,14 +3,14 @@
 About 3.3 lac students from 160 different countries were enrolled at various Indian Universities over five years, from 2016 
 to 2021. In 2019 about 75k chose India to pursue higher studies. Most international students in India come from Nigeria, 
 Sudan, Tanzania, Ethiopia, and very few from Malaysia, Iran, Maldives, Myanmar, and Yemen. In contrast, the number of Indian 
-students opting for medical studies in Chinese and Ukrainian Universities are considerably higher. More than 18K Indian 
+students opting for medical studies in Chinese and Ukrainian Universities is considerably higher. More than 18K Indian 
 students were recently evacuated from the Ukraine war zone. About 25K Indian students are enrolled in Chinese Universities. 
 Some students from India even go to South Korea and Japan. The problem of student exchange between non-English 
 speaking countries is understandably low. However, India and most African countries were under British rule for a long time. 
 So the English language did influence the higher education system in these countries. But the student exchange program 
 between India and other erstwhile British colonies seems low. Britain could secure a 99-year lease on Hong Kong and trading 
 rights in the ports of Shanghai and Canton following the Opium War, but their influence did not reach mainland China. Except 
-for Hong Kong, there is very little influence of English in Chinese education system. However, Deng Xiao Peng, the architect 
+for Hong Kong, English has little influence on the Chinese education system. However, Deng Xiao Peng, the architect 
 of modern China, understood the importance of the English language as a window for
 interaction with the world outside China. So, English was consciously introduced into higher education in China. 
 
@@ -60,32 +60,40 @@ IIEST. Unfortunately, BE college lost the race to gain the status of IITs. I am 
 policy to have only one IIT per state. I am sure NEP will not make any difference unless state govts cooperate or, 
 eventually, higher education is taken off the concurrent list, or at least science, medical, and engineering education are 
 deleted from the concurrent list. One may view my proposal as partial to science and technical education. HSS does have a 
-role. But for obvious reasons, the state level politicians won't agree to let HSS depts go out of the concurrent list.
+role. But for obvious reasons, the state-level politicians won't agree to let HSS depts go out of the concurrent list.
 
-Higher Education has been an arena for political slugfest for far too long. JNU, Jadavpur, and UoH are symptomatic of these 
-unsavory slugfests. However, I believe these three universities have intrinsic capabilities to bounce back if Govt make the 
-right decisions. I am a bit surprised how the NIRF ranking of JNU is so high. Traditionally, politics has not had much 
-influence on science and engineering education. Perhaps JNU's ranking is high because of science depts.  
+Higher Education has been an arena for political slugfest for far too long. The incidents of student unrest in JNU, 
+Jadavpur and UoH are symptomatic of these unsavory slugfests. However, I believe these three universities have 
+intrinsic capabilities to bounce back if Govt make the right decisions of placing academics ahead of politics.  I am a bit 
+surprised by the names of a few Universities figuring into the top 50 NIRF rankings. However, my objective here is not 
+to talk about NIRF ranking. Traditionally, politics has not had much influence on science and engineering education. 
+Perhaps NIRF ranking is high for many universities because of the reputation of their science and engineering depts.   
 
-Coming back to enrollment of international students, in early 2000, only 5-6 students from Bangladesh were enrolled at IIT 
-Kanpur. I know at least 1 or 2 who did not perform well. At that time, IIT Kanpur did not have a proactive international 
-students' cell. Student counseling services were not taken up seriously. As a result, many of these international students 
-were stressed out and did not know whom to talk to and share the challenges they faced. Though Bangladesh is less of a 
-problem (IIT Kanpur had more than 20% Bengali-speaking professors),  faculty members can do little without institutional
-support. After a while, I did not see any students from Bangladesh in my class. I also remember chatting with a Bangladesh 
-student who wanted to enroll in a University in Spain. He told me Indian Universities are tough to survive. I am unsure if he 
-meant academics were challenging or our institutions had no support system for international students. Most US universities 
-have a powerful International Relations Office. I have not seen such infrastructure in our country. I remember NITs had a 
-student exchange program for Nepal, Srilanka, and Myanmar sometime back. Many Nepalese nationals used to come to NIT (known 
-as RECs back then). Some of these students have been very successful. I had a chance to collaborate with one such gentleman 
-who graduated from REC Trichy. He was very eloquent about his time in REC Trichy. He wondered why Nepal and India do not have 
-such an exchange now. I am sure international student exchange programs are revamped from time to time. I believe the 
-Ministry of Education has not been quite proactive in this matter. I think instead of the Federal govt being involved in 
-micro-level details, each institute should have a good infrastructure for attracting international students. The US, for 
-example, has thrived because of its open policies regarding accepting graduate students in its universities. Of course, our
-universities do not offer the academic standards comparable to US universities, but some of the institutions can be upgraded 
-easily to levels of US universities, at least for graduate studies. However, govt meddling should stop entirely and 
-immediately for universities to become competitive. NIRF ranking or regulations cannot work unless the attitude of 
-politicians and bureaucrats changes. 
+Coming back to enrollment of international students, in early 2000, only 5-6 students from Bangladesh were enrolled in the UG
+program at IIT Kanpur. I know at least 1 or 2 who did not perform well. At that time, IIT Kanpur did not have a 
+proactive international relations office. Student counseling services were also not taken seriously. As a result, many 
+of these international students were stressed out and did not know whom to talk to and share the challenges they 
+faced at IIT Kanpur. Though Bangladesh is less of a problem (IIT Kanpur had more than 20% Bengali-speaking professors),  
+faculty members can do little without institutional support. After a while, I did not see any students from Bangladesh 
+in my class. I also remember chatting with a Bangladeshi student who wanted to enroll in a University in Spain. 
+He told me Indian Universities are tough to survive. I am unsure if he meant academics were challenging or if our 
+institutions had no support system for international students. Most US universities have a powerful international 
+relations Office. I have not seen such infrastructure in our country. 
+
+I remember NITs had a student exchange program for Nepal, Srilanka, and Myanmar sometime back. Many Nepalese nationals 
+used to come to NIT (known as RECs back then). Some of these students have been very successful. I had a chance to 
+collaborate with one such gentleman who graduated from REC Trichy. He was very eloquent about his time in REC Trichy. He 
+wondered why Nepal and India do not have such an exchange now. Probably not many Nepalese students want to enroll in
+Indian institutions. I am sure international student exchange programs are revamped from time to time. I think 
+instead of the Central govt being involved in micro-level details, it may give broad guidelines to the institutions. 
+Let each institute work out details for attracting international students. When dealing with education, everyone is
+fond of the US example. Admittedly the US has thrived because of its open policies regarding accepting graduate students 
+in its universities. However, we have the problem of resources at our institutions. The socio-economic environment in the 
+country matters too. Our universities may be unable to offer academic standards comparable to US 
+universities. Still, I believe some of the institutions can be upgraded easily to levels of US universities, at least 
+for graduate studies. However, the meddling of all govts should stop entirely and immediately for universities to 
+become competitive. A restructuring of the University administrative setup is needed. I have discussed changes
+in University organizational setup in one of my recent blogs. NIRF ranking or putting tons of regulations cannot work 
+unless the attitude of politicians and bureaucrats changes. 
 
 [Back to index](../index.md)
