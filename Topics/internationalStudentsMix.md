@@ -73,7 +73,8 @@ Coming back to enrollment of international students, in early 2000, only 5-6 stu
 program at IIT Kanpur. I know at least 1 or 2 who did not perform well. At that time, IIT Kanpur did not have a 
 proactive international relations office. Student counseling services were also not taken seriously. As a result, many 
 of these international students were stressed out and did not know whom to talk to and share the challenges they 
-faced at IIT Kanpur. Though Bangladesh is less of a problem (IIT Kanpur had more than 20% Bengali-speaking professors),  
+faced at IIT Kanpur. Though Bangladesh is less of a problem (IIT Kanpur had more than 20% Bengali-speaking 
+professors),  
 faculty members can do little without institutional support. After a while, I did not see any students from Bangladesh 
 in my class. I also remember chatting with a Bangladeshi student who wanted to enroll in a University in Spain. 
 He told me Indian Universities are tough to survive. I am unsure if he meant academics were challenging or if our 
