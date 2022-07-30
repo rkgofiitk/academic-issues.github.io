@@ -29,11 +29,11 @@ India announced the NEP in 2020. The NEP is supposed to increase enrollment in f
 shortcomings of the current education system in India. Notable among these are:
 
 1. Moving towards more multidisciplinary undergraduate education.
-2. Allowing faculty and education autonomy
-3. Using well-established pedagogic practice for better student experience
-4. Reaffirming faculty integrity through honest merit-based evaluation and career progression of faculty based on teaching, research, and service
-5. Establishment of a National Research Foundation fund for outstanding peer-reviewed research and actively seeding research in universities and colleges.
-Governance of institution by high qualified independent boards having academic.
+2. Allowing faculty and education autonomy.
+3. Using well-established pedagogic practice for better student experience.
+4. Reaffirming faculty integrity through honest merit-based evaluation and career progression of faculty based on teaching, research, and service.
+5. Establishing a National Research Foundation fund for outstanding peer-reviewed research and actively seeding research in universities and colleges.
+6. Governance of institution by high qualified independent boards having academic autonomy.
 
 All the above points were general operating principles of most IITs when they were established on recommendations of the 
 Viceroy's Committee on technical education headed by Prof Nalini Ranjan Sarkar. I am also sure that IISc has a forward-
