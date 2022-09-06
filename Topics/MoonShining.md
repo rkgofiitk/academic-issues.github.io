@@ -58,7 +58,9 @@ and Germany for MBBS degrees. Only 41k seats are available in private medical co
 student who seeks a seat in any private medical school. The influential doctors have cartels and exercise control through IMA. 
 It may look like a sweeping statement. But until recently, things have been really bad. It showed up in the management of the 
 COVID-19 pandemic. People died due to the unavailability of ventilators and oxygen supplies. Unscrupulous politicians announced 
-the reservation of beds for the high court and supreme court judges to ward off judicial strictures against governance.
+the reservation of beds for the high court and supreme court judges to ward off judicial strictures against governance. 
+The competent doctors do a lot of private consultancies. A reasonably well established doctor in any location can charge up to
+1500/- for about 10-15mts of consultancy. 
 
 In the education sector, I came across a case where a teacher was simultaneously on the payrolls of three colleges. I am not sure what 
 happened to the person. Fly-by-night engineering colleges actively espouse guest lecturers as a cost-cutting measure. A person equipped 
