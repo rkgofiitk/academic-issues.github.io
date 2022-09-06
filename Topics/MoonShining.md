@@ -22,7 +22,7 @@ a few core technical experts. At some point in time, you need to believe in huma
 I see the problem in a different dimension. Probably, there will be no need to have departments like ED, CBI, SFIO,
 EOW, SEBI, etc., if no one does moonshine. Let us first understand who does moonshine being regularly.
 
-Politicians and Govt servants are The biggest culprits; they seek favors and bribes for performing their duties. 
+The politicians and the govt servants are the biggest culprits. They seek favors and bribes for performing their duties. 
 Admittedly, digitization has improved the situation a lot. I find CBDT has undergone a fundamental transformation from the days
 of 2014. I had a problem with a refund of INR 25k way back in 2009. I wrote about a dozen representations, including
 CPC office is located in Bangaluru. Only after 2014 did I get the refund directly credited
