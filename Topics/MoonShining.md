@@ -45,11 +45,12 @@ retired judge.
 The Khosla Commission, the Shah Nawaz Commission, and the Mukerjee Commission are all investigating the death of Netaji S C Bose in a 
 plane crash in Taiwan en route to Tokyo. Of course, only Mukerjee Commission was headed by a retired judge. GD Khosla was an 
 ex-bureaucrat, and Shanawaz Khan was a politician belonging to Congress Party. The conclusions of these commissions are in the 
-public domain, and none could conclusively answer the 
-central question of Netaji's death in a plane crash, instead opening up many new issues. The commission of inquiry by retired judges is 
-the most abused form of judicial remedy against potentially explosive public anger. The retired judges see it as an opportunity to remain 
-in the reckoning and seek multiple extensions of time to file reports. When they finally file the reports, they favor what the appointing 
-authority wanted them to do. Time is the best healer. Nobody challenges the brazenness of laundry washing by many retired judges.
+public domain, and none could conclusively answer the central question of Netaji's death in a plane crash, instead opening up many new 
+issues. The commission of inquiry by retired judges is the most abused form of judicial remedy against potentially explosive public anger. 
+The retired judges see it as an opportunity to remain in the reckoning and seek multiple extensions of time to file reports. When they 
+finally file the reports, they favor what the appointing authority wanted them to do. Time is the best healer. Nobody challenges the 
+brazenness of laundry washing by many retired judges.
+
 IMA tightly controls the health sector. A substantial number of students go out of India to get MBBS degrees. About 20K students were 
 enrolled in Ukrainian universities before the Russia-Ukrain war broke. Russian universities enroll about 10k students. Also, about 5k 
 students are admitted to Chinese universities. Indian students go to countries like the Philippines, Kyrgyzstan, Kazakhstan, and Germany. 
