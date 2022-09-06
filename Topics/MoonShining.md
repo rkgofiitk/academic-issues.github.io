@@ -4,8 +4,8 @@ Recently, I came across a news article about Wipro's Rashid Premji berating abou
 How does the moon shine? It wanes for two weeks and waxes for two weeks. It never shines all the time. That is
 how the solar system works. I am a bit surprised by the younger Premji's take on moonshine. The popular perception is 
 Mr. Azim Premji is the largest donor to philanthropic causes in India. Of course, Mr. Azim Premji belongs to the
-older generation of Indian entrepreneurs. The article did not discuss Mr. Azim Premji's views on moonshining 
-by his employees. I wonder what his views would be. 
+older generation of Indian entrepreneurs. He donated 34% of his Wipro shares to Azim Premji Foundation in 2019. The 
+article did not discuss Mr. Azim Hashim Premji's views on moonshining by his employees. I wonder what his views would be. 
 
 In this context, I recently discussed with two of my students who have done well with their software startup ventures. 
 Both of them come from pretty humble backgrounds. I asked one of them about his views on the staff 
