@@ -51,7 +51,7 @@ the central question of Netaji's death in a plane crash, instead opened up a lot
 inquiry by retired judges is the most abused form of judicial remedy against potentially explosive public anger. The retired judges
 see it as an opportunity to remain in the reckoning and seek multiple extensions of time to file reports. When they
 finally file the reports, they favor what the appointing authority wanted them to do. Time is the best healer.
-Nobody challenges brazen laundry washing by many retired judges.
+Nobody challenges the brazeness of laundry washing by many retired judges.
 
 IMA tightly controls the health sector. More students go out of India to get MBBS degrees. About 20K students
 were enrolled in Ukrainian universities before the Russia-Ukrain war broke.  Russian universities enroll about 10k students.
