@@ -41,7 +41,9 @@ reports only when their interest is not served.
 
 Judiciary, Health, and Education Depts are other glaring examples. People have the perception that the Judiciary 
 is clean. Of course, many judges are clean like many ordinary people are. Most often, when govt is in trouble, they
-readily agree to a judicial commission by a retired judge. The Khosla Commission, the Shah Nawaz Commission,
+readily agree to a judicial commission by a retired judge.
+
+The Khosla Commission, the Shah Nawaz Commission,
 and the Mukerjee Commission, all investigating the death of Netaji S C Bose in a plane crash in Taiwan en route
 to Tokyo. Of course, only Mukerjee Commission was headed by a retired judge. GD Khosla was a bureaucrat, and Shanawaz
 Khan was a politician. The conclusion of these commissions is in the public domain and did not conclusively answer 
