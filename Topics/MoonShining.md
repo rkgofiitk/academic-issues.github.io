@@ -2,10 +2,11 @@
 
 Recently, I came across a news article that Wipro's Rashid Premji was concerned with moonshining by his staff. How does the moon shine? It 
 wanes for two weeks and waxes for two weeks. It never shines all the time. That is how the solar system works. I am a bit surprised by the 
-younger Premji's take on moonshine. The popular perception is Mr. Azim Premji is the largest donor to philanthropic causes in India. Of 
-course, Mr. Azim Hashim Premji belongs to the older generation of Indian entrepreneurs. He is reported to have donated 34% of his Wipro 
-shares valued at 52k crores to the Azim Premji Foundation in 2019. The article did not discuss Mr. Azim Premji's views on moonshining by 
-Wipro employees. I wonder what his views would be.
+younger Premji's take on what is known as moonshining. The popular perception is Mr. Azim Premji is the largest donor to philanthropic
+causes in India. Mr. Azim Hashim Premji belongs to the older generation of Indian entrepreneurs. He is reported to have donated 34% of
+his Wipro shares valued at 52k crores to the Azim Premji Foundation in 2019. So, Azim Premji Foundation is perhaps the richest 
+Foundation in India. The article did not discuss Mr. Azim Premji's views on moonshining by Wipro employees. I wonder what his views 
+would be.
 
 The software industry traditionally has more free-lancer than any other segment. Many of my friends and students opted for freelancing 
 rather than joining some XYZ companies. Most of them are doing very well and are acknowledged, consultants. I recently had discussions 
