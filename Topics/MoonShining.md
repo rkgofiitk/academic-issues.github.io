@@ -1,4 +1,4 @@
-## Moonshining by Software Specialists 
+## Moonshining in Software Industry 
 
 Recently, I came across a news article about Wipro's Rashid Premji berating about moonshining by his staff.
 How does the moon shine? It wanes for two weeks and waxes for two weeks. It never shines all the time. That is
