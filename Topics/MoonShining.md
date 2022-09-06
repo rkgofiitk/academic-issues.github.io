@@ -46,9 +46,9 @@ readily agree to a judicial commission by a retired judge.
 The Khosla Commission, the Shah Nawaz Commission,
 and the Mukerjee Commission are all investigating the death of Netaji S C Bose in a plane crash in Taiwan en route
 to Tokyo. Of course, only Mukerjee Commission was headed by a retired judge. GD Khosla was a bureaucrat and Shanawaz
-Khan was a politician. The conclusion of these commissions is in the public domain and did not conclusively answer 
-the central question of Netaji's death in a plane crash. But opening up a lot of unanswered questions. Commission of 
-inquiry by retired judges is the most abused judicial remedy to potentially explosive public anger. The retired judges
+Khan was a politician. The conclusions of these commissions are in the public domain and none could conclusively answer 
+the central question of Netaji's death in a plane crash, instead opened up a lot of new issues. The commission of 
+inquiry by retired judges is the most abused form of judicial remedy against potentially explosive public anger. The retired judges
 see it as an opportunity to remain in the reckoning and seek multiple extensions of time to file reports. When they
 finally file the reports, they favor what the appointing authority wanted them to. Time is the best healer.
 Nobody challenges brazen laundry washing by many retired judges.
