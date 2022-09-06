@@ -53,7 +53,7 @@ see it as an opportunity to remain in the reckoning and seek multiple extensions
 finally file the reports, they favor what the appointing authority wanted them to do. Time is the best healer.
 Nobody challenges the brazeness of laundry washing by many retired judges.
 
-IMA tightly controls the health sector. More students go out of India to get MBBS degrees. About 20K students
+IMA tightly controls the health sector. A substantial number of students go out of India to get MBBS degrees. About 20K students
 were enrolled in Ukrainian universities before the Russia-Ukrain war broke.  Russian universities enroll about 10k students.
 Also, about 5k students are admitted to Chinese universities. In India, fees are simply unaffordable for a student 
 who seeks a seat in any private medical school. The influential doctors have cartels and exercise control through IMA.
