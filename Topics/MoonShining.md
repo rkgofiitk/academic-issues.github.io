@@ -1,52 +1,71 @@
 ## Moonshining by Software Specialists 
 
 Recently, I came across a news article about Wipro's Rashid Premji berating about moonshining by his staff.
-How really moonshines? It wanes for 2 weeks and waxes for 2 weeks! It does not shine always. That is
-how solar system works. I am bit surprised by Mr. Premji's take on moonshine. Mr. Azim Premji is touted
-to be the largest donor for philanthrophic causes in India. Of course, Mr. Azim Premji belongs to older class
-of Indian entrepreneurs being somewhat contemporary to Ratan Tata, Aditya Vikram Birla and Vijaypat Singhania.
-The reporters have not sought Mr Azim Premji's views on moonshining. I wonder what would be his views. 
-I recently had a discussion with two of my students who have established startups. Both of them are fairly 
-well established and come from humble backgrounds. I asked one of them about staff indulging in multiple
-assignments with rivals. His views are surprisingly refreshing. He does not care if his staff take up multiple
-assignments. He told me that jobs in software industry are project-based. As long as the company's
-projects are delivered in schedule, why will the company care about moonshining by the member of the project
-team?.  Non-disclosure agreements have fairly stringent clauses and that should take care of the
-intellectual property rights. Of course, the poject team leaders have to be little ingenuous in dividing job in a 
-manner that the goals of a project is only known to a few core technical experts. So, in my opinion moonshining 
-by staff in a software job is no big deal. 
+How does the moon shine? It wanes for two weeks and waxes for two weeks. It never shines all the time. That is
+how the solar system works. I am a bit surprised by the younger Premji's take on moonshine. The popular perception is 
+Mr. Azim Premji is the largest donor to philanthropic causes in India. Of course, Mr. Azim Premji belongs to the
+older generation of Indian entrepreneurs. The article does not discuss Mr. Azim Premji's views on moonshining 
+by his employees. I wonder what his views would be. 
 
-Let us understand who does moonshine being in a regular basis. Probably, there will be no need to 
-have departments like ED, CBI, SFIO, EOW, SEBI, etc., if no one does moonshine. Govt servants are The biggest
-culprits they seek favors and bribes for performing their duties. Digitization has improved the situation
-a lot. CBDT has gone through a real reforms. I had a problem with refund way back in 2009. I had 
-written about a dozen representations. Only after 2014, I was able to get the refund directly credited
-in my account. Earlier even for a refund of few hundred rupees a class IV staff used to visit us 
-and disburse the cheque in exchange of 50% of the amount. Every time I refused to take the refund. We
-were careful in calculation of tax so that refund will not exceed beyond a double digit. 
+In this context, I recently discussed with two of my students who have done well with their software startup ventures. 
+Both of them come from pretty humble backgrounds. I asked one of them about his views on the staff 
+indulging in multiple assignments with rivals. His views are surprisingly refreshing and forward-looking. He does
+not care as long as his delivery schedule remains unaffected. He told me that jobs in the software industry are project-based.
+The terms of the contract are reasonably straightforward. If there is a scope for moonshining, let it be. Why will the company
+care about it?  Non-disclosure agreements consist of stringent clauses that should take care of 
+intellectual property rights. However, the algorithmic logic cannot be caged into a compartment. Of course, the 
+replication of the project remains a bit of concern. But only for a limited time. Once used in
+a production environment, the goals are out in the public domain. Therefore, for a limited time, the team leaders have to 
+be a little ingenuous in partitioning a job so that the goals of a project remain a tightly guarded secret among
+a few core technical experts. At some point in time, you need to believe in human relationships.  The student's views are mature and most apt for human management in software.   
 
-Next bigger cuprit are industry conglomorates. Haven't they formed several companies?
-Are n't they directors of several companies?  While talking about one company where they have interest, 
-they should look into themselves. They are also moonshining. Many of them are offenders of the highest order.
-When ED or CBI or SEBI examines their conduct they cry fouls. The double standard is simply astounding. The media 
-never reports about it. They have their own interest. As such most well-known media companies are owned by large
-businsess groups. The media reports only when their own interest are not served. 
+I see the problem in a different dimension. Probably, there will be no need to have departments like ED, CBI, SFIO,
+EOW, SEBI, etc., if no one does moonshine. Let us first understand who does moonshine being regularly.
 
-Health and Education Sectors are most glaring examples where moonshine is rampant. I have come
-across a case where a teacher was simultaneously in payrolls of three colleges. I am not sure 
-what happened to the person. The guest lecturers are actively espoused by fly by night engineering colleges. 
-A person equipped with a mobile phone and mobike could be guest lecturer in multiple colleges in a city. These
-"mobile lecturers" have only connection and degrees and offer no technical depth in teaching. As a result students
-register only for a degree. That is how India produces a large number of engineers but only 10% are employable. 
-The education sector is tatters, and neither the govt nor the regulatory agencies like UGC or AICTE are effective.
-People of questionable integrities become Vice-Chancellors. The secretarial staff of the university are more 
-powerful than the faculty members. Most private educational institutions are run by corrupt politicians. 
+Politicians and Govt servants are The biggest culprits; they seek favors and bribes for performing their duties. 
+Admittedly, digitization has improved the situation a lot. I find CBDT has undergone a fundamental transformation from the days
+of 2014. I had a problem with a refund of INR 25k way back in 2009. I wrote about a dozen representations, including
+CPC office is located in Bangaluru. Only after 2014 did I get the refund directly credited
+to my account. Earlier, even for a refund of a few hundred rupees, a minion from ITD  used to visit us 
+and disburse the cheque in exchange for 50% of the amount. When confronted, he spilled the bean the entire office
+was involved in. Every time I refused to take the refund cheque. We were careful in calculating tax so that refund
+would not exceed a double-digit. I guess ITD must have accumulated lakhs of uncashed cheques until 2014. 
 
-Health sector is tightly controlled by IMA. More student go out of India to get MBBS degrees. About 20K students
-were enrolled in Ukrainian unversity before the war borke. About 5k students are admitted to Chinese universities.
-In India, fees are simply unaffordable for student who seeks a seat in any private medical school. The powerful
+The next bigger culprits are industry czars. They form several companies and simultaneously become CEOs, CTOs, directors,
+and chairpersons of multiple companies and sometimes use proxies like personal chauffeurs or housekeepers.  The mere 
+appearance fee for any meeting may run into lakhs. They do indulge in moonshining as nobody does. Many of them  
+are the worst offenders. The nexus with politicians is also rampant in most cases. When ED, CBI, or SEBI examines their 
+conduct, they cry fouls. The double standard is simply astounding. The media never cares to report it. They
+have their interest.  Most well-known media companies any way are owned by large business groups. The media 
+reports only when their interest is not served. 
+
+Judiciary, Health, and Education Depts are other glaring examples. People have the perception that the Judiciary 
+is clean. Of course, many judges are clean like many ordinary people. Most often, when govt is in trouble, they
+readily agree to a judicial commission. Among these are the Khosla Commission, Shanawaz Commission,
+and Mukerjee Commission, all investigating the death of Netaji S C Bose in a plane crash in Taiwan en route
+to Tokyo. Of course, only Mukerjee Commission was headed by a retired judge. GD Khosla was a bureaucrat, and Shanawaz
+Khan was a politician. The conclusion of these commissions is in the public domain and did not conclusively answer 
+the central question of Netaji's death in a plane crash. But opening up a lot of unanswered questions. Commission of 
+inquiry by retired judges is the most abused judicial remedy to potentially explosive public anger. The retired judges
+see it as an opportunity to remain in the reckoning and seek multiple extensions of time to file reports. When they
+finally file the reports, they favor what the appointing authority wanted them to. Time is the best healer.
+Nobody challenges patently laundry washing by the retired judges.
+
+IMA tightly controls the health sector. More students go out of India to get MBBS degrees. About 20K students
+were enrolled in Ukrainian universities before the Russia-Ukrain war broke. About 5k students are admitted to Chinese universities.
+In India, fees are simply unaffordable for a student who seeks a seat in any private medical school. The influential
 doctors have cartels and exercise control through IMA. It may look like a sweeping statement. But until recently,
-things are really bad. It showed up during COVID-19 pandemic. We did not have enough medical staff or doctors.
-People died due to unavailability of ventilator, oxygen supply. Unscruplous politicians went to the extent of 
-announcing reservation of bed for judges to ward off strictures from the courts. 
+things have been really bad. It showed up during the COVID-19 pandemic. We did not have enough medical staff or doctors.
+People died due to the unavailability of the ventilator and oxygen supply. Unscrupulous politicians went to the extent of 
+announcing the reservation of beds for judges to ward off strictures from the courts. 
+
+In the education sector,  I came across a case where a teacher was simultaneously on the payrolls of three colleges. I 
+am not sure what happened to the person. Fly actively espouses the guest lecturers by night engineering colleges. 
+A person equipped with a mobile phone and mobile could be a guest lecturer in multiple colleges in a city. These
+"mobile lecturers" have only connections and degrees and offer no technical depth in teaching. As a result, students
+register only for a degree. That is how India produces many engineers, but only 10% are employable. 
+The education sector is in tatters, and neither the govt nor the regulatory agencies like UGC or AICTE are effective.
+People of questionable integrities become Vice-Chancellors. The secretarial staff of the university is more 
+powerful than the faculty members. Corrupt politicians run most private educational institutions. 
+
 
