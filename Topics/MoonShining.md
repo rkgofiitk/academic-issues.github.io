@@ -58,8 +58,9 @@ Nobody challenges the brazeness of laundry washing by many retired judges.
 
 IMA tightly controls the health sector. A substantial number of students go out of India to get MBBS degrees. About 20K students
 were enrolled in Ukrainian universities before the Russia-Ukrain war broke.  Russian universities enroll about 10k students.
-Also, about 5k students are admitted to Chinese universities. In India, fees are simply unaffordable for a student 
-who seeks a seat in any private medical school. The influential doctors have cartels and exercise control through IMA.
+Also, about 5k students are admitted to Chinese universities. Indian students even go to countries like Philipines, Kyrgyzstan,
+Khazakhstan, and Germany. Only 41k seats are available in private medical colleges in India. The fees are unaffordable 
+for a student who seeks a seat in any private medical school. The influential doctors have cartels and exercise control through IMA.
 It may look like a sweeping statement. But until recently, things have been really bad. It showed up in the management of
 the COVID-19 pandemic. We did not have enough medical staff or doctors. People died due to the unavailability of 
 ventilators and oxygen supplies. Unscrupulous politicians announced the reservation of beds for
