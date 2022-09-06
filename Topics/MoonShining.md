@@ -17,7 +17,7 @@ intellectual property rights. However, the algorithmic logic cannot be caged int
 replication of the project remains a bit of concern. But only for a limited time. Once used in
 a production environment, the goals are out in the public domain. Therefore, for a limited time, the team leaders have to 
 be a little ingenuous in partitioning a job so that the goals of a project remain a tightly guarded secret among
-a few core technical experts. At some point in time, you need to believe in human relationships.  The student's views are mature and most apt for human management in software.   
+a few core technical experts. At some point in time, you need to believe in human relationships.  The student's views are mature and most apt for human management in software industry.   
 
 I see the problem in a different dimension. Probably, there will be no need to have departments like ED, CBI, SFIO,
 EOW, SEBI, etc., if no one does moonshine. Let us first understand who regularly indulges in moonshine.
