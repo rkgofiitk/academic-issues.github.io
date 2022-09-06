@@ -68,7 +68,7 @@ A person equipped with a mobile phone and mobile could be a guest lecturer in mu
 "mobile lecturers" have only connections and degrees and offer no technical depth in teaching. As a result, students
 register only for a degree. That is how India produces many engineers, but only 10% are employable. 
 The education sector is in tatters, and neither the govt nor the regulatory agencies like UGC or AICTE are effective.
-People of questionable integrities become Vice-Chancellors. The secretarial staff of the university is more 
+People of questionable integrities become Vice-Chancellors or Directors. The secretarial staff of the university is more 
 powerful than the faculty members. Corrupt politicians run most private educational institutions. 
 
 
