@@ -67,8 +67,8 @@ ventilators and oxygen supplies. Unscrupulous politicians announced the reservat
 the high court and supreme court judges to ward off judicial strictures against governance. 
 
 In the education sector,  I came across a case where a teacher was simultaneously on the payrolls of three colleges. I 
-am not sure what happened to the person. Fly by night engineering colleges actively espouses the guest lecturers for cost cutting. 
-A person equipped with a mobile phone and mobile could be a guest lecturer in multiple colleges in a city. These
+am not sure what happened to the person. Fly by night engineering colleges actively espouse the guest lecturers as a
+cost cutting measure. A person equipped with a mobile phone and mobile could be a guest lecturer in multiple colleges in a city. These
 "mobile lecturers" have only connections and degrees and offer no technical depth in teaching. As a result, students
 register only for a degree. That is how India produces many engineers, but only 10% are employable. 
 The education sector is in tatters, and neither the govt nor the regulatory agencies like UGC or AICTE are effective.
