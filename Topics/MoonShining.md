@@ -53,12 +53,12 @@ brazenness of laundry washing by many retired judges.
 
 IMA tightly controls the health sector. A substantial number of students go out of India to get MBBS degrees. About 20K students were 
 enrolled in Ukrainian universities before the Russia-Ukrain war broke. Russian universities enroll about 10k students. Also, about 5k 
-students are admitted to Chinese universities. Indian students go to countries like the Philippines, Kyrgyzstan, Kazakhstan, and Germany. 
-Only 41k seats are available in private medical colleges in India. The fees are unaffordable for a student who seeks a seat in any private 
-medical school. The influential doctors have cartels and exercise control through IMA. It may look like a sweeping statement. But until 
-recently, things have been really bad. It showed up in the management of the COVID-19 pandemic. People died due to the unavailability of 
-ventilators and oxygen supplies. Unscrupulous politicians announced the reservation of beds for the high court and supreme court judges to 
-ward off judicial strictures against governance.
+students are admitted to Chinese universities. Indian students also go to countries like the Philippines, Kyrgyzstan, Kazakhstan, 
+and Germany for MBBS degrees. Only 41k seats are available in private medical colleges in India. The fees are unaffordable for a 
+student who seeks a seat in any private medical school. The influential doctors have cartels and exercise control through IMA. 
+It may look like a sweeping statement. But until recently, things have been really bad. It showed up in the management of the 
+COVID-19 pandemic. People died due to the unavailability of ventilators and oxygen supplies. Unscrupulous politicians announced 
+the reservation of beds for the high court and supreme court judges to ward off judicial strictures against governance.
 
 In the education sector, I came across a case where a teacher was simultaneously on the payrolls of three colleges. I am not sure what 
 happened to the person. Fly-by-night engineering colleges actively espouse guest lecturers as a cost-cutting measure. A person equipped 
