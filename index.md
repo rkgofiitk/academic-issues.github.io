@@ -11,7 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
-- [Software Techies on Moon Shine](Topics/MoonShine.md)
+- [Software Techies on Moon Shine](Topics/MoonShining.md)
 - [International Students Mix in Indian Universities](Topics/internationalStudentsMix.md)
 - [5T Transformation of Schools in Odisha](Topics/OdishaSchools.md)
 - [Of Academic institutions, Autonomy and Appointments](Topics/universityChiefExecutive.md)
