@@ -71,3 +71,5 @@ and degrees and offer no technical depth in teaching. As a result, students regi
 engineers, but only 10% are employable. The education sector is in tatters, and neither the govt nor the regulatory agencies like UGC or 
 AICTE are effective. People with questionable integrities become Vice-Chancellors or Directors. The secretarial staff of the university is 
 more powerful than the faculty members. Corrupt politicians run most private educational institutions.
+
+[Back to Index](../index.md)
