@@ -54,12 +54,13 @@ finally file the reports, they favor what the appointing authority wanted them t
 Nobody challenges patently laundry washing by the retired judges.
 
 IMA tightly controls the health sector. More students go out of India to get MBBS degrees. About 20K students
-were enrolled in Ukrainian universities before the Russia-Ukrain war broke. About 5k students are admitted to Chinese universities.
-In India, fees are simply unaffordable for a student who seeks a seat in any private medical school. The influential
-doctors have cartels and exercise control through IMA. It may look like a sweeping statement. But until recently,
-things have been really bad. It showed up during the COVID-19 pandemic. We did not have enough medical staff or doctors.
-People died due to the unavailability of the ventilator and oxygen supply. Unscrupulous politicians went to the extent of 
-announcing the reservation of beds for judges to ward off strictures from the courts. 
+were enrolled in Ukrainian universities before the Russia-Ukrain war broke.  Russian universities enrolls about 10k students.
+Also, about 5k students are admitted to Chinese universities. In India, fees are simply unaffordable for a student 
+who seeks a seat in any private medical school. The influential doctors have cartels and exercise control through IMA.
+It may look like a sweeping statement. But until recently, things have been really bad. It showed up in management of
+the COVID-19 pandemic. We did not have enough medical staff or doctors. People died due to the unavailability of the
+ventilators and oxygen supplies. Unscrupulous politicians went to the extent of announcing the reservation of beds for
+the high court and supreme court judges to ward off judicial strictures against governance. 
 
 In the education sector,  I came across a case where a teacher was simultaneously on the payrolls of three colleges. I 
 am not sure what happened to the person. Fly actively espouses the guest lecturers by night engineering colleges. 
