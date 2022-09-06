@@ -8,18 +8,19 @@ his Wipro shares valued at 52k crores to the Azim Premji Foundation in 2019. So,
 Foundation in India. The article did not discuss Mr. Azim Premji's views on moonshining by Wipro employees. I wonder what his views 
 would be.
 
-The software industry traditionally has more free-lancer than any other segment. Many of my friends and students opted for freelancing 
-rather than joining some XYZ companies. Most of them are doing very well and are acknowledged, consultants. I recently had discussions 
-with two of my students who have done well with their software startup ventures. Both of them come from pretty humble backgrounds. I asked 
-one of them about his specific views on the staff indulging in multiple assignments with the rivals. His views are surprisingly refreshing 
-and forward-looking. He does not care as long as his delivery schedule remains unaffected. He told me that jobs in the software industry 
-are project-based. The terms of the contract are reasonably straightforward. If there is a scope for moonshining, let it be. The guy must 
-be very competent. Why will the company care about it? Non-disclosure agreements consist of stringent clauses that should take care of 
-intellectual property rights. However, the algorithmic logic cannot be caged into a compartment. Of course, the replication of the project 
-remains a bit of concern. But only for a limited time. Once used in a production environment, the goals are out in the public domain. 
-Therefore, for a limited time, the team leaders have to be a little ingenuous in partitioning a job so that the goals of a project remain 
-a tightly guarded secret among a few core technical experts. At some point in time, you need to believe in human relationships. The 
-student's views are mature and most apt for human management in the software industry.
+The software industry traditionally has more free-lancers than any other service industry. Many of my friends and students opted 
+for freelancing rather than joining some XYZ companies. Most of them are doing very well and are acknowledged, consultants. I 
+recently had discussions with two of my students who have done well with their software startup ventures. Both of them come from 
+pretty humble backgrounds. I asked one of them about his specific views on the staff indulging in multiple assignments with the
+rivals. His views are surprisingly refreshing and forward-looking. He does not care as long as his delivery schedule remains 
+unaffected. He told me that jobs in the software industry are project-based. The terms of the contract are reasonably straightforward.
+If there is a scope for moonshining, let it be. The guy must be very competent. Why will the company care about it? 
+Non-disclosure agreements consist of stringent clauses that should take care of intellectual property rights. However, the 
+algorithmic logic cannot be caged into a compartment. Of course, the replication of the project remains a bit of concern. But only
+for a limited time. Once used in a production environment, the goals are out in the public domain. Therefore, for a limited time,
+the team leaders have to be a little ingenuous in partitioning a job so that the goals of a project remain a tightly guarded secret 
+among a few core technical experts. At some point in time, you need to believe in human relationships. The student's views are 
+mature and most apt for human management in the software industry.
 
 I see the problem in a different dimension. Probably, there will be no need to have departments like ED, CBI, SFIO, EOW, SEBI, etc., if no 
 one does moonshine. Let us first understand who regularly indulges in moonshine.
