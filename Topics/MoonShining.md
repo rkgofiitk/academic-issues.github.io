@@ -20,7 +20,7 @@ be a little ingenuous in partitioning a job so that the goals of a project remai
 a few core technical experts. At some point in time, you need to believe in human relationships.  The student's views are mature and most apt for human management in software.   
 
 I see the problem in a different dimension. Probably, there will be no need to have departments like ED, CBI, SFIO,
-EOW, SEBI, etc., if no one does moonshine. Let us first understand who does moonshine being regularly.
+EOW, SEBI, etc., if no one does moonshine. Let us first understand who regularly indulges in moonshine.
 
 The politicians and the govt servants are the biggest culprits. They seek favors and bribes for performing their duties. 
 Admittedly, digitization has improved the situation a lot. I find CBDT has undergone a fundamental transformation from the days
