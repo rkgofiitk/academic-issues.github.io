@@ -17,14 +17,14 @@ intellectual property rights. However, the algorithmic logic cannot be caged int
 replication of the project remains a bit of concern. But only for a limited time. Once used in
 a production environment, the goals are out in the public domain. Therefore, for a limited time, the team leaders have to 
 be a little ingenuous in partitioning a job so that the goals of a project remain a tightly guarded secret among
-a few core technical experts. At some point in time, you need to believe in human relationships.  The student's views are mature and most apt for human management in software industry.   
+a few core technical experts. At some point in time, you need to believe in human relationships.  The student's views are mature and most apt for human management in the software industry.   
 
 I see the problem in a different dimension. Probably, there will be no need to have departments like ED, CBI, SFIO,
 EOW, SEBI, etc., if no one does moonshine. Let us first understand who regularly indulges in moonshine.
 
 The politicians and the govt servants are the biggest culprits. They seek favors and bribes for performing their duties. 
 Admittedly, digitization has improved the situation a lot. I find CBDT has undergone a fundamental transformation from the
-pre 2014 days. I had a problem with a refund of INR 25k way back in 2009. I wrote about a dozen representations, including
+pre-2014 days. I had a problem with a refund of INR 25k way back in 2009. I wrote about a dozen representations, including
 CPC office is located in Bangaluru. Only after 2014 did I get the refund directly credited
 to my account. Earlier, even for a refund of a few hundred rupees, a minion from ITD  used to visit us 
 and disburse the cheque in exchange for 50% of the amount. When confronted, he spilled the bean the entire office
@@ -40,12 +40,12 @@ have their interest.  Most well-known media companies any way are owned by large
 reports only when their interest is not served. 
 
 Judiciary, Health, and Education Depts are other glaring examples. People have the perception that the Judiciary 
-is clean. Of course, many judges are clean like many ordinary people are. Most often, when govt is in trouble, they
+is clean. Of course, many judges are clean like many ordinary people are. Most often, when govts are in trouble, they
 readily agree to a judicial commission by a retired judge.
 
 The Khosla Commission, the Shah Nawaz Commission,
-and the Mukerjee Commission, all investigating the death of Netaji S C Bose in a plane crash in Taiwan en route
-to Tokyo. Of course, only Mukerjee Commission was headed by a retired judge. GD Khosla was a bureaucrat, and Shanawaz
+and the Mukerjee Commission are all investigating the death of Netaji S C Bose in a plane crash in Taiwan en route
+to Tokyo. Of course, only Mukerjee Commission was headed by a retired judge. GD Khosla was a bureaucrat and Shanawaz
 Khan was a politician. The conclusion of these commissions is in the public domain and did not conclusively answer 
 the central question of Netaji's death in a plane crash. But opening up a lot of unanswered questions. Commission of 
 inquiry by retired judges is the most abused judicial remedy to potentially explosive public anger. The retired judges
@@ -54,12 +54,12 @@ finally file the reports, they favor what the appointing authority wanted them t
 Nobody challenges brazen laundry washing by many retired judges.
 
 IMA tightly controls the health sector. More students go out of India to get MBBS degrees. About 20K students
-were enrolled in Ukrainian universities before the Russia-Ukrain war broke.  Russian universities enrolls about 10k students.
+were enrolled in Ukrainian universities before the Russia-Ukrain war broke.  Russian universities enroll about 10k students.
 Also, about 5k students are admitted to Chinese universities. In India, fees are simply unaffordable for a student 
 who seeks a seat in any private medical school. The influential doctors have cartels and exercise control through IMA.
-It may look like a sweeping statement. But until recently, things have been really bad. It showed up in management of
-the COVID-19 pandemic. We did not have enough medical staff or doctors. People died due to the unavailability of the
-ventilators and oxygen supplies. Unscrupulous politicians went to the extent of announcing the reservation of beds for
+It may look like a sweeping statement. But until recently, things have been really bad. It showed up in the management of
+the COVID-19 pandemic. We did not have enough medical staff or doctors. People died due to the unavailability of 
+ventilators and oxygen supplies. Unscrupulous politicians announced the reservation of beds for
 the high court and supreme court judges to ward off judicial strictures against governance. 
 
 In the education sector,  I came across a case where a teacher was simultaneously on the payrolls of three colleges. I 
