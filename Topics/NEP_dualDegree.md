@@ -1,7 +1,7 @@
 ## Unification of UGC, AICTE and NCTE
 
-A recent news item on ToI which reports that UGC chairperson has formed a committee to recommend unification of UGC, 
-AICTE and NCTE to streamline the domain of higher education. It is not clear what the unification would mean for
+A recent news item on ToI which reports that UGC chairperson has formed a committee to recommend [unification of UGC, 
+AICTE and NCTE](https://am.linkedin.com/posts/mamidala-jagadesh-kumar-76b090146_manash-gohain-of-times-of-india-writes-the-activity-6896151745542901760-HVLe?trk=public_profile_like_view) to streamline the domain of higher education. It is not clear what the unification would mean for
 implementation of new National Education Policy. Govt has apparently working on a bill to create a new unified 
 regulatory agency called HECI (Higher Education Commission of India). The bill will be introduced in the parliament's
 upcoming winter session. As I understand the three bodies UGC, AICTE and NCTE will preserve their own identities 
