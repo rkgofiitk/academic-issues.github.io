@@ -64,11 +64,11 @@ national importance that can sustain and upgrade standards of Indian technical e
 The government efforts in creating regulatory bodies of NAAC have not paid off. NAAC is gamed by private
 universities. A [recent report in ToI](https://timesofindia.indiatimes.com/education/better-than-the-best-naacs-grade-discrepancies-under-lens/articleshow/94591794.cms) and an [editorial post](https://timesofindia.indiatimes.com/blogs/toi-editorials/unreliably-a-oddities-in-naac-assessment-call-for-an-urgent-audit-dont-mess-with-higher-education/) 
 say that a deemed private university in Bhubaneswar has been awarded the
-highest ever NAAC accreditation. There are seven other private universities including on engineering college
+highest ever NAAC accreditation score. There are seven other private universities including on engineering college
 in Bangulur which scored higher NAAC scores than 3.67 scored by IISc Bangalore. In NIRF ranking IISc is 1st
-and the aforesaid Engineering College of Bangaluru is at the band of 175-200. NIRF ranking depends on 
-some structured data on research, students enrollment, facilities and perception ranking by educationists. 
-Perhaps there is not much scope of manipulation. The report says NAAC experts are approached with bribes 
-in form of cash and gold jewllaries. 
+and the aforesaid Engineering College of Bangaluru is at the band of 175-200 NIRF ranks. NIRF ranking depends on 
+certain structured data on research, students enrollments, academic programes, facilities and also the 
+perception ranking by eminent educationists.  Perhaps there is not much scope of manipulation. The report says
+NAAC experts are approached with bribes in form of cash, gold jewllaries and other goodies. 
 
 
