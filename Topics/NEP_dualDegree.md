@@ -53,7 +53,7 @@ a fare dose of political agititional interference by "intelligentia" using surro
 The so called intelligentia have been by and large successful creating dissary in university education 
 system. I am not sure why they do that and how their doings makes people aware of the disparities in 
 socio-economic conditions of the poor. However, their own political existence is secured at the expense of
-surrogate pawns. It could be a billion dollar question to answer, whether or not the state political 
+gullible surrogate pawns. It could be a billion dollar question to answer, whether or not the state political 
 leaders will submit to HECI's standardization initiatives in respect of state universities? 
 
 Ninety percent of private universities game the system and are least bothered about standard in higher education. 
