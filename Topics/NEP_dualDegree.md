@@ -51,8 +51,9 @@ Central universities have not fared much better than many state universities. Ev
 fair share of disturbances and controversies. University system as whole has come under
 a fare dose of political agititional interference by "intelligentia" using surrogacy through students. 
 The so called intelligentia have been by and large successful creating dissary in university education 
-system. I am not sure why they do that and how their doing makes people aware of conditions of suffering
-masses.  It could be a billion dollar question to answer, whether or not the state political 
+system. I am not sure why they do that and how their doings makes people aware of conditions of suffering
+masses or disparities in socio-economic conditions of the poor.  It could be a billion dollar question
+to answer, whether or not the state political 
 leaders will submit to HECI's standardization initiatives in respect of state universities? 
 
 Ninety percent of private universities game the system and are least bothered about standard in higher education. 
