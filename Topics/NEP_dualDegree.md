@@ -52,7 +52,7 @@ fair share of disturbances and controversies. University system as whole has com
 a fare dose of political agititional interference by "intelligentia" using surrogacy through students. 
 The so called intelligentia have been by and large successful creating dissary in university education 
 system. I am not sure why they do that and how their doing makes people aware of conditions of suffering
-masses.  It could be billion dollar question to answer, whether or not the state political 
+masses.  It could be a billion dollar question to answer, whether or not the state political 
 leaders will submit to HECI's standardization initiatives in respect of state universities? 
 
 Ninety percent of private universities game the system and are least bothered about standard in higher education. 
