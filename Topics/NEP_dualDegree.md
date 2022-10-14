@@ -66,7 +66,7 @@ universities. A [recent report in ToI](https://timesofindia.indiatimes.com/educa
 say that a deemed private university in Bhubaneswar has been awarded the
 highest ever NAAC accreditation. There are seven other private universities including on engineering college
 in Bangulur which scored higher NAAC scores than 3.67 scored by IISc Bangalore. In NIRF ranking IISc is 1st
-and the aforesaid Engineering College of Bangaluru is at the band of 177-200. NIRF ranking depends on 
+and the aforesaid Engineering College of Bangaluru is at the band of 175-200. NIRF ranking depends on 
 some structured data on research, students enrollment, facilities and perception ranking by educationists. 
 Perhaps there is not much scope of manipulation. The report says NAAC experts are approached with bribes 
 in form of cash and gold jewllaries. 
