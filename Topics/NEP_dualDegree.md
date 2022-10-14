@@ -1,42 +1,45 @@
 ## Unification of UGC, AICTE and NCTE
 
-A recent news item on ToI which reports that UGC chairperson has formed a committee to recommend unification of UGC, AICTE and NCTE to streamline
-the domain of higher education. It is not clear what the unification would mean for implementation of new National Education Policy. Govt has 
-apparently working on a bill to create a new unified regulatory agency called HECI (Higher Education Commission of India). The bill will be
-introduced in the parliament's upcoming winter session. As I understand the three bodies UGC, AICTE and NCTE will preserve their own entity 
-within the framework of HECI. The umbrella body is going to perform the role of coordination over the three agencies. It will make sure that
-no conflicting views are presented in public. Before dealing with the existing conflict among the regulatory agencies, let us step back a bit to
-understand the roles of the three agencies in the domain of higher education.
+A recent news item on ToI which reports that UGC chairperson has formed a committee to recommend unification of UGC, 
+AICTE and NCTE to streamline the domain of higher education. It is not clear what the unification would mean for
+implementation of new National Education Policy. Govt has apparently working on a bill to create a new unified 
+regulatory agency called HECI (Higher Education Commission of India). The bill will be introduced in the parliament's
+upcoming winter session. As I understand the three bodies UGC, AICTE and NCTE will preserve their own identities 
+within the framework of HECI. The umbrella body is going to perform the role of coordination over the three agencies.
+It will make sure that no conflicting views are presented in public. Before dealing with the existing conflicts among
+the regulatory agencies, let us step back a bit to understand the roles of the three agencies in the domain of 
+higher education.
 
-- UGC is largely a regulatory agency for overseeing the role of universities.
+- UGC is a regulatory agency for overseeing the role of universities.
 - AICTE is responsible for evolving standards of techinical eduation.
 - NCTE has a fairly passive role in developing framework for educating the educators.
 
 There are a few overlapping areas where three agencies may have their own set of guidelines or controls. However,
-NCTE is not directly connected with the domain of higher education. It is primarily responsible for designing 
+NCTE is not directly connected with the domain of higher education. Its primary responsibility is for designing 
 curriculum for training and upgrading skills of school teachers. Admittedly, the roles of school teachers are very 
-important considering they influence kids early on and not only shape up their learning capabilities 
-but also have responsibility in building their backgrounds for higher education. So, NCTE may have some indirect
-influence on higher education systems. 
+critical considering they influence kids early on shaping up their learning capabilities and background knowledge. 
+So, NCTE may have indirect influences on higher education systems. 
 
 AICTE defines guidelines for the selection and assessment-based progress of faculty in technical education. AICTE
 has no jurisdiction on universities. But many universities also offer Undergraducate and Postrgaduate prorammes in
-engineering and other technication education. So, standardization requirements among technical graduates forces 
-AICTE and UGC to have some sort of broad agreements in the area of technical education. 
+engineering and other technical education. So, the requirements for standardization of technical education forces 
+AICTE and UGC to have some sort of broad agreements in many areas in the domain of higher education. 
 
-IIT system is by and large has remained free from UGC interferences until now. Compared to state or central 
-universities, the IITs have excelled and recognized world over for their undergraducates programmes in 
-engineering. A few UGC Chairpersons have tried to exercise their control over IIT system by sending
-out its missives from time to time. However, IITs have ignored them effectively. So, there is nothing like a 
-no-man's line in activities of the three agencies. However, all three bodies were happy to leave things at a 
-level where confrontation were avoided over non-compliance issues in the past. Clearly, govt's intentions is 
-to bring the non-compliance issue to forefront. Otherwise, I don't see a reason for an umbrella agency like 
-HECI. I am not sure what will be the exact role of HECI in IIT system. However, IITs are governed by IIT Council, I 
-am not sure if HECI may influence IIT council in its decision making. We should wait and watch to see if
-HECI becomes a body like Niti ayog, or a commission that ensures no omission in compliances. 
+IIT system is by and large has remained free from interferences of the principal regulatory agencies until now.
+Compared to state or central universities, the IITs excelled and recognized world over for their undergraducates
+programmes in engineering. Some odd UGC Chairpersons did try to exercise their control over IIT system in the 
+past by sending out its missives from time to time. However, IITs have succeeded in ignoring them effectively. 
+So, though the conflicts did arise from time to time, all three bodies were happy to leave things at a 
+level where confrontation were avoided over non-compliance issues by IITs in the past. Clearly, govt's intentions
+is to bring the non-compliance to the forefront in a bid to achieve standardization. Otherwise, I don't see 
+a reason for creation of an umbrella agency like HECI. I am not sure what will be the exact role of HECI in 
+IIT system. IITs are governed by IIT Council, I am not sure if HECI may influence IIT council in its decision
+making or any IITs will still be allowed to ignore HECI like they did to UGC. 
 
-In my humble opinion the compliance issue is going to be hard problem to crack. Firstly, education belong to 
-concurrent list. According to an [estimate](https://en.wikipedia.org/wiki/Higher_education_in_India) the break 
+We should wait and watch how HECI shapes up to become a fulfledged controling or standardization agency. The
+question for now is that whether HECI becomes a body like Niti ayog, or a commission of compliances like SEBI
+or even TRAI.  However, in my humble opinion the compliance issue is going to be hard problem to crack. Firstly, 
+education belong to the concurrent list. According to an [estimate](https://en.wikipedia.org/wiki/Higher_education_in_India) the break 
 up of institutes of higher learning are as follows:
 
 - 416 state universities
@@ -44,20 +47,28 @@ up of institutes of higher learning are as follows:
 - 54 central universities
 - 159 institutes of national importance that includes IITs, AIIMS, IISER, NITs, IIEST, and few others.
 
-Central universities have not fared any better than many state universities. University system as whole has come under
-a fare dose of political agititional interference by "intelligentia" through student surrogacy. The so called
-intelligentia have been by and large successful creating dissary in university education system. I am not sure why
-they do that and how that makes people aware of conditions of suffering masses. In early 70s, the state of 
-the universities located across state of West Bengal withessed one of the worst period of upheavel. The result is
-there for everyone to see even now. It could be billion dollar question to answer, whether or not the state political 
-leaders will submit to HECI's interferences in respect of state universities? Ninety percent of private universities
-game the system and are least bothered about standard of education. 
+Central universities have not fared much better than many state universities. Even UoH, DU or JNU have their
+fair share of disturbances and controversies. University system as whole has come under
+a fare dose of political agititional interference by "intelligentia" using surrogacy through students. 
+The so called intelligentia have been by and large successful creating dissary in university education 
+system. I am not sure why they do that and how their doing makes people aware of conditions of suffering
+masses.  It could be billion dollar question to answer, whether or not the state political 
+leaders will submit to HECI's standardization initiatives in respect of state universities? 
 
+Ninety percent of private universities game the system and are least bothered about standard in higher education. 
 There is only a handful of private universities such as BITS, ISB, Ashoka, XLRI which were able to maintain some
 standards because of their long history. It will take huge time and efforts for other private universities to
 attend level of maturity to preserve the standard of their institutions. So it is left only 159 institutes of 
-national importance which are essentially torch bearer of Indian technical education system.
+national importance that can sustain and upgrade standards of Indian technical education system.
 
-The government efforts in creating regulatory bodies of NAAC have not paid off.
+The government efforts in creating regulatory bodies of NAAC have not paid off. NAAC is gamed by private
+universities. A [recent report in ToI](https://timesofindia.indiatimes.com/education/better-than-the-best-naacs-grade-discrepancies-under-lens/articleshow/94591794.cms) and an [editorial post](https://timesofindia.indiatimes.com/blogs/toi-editorials/unreliably-a-oddities-in-naac-assessment-call-for-an-urgent-audit-dont-mess-with-higher-education/) 
+say that a deemed private university in Bhubaneswar has been awarded the
+highest ever NAAC accreditation. There are seven other private universities including on engineering college
+in Bangulur which scored higher NAAC scores than 3.67 scored by IISc Bangalore. In NIRF ranking IISc is 1st
+and the aforesaid Engineering College of Bangaluru is at the band of 177-200. NIRF ranking depends on 
+some structured data on research, students enrollment, facilities and perception ranking by educationists. 
+Perhaps there is not much scope of manipulation. The report says NAAC experts are approached with bribes 
+in form of cash and gold jewllaries. 
 
 
