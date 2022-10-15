@@ -79,3 +79,4 @@ perception ranking by eminent educationists.  Perhaps the scope of manipulation 
 that depends on human intervention can be gamed using inducements and coercions. As they say, everyone has a price.
 
 
+[Back to Index](../index.md)
