@@ -78,6 +78,6 @@ and the aforesaid Engineering College of Bangaluru is in the band of 175-200 NIR
 either NAAC accreditation process is wrong or NIRF ranking is unreliable. However, NIRF ranking depends on 
 certain structured data on research, student enrollments, academic programs, facilities, and the 
 perception ranking by eminent educationists.  Perhaps the scope of manipulation of these data is low. Any system
-of human intervention can be gamed. As they say, everyone has a price.
+that depends on human intervention can be gamed easily by inducements and coercions. As they say, everyone has a price.
 
 
