@@ -29,13 +29,13 @@ agreements in many areas of higher education.
 
 The IIT system, by and large, has remained free from interference from the principal regulatory agencies until now.
 Compared to the state or central universities, the IITs excelled and are recognized worldwide for their engineering undergraduate programs. Some odd UGC Chairpersons did try to exercise their control over the IIT system by sending out its missives from time to time. However, IITs have succeeded in ignoring them effectively. 
-So, though conflicts occasionally arose regularly, all three bodies were happy to leave things at a 
-level where confrontations were avoided over non-compliance issues by the IITs in the past. The government intends to bring non-compliance to the forefront to achieve standardization in higher
-education. Otherwise, I don't see a reason for creating an umbrella agency like HECI. I am not sure what 
-will be the exact role of HECI with respect to the IIT system. IIT Council governs IITs. I am not sure if 
+So, though conflicts arose occasionally, all three bodies were happy to leave things at a 
+level where confrontations were avoided in the past. I am not sure if 
 HECI may influence the IIT council in its decision-making, or any IITs will still be allowed to ignore HECI as 
 they did to UGC. 
 
+The government intends to bring non-compliance to the forefront to achieve standardization in higher
+education. Otherwise, I don't see a reason for creating an umbrella agency like HECI.  
 The question is whether HECI becomes a body like Niti ayog or a commission of compliances like SEBI
 or even TRAI. We should wait and watch how HECI shapes up to become a full-fledged controlling plus standardization
 agency and what comes under its ambit. However, the compliance issue is going to be hard 
@@ -66,9 +66,10 @@ educationists of questionable credentials as the heads of these institutions. If
 issues in these institutions, then we are doomed.
 
 
-The government's efforts in creating regulatory bodies of NAAC have not paid off. Private universities game NAAC. A [recent report in ToI](https://timesofindia.indiatimes.com/education/better-than-the-best-naacs-grade-discrepancies-under-lens/articleshow/94591794.cms) and an [editorial post](https://timesofindia.indiatimes.com/blogs/toi-editorials/unreliably-a-oddities-in-naac-assessment-call-for-an-urgent-audit-dont-mess-with-higher-education/) 
+The government's efforts in creating regulatory bodies of NAAC have not paid off. Private universities game NAAC. 
+A [recent report in ToI](https://timesofindia.indiatimes.com/education/better-than-the-best-naacs-grade-discrepancies-under-lens/articleshow/94591794.cms) and an [editorial post](https://timesofindia.indiatimes.com/blogs/toi-editorials/unreliably-a-oddities-in-naac-assessment-call-for-an-urgent-audit-dont-mess-with-higher-education/) 
 say that a deemed private university in Bhubaneswar has been awarded the
-highest-ever NAAC accreditation score. There are seven other private universities, including an engineering college
+highest-ever NAAC score. There are seven other private universities, including an engineering college
 in Bangulur, which scored higher NAAC scores than the 3.67 scored by IISc Bangalore. In NIRF ranking IISc is 1st
 and the aforesaid Engineering College of Bangaluru is in the band of 175-200 NIRF ranks. NIRF ranking depends on 
 certain structured data on research, student enrollments, academic programs, facilities, and the 
