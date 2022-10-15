@@ -35,11 +35,10 @@ HECI may influence the IIT council in its decision-making, or any IITs will stil
 they did to UGC. 
 
 The government intends to bring non-compliance to the forefront to achieve standardization in higher
-education. Otherwise, I don't see a reason for creating an umbrella agency like HECI.  
-The question is whether HECI becomes a body like Niti ayog or a commission of compliances like SEBI
-or even TRAI. We have to wait and watch how HECI shapes up to become a full-fledged controlling plus standardization
-agency and what comes under its ambit. However, the compliance issue is going to be hard 
-problem to manage due to many reasons. 
+education. Otherwise, I don't see a reason for creating an umbrella agency like HECI. The question is whether HECI
+becomes a body like Niti ayog or a commission of compliances like SEBI or even TRAI. We have to wait and watch
+how HECI shapes up to become a full-fledged controlling plus standardization agency and what comes under its ambit. 
+However, the compliance issue is going to be hard problem to manage due to many reasons. 
 
 The education belongs to the concurrent list. According to an [estimate](https://en.wikipedia.org/wiki/Higher_education_in_India)
 the break up of institutes of higher learning are as follows:
@@ -63,10 +62,9 @@ perhaps further their political ambitions through their institutions. There is o
 universities, such as BITS, ISB, Ashoka, and XLRI, were able to maintain some standards because of their 
 long legacy. It will take a lot of time and effort for other private universities to attend a level of
 maturity to preserve the standard of their institutions. So it is left only 159 institutes of national 
-importance can sustain and upgrade 
-the standards of the Indian technical education system. Already, the govt has succeeded in drafting many unwanted
-educationists of questionable credentials as the heads of these institutions. If HECI tries to throttle compliance
-issues in these institutions, then we are doomed.
+importance can sustain and upgrade the standards of the Indian technical education system. Already, the 
+govt has succeeded in drafting many unwanted educationists of questionable credentials as the heads of these 
+institutions. If HECI tries to throttle compliance issues in these institutions, then we are doomed.
 
 
 The government's efforts in creating regulatory bodies of NAAC have not paid off. Private universities game NAAC. 
