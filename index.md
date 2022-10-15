@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [Unification of UGC, AICTE and NCTE](Topics/unificationAgencies.md)
 - [Software Techies on Moonshine](Topics/MoonShining.md)
 - [International Students Mix in Indian Universities](Topics/internationalStudentsMix.md)
 - [5T Transformation of Schools in Odisha](Topics/OdishaSchools.md)
