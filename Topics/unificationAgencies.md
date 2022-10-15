@@ -17,7 +17,7 @@ higher education.
 Three agencies may have guidelines or controls in a few overlapping areas. However,
 NCTE's role is passive. It is not directly connected with the domain of higher education. Its primary responsibility
 is designing curricula for training and upgrading the skills of school teachers. Admittedly, the roles of school
-teachers are critical, considering they influence kids early on, shaping their learning capabilities and 
+teachers are critical considering they influence kids early on, in shaping their learning capabilities and 
 background knowledge that will prepare them for higher education. 
 
 AICTE defines guidelines for the selection and assessment-based progress of faculty in technical education. It also
@@ -71,7 +71,7 @@ The government's efforts in creating regulatory bodies of NAAC have not paid off
 A [recent report in ToI](https://timesofindia.indiatimes.com/education/better-than-the-best-naacs-grade-discrepancies-under-lens/articleshow/94591794.cms) and an [editorial post](https://timesofindia.indiatimes.com/blogs/toi-editorials/unreliably-a-oddities-in-naac-assessment-call-for-an-urgent-audit-dont-mess-with-higher-education/) 
 say that a deemed private university in Bhubaneswar has been awarded the
 highest-ever NAAC score. There are seven other private universities, including an engineering college
-in Bangulur, which scored higher NAAC scores than the 3.67 scored by IISc Bangalore. In NIRF ranking IISc is 1st
+in Banguluru, which scored higher NAAC scores than the 3.67 scored by IISc Bangalore. In NIRF ranking IISc is 1st
 and the aforesaid Engineering College of Bangaluru is in the band of 175-200 NIRF ranks. It proves that 
 either NAAC accreditation process is wrong or NIRF ranking is unreliable. However, NIRF ranking depends on 
 certain structured data on research, student enrollments, academic programs, facilities, and the 
