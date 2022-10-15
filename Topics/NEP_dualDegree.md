@@ -75,7 +75,7 @@ say that a deemed private university in Bhubaneswar has been awarded the
 highest-ever NAAC score. There are seven other private universities, including an engineering college
 in Bangulur, which scored higher NAAC scores than the 3.67 scored by IISc Bangalore. In NIRF ranking IISc is 1st
 and the aforesaid Engineering College of Bangaluru is in the band of 175-200 NIRF ranks. It proves that 
-either NAAC accreditition process is wrong or NIRF ranking is unreliable. However, NIRF ranking depends on 
+either NAAC accreditation process is wrong or NIRF ranking is unreliable. However, NIRF ranking depends on 
 certain structured data on research, student enrollments, academic programs, facilities, and the 
 perception ranking by eminent educationists.  Perhaps the scope of manipulation of these data is low. Any system
 of human intervention can be gamed. As they say, everyone has a price.
