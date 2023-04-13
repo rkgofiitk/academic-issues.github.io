@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [Aadhar Ecosystem and Citizens' Ordeals](Topics/AadharUpdate.md)
 - [Unification of UGC, AICTE and NCTE](Topics/unificationAgencies.md)
 - [Software Techies on Moonshine](Topics/MoonShining.md)
 - [International Students Mix in Indian Universities](Topics/internationalStudentsMix.md)
