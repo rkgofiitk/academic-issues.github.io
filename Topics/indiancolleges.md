@@ -35,10 +35,15 @@ of passing MA economics in second class. I asked him what went wrong and why he 
 He told me, "Sir, I could pay for a first-class; the rates are pretty high."
 
 AICTE was established in 1945. However, the AICTE Act was passed by the Parliament in 1987. It started dictating terms for establishing  
-standardized norms for technical education across the country in the early 1990s. The govt of the day chose the wrong guy as the Chairperson. As 
-a result, AICTE soon became a cesspool of corruption. I was a member of the evaluation team for new colleges and attended a few evaluation committee meetings. In one meeting, I came across a person who presented proposals for seven colleges spread across Tamil Nadu. We rejected all of his proposals, as it became evident that the guy was trying to drive benefits from the
-efforts to open up technical education to private players. Once, I went for a field inspection of six colleges in Secunderabad and Hyderabad, seeking AICTE approval for starting B. Tech in CS. Our team had three academic experts and was led by the director of AICTE. The inspection visits of expert
-teams were supposed to be confidential. But the operators knew them in advance. During the inspection team's visit, the proposers tried their
+standardized norms for technical education across the country in the early 1990s.  At this critical time, the govt of the day chose the wrong guy
+as the Chairperson. As a result, AICTE soon became a cesspool of corruption. I was a member of the evaluation team for new colleges and attended a 
+couple of evaluation committee meetings. In one of the meetings, I came across a person who presented seven proposals for promoting colleges spread 
+across Tamil Nadu. We rejected all of his proposals, as it became evident that the guy has unscrupulous intentions. His proposals are 
+inadequate, he had no clue of running even a coaching institutions. He thought faculty is an expandable commodity. An AICTE stamp of approval 
+is just enough for running racket of distributing certificates. On another occassion, I was an expert member of a field inspection team. We 
+visited of six colleges in Secunderabad and Hyderabad, seeking AICTE approval for starting B. Tech in CS. Our team had three academic experts 
+and was led by the director of AICTE. The inspection visits of expert teams were supposed to be confidential. But the operators knew them in 
+advance. During the inspection team's visit, the proposers tried their
 best to bribe the inspection team in various devious ways, including presenting gifts for spouses. We rejected all the proposals during 
 our inspection, as they needed adequate infrastructure to start a B. Tech CS program. Most of them hired desktops from known 
 vendors for inspection to pass off smoothly. Many phony teachers were presented to act as teachers for the inspection day. After that, I stopped going
@@ -46,6 +51,17 @@ to AICTE for expert evaluation. One of the proposers for a technical college tol
 mean anything. It is just a temporary delay in their timeline and works out fine. Another panel subsequently accepted the proposal after
 a gap of a few months. 
 
-I am told there are shady universities and technical colleges in eastern India where you can get an assured degree without seriously taking the exams. Every grade has a price. You get the grade you pay for. The photocopy shops in the college neighborhood have operators who could 
-fetch you a copy of exam papers if the right price is paid. Some of these I learned from my connection. I have no first-hand knowledge to back
-the allegations. However, there cannot be smoke without fire. 
+I am told there are shady universities and technical colleges in eastern India where you can get an assured degree without seriously taking the exams. 
+Every grade has a price. You get the grade you pay for. The photocopy shops in the college neighborhood have operators who could 
+fetch you a copy of exam papers if the right price is paid. Some of these I learned from my connections. I don't have no first-hand knowledge to back
+the allegations. However, there cannot be smoke without fire. There are about 4000 institutions that offer B. Tech CS degrees. If in an
+average a college produces 40 graduates annually, then India produces about 160000 CS graduates annually. However, between 5-8% of these graduate
+are employable. The rest 92-95% of these unfortunate graduates are not even fit for desk work in govt offices. It has severely affected India's
+progress in acquiring digital supremacy. Most programmers are cut-paste kind of useless human resource. As a result the govt portals are 
+terrible to use. Large scale scams have compounded the problems for the citizens. One comes across full page ads saying that Aadhar system of
+transforming India's socio economically poor rural population. It is preventing leaks and benefits reaching directly to citizens. However, if
+anyone has tried to download e-aadhar would know how painful it is. The get requests timeout too often. Post requests cannot get through. 
+So, citizens have to join the queues at the Post offices for offline enrolements. Offline servers also timeout often to increase the load. It
+is a shere wastage of man hours which could have been channelized for more productive work. The reader may refer to my last blog on [Aadhar 
+Enrolement Ordeals](./aadhar.md).  
+
