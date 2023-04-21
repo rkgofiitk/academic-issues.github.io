@@ -71,3 +71,5 @@ be rewarding. Unscrupulous private players should be banned. We have AICTE and U
 system. An educational audit system needs to be established. However, a system will only work if we have enough good people managing them. Lobbying for a 
 position must stop. Earlier, I discussed an elaborate process of [selecting heads of higher educational institutions](./universityChiefExecutive.md).
 
+
+[Back to Index](../index.md)
