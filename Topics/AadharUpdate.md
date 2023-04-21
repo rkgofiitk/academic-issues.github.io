@@ -44,3 +44,5 @@ I remember one previous CEO of Aadhar who once said that a 13-meter-thick concre
 non-technician management people at the helm will create hell for others. That is how I will describe the Aadhar ecosystem's usability from the 
 perspective of ordinary citizens. I must have written over 40 emails and an equal number of tweets to the Customer Relationship Manager, CEO and the
 MoIT, and the MosIT between February 19 and the date. So, it is indeed secured by a thick wall literally. 
+
+[Back to Index](../index.md)
