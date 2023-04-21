@@ -11,7 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
-- [India's Colleges Affecting the Growth of Country's Digital Ecosystem](Topics/IndiasColleges.md)
+- [India's Colleges Affecting the Growth of Country's Digital Ecosystem](Topics/indiancolleges.md)
 - [Aadhar Ecosystem and Citizens' Ordeals](Topics/AadharUpdate.md)
 - [Unification of UGC, AICTE and NCTE](Topics/unificationAgencies.md)
 - [Software Techies on Moonshine](Topics/MoonShining.md)
