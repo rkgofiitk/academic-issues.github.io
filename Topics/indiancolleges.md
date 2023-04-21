@@ -65,3 +65,9 @@ So, citizens must join the queues at the Post offices for offline enrolments. Of
 is a sheer waste of man-hours that could have been channelized for more productive work. The reader may refer to my last blog on [Aadhar 
 Ecosystem and Citizens' Ordeals](./AadharUpdate.md).  
 
+The readers may think I need to suggest remedies before pointing out problems. However, it is straightforward to understand that we need to work from the 
+bottom of the pyramid. The rote learning system must be replaced by a system that challenges the mental faculty of students. The teaching profession must 
+be rewarding. Unscrupulous private players should be banned. We have AICTE and UGC, but they act differently than SEBI or RBI regulating the education 
+system. An educational audit system needs to be established. However, a system will only work if we have enough good people managing them. Lobbying for a 
+position must stop. Earlier, I discussed an elaborate process of selecting heads of higher educational institutions.
+
