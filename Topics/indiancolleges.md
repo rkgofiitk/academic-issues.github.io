@@ -63,5 +63,5 @@ transforming India's socio economically poor rural population. It is preventing 
 anyone has tried to download e-aadhar would know how painful it is. The get requests timeout too often. Post requests cannot get through. 
 So, citizens have to join the queues at the Post offices for offline enrolements. Offline servers also timeout often to increase the load. It
 is a shere wastage of man hours which could have been channelized for more productive work. The reader may refer to my last blog on [Aadhar 
-Enrolement Ordeals](./aadhar.md).  
+Enrolement Ordeals](./AadharUpdate.md)).  
 
