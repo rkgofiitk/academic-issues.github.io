@@ -69,5 +69,5 @@ The readers may think I need to suggest remedies before pointing out problems. H
 bottom of the pyramid. The rote learning system must be replaced by a system that challenges the mental faculty of students. The teaching profession must 
 be rewarding. Unscrupulous private players should be banned. We have AICTE and UGC, but they act differently than SEBI or RBI regulating the education 
 system. An educational audit system needs to be established. However, a system will only work if we have enough good people managing them. Lobbying for a 
-position must stop. Earlier, I discussed an elaborate process of selecting heads of higher educational institutions.
+position must stop. Earlier, I discussed an elaborate process of [selecting heads of higher educational institutions](./universityChiefExecutive.md).
 
