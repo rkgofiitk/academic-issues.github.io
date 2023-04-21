@@ -1,4 +1,4 @@
-# Degrees from Indian Colleges and Digital Ecosystem 
+# Degrees from Indian Colleges Affecting Growth of India's Digital Ecosystem 
 
 Recently, I came across an article titled [Worthless Degrees Are Creating an Unemployable Generation in India."](https://www.bloomberg.com/news/articles/2023-04-17/india-s-worthless-college-degrees-undercut-world-s-fastest-growing-major-economy#xj4y7vzkg)  
 I have been writing about it in my blogs, especially in the context of untrained cut/paste programmers. All serious educators and policy
@@ -63,5 +63,5 @@ transforming India's socio economically poor rural population. It is preventing 
 anyone has tried to download e-aadhar would know how painful it is. The get requests timeout too often. Post requests cannot get through. 
 So, citizens have to join the queues at the Post offices for offline enrolements. Offline servers also timeout often to increase the load. It
 is a shere wastage of man hours which could have been channelized for more productive work. The reader may refer to my last blog on [Aadhar 
-Enrolement Ordeals](./AadharUpdate.md)).  
+Enrolement Ordeals](./AadharUpdate.md).  
 
