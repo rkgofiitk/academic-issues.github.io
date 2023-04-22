@@ -1,14 +1,19 @@
 # Indian Colleges Affecting Growth of Country's Digital Ecosystem 
 
 Recently, I came across an article titled [Worthless Degrees Are Creating an Unemployable Generation in India."](https://www.bloomberg.com/news/articles/2023-04-17/india-s-worthless-college-degrees-undercut-world-s-fastest-growing-major-economy#xj4y7vzkg)  
-I have been writing about it in my blogs, especially in the context of untrained cut/paste programmers. All serious educators and policy
-planners do realize the problem. The
-article understandably has a more extensive audience reach due to a syndicate reporting system. Having taught at three different IITs in my long teaching career 
-of over 35 years, I know the problem and my esteemed colleagues well. The problem is that all our higher education systems are manifold. Let me start at
-the bottom of the pyramid. 
+Over past couple of years,the focus of my blogs was primarily about worthless B. Tech. degrees in computer science. It is flooding illtrained, 
+low-skilled programmers and is the main reason for pulling back the country's digital ecosystem. The article published in Bloomborg understandably
+has a wider audience reach due to the syndicate reporting system. However, it falls short of a root-cause analysis. I am sure that authors do know 
+where the buck stops. To put it simply all the states and federal regulatory agencies have contributed in ruining India's colleges and 
+universities allowing politicians and so called liberal cotrie to exert control over professionals. Of course, there are professionals 
+who collude with the gang to enjpy power and control. The education system of the country became a collateral in this unholy nexus. All serious
+educators and policy planners do realize the problem. Having taught at three different IITs in my long teaching career, I know the problem
+and so do my esteemed colleagues. The problem that ails our higher education systems has several layers. Let me start at the bottom of the 
+problem stack. 
 
 India's primary, middle, and secondary education system largely depends on panchayat and govt run schools. These schools have
-a lot of infrastructure-related issues. However, among these, the availability of well-trained teachers is the foundational problem. Handling building and development of human resources is like raising 
+a lot of infrastructure-related issues. However, among these, the availability of well-trained teachers is the foundational problem. Handling building 
+and development of human resources is like raising 
 a building without foundation in an active seismic zone. In an earlier blog, I mentioned a school in the Palamau District of Jharkhand, where
 a reporter described a maths teacher. The response from teachers and students to the reporter's question was appalling. It was a govt funded
 school. Recently, another video report was circulated among our colleagues. This video was about a school in Bihar. Again a govt run school 
