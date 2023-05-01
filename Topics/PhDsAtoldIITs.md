@@ -35,4 +35,32 @@ most enterprise plough their CSR funds to captive educational setups or startups
 grants to IITs is for salaries. Only 20% of the grant is utilised for IIT  in recurring expenses and capex kind of funding. Recurring expense
 include maintenance such as IWD, electricity, AMCs, etc. I guess it won't be more than 100cr per older IITs. The major flow of fund in research
 or infrastructure upgrade comes under HEFA loan. If someone knows about it can understand the implication of a loan versus a grant. In simple 
-terms it means most successful researchers in IITs depend on project grants unless they are doing pen-paper kind of stuff. 
+terms it means most successful researchers in IITs depend on project grants unless they are doing pen-paper kind of stuff as mathematicians do!
+
+Let us elaborate on the quality of professors at IITs. Getting quality faculty is always a big problem. However, Delhi, Bombay and Madras never
+had problem in attracting best people. Kanpur, Kharagpur and Guwahati had problems and continue to have problem due to locations. Even with locational
+disadvantage Kanpur and Kharagpur did well. Kanpur's first director PK Kelkar had a vision and did a few tweaking of rules to attract faculty. 
+Now such tweaking of rules is not possible and the successive govt spiked the selection process to get unscrupulous undeserving people to 
+become directors. I explained about the selection process of the directors in an earlier blog. Even with the useless non-leader the intrinsic
+strength of the IITs was a safeguard. This no more is the case today. IIT senates have lost their strengths. So, something is definitely wrong
+in selection process. Good teachers were not encouraged anymore. Publications used to be a criteria for always, but not overly emphasized. Awards
+were encouraged but not to the extent it is now. I know the SSB awardees now aspire to become administrative heads or influencers. However,
+awards never make a soul good unless the genetically the person is a good human being. It brings bad name to the whole institution with bad 
+publicity and a fair share of legal troubles. So, I do agree to the point some faculty members run after awards, publications, and indulge in
+internecine politics. Their students suffer due to it. Yet, I believe one can easily spot them. If students fall prey to their charm and fame
+they do suffer. Once students were trapped to such a faculty member then things can go really bad for them. However, I have also seen other side
+of the story. Many students want to work under such faculty member considering the placements opportunities. So, they should not complain afterwards.
+I believe about 70-80% of faculty members at IITs are good. Many of them are well respected even outside. 
+
+There is definitely a competition among faculty members to get students, because publication record is main criterion for promotion these days.
+Again here depending on the dept, the student matching process could be open or based on certain criterion for equitable distribution. The
+depts where matching process is open, the competition is more intense and poaching happens. However equitable distribution is also fraught with
+problems where a student may have to join a least preferred professor. I have no straightforward solution to it. Then there is a problem with
+research in computer science and engineering. The research agend is set by big companies like Google and Microsoft. All undergraduate students
+these days want to work in AI/ML and Data Science. I have discussed about it in an earlier blog. A CS undergraduate from schools outside IITs
+do not even have good programming background but want to work in AI/ML or Data  Sciences. I learn from a young faculty member at one of older
+IITs that it is impossible to get any student who would work in the faculty member's area of interest. So, all of them now work in AI/ML and
+Data Sciences. It kills quality research. Only B grade research gets reported. I am not sure who to blame for it. Beyond CSE, research in
+sciences at IITs is no better. I remember that I was traveling from Kanpur to Bombay in company with a well-known professor in chemistry who
+bored me all the way and 1/4 the of whole day (6 hours) on the politics which denied his due to get an SSB award. So, I do agree the description which
+is circulating about a typical Science faculty member at older IITs. 
