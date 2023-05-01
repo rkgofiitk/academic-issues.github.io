@@ -52,15 +52,28 @@ they do suffer. Once students were trapped to such a faculty member then things 
 of the story. Many students want to work under such faculty member considering the placements opportunities. So, they should not complain afterwards.
 I believe about 70-80% of faculty members at IITs are good. Many of them are well respected even outside. 
 
-There is definitely a competition among faculty members to get students, because publication record is main criterion for promotion these days.
-Again here depending on the dept, the student matching process could be open or based on certain criterion for equitable distribution. The
+There is definitely a competition among faculty members to get reaearch students. Publication record is one of the main criterion for promotion.
+Depending on the dept, number of good publications count could be high or low. In experimental research, the research students are key to publication.
+A participation of a faculty member in experimental research can be at best slightly better than the job of a research manager. As I said the
+research grant is key to any experiment oriented research. So, lab setup an sourcing chemical reagents, equipment and associated devices require
+an external grant. The institute does not have any echo-system to support a faculty member in it. So, apart from intellectual contribution a
+faculty member is supposed to accomplish everything within first 3 years of their tenure at IITs. If the dept head is good or works in the same
+area then the faculty member may get a sympathetic vibe by agreeing to share credits. Nothing comes without a price. So, starting a career as 
+a young faculty member at IITs is no better or no worse than anywhere in the world. Matching research students to the interest of a faculty 
+member could itself trigger a competion. Matching process could be open or based on certain criterion for equitable distribution. The
 depts where matching process is open, the competition is more intense and poaching happens. However equitable distribution is also fraught with
-problems where a student may have to join a least preferred professor. I have no straightforward solution to it. Then there is a problem with
-research in computer science and engineering. The research agend is set by big companies like Google and Microsoft. All undergraduate students
+problems where a student may have to join a least preferred professor and get demotivated. I have no straightforward solution to it. Let me  
+deal a bit research agenda. For example, in Computer Science, the agend is set by big companies like Google and Microsoft. All undergraduate students
 these days want to work in AI/ML and Data Science. I have discussed about it in an earlier blog. A CS undergraduate from schools outside IITs
 do not even have good programming background but want to work in AI/ML or Data  Sciences. I learn from a young faculty member at one of older
 IITs that it is impossible to get any student who would work in the faculty member's area of interest. So, all of them now work in AI/ML and
 Data Sciences. It kills quality research. Only B grade research gets reported. I am not sure who to blame for it. Beyond CSE, research in
-sciences at IITs is no better. I remember that I was traveling from Kanpur to Bombay in company with a well-known professor in chemistry who
-bored me all the way and 1/4 the of whole day (6 hours) on the politics which denied his due to get an SSB award. So, I do agree the description which
-is circulating about a typical Science faculty member at older IITs. 
+sciences at IITs is no better. I remember that I was traveling in company with a well-known professor in chemistry who
+bored me all the way and 1/6 the of whole day (4 hours) on the politics denied him an SSB award. So, I do agree the description which
+is circulating about a typical Science faculty member at older IITs. However, my experience with collaborative research with scientist in US universities, 
+Europe and Oceania tells me the problem is not typical to India or at IITs. Sometime back in an earlier blog I referred to a movie called 
+PHD (pile higher and deeper). It sums up the life of a typical research student in an American University. So, to say that US universities are
+better is a myth. No one looks at the root cause, you decide to pursue a Ph. D at IITs then you have chosen to do so. Cribbing about it only
+reflects your frustration. Any system has its fair share of good and bad. There are also as much good souls at older IITs at they are at US
+universities. It is either your luck or simply a bad choice to find a good supervisor. The blame squarely lies on you. It is like the wretched
+politicians we vote for. People deserve the leader they vote for.
