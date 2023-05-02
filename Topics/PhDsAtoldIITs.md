@@ -87,3 +87,7 @@ reflects your frustration. Any system has its fair share of good and bad. Percen
 universities. Finding a good supervisor is a mature well-reasoned choice rather than swimming along with a bandwagon. The blame squarely lies on the
 concerned student. It is like the wretched politicians we vote for. People deserve the leader they vote for.
 
+<br>
+<br>
+[Back to Index](../index.md)
+
