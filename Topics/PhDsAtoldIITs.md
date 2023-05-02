@@ -65,7 +65,7 @@ research grant is vital to any experiment-oriented research. So, lab setup and s
 an external grant. The institute does not have any echo system to support a faculty member. So, apart from intellectual contribution, a
 faculty member is supposed to accomplish everything within the first three years of their tenure at IITs. If the dept head is good or works in the 
 same area, the faculty member may get a sympathetic vibe by agreeing to share credits. Nothing comes without a price. So, starting a career as 
-a young faculty member at I.I.T. is no better or worse than anywhere in the world. Matching fresh research students to a faculty member's interest could 
+a young faculty member at IIT. is no better or worse than anywhere in the world. Matching fresh research students to a faculty member's interest could 
 trigger a competition. The matching process could be open or based on the criterion of equitable distribution. The competition is more intense in the
 depts where the matching process is open, and poaching happens. However, equitable distribution is also fraught with
 problems where students may have to join a least preferred professor and get demotivated. I have no straightforward solution to it. 
@@ -77,11 +77,13 @@ Sciences. I learned from a young faculty member at one of the older.
 IITs that getting a student who would work in the faculty member's area of interest is impossible. So, all the faculty members now work in AI/ML and
 Data Sciences. It kills quality research. Only B-grade research gets reported. I don't know who to blame for it. Beyond C.S.E., research in
 sciences at IITs is no better. I remember traveling in the company of a well-known professor in chemistry who
-bored me all the way, and 1/6 of the whole day (4 hours) on politics denied him an S.S.B. award. So, I agree with the description circulating about a typical Science faculty member at older IITs. However, my experience with collaborative research with scientists in U.S. universities, 
+bored me all the way, and 1/6 of the whole day (4 hours) on politics denied him an S.S.B. award. So, I agree with the description circulating about a 
+typical Science faculty member at older IITs. However, my experience with collaborative research with scientists in U.S. universities, 
 Europe and Oceania tell me the problem is not typical for India or IITs. Sometime back in an earlier blog, I referred to a movie called 
-P.H.D. (Pile Higher and Deeper). It sums up the life of a typical research student in an American University. So, to say that the U.S. universities are
+[P.H.D. (Pile Higher and Deeper)](https://www.youtube.com/watch?v=uMFKu8ies0c). It sums up the life of a typical research student in an 
+American University. So, to say that the U.S. universities are
 better is a myth. No one looks at the root cause; if you decide to pursue a Ph. D at IITs, you have chosen to do so. Cribbing about it only
-reflects your frustration. Any system has its fair share of good and bad. Percentage-wise, there are also as many good souls at older I.I.Ts as at U.S.
+reflects your frustration. Any system has its fair share of good and bad. Percentage-wise, there are also as many good souls at older IITs as at U.S.
 universities. Finding a good supervisor is a mature well-reasoned choice rather than swimming along with a bandwagon. The blame squarely lies on the
 concerned student. It is like the wretched politicians we vote for. People deserve the leader they vote for.
 
