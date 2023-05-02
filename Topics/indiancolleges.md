@@ -7,18 +7,20 @@ Bloomberg understandably has a wider audience reach due to the syndicate reporti
 I am sure that authors know where the buck stops. To put it simply, all the states and federal regulatory agencies have contributed to ruining 
 India's colleges and universities. It allowed unscrupulous politicians and a phony liberal coterie to exert control over professionals. Of course,
 a group of professionals colluded with the gang to enjoy power and control. All serious educators and policy planners realize the 
-problem but cannot do anything other than venting frustrations. It reminds me of the story of three thugs who made the farmer believe that
-he is carrying a dog instead of a goat on his shoulders. Having taught at three different IITs in my long teaching career, I know the problem, and so do my esteemed colleagues. The problem that ails our higher education systems has several layers. Let me start at the bottom of the 
+problem but cannot do anything other than vent frustrations. It reminds me of the story of three thugs who made the farmer believe that
+he is carrying a dog instead of a goat on his shoulders. Having taught at three different IITs in my long teaching career, I know the problem, 
+and so do my esteemed colleagues. The problem that ails our higher education systems has several layers. Let me start at the bottom of the 
 problem stack. 
 
 The country's primary, middle, and secondary level education largely depends on panchayat and govt run schools. These schools have
 a lot of infrastructure-related issues. Some schools are just open schools; many have no buildings, while others do not have tables or chairs.
-However, infrastructure is the least of the problem that beset the school education system. Sometime back, I wrote a blog on the 5T school upgrade project
-of Govt of Odisha. Capex always yields large and instant kickbacks. So, infrastructure development is most welcome among politicians if there
-is an opportunity. The availability of well-trained teachers is the foundational problem. Schools without provisioning
-critical human resources are like raising a building without foundation in an active seismic zone. I discussed
-a middle school in the Palamau District of Jharkhand in an earlier blog. His video report showed that a maths teacher did not know basics like multiplication tables.
-A literature teacher misspells all words. Even the headmaster of the school has no clue how to teach. The responses from teachers 
+However, infrastructure is the least of the problem that beset the school education system. Sometime back, I wrote [a blog on the 5T school 
+upgrade project of Govt of Odisha](./OdishaSchools.md). Capex always yields large and instant kickbacks. So, infrastructure development is 
+most welcome among politicians if there is an opportunity. The availability of well-trained teachers is the foundational problem. Schools 
+without provisioning critical human resources are like raising a building without foundation in an active seismic zone. I discussed
+[a middle school in the Palamau District of Jharkhand in an earlier blog](./stateOfSchoolEducation.md). His video report showed that a maths 
+teacher did not know basics like 
+multiplication tables. A literature teacher misspells all words. Even the headmaster of the school has no clue how to teach. The responses from teachers 
 and students to the reporter's question were appalling. It was a govt funded school. Recently, another video report was circulated among our
 colleagues. This video was about a school near Patna in Bihar. Again a govt run school 
 where actual teachers were absent and probably engaged in more profitable enterprises. Their places were filled up by proxies ranging from 
@@ -26,7 +28,8 @@ husbands to brothers to cousins of the appointed teachers. None of them are qual
 were acting as proxies. It is not rocket science to understand that the students were learning anything but academics. Though the proxy teachers
 are doing a babysitting job, whatever the students learn from interactions is perhaps browbeating. 
 
-Now let us talk about college education. Most colleges in the country are privately affiliated with degree-awarding universities. Surprisingly, these colleges could get affiliations with state universities. Money and political power prevail more than any academic concerns.
+Now let us talk about college education. Most colleges in the country are privately affiliated with degree-awarding universities. Surprisingly, these 
+colleges could get affiliations with state universities. Money and political power prevail more than any academic concerns.
 My knowledge of humanities sciences is limited except for a brief interaction as a panel member for Ph.D. admissions. However, in my brief interaction
 with the candidates, I found that they were taught a lot of gibberish about the so-called "liberal values."  Sadly, they could not relate their 
 knowledge to contemporary practical issues when one probes deeper. Literature students never cared to peek at great Indian classics like 
