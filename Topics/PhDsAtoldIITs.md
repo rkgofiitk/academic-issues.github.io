@@ -89,5 +89,5 @@ concerned student. It is like the wretched politicians we vote for. People deser
 
 <br>
 <br>
-[Back to Index](../index.md)
+[Back to Index](../../index.md)
 
