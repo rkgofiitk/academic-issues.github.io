@@ -73,8 +73,8 @@ give you a copy of exam papers if the right price is paid. Some of these I learn
 the allegations. However, there cannot be any smoke without a fire. There are about 4000 institutions that offer B. Tech CS degrees. If, on
 average, a college produces 40 graduates annually, then India produces about 160000 CS graduates annually. However, between 5-8% of these graduates
 are employable. The rest, 92-95% of these unfortunate graduates, are unfit even for desk work at government offices. It has severely affected India's
-progress in acquiring digital supremacy. Most programmers constitute what I call as "cut-paste variety of useless human resources." As a r
-esult, the govt portals are terrible to use. Large-scale scams have compounded the problems for the citizens. One comes across full-page ads
+progress in acquiring digital supremacy. Most programmers constitute what I call as "cut-paste variety of useless human resources." As a 
+result, the govt portals are terrible to use. Large-scale scams have compounded the problems for the citizens. One comes across full-page ads
 saying that the Aadhar system of transforming India's socio-economically poor rural population. It prevents leaks, and govt's benefits are 
 reaching directly to citizens. However, if anyone has tried to download e-aadhar would know how painful it is. The GET requests timeout too often.
 POST requests cannot get through. So, citizens must join the queues at the Post offices for offline enrolments. Offline servers often time out to 
@@ -84,8 +84,9 @@ on [Aadhar Ecosystem and Citizens' Ordeals](./AadharUpdate.md) for further detai
 The readers may think I need to suggest remedies before pointing out problems. However, it is straightforward to understand that we need to work from the 
 bottom of the pyramid. The rote learning system must be replaced by a system that challenges the mental faculty of students. The teaching profession must 
 be rewarding. Unscrupulous private players should be banned. We have AICTE and UGC, but they don't have regulatory powers like SEBI or RBI have
-in money control. An educational audit system needs to be established. However, a system will only work if we have enough good people managing 
-them. Lobbying for a position must stop. Earlier, I discussed an elaborate process of [selecting heads of higher educational institutions](./universityChiefExecutive.md).
+in money control and fiscal plannings. An educational audit system needs to be established. However, a system will only work if we have 
+enough good people managing them. Lobbying for a position must stop. Earlier, I discussed an elaborate process of
+[selecting heads of higher educational institutions](./universityChiefExecutive.md).
 
 
 [Back to Index](../index.md)
