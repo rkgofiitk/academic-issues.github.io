@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [Pursuing PhD at Older IITs](../Topics/PhDsAtoldIITs.md)
 - [Indian Colleges Affecting Growth of Country's Digital Ecosystem](Topics/indiancolleges.md)
 - [Aadhar Ecosystem and Citizens' Ordeals](Topics/AadharUpdate.md)
 - [Unification of UGC, AICTE and NCTE](Topics/unificationAgencies.md)
