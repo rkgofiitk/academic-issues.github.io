@@ -36,15 +36,14 @@ could not relate their knowledge to contemporary practical issues when probed de
 classics like Ramayana, Mahabharata, or Kalidas's work. Ramayan and Mahabharata are not just Hindu mythology. They give an account of different facets of 
 human society, politics, and transactional systems in subtle details than a course in welfare economics can ever teach.
 Many students of well-known schools like DU, CU, JU, JNU, and UoH try to speak eloquently about English, French classics, and Greek mythology 
-but, unfortunately, cannot relate them to Indian epics. I believe they pick up terrible reading habits under the tutelage of the guardianship of
-of a syndicate of teachers who operate with poney liberal agenda. Science education is no better. However, the fundamental 
-nature of science education is either you know a thing or you do not. Such value binaries are absent in HSS. As
-a result, one can manage diametrically conflicting abstract views in the grab of freedom of speech and liberal values. On the other hand, if 
-you are unsure about a scientific phenomenon, you are done with it. At one point, our colleagues in
-The physics dept used to say Presidency or JU students had good scholastic upbringing. However, that is not true anymore. The training at 
-these famous institutions is a shadow of what they used to be. Yet JU is still a good university, according to the NIRF ranking, that speaks about 
-college education in India. I am not saying all degree-awarding colleges and universities are bad. However, the recruitment of professors has 
-been beset with politics. Only a few deserving could get appointments. It is hard to find online recruitment ads for
+but, unfortunately, cannot relate them to Indian epics. I believe they pick up terrible reading habits under the tutelage of
+a syndicate of teachers who operate with poney liberal agenda. Science education is no better. However, the fundamental nature of science education is 
+either you know a thing or you do not. Such value binaries are absent in HSS. As a result, one can manage diametrically conflicting abstract views 
+in the grab of freedom of speech and liberal values. On the other hand, if you are unsure about a scientific phenomenon, you are done with it. 
+At one point, our colleagues in physics dept used to say Presidency or JU students had good scholastic upbringing. However, that is not true 
+anymore. The training at these famous institutions is a shadow of what they used to be. Yet JU is still a good university, according to the 
+NIRF ranking, that speaks about college education in India. I am not saying all degree-awarding colleges and universities are bad. However, 
+the recruitment of professors has been beset with politics. Only a few deserving could get appointments. It is hard to find online recruitment ads for
 college/university teachers, or any state PSC can operate without political interference. Anecdotally, I remember that an office
 staff came to my office with a box of sweets to celebrate his accomplishment of passing MA economics in second class. I asked him what went 
 wrong and why he could not manage a first class. The reply was revealing. He told me, "Sir, I don't have money to pay for a first-class; the 
