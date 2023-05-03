@@ -27,22 +27,32 @@ What are the implications of this announcement? Whatever little I can gather fro
 - May charge fees which they deem appropriate. 
 - Central, state universities or private universities and will continue to operate as they are now.
 
-There is no doubt that the country has a need for good HEIs. However, allowing unfettered operation of foreign private universities could create 
+There is no doubt that the country has a need for many good HEIs. However, allowing unfettered operation of foreign private universities could create 
 many unforeseen problems. For example, is it possible for a consortium of foreigners acting as front of universities be allowed to build, own and 
 operate HEI in India? Similarly, the laws of the land should be applied in dealing with disputes arising out of interactions between students,
-employees on one hand and universities on the other hand. Obviously, a foreign university should not be law unto themselves while operating inside
-India. Indian courts should have jurisdiction in dealing with disputes. I am assuming that UGC has taken good care of aforesaid issues in 
-dealing with the responses from foreign embassies. 
+employees on one hand and universities on the other hand. Obviously, a foreign university should not be a law unto themselves while operating inside
+Indian territory. Indian courts should have jurisdiction in dealing with the disputes. I am assuming that UGC has taken good care of aforesaid issues
+in dealing with the responses from foreign embassies and the universities interested in setting campuses here. 
 
-Secondly, is world rank of 500 enough? I guess not. Ranking is a different business than intrinsic strength of the universities. Yes, IITs or IISc
-do not have good rankings. But I have visited many US universities, where professors believe IIT undergrads are best trained. I was told by a 
-professor that she is proud to have an IIT undergrad working in her lab. I met a few of my students in a research lab in Europe where they were
-working as interns. These interns were sought after in the lab for developing . Graduate studies is
-very different. IITs are not able to compete as their input to graduate studies is outside IIT system. It is a known fact that students outside 
-IIT system have very different background. 
-  
-How allowing foreign universities may affect higher education system in India. I believe Prof M. Jagadish has given up hope in shaping up Indian Universities and improving higher education through
-regulatory mechanisms. So, UGC has chosen to 
-make the system open and introduce fierce competetions among the players. That is a fairly well known strategy. Probably, students or parents will
-choose best among the univsersities. It will automatically drive out the universities to closure if thay cannot survive the competition. However,
-there is a catch. 
+Secondly, I wonder if world rank of 500 is enough. IMHO, ranking of HEIs do not depend on intrinsic strength of the universities. IITs or IISc
+do not have good rankings. However, I have visited many US universities, where most professors believe IIT undergrads are best trained among the
+foreign students. In was told by a professor that she is proud to have an IIT undergrad working in her lab. I met a few of my students in a 
+research lab in Europe where many undergrads from IITK were working as interns. These interns were most sought after in the lab as research
+assistants. Graduate studies at IITs is very different from undergraduate programs. The input to the graduate programs at IITs is 
+exclusively from outside IIT system. It is a known fact that students outside IIT system have a different background and not very well prepared
+for graduate studies in engineering. Therefore, graduate programs at IITs are obviously not at par with MIT, Yale, Harvard, Berkley or Stanford.
+The focus of graduate studies at IISc is predominantly in science. Science education in many universities in the country are well established.
+So, Ph. D program in science at IISc is quite competitive. I guess most foreign universities in India may start with graduate programs in Science.
+If so, it may affect the Ph. D intakes at institutions like IISc and IISERs. Hopefully, UGC has weighed these problems in its scheme.  
+
+Thirdly, fee structure at foreign universities will not be very different from what they charge in US or Europe. I guess the tuition fee for
+undergraduate programs could be in the range of USD30-35k. May be they will reduce the fee a bit for campuses in India because their input
+cost (faculty and support staff salaries, infrastructure, recurring expenses) will be substantially low. However, I don't see fee to be
+under USD20k. On the other hand, it may affect IITs, IISc, IISERs are many potential faculty candidates will get hired by foreign universities.
+So, I see it as a lose-lose situtation for India. Perhaps I am missing something here. Perhaps UGC may have factored these problem in their draft
+proposal for allowing foreign universities to set shops in India. 
+
+On the flip side, I see that UGC is not able to exercise much control over state universities. Most state universities are in shambles. Even
+central universities have become dens of undesirable politician and loompen elements. It has affected overall scenario of higher education in India. 
+So, the young undergraduate students are unable to fulfil cherished dream of a good training in India.  
+
