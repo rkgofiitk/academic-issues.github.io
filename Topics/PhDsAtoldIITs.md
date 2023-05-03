@@ -52,7 +52,7 @@ selection process of faculty members. Good teachers are not encouraged anymore. 
 good teaching. Though publication record used to be a criterion earlier too, it was not overly emphasized. Awards were encouraged, but not to
 the extent it is now. I know the SSB (shanti swarup bhatnagar) awardees now aspire and actively lobby to become administrative heads or 
 influencers. Awards never make a soul good unless the person is genetically good. In fact, Prof B. Nag is one of the best diretors at IITB. He was 
-neither a SSB awardee nor a well decorated scientist. He had a vision and acknowledge as a leader of exceptional calibre. Bad managers bring
+neither a SSB awardee nor a well decorated scientist. He had a vision and acknowledged as a leader of exceptional calibre. Bad managers bring
 a bad name to the whole institution with bad publicity and a fair share of legal troubles as many of the older IITs have now. I agree that some 
 faculty members run after awards and publications and indulge in internecine politics. Their students suffer due to it. Yet, one 
 can easily spot them. If students fall prey to their charms and fame, they do suffer. Many such faculty members even use their existing students
