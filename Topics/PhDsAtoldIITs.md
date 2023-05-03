@@ -79,15 +79,16 @@ All undergraduate students want to work in AI/ML and Data Science. I have discus
 A CS undergraduate from schools outside the IIT system does not even have a good programming background but wants to work in AI/ML or Data 
 Sciences. I learned from a young faculty member at one of the older IITs that getting a student who would work in the faculty member's area 
 of interest is impossible. So, all the faculty members now work in AI/ML and Data Sciences. It kills quality research in core area. Only 
-B-grade research gets reported in AI/ML. I don't know who to blame for it. Beyond C.S.E., research in sciences at IITs is no better. I remember 
-traveling in the company of a well-known professor in chemistry who bored me all the way, and 1/6 of the whole day (4 hours) on politics 
-denied him an SSB award. So, I agree with the description circulating about a typical Science faculty member at older IITs. However, my 
-experience with collaborative research with scientists in U.S. universities, Europe and Oceania tells me the problem is not typical for India 
+B-grade research gets reported in AI/ML. I don't know who to blame for it. Beyond CSE, research in sciences at IITs is no better. I remember 
+traveling in the company of a well-known professor in chemistry who bored me all the way, and 1/6 of the whole day (4 hours) on the politics 
+that denied him an SSB award. So, I agree with the description circulating about a typical Science faculty member at older IITs. However, my 
+experience with collaborative research with scientists in U.S. universities, Europe and Oceania tells me the problem is not typical to India 
 or IITs. Sometime back in an earlier blog, I referred to a movie called 
 [P.H.D. (Pile Higher and Deeper)](https://www.youtube.com/watch?v=uMFKu8ies0c). It sums up the life of a typical research student in an 
-American University. So, to say that the U.S. universities are better is a myth. No one looks at the root cause; if you decide to pursue a 
-Ph. D at IITs, you have chosen to do so. Cribbing about it only reflects your frustration. Any system has its fair share of good and bad. 
-Percentage-wise, there are also as many good souls at older IITs as at US universities. Finding a good supervisor is a mature well-reasoned 
+American University. So, to say that the US universities are better is a myth. In European system, a professor is an institution. It is
+even more difficult to go against a prodessor unless you want to sacrifice your life! No one looks at the root cause; if you decide to pursue a 
+Ph. D at IITs, you have chosen to do so. Cribbing about it only reflects your frustration. Any system has its fair share of good, bad and ugly. 
+Percentage-wise, there are also as many good souls at older IITs as at any US university. Finding a good supervisor is a mature well-reasoned 
 choice rather than swimming along with a bandwagon. The blame squarely lies on the concerned student. It is like the wretched politicians 
 we vote for. People deserve the leader they vote for.
 
