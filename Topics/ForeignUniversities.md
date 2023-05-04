@@ -91,7 +91,7 @@ The cost (faculty and support staff salaries, infrastructure, recurring expenses
 India than that in their country of origin. However, they may not charge a fee under USD 20k. It would lead to an across-the-board cost increase
 for undergraduate studies in the country and make it unaffordable. The students will start their careers with huge loan burdens like in the US. 
 On the other hand, it may affect IITs, IISc, and IISERs as many potentially talented faculty candidates will get hired by foreign universities 
-with better salaries. So, it is a lose-lose proposition for HEIs in India. The UGC may have factored this problem in their draft proposal for 
+with better salaries. So, it is a lose-lose proposition for HEIs in India. The UGC may have factored all these problems in their draft proposal for 
 allowing foreign universities to set up shops in India. 
 
 The UGC preferred to exercise little control over state universities. Most state universities are in shamble; these have become dens of undesirable 
