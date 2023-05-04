@@ -1,4 +1,4 @@
-# UGC's Draft Framework for Foreign University Campuses in India
+# UGC Allows Foreign University Campuses in India
 
 UGC Chairperson Prof M. Jagadish Kumar disclosed in a press conference that "foreign universities Yale, Harvard and Princeton and their likes have 
 been welcomed to set up camp in the country have been allowed to set up shops (campuses) in India." Let me dwell on the UGC's decision before
