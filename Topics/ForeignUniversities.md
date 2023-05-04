@@ -1,7 +1,9 @@
 # UGC Allows Foreign University Campuses in India
 
+
+
 UGC Chairperson Prof M. Jagadish Kumar disclosed in a press conference that "foreign universities Yale, Harvard and Princeton and their likes have 
-been welcomedd to set up shops (campuses) in India." Let me dwell on the UGC's decision before
+been welcomed to set up shops (campuses) in India." Let me dwell on the UGC's decision before
 analyzing the implications. I relied mainly on two news reports.
 
 - [The free press journal](https://www.freepressjournal.in/education/will-ugcs-guidelines-on-foreign-universities-in-india-fail-to-deliver), 
@@ -10,7 +12,7 @@ analyzing the implications. I relied mainly on two news reports.
 According to these reports, Prof Kumar broadly lists the following few points of the UGC's draft framework in this respect, 
 
 - These foreign universities will have the last word in curriculum, fees, and recruitment. 
-- Foreign HEIs shall set up campuses in India only after getting the necessary approval from UGC. 
+- Foreign HEIs shall set up campuses in India after getting the necessary approval from UGC. 
 - Universities having overall/subject-wise global rankings within the top 500 would be allowed in the country.
 - NEP had said that top universities of the world would be allowed to operate in India, and a legislative framework would be in place.
 - It is expected to stop the brain drain. 
@@ -25,12 +27,15 @@ What are the implications of this announcement? Whatever little I can gather fro
 - Other central, state, or private universities will have to operate as they are now.
 
 There is no doubt that the country needs many good HEIs. However, allowing unfettered operations to foreign private universities could create 
-many unforeseen problems. For example, can a consortium of foreigners acting as the front of universities be allowed to build, own and 
-operate an HEI in India? Would the laws of the land apply in dealing with disputes between students, employees on one hand and foreign universities
-on the other? A foreign university should not be a law unto itself while operating inside Indian territory. Indian courts should have jurisdiction 
-in dealing with the disputes. I assume that UGC has taken good care of the issues above in dealing with the responses from foreign embassies 
-and the universities interested in setting up campuses here. The Parliament would pass a particular Act to enable it. I wonder if
-the framework will become applicable through executive orders.  
+many unforeseen problems. For example, 
+
+- Can a consortium of foreigners acting as the front of a foreign university be allowed to build, own and operate an HEI in India?
+- What is the guarantee that foreign universities would not be a law unto themselves while operating inside Indian territory? 
+- How would the disputes be resolved between students, employees on one hand and foreign universities on the other?
+- Would Indian courts have jurisdiction in dealing with disputes?
+- Will the framework become applicable through executive orders or require a separate Act of the Indian Parliament? 
+
+I assume that UGC has taken good care of the issues above in dealing with the responses from foreign embassies and the universities interested in setting up campuses here. 
 
 Let us analyze academic decisions. Is a world ranking of 500 enough? IMHO, the ranking of HEIs does not depend on the intrinsic strength of
 the universities. Perception ranking is very important. Many IITs or IISc have better perception rankings. Some new IITs don't qualify to apply 
@@ -80,12 +85,14 @@ I wonder if the government and UGC have a long-term plan to close all central in
 our education system will collapse. I have seen many private players in the higher education system of India. Some good institutions are coming up, but 
 they are only a few. Profits drive most private players. They are more concerned only about revenue receipt than anything else. Faculty is the least
 priority for these institutions. They accept students as long as the pockets of the parents are deeper. Except for a handful of institutions like BITS, 
-Shivnader, Jindal, Jaypee, Munjal, Ashoka and Bennett, all private institutions, prefer to act like teenagers' creches.  
+Shivnader, Jindal, Jaypee, Munjal, Ashoka, and Bennett, all private institutions, prefer to act like teenagers' creches.  
 
-The cost (faculty and support staff salaries, infrastructure, recurring expenses) will be substantially low for foreign university campuses in
-India. However, they may not charge a fee under USD 20k. On the other hand, it may affect IITs, IISc, and IISERs as many potentially
-talented faculty candidates will get hired by foreign universities with better salaries. So, it is a lose-lose proposition for HEIs in India. 
-The UGC may have factored this problem in their draft proposal for allowing foreign universities to set up shops in India. 
+The cost (faculty and support staff salaries, infrastructure, recurring expenses) will be substantially lower for foreign university campuses in
+India than that in their country of origin. However, they may not charge a fee under USD 20k. It would lead to an across-the-board cost increase
+for undergraduate studies in the country and make it unaffordable. The students will start their careers with huge loan burdens like in the US. 
+On the other hand, it may affect IITs, IISc, and IISERs as many potentially talented faculty candidates will get hired by foreign universities 
+with better salaries. So, it is a lose-lose proposition for HEIs in India. The UGC may have factored this problem in their draft proposal for 
+allowing foreign universities to set up shops in India. 
 
 The UGC preferred to exercise little control over state universities. Most state universities are in shamble; these have become dens of undesirable 
 politicians and lumpen elements. Even some of the central universities suffer from the same curse. It has affected the overall scenario of higher 
