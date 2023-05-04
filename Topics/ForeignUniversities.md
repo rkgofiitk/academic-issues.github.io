@@ -79,8 +79,8 @@ effects, namely,
 I wonder if the government and UGC have a long-term plan to close all central institutions or relegate them to oblivion. If it comes true, then
 our education system will collapse. I have seen many private players in the higher education system of India. Some good institutions are coming up, but 
 they are only a few. Profits drive most private players. They are more concerned only about revenue receipt than anything else. Faculty is the least
-priority for these institutions. They accept students as long as the pockets of the parents are deeper. Except for a few institutions like BITS, 
-Shivnader, Jindal, Jaypee, Munjal, and Bennette, all private institutions, prefer to act like teenagers' creches.  
+priority for these institutions. They accept students as long as the pockets of the parents are deeper. Except for a handful of institutions like BITS, 
+Shivnader, Jindal, Jaypee, Munjal, Ashoka and Bennett, all private institutions, prefer to act like teenagers' creches.  
 
 The cost (faculty and support staff salaries, infrastructure, recurring expenses) will be substantially low for foreign university campuses in
 India. However, they may not charge a fee under USD 20k. On the other hand, it may affect IITs, IISc, and IISERs as many potentially
