@@ -1,7 +1,7 @@
 # Status of 5T Transformations of Odisha's Govt Schools
 
 [A recent news items in ToI](https://m.timesofindia.com/city/bhubaneswar/hc-to-monitor-availability-of-basic-amenities-in-schools/articleshow/100045353.cms) 
-The Odisha High Court ordered its amicus curiae to monitor the progress of the 5T transformation pledged by the Odisha Govt. It is pathetic that the High Court
+states that the Odisha High Court ordered its amicus curiae to monitor the progress of the 5T transformation pledged by the Odisha Govt. It is pathetic that the High Court
 has to step in to watch a government's work in progress. According to the govt, 150 corers were allocated in Odisha State Budget in 2022-2023. Out of which 2.5 
 corers were for one small district of Odisha for the upgrade and maintenance of primary and high schools. [One list accessible from Internet says there are
 28 govt high schools in Boudh district](http://www.evidyalaya.org/listschool.php?d=boudh). The number of primary schools will be around 100 at most
