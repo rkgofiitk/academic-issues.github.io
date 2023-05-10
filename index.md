@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [Status of 5T Transformation of Odisha Govt Schools](Topics/Odisha5TSchools.md)
 - [UGC Allows Foreign University Campuses in India](Topics/ForeignUniversities.md)
 - [Pursuing Ph. D. at IITs](Topics/PhDsAtoldIITs.md)
 - [Indian Colleges Affecting Growth of Country's Digital Ecosystem](Topics/indiancolleges.md)
