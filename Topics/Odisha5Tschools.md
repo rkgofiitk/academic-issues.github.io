@@ -13,7 +13,9 @@ eight high schools in the district. So, each high school may have received an av
 the actual requirements of a typical high school. Of course, I know very little about the current state of resources at any of the schools in Odisha 
 except Ravenshaw Collegiate School (the Great Netaji Subhas Bose had his schooling in Ravenshaw Collegiate). The average charge for a 3BHK interior is 
 about 3-4 lac rupees. So, it is hilarious to advertise the upgrade as a 5T transformation as Govt of Odisha does at every opportunity. The advertisement
-budget may be more than the actual spending on school upgrades. Unfortunately, the likes of Goebbels always win in India. Ravenshaw Collegiate School
+budget may be more than the actual spending on school upgrades. Unfortunately, the likes of Goebbels always win in India.
+
+Ravenshaw Collegiate School
 is right across the street from the Odisha High Court. So, the judges may walk into the school to physically inspect the state of affairs and 
 resources available. in that school. That school was in shambles for over the past 50 years or more. Shri Naveen Patnaik and his party BJD have been 
 in power since 2000. Cuttack Municipal Corporation is also under BJD. It means his govt is responsible for half the time the school was crumbling 
