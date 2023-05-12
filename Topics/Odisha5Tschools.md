@@ -25,7 +25,9 @@ reneovated and brought back to liveable condition. However, progressively the ar
 adjacent to district and session courts. I don't know if the quarters are still in liveable conditions and teachers or the head master still live there. 
 Still, collegiate schools may have received a better infusion of annual funds than other govt schools. About 5 years back, I walked around the school. I could
 see that the student's hostel was in an abysmal state; the classrooms were crumbling. The school has a large playground and decent toilets at 
-one point in time. Neither the playground nor the restrooms were maintained to the level of a decent district school. Earlier, I wrote a
+one point in time. Neither the playground nor the restrooms were maintained to the level of a decent district school. 
+
+Earlier, I wrote a
 [blog about the 5T transformation scheme of Odisha Govt](OdishaSchools.md). I thought Odisha govt is really doing some good work in upgrading schools.
 But, now I realize the real reason behind the scheme. The PIL brought before the Odisha High Court appears to suggest that the scheme is a scam. A potent 
 conooction of politicians, administrative service, police service, and the lower judicery severely affects progress of Indian states. The higher judicery 
@@ -35,7 +37,9 @@ the party in power, as we witenessed recently. It appears every political party 
 enrich their coeffers and keep a well-balanced reciprocation to be able to apply the concoction as needed. The 5T transformation scheme of Odisha govt 
 appears to be a quick and efficient way to embezzle 15-20% of state funds through the capacity-building route. 
 However, many would say that the commission (euphemism for a bribe) has reached about 30%. I know that no fool-proof method could be devised to ensure 
-every cent is spent for the purpose. However, the PIL indicates that the 5T scheme was planned with a plain profit motivation. The courts cannot monitor 
+every cent is spent for the purpose. However, the PIL indicates that the 5T scheme was planned with a plain profit motivation. 
+
+The courts cannot monitor 
 every damn thing that govt does or does not. Civil society used to exert pressure on the government on social issues like health care and education. 
 Unfortunately, civil society is powerless, with the influencers having multiple conflicting allegiances. Only a crusader can make a difference. Unfortunately, 
 state machinery was in cahoot with the party in power. So, the situation looks unrecoverable, and the only way out is to wait for an avatar to descend!!
