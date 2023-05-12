@@ -3,13 +3,13 @@
 [A recent news items in ToI](https://m.timesofindia.com/city/bhubaneswar/hc-to-monitor-availability-of-basic-amenities-in-schools/articleshow/100045353.cms) 
 states that the Odisha High Court ordered appointed an amicus curiae to monitor the progress of the 5T transformation pledged by the Odisha Govt. It is 
 pathetic that citizens must approach the High Court to intervene and monitor a government's work in progress. Odisha state budget for 2022-2023 provisioned
-for 150 corers for upgrade of govt run schools. Rupees 2.5 corers was allocated for the Boudh district in western Odisha for the upgrade and 
+for 150 crores for upgrade of govt run schools. Rupees 2.5 crores was allocated for the Boudh district in western Odisha for the upgrade and 
 maintenance of primary and high schools. 
 There are [28 govt high schools in the Boudh district](http://www.evidyalaya.org/listschool.php?d=boudh). Assuming a ratio of at most 1:4 between high schools 
 and primary schools, the number of the latter category of schools in Boudh will be atmost 100. The resource requirement of a primary school is very low.
-I don't think govt would have planned anything except possibly a teacher and a small room for a primary school. It means most of the funds from 2.5 corers
+I don't think govt would have planned anything except possibly a teacher and a small room for a primary school. It means most of the funds from 2.5 crores
 would have gone for upgrade of high schools. I must add a caveat here: I don't have enough data to comment on the government 
-budget allocation for school upgrades. Leaving 50lac rupees for primary schools, at most 2 corers would have been provisioned for 28 high schools in 
+budget allocation for school upgrades. Leaving 50lac rupees for primary schools, at most 2 crores would have been provisioned for 28 high schools in 
 the district. So, each high school may have received an average sum not exceeding 8 lacs for the upgrade. It is peanuts against the actual requirements of 
 a typical high school. Of course, I know very little about the current state of resources at any of the schools in Odisha except Ravenshaw Collegiate Schoo
 (where the Great Netaji Subhas Bose had his schooling). The average charge for a 3BHK interior is about 3-4 lacs. So, it is hilarious to advertise the 
