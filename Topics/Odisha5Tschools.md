@@ -29,15 +29,16 @@ one point in time. Neither the playground nor the restrooms were maintained to t
 
 Earlier, I wrote a
 [blog about the 5T transformation scheme of Odisha Govt](OdishaSchools.md). I thought Odisha govt is really doing some good work in upgrading schools.
-But, now I realize the real reason behind the scheme. The PIL brought before the Odisha High Court appears to suggest that the scheme is a scam. A potent 
-conooction of politicians, administrative service, police service, and the lower judicery severely affects progress of Indian states. The higher judicery 
+But, now I realize the real reason behind the scheme. The PIL brought before the Odisha High Court appears to suggest that the scheme is a scam. The potent 
+conooction of politicians, administrative service, police service, and the lower judiciary severely affects progress of Indian states. The higher judiciary 
 is the only recourse that the citizens may have. However, the legal system is antiquated and over burdened to react until it is too late. Sometime 
-the constitution plays spoilsport. Transferring control of services to Delhi govt is an example. I am sure it will be plundered to whims and fancy of 
-the party in power, as we witenessed recently. It appears every political party has glued together a well structured organized looting of state fund to
-enrich their coeffers and keep a well-balanced reciprocation to be able to apply the concoction when needed. The 5T transformation scheme of Odisha govt 
-appears to be a quick and efficient way to embezzle 15-20% of state funds through the capacity-building route. 
-However, many would say that the commission (euphemism for a bribe) has reached about 30%. I know that no fool-proof method could be devised to ensure 
-every cent is spent for the purpose. However, the PIL indicates that the 5T scheme was planned with a plain profit motivation. 
+the constitution plays spoilsport. The transferring the control of services to the Delhi govt is an example. I am sure it will now plunder Delhi's
+resources according to the whims and fancy of the party in power, as we witenessed recently. It appears every political party has successfully
+glued together a well structured organized looting of state fund to enrich their coeffers and keep a well-balanced reciprocation to be able to apply 
+the concoction when needed. The 5T transformation scheme of Odisha govt appears to be a quick and efficient way to embezzle 15-20% of state funds 
+through the capacity-building route. Many say that now the commission (euphemism for a bribe) has reached the level exceeding 30%. I know that no 
+fool-proof method could be devised to ensure every cent is spent for the purpose. However, the PIL indicates that the 5T scheme was planned with a 
+plain profit motivation. 
 
 The courts cannot monitor 
 every damn thing that govt does or does not. Civil society used to exert pressure on the government on social issues like health care and education. 
