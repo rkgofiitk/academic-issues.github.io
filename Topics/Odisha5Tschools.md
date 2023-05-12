@@ -34,7 +34,7 @@ conooction of politicians, administrative service, police service, and the lower
 is the only recourse that the citizens may have. However, the legal system is antiquated and over burdened to react until it is too late. Sometime 
 the constitution plays spoilsport. Transferring control of services to Delhi govt is an example. I am sure it will be plundered to whims and fancy of 
 the party in power, as we witenessed recently. It appears every political party has glued together a well structured organized looting of state fund to
-enrich their coeffers and keep a well-balanced reciprocation to be able to apply the concoction as needed. The 5T transformation scheme of Odisha govt 
+enrich their coeffers and keep a well-balanced reciprocation to be able to apply the concoction when needed. The 5T transformation scheme of Odisha govt 
 appears to be a quick and efficient way to embezzle 15-20% of state funds through the capacity-building route. 
 However, many would say that the commission (euphemism for a bribe) has reached about 30%. I know that no fool-proof method could be devised to ensure 
 every cent is spent for the purpose. However, the PIL indicates that the 5T scheme was planned with a plain profit motivation. 
