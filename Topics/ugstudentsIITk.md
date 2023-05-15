@@ -14,8 +14,17 @@ perception of their parents and their neighborhoods. These societal perceptions 
 - Pay packages and compensation
 - Comfort in work places
 - Stability in job
-- Peer groups
-- Career advancement
+- Peer groups and networking
+- Career advancement 
 
 Execept for Computer Science and Engineering, very few graduates will ever opt for a job in core discipline. It leads to a situation where almost all
-except a few JEE-advance qualifiers aspire for a admission into CSE. Naturally, closing ranks of CSE at older IITs are very high. 
+except a few JEE-advance qualifiers aspire get admissions into CSE. Naturally, closing ranks of CSE at older IITs are very high. Branch
+change from other disciplines to CSE is also difficult. One of my colleagues was a proponent of the idea that the engineering education at IITs
+should be market sensitive. His arguments were compelling. 
+
+- IITs should pay higher differential pays to the faculty according to importance of the discipline.
+- IITs should inscrease student intake in the disciplines that offer better opportunities to graduates. 
+- IITs should cap student intake and gradually shut the disciplines having shrinking market opportunities.  
+- HSS should only be considered as a service dept 
+
+The basic premise of his arguments is "market must rule." Whether we subscribe to his arguments or not, it appears to strengthen the 
