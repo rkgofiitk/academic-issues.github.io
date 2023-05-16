@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [A Senior's Advise to JEE Advance Qualifiers](Topic/ugstudentsIITk.md)
 - [Status of 5T Transformation of Odisha Govt Schools](Topics/Odisha5Tschools.md)
 - [UGC Allows Foreign University Campuses in India](Topics/ForeignUniversities.md)
 - [Pursuing Ph. D. at IITs](Topics/PhDsAtoldIITs.md)
