@@ -2,8 +2,7 @@
 
 Machines have already automated millions of routine working-class jobs in manufacturing, ground logistics support, and surface transport. 
 Industry 4.0 integrates people with automation, but most heavy-lifting jobs are handled through cobots by advanced production and operation 
-techniques with digital technologies. Traditionally labor-intensive jobs are wiped out, leaving most people jobless. To quote Moshe Vardi 
-"People are realizing technology destroys and creates jobs even if it's basically true, it's too simplistic." The relationship between technology and 
+techniques with digital technologies. Traditionally labor-intensive jobs are wiped out, leaving most people jobless. To quote [Moshe Vardi](https://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior/fulltext?mobile=false)"People are realizing technology destroys and creates jobs even if it's basically true, it's too simplistic." The relationship between technology and 
 labor is complex. The questions we should worry about:
 
 - Does technology create as fast as it destroys jobs?  
@@ -13,7 +12,7 @@ labor is complex. The questions we should worry about:
 
 Vardi worries further that AI may make people unemployed. It will eventually lead to violence in society. 
 
-However, let me restrict here to a new dimension of the impacts of AI is ethics in its applications. Suddenly, computers have started running 
+However, let me restrict here to a new dimension of the impacts of AI. It is ethics in AI applications. Suddenly, computers have started running 
 society, and we are poorly equipped to take control. The Vatican has issued "the Rome call  for AI ethics."  Facebook's parent company Meta has 
 donated millions to set up an Institute for Ethics in Artificial Intelligence at the Technical University of Munich. AI  underlines "Surveillance 
 Capitalism."  In economics, surveillance capitalism refers to making profits out of personal demographics, including age, sex, height, weight, 
