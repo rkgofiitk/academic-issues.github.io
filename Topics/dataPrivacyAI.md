@@ -39,8 +39,7 @@ law is fine in India. It is the enforcement of the law that is a big problem. Th
 aggrieved person may have to wait over a decade for substantial relief. I believe ten years in a person's life is very long, especially if personal 
 privacy is breached in the case of a teen or a child, as it happens in most nations under dictatorship. The surveillance laws in such countries allow 
 the authorities to access personal data, and people are vulnerable to state-sponsored personal abuses. In India, both state and central govt harassed 
-many political opponents [invoking  66A of the IT Act until the supreme court struck it down](https://economictimes.indiatimes.com/news/india/no-
-citizens-to-be-prosecuted-under-section-66a-it-act-sc/articleshow/94816298.cms).
+many political opponents invoking [article 66A of the IT Act until the supreme court struck it down(https://economictimes.indiatimes.com/news/india/no-citizens-to-be-prosecuted-under-section-66a-it-act-sc/articleshow/94816298.cms).
 
 I don't know if GoI is aware of AI-based data mining and its impacts in harvesting Survelliance Capital by E-com and social networking platforms. A 
 robust data security Act is required with provisions for quick redressal against any breach by individuals, companies, govt, and other entities, 
