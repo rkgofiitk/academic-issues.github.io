@@ -19,7 +19,7 @@ liberties to an extent unknown till now. Suddenly, computers have started runnin
 society, and we are poorly equipped to take control. The Vatican has issued "the Rome call for AI ethics." Facebook's parent company, Meta, has 
 donated millions to set up an Institute for Ethics in Artificial Intelligence at the Technical University of Munich. AI underlines "Surveillance 
 Capitalism." In economics, surveillance capitalism refers to making profits out of personal demographics, including age, sex, height, weight, 
-hobbies, health status, contacts, personal preferences, and so on. I consider the use of surveillance capitalism a euphemism for making profits 
+hobbies, health issues, contacts, personal preferences, and so on. I consider the use of surveillance capitalism a euphemism for making profits 
 by blackmailing. It is well known that the privacy rules of different countries are different. All social networking platforms, like Facebook, have 
 some privacy agreements with users. However, these rules are location dependent. 
 
