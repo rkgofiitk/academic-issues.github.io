@@ -2,8 +2,11 @@
 
 Machines have already automated millions of routine working-class jobs in manufacturing, ground logistics support, and surface transport. 
 Industry 4.0 integrates people with automation, but most heavy-lifting jobs are handled through cobots by advanced production and operation 
-techniques with digital technologies. Traditionally labor-intensive jobs are wiped out, leaving most people jobless. To quote [Moshe Vardi](https://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior/fulltext?mobile=false)"People are realizing technology destroys and creates jobs even if it's basically true, it's too simplistic." The relationship between technology and 
-labor is complex. The questions we should worry about:
+techniques with digital technologies. Traditionally labor-intensive jobs are wiped out, leaving most people jobless. To quote [Moshe Vardi](https://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior/fulltext?mobile=false):
+
+"People are realizing technology destroys and creates jobs even if it's basically true, it's too simplistic." 
+
+The relationship between technology and labor is complex. The questions we should worry about:
 
 - Does technology create as fast as it destroys jobs?  
  - Does technology create the same volume of jobs as it destroys?
