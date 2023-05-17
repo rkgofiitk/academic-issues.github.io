@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [Open AI, Social Networking, and Personal Privacy](Topics/personalPrivacyAI.md)
 - [A Senior's Advise to JEE Advance Qualifiers](Topics/ugstudentsIITk.md)
 - [Status of 5T Transformation of Odisha Govt Schools](Topics/Odisha5Tschools.md)
 - [UGC Allows Foreign University Campuses in India](Topics/ForeignUniversities.md)
