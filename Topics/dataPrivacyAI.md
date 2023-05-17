@@ -2,7 +2,7 @@
 
 Machines have already automated millions of routine working-class jobs in manufacturing, ground logistics support, and surface transport. 
 Industry 4.0 integrates people with automation, but most heavy-lifting jobs are handled through cobots by advanced production and operation 
-techniques with digital technologies. Traditionally labor-intensive jobs are wiped out, leaving most people jobless. To quote [Moshe Vardi](https://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior/fulltext?mobile=false):
+techniques with digital technologies. Traditionally labor-intensive jobs are wiped out, leaving most people jobless. To quote [Prof Moshe Vardi](https://cacm.acm.org/magazines/2022/3/258894-acm-ethics-and-corporate-behavior/fulltext?mobile=false):
 
 "People are realizing technology destroys and creates jobs even if it's basically true, it's too simplistic." 
 
@@ -13,15 +13,15 @@ The relationship between technology and labor is complex. The questions we shoul
  - How quickly can humans adapt or upgrade skills for new jobs?
  - How can we ensure that everybody makes a living?
 
-Vardi worries further that AI may make people unemployed. It will eventually lead to violence in society. 
-
-However, let me restrict here to a new dimension of the impacts of AI. It is ethics in AI applications. Suddenly, computers have started running 
-society, and we are poorly equipped to take control. The Vatican has issued "the Rome call  for AI ethics."  Facebook's parent company Meta has 
-donated millions to set up an Institute for Ethics in Artificial Intelligence at the Technical University of Munich. AI  underlines "Surveillance 
-Capitalism."  In economics, surveillance capitalism refers to making profits out of personal demographics, including age, sex, height, weight, 
-hobbies,  health status, contacts, personal preferences, and so on. I consider the use of surveillance capitalism as a euphemism for making profits 
-by blackmailing. It is well known that the privacy rules of different countries are different. All social networking platforms like Facebook have 
-some privacy agreement with users. However, these rules are location dependent. 
+Prof Vardi worries further that AI may make people unemployed. It will eventually lead to violence in society. His main concern stems 
+from breaches of ethics in corporate behavior. However, the impacts of AI applications in personal space have the potential to obliterate individual
+liberties to an extent unknown till now. Suddenly, computers have started running 
+society, and we are poorly equipped to take control. The Vatican has issued "the Rome call for AI ethics." Facebook's parent company, Meta, has 
+donated millions to set up an Institute for Ethics in Artificial Intelligence at the Technical University of Munich. AI underlines "Surveillance 
+Capitalism." In economics, surveillance capitalism refers to making profits out of personal demographics, including age, sex, height, weight, 
+hobbies, health status, contacts, personal preferences, and so on. I consider the use of surveillance capitalism a euphemism for making profits 
+by blackmailing. It is well known that the privacy rules of different countries are different. All social networking platforms, like Facebook, have 
+some privacy agreements with users. However, these rules are location dependent. 
 
 The European Union has stringent General Data Protection Rules (GDPR). Under the GDPR, personal data refers to any information that can identify or 
 be traced to a natural person. The natural person is an individual, not a company or a legal entity, otherwise known as a "data subject." For 
