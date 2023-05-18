@@ -72,7 +72,8 @@ a young faculty member at IIT is no better or worse than anywhere in the world. 
 trigger a competition. The matching process could be open or based on the criterion of equitable distribution. The competition is more intense in the
 depts where the matching process is open, and poaching happens. However, equitable distribution is also fraught with
 problems where students may have to join a least preferred professor and get demotivated. I have no straightforward solution to it. I know 
-one of the new IITs is experimenting with a supervisor matching algorithm which they call "hunger algorithm."
+one of the new IITs is experimenting with a supervisor matching algorithm which they call "hunger algorithm." The algorithm has not proved
+any good except for landing a student under care of an unwilling professor. 
 
 Let me deal a bit with research agenda. For example, in Computer Science, the agenda is set by big companies like Google and Microsoft. 
 All undergraduate students want to work in AI/ML and Data Science. I have discussed it in an [earlier blog](../AI-ML-DataScience.md). 
@@ -86,11 +87,19 @@ experience with collaborative research with scientists in U.S. universities, Eur
 or IITs. Sometime back in an earlier blog, I referred to a movie called 
 [P.H.D. (Pile Higher and Deeper)](https://www.youtube.com/watch?v=uMFKu8ies0c). It sums up the life of a typical research student in an 
 American University. So, to say that the US universities are better is a myth. In European system, a professor is an institution. It is
-even more difficult to go against a prodessor unless you want to sacrifice your life! No one looks at the root cause; if you decide to pursue a 
+even more difficult to go against a professor unless you want to sacrifice your life! No one looks at the root cause; if you decide to pursue a 
 Ph. D at IITs, you have chosen to do so. Cribbing about it only reflects your frustration. Any system has its fair share of good, bad and ugly. 
 Percentage-wise, there are also as many good souls at older IITs as at any US university. Finding a good supervisor is a mature well-reasoned 
 choice rather than swimming along with a bandwagon. The blame squarely lies on the concerned student. It is like the wretched politicians 
 we vote for. People deserve the leader they vote for.
+
+The last point is the opportunities for research publications originating from India. India does not have an ecosystem for peer evaluation or
+research publications. All journals and top-grade conferences are controlled by the researchers and their caucus from the USA, Canada, or European 
+Nations. [Scimago](https://www.scimagojr.com/journalrank.php) ranking scheme is accepted worldwide. Scimago lists a total of 482 journals 
+from India. It lists only twelve of the Indian journals in category Q1. The majority of the journals from India are ranked in the category Q4.
+As far as computer science is concerned, Scimago lists only eleven journals. None of them belong to the Q1 category. Naturally, getting a publication 
+from India is more challenging than from the USA, Canada, Europe, or Australia. One needs to be in the good network of peers or share
+credits of publications with researchers from outside India. It not only hurts to share credits but unethical to do so. 
 
 
 [Back to Index](../index.md)
