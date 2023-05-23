@@ -1,12 +1,12 @@
 # Pursuing Ph. D. at IITs
 
 The purpose of this blog is to dispel some of the disinformation being circulated on a few social networking sites. Quora is one of these.
-Quora is a site where people ask questions, and others write answers. Sometimes both the questions the answers are targeted to rundown an organization
-or an enterprise with a vengeance. It becomes apparent from a response that a balanced view is missing, and the attempt is well-orchestrated 
-to target a well-established organization with a bias. There are so-called "influencers" who pick it up threads according to their agenda, and the story 
+Quora is a site where people ask questions, and others write answers. Sometimes both the questions the answers are specifically targeted
+to rundown an organization or an enterprise with a vengeance. It becomes apparent from a response that a balanced view is missing, and 
+the attempt is well-orchestrated with a bias. There are so-called "influencers" who pick it up threads according to their agenda, and the story 
 gets retold exponentially, leading to irrepairable damages. In [one of the blogs, I wrote about certain undesirable practices that
 many decorated scientists indulge in](../PhDstudents.md). However, that is not a generalization of the fact that some people try to propagate 
-Ph. Ds at IITs. So, this blog is an attempt to straighten out the facts. 
+about Ph. D program at IITs. So, this blog is an attempt to straighten out the facts. 
 
 An understandably peeved responder writes that one should never pursue Ph. Ds at IIT. He reasons that he had terrible 
 experiences working his supervisor while pursuing Ph. D at one of the older IITs. Well, he needed to name the specific IIT and the discipline.
