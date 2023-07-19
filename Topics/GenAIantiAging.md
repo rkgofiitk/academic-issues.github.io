@@ -53,7 +53,7 @@ We already had the experience of Trump receiving a cocktail of medicines in a mi
 top gene therapy experts to recover quickly from Covid-19 and lead the Jan 6, 2020 insurrection. The scenario does not seem
 to be a Nostradamus prediction anymore.
 
-Already gray shades of ChatGPT are visible to us. I asked ChatGPT the question: what are potential misuses of ChatGPT? 
+Already gray shades of ChatGPT are visible to us. I asked ChatGPT the question: "what are potential misuses of ChatGPT?"
 
 <strong>Generated Answer from ChatGPT</strong>
 
