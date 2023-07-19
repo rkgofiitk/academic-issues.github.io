@@ -11,7 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
-- [Generative AI and Age-Reversal Pill](Topics/GenAIantiAging.md
+- [Generative AI and Age-Reversal Pill: A Heady Concotion](Topics/GenAIantiAging.md
 - [Open AI, Social Networking, and Personal Privacy](Topics/dataPrivacyAI.md)
 - [A Senior's Advise to JEE Advance Qualifiers](Topics/ugstudentsIITk.md)
 - [Status of 5T Transformation of Odisha Govt Schools](Topics/Odisha5Tschools.md)
