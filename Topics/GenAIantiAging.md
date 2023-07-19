@@ -1,4 +1,4 @@
-## Generative AI and Anti-aging Pill: A Heady Concotion
+## Generative AI and Age-Reversal Pill: A Heady Concotion
 
 Recent debates and op-eds about GenAI created worldwide enthusiasm. Students are excited that they don't have to invent solutions
 to class assignments. All they may require is the skill to ask the right questions. Journalists and mass communication specialists
