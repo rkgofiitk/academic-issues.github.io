@@ -26,7 +26,22 @@ told me a few years back when I asked him the reasons for not attending the clas
 his major project he preferred to join me, attended regular meetings, and did a decent job. So, big class size could be a
 dampner for many students.
 
-Knowledge does help, but a degree from a prestigeous institute is the real icing on the cake which fetches a good placement. That
+It is true that books are resources from where teachers source teach material. However, a lot of efforts is needed to make these
+material in a form that an average learner in the classroom may find easy to understand. What teachers these days find problematic
+is to evaluate home assignments. About 40% of students who submit assignments directly lift from available sources in the Internet.
+With ChatGPT and other clones, it has become yet more easier. One professor shared an interesting experience with a student. 
+The student met the professor and sought clues for solving the home assignment problem. The professor explained the approach 
+using 2-3 examples without giving clues for other test cases. The student used ChatGPT and put questions from his discussion
+with the professor and generated a solution. The solution was exactly adequate for 2-3 cases. On querying the student it was
+found that the student did not even bother to check the ChatGPT answer. He just resorted to copy and paste and submitted the
+ChatGPT solution. I do not think it is a teacher's responsibility to peform the job of policing the students against cheating.
+We used a variety of technique to find cheating in programming assignments using Mosh, Turnitin, etc. ChatGPT and its clones
+have made cheating so much easier these days. I believe learning is a two-way responsibility between teacher and taught. Our
+system of education needs a drastic out-of-the-box approach. Perhaps, hands-on is still very essential. However, understanding
+theory could be left to student altogether. They can access the knowledge base over the Internet.
+
+How is knowledge-base important? From grading and assessment point of view having a knowledge-base is critical. Additionally, 
+it does help though a degree from a prestigeous institute is the real icing on the cake that fetches a good placement. That
 is a perception even the most parents of kids share. The parents measure the success of an institution by the salary packages that
 their wards are able to secure after graduation. Wherever there is an emphasis on hands-on learning, students acquire skills 
 for innovations. However, rote learning also has a place. Rote learning equips students with a content-addressable, in-memory 
