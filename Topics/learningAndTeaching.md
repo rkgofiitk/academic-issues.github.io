@@ -28,23 +28,31 @@ dampner for many students.
 
 It is true that books are resources from where teachers source teach material. However, a lot of efforts is needed to make these
 material in a form that an average learner in the classroom may find easy to understand. What teachers these days find problematic
-is to evaluate home assignments. About 40% of students who submit assignments directly lift from available sources in the Internet.
-With ChatGPT and other clones, it has become yet more easier. One professor shared an interesting experience with a student. 
-The student met the professor and sought clues for solving the home assignment problem. The professor explained the approach 
+is to evaluate home assignments. About 40% of students who submit assignments directly lift solutions from available sources in
+the Internet. With ChatGPT and its clones, it has become yet more easier. One professor shared an interesting case of cheating by
+a student. The student met the professor and sought clues for solving the home assignment problem. The professor explained the approach 
 using 2-3 examples without giving clues for other test cases. The student used ChatGPT and put questions from his discussion
-with the professor and generated a solution. The solution was exactly adequate for 2-3 cases. On querying the student it was
-found that the student did not even bother to check the ChatGPT answer. He just resorted to copy and paste and submitted the
-ChatGPT solution. I do not think it is a teacher's responsibility to peform the job of policing the students against cheating.
-We used a variety of technique to find cheating in programming assignments using Mosh, Turnitin, etc. ChatGPT and its clones
-have made cheating so much easier these days. I believe learning is a two-way responsibility between teacher and taught. Our
-system of education needs a drastic out-of-the-box approach. Perhaps, hands-on is still very essential. However, understanding
-theory could be left to student altogether. They can access the knowledge base over the Internet.
+with the professor. ChatGPT generated a solution exactly adequate for 2-3 cases which the professor discussed with the
+student. On querying, the student admitted that he copied generated solution without bothering to check whether it was able to
+handle other corner cases. However, I do not think it is a teacher's responsibility to peform the job of policing the students
+against cheating. We used a variety of technique to find cheating in programming assignments using Mosh, Turnitin, etc. ChatGPT 
+has made cheating much easier these days. I believe learning is a two-way responsibility between teacher and taught. Our
+system of education needs a drastic out-of-the-box approach. Perhaps, hands-on is still very essential. Understanding
+theory could be left to student altogether or discussed by the teacher on a need-basis. The student can access the knowledge-base
+over the Internet. However, hand-on learning can work in a small class size. A teacher taught ratio of 1:10 may be just adequate. 
 
-How is knowledge-base important? From grading and assessment point of view having a knowledge-base is critical. Additionally, 
-it does help though a degree from a prestigeous institute is the real icing on the cake that fetches a good placement. That
-is a perception even the most parents of kids share. The parents measure the success of an institution by the salary packages that
-their wards are able to secure after graduation. Wherever there is an emphasis on hands-on learning, students acquire skills 
+Grading and evaluation are still mostly dependent on written exams. Therefore, the success in exams are proportional to a student's 
+retention ability. A degree from a prestigeous institute can be considered as icing on the cake that fetches 
+a good placement. That is a perception even the most parents of kids share. The parents measure the success of their wards by
+the salary packages that they are able to get. Wherever there is an emphasis on hands-on learning, students acquire skills 
 for innovations. However, rote learning also has a place. Rote learning equips students with a content-addressable, in-memory 
-knowledge base. A right mix of rote-learning and hands-on makes a person enormously successful. Indian education system puts
+knowledge base. A right mix of rote-learning and hands-on contribute to a person's success. Indian education system puts
 a lot of emphasis in rote-learning. Our exam methodology largely designed to test ability to memorize things. That may be the
 reason why even CEOs of Google and MSN are Indians. Many of my old students are now established entreprenauers.  
+
+The underlying thread of discussion is limited to technical education system of the country. However, about 85-90% of the students
+who continue studies after schools have to go for undergraduate education in liberal arts. Only 0.1% of such graduates are barely 
+able to manage a salary package 5lacs PA. The remaining 99.99% are unemployable. Story is not any different for technical graduates, 
+about 5-8% manage to get placements, the remaining 95-92% are unemployable. The country's growth is, therefore, held back by 
+unemployable youths which creates crimes and social unrests. It leads to political manipulations of worst kind. Unless we create
+a situation where education gives a sense of empowerment, the living conditions of people will not improve. 
