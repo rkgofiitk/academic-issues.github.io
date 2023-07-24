@@ -51,8 +51,30 @@ a lot of emphasis in rote-learning. Our exam methodology largely designed to tes
 reason why even CEOs of Google and MSN are Indians. Many of my old students are now established entreprenauers.  
 
 The underlying thread of discussion is limited to technical education system of the country. However, about 85-90% of the students
-who continue studies after schools have to go for undergraduate education in liberal arts. Only 0.1% of such graduates are barely 
-able to manage a salary package 5lacs PA. The remaining 99.99% are unemployable. Story is not any different for technical graduates, 
-about 5-8% manage to get placements, the remaining 95-92% are unemployable. The country's growth is, therefore, held back by 
-unemployable youths which creates crimes and social unrests. It leads to political manipulations of worst kind. Unless we create
-a situation where education gives a sense of empowerment, the living conditions of people will not improve. 
+who continue studies after schools have to go for undergraduate education in liberal arts. science and commerce. Only 0.1% of 
+these graduates barely manage a salary package 5lacs PA. The remaining 99.99% are unemployable. Even out of 15lac technical
+graduates (which include engineering, fashion designers, architecture, mass communication, etc.) at most 1-1.5 lac get 
+jobs. The remaining 90% are unemployable. The country's growth is, therefore, held back by unemployable youths. 
+
+Over 40% of country's workforce belongs to agriculture sector. However, this sector remains archiac and accounts for large share of
+unorganized labor force. I am able to understand why government withdrew firm laws. I wish government should have handled 
+the agitation more professionally. Reforms in agriculture sector will give impetus to accelerated growth. The aim of reaching
+five trillion dollar economy cannot come out of vacuum. The other sector where the government appears to be investing is
+a lot is manufacturing. It is true that manufacturing sector contribute heavily to growth. But overall growth will remain
+uneven if agriculture sector does not undergo sufficient reforms. We should bring down the dependence on agriculture sector
+by mechanisation and rebalancing firming output cash crops and food crops. Startups in agriculture should be encouraged.
+
+Small vendors include ubiquitous kirana and pharmacy stores and street hawkers. Any urban center in India they constitute
+about a sizeable number of these self-styled enterprenauers. Estimated 1-1.5 lac in Kolkata and 2-2.5 lacs in Mumbai, street hawkers
+deal anything and everything starting from electronics, mobile accesseories, garments, clothes, threads and needles, consmetics,
+vegetables, fruits, pan, chai, chat, paubhaji. India's informal economy contribute about 15-20% of GDP. They are vital to supply-
+chain for urban poor. In a sense it represent country's enterprenaurial capabilities. The skill requirements to absorb
+these self-style enterprenauers to formal sectors could be a challenge for both urban planners and policy makers unless 
+they integrate and harness their enterprenaurial capbabilities.
+
+
+Most of 
+unemployable youths are frustrated though they possibly understand their ill-preparedness for a job. The education system
+let them down. It leads to political manipulations of worst kind. People are fragmented to take a united stand against 
+politicians. Unless we create a situation where education gives a sense of empowerment, the living conditions of people will 
+not improve and the nation as a polity would remain impoverished open to political manipulations. 
