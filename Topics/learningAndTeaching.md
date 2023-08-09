@@ -83,3 +83,5 @@ Most of unemployable youths are frustrated though they possibly need help in und
 The education system let them down. It leads to political manipulations of the worst kind. People are fragmented to take a 
 united stand against politicians. Unless we create a situation where education gives a sense of empowerment, the living 
 conditions of people will not improve, and the nation as a polity will remain impoverished and open to political manipulations. 
+I think there is need to have a code of conduct for good politics and an unrgent need to completely debar criminal elements
+from politics. 
