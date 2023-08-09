@@ -71,13 +71,28 @@ more from the point of view of election. Dissemination of misinformation  has ma
 interferences by vested interest groups. There is no easy solution to these problems unless real fact-checking is
 done quickly and regularly. 
 
-Indians have the natural talent to become entrepreneurs. Small-time vendors managing ubiquitous kirana stores, pharmacy stores, and restaurants  represent the entrepreneurial skills of Indians. Any urban center in India constitutes a sizeable number of street hawkers who 
-deal with anything and everything, including electronics, mobile accessories, garments, clothes, threads and needles, cosmetics,
-vegetables, fruits, pan, chai, chat, and "pau bhaji." India's informal economy contributes about 15-20% of GDP. They are vital to supply-
-chain for the urban poor. The skill requirements to absorb
-these self-styled entrepreneurs into formal sectors could be challenging for urban planners and policymakers. A conservative estimate tells about 1-1.5 lac street hawkers operate in Kolkata and 2-2.5 lacs in Mumbai. Govts have experimented with cooperative societies for the collective upscaling of these people. However, the cooperative movement has only succeeded a little, except in milk collection and microfinancing. It is time that policymakers discover innovative solutions to the collective upscaling of people engaged in informal sectors.
+Indians have the natural talent to become entrepreneurs. Small-time vendors managing ubiquitous kirana stores, pharmacy stores, and 
+restaurants  represent the entrepreneurial skills of Indians. Any urban center in India constitutes a sizeable number of street 
+hawkers who deal with anything and everything, including electronics, mobile accessories, garments, clothes, threads and needles, 
+cosmetics, vegetables, fruits, pan, chai, chat, and "pau bhaji." India's informal economy contributes about 15-20% of GDP. They are 
+vital to supply-chain for the urban poor. The skill requirements to absorb
+these self-styled entrepreneurs into formal sectors could be challenging for urban planners and policymakers. A conservative 
+estimate tells about 1-1.5 lac street hawkers operate in Kolkata and 2-2.5 lacs in Mumbai. Govts have experimented with cooperative 
+societies for the collective upscaling of these people. However, the cooperative movement has only succeeded a little, except in 
+milk collection and microfinancing. It is time that policymakers discover innovative solutions to the collective upscaling of 
+people engaged in informal sectors.
 
-Another issue that should bother the govt is the training of administrators. Britishers left us with a framework of administration managed by the IAS cadre. That British administrative legacy is woefully inadequate for new India's challenges. It was created to control the mass. A few lacs of Britishers could control the entire population of India (roughly 35 corers) through these administrators. IAS officers were trained to think and dress like colonial rulers and hate the natives like Britishers. Decolonization of the Indian Administrative Service should be done immediately.
+Another issue that should bother the govt is the training of administrators. Britishers left us with a framework of administration 
+managed by the IAS cadre. That British administrative legacy is woefully inadequate for new India's challenges. A few lacs of 
+Britishers could control the entire population of India (roughly 35 corers) through these administrators. IAS officers were 
+trained to think and dress like colonial rulers and hate the natives like Britishers. Decolonization of the Indian
+Administrative Service should be done immediately.
+
+Most unemployable youths are frustrated though they may need help understanding their ill-preparedness for a job. 
+The education system let them down. It leads to political manipulations of the worst kind. People are fragmented to take a 
+united stand against politicians. Unless we create a situation where education gives a sense of empowerment, the living 
+conditions of people will not improve, and the nation as a polity will remain impoverished and open to political manipulations. 
+I think there is a need to have a code of conduct for good politics and an urgent need to debar criminal elements completely. 
 
 Most unemployable youths are frustrated though they may need help understanding their ill-preparedness for a job. 
 The education system let them down. It leads to political manipulations of the worst kind. People are fragmented to take a 
