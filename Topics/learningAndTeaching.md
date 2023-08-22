@@ -1,14 +1,16 @@
 # Learning and Teaching
 
-It is heartening that podcasts on apolitical social issues like education and learning are getting substantial 
-public attention. Recently, I watched a podcast where the guest gave an interesting
-theory that the design of the education system worldwide is to help teachers rather than students. He opines neither the faculty
-at elite Indian institutions like IITs, IISc, or IIM nor those in US Ivy League institutions make much difference in learning or
-educating students. The guest ascribes the success of the students of an institution to the robust filtering system at 
-the admission stage. He argues that the best talents from China also originate from institutions that use "Gaokao" for
-the admission stage. "Gaokao" happens to be the JEE equivalent entrance test in China. The guest concedes that a few good teachers 
-may make a difference in learning. However, classroom lectures are not only uninspiring but reach a few students sitting on the front benches. Most students in the back benches only nod
-in the pretense of understanding or being attentive to lectures. Students these days mostly watch youtube videos and 
+Mainstream television channels in India are obssessed with politics and irrelevant talk shows which creates a narrative that
+Inida is all about hatred, religious bigtory, and crimes. They hardly ever bring social issues to public attentions. It is, 
+therefore, heartening that many serious content creators are turning to podcasts on apolitical social issues like 
+education and learning. Some of these podcasts are thought proving. Recently, I watched a podcast where the guest gave 
+an interesting theory that the design of the education system worldwide is to help teachers rather than students. He opines 
+neither the faculty at elite Indian institutions like IITs, IISc, or IIM nor those in US Ivy League institutions make much
+difference in learning or educating students. The guest ascribes the success of the students of an institution to the robust
+filtering system at the admission stage. He argues that the best talents from China also originate from institutions that 
+use "Gaokao" for the admission stage. "Gaokao" happens to be the JEE equivalent entrance test in China. The guest concedes 
+that a few good teachers may make a difference in learning. However, classroom lectures are mostly uninspiring as they
+are targeted for median of the student composition of a class. Students these days mostly watch youtube videos and 
 engage in self-learning. Admissions to good colleges are preferred for earning degrees and help the learners to become street smarts 
 by interacting with peer groups. A large peer group in a good institution poses immense challenges to the students in acquiring
 skills to be more street-smart and better prepared for success in jobs. 
