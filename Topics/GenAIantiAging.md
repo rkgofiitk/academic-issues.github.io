@@ -5,7 +5,7 @@ to class assignments. All they may require is the skill to ask the right questio
 are already turning to GenAI for various content. Doctors and healthcare specialists may increasingly rely on GenAI for a 
 treatment regime for a patient. Lawyers may see GenAI as a rescue for arguing and creating legal plaints when nothing works in 
 courts for their clients. Judges may try GenAI to draft their judgments. Of course, software specialists are early starters in
-leveraging GenAI tools. As I understand, GenAI makes program development becomes lot easier with GenAI. A software engineer comments
+leveraging GenAI tools. As I understand, GenAI makes program development becomes lot easier. A software engineer comments
 that perhaps GenAI is a glamorous tool for browsing, commenting, and generating quality queries for 30%ile the work that data 
 analytic engineers do these days. However, the tool is more potent than that. In summary, a hell lot of things can be 
 solved through GenAI by asking well-articulated targeted questions. GenAI has made life comfortable for people with white-color 
