@@ -109,3 +109,4 @@ Our justice system also needs decolonization. Courts have contributed little in 
 court's intervention is primarily passive and sometimes flawed and defied logic. We need a complete revamping of legal
 jurisprudence right from the legal education system. 
 
+[Back to Index](../index.md)
