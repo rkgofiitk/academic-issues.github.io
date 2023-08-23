@@ -1,36 +1,39 @@
 # Learning and Teaching
 
-Mainstream television channels in India are obssessed with politics and irrelevant talk shows which creates a narrative that
+The mainstream television channels in India are obssessed with politics and irrelevant talk shows which creates a narrative that
 Inida is all about hatred, religious bigtory, and crimes. They hardly ever bring social issues to public attentions. It is, 
-therefore, heartening that many serious content creators are turning to podcasts on apolitical social issues like 
-education and learning. Some of these podcasts are thought proving. Recently, I watched a podcast where the guest gave 
-an interesting theory that the design of the education system worldwide is to help teachers rather than students. He opines 
-neither the faculty at elite Indian institutions like IITs, IISc, or IIM nor those in US Ivy League institutions make much
-difference in learning or educating students. The guest ascribes the success of the students of an institution to the robust
-filtering system at the admission stage. He argues that the best talents from China also originate from institutions that 
-use "Gaokao" for the admission stage. "Gaokao" happens to be the JEE equivalent entrance test in China. The guest concedes 
-that a few good teachers may make a difference in learning. However, classroom lectures are mostly uninspiring as they
-are targeted for median of the student composition of a class. Students these days mostly watch youtube videos and 
-engage in self-learning. Admissions to good colleges are preferred for earning degrees and help the learners to become street smarts 
-by interacting with peer groups. A large peer group in a good institution poses immense challenges to the students in acquiring
-skills to be more street-smart and better prepared for success in jobs. 
+therefore, heartening that many serious content creators are turning to podcasts for highlighting apolitical social issues like 
+education and learning. Recently, I watched one podcast where the guest gave an interesting theory that the design of the 
+education system worldwide is to help teachers rather than students. He opines 
+neither the faculty at elite US Ivy League institutions like Harvard, nor those in Indian institutions like IITs, IISc, or IIM 
+make much difference in learning and education of students. The guest ascribes the success of the students of an institution to 
+the robust filtering system at the admission stage. He also spoke about China where best institutions 
+use "Gaokao" as filtering process for talent recruitment at the admission stage. "Gaokao" is the JEE equivalent entrance test
+in China. The guest concedes that a few good teachers may make a difference in learning. However, classroom lectures are mostly
+uninspiring as they are targeted for median of the student composition in a class. It does little to inspire exceptionally
+talented students or the slow learners. Students these days mostly watch youtube videos and engage in self-learning. Admissions
+to good colleges serve two purposes, namely, (i) for earning degrees, and (ii) to help the students to become street smarts. 
+Opportunity to interact with a talented peer group encounter challenges in acquiring skills to be street-smart and 
+better prepared as potential recruitees. 
 
 There is always a yawning gap between theory and implementation. It may be due to the availability of resources for 
-implementation, while theory is generic and fails to include unforeseen real-life constraints. Therefore, hands-on learning
-is necessary for skill development. It is the skill and skill alone which 
-fetches a suitable placement. The Gurukul education system in the days of Nalanda, Takshilla, or Vikramshilla was purely based on
-hands-on learning. Every single guru was responsible for only a few disciples. A guru would share his experience, and his disciples 
-learn those only through practice. No books were available at that time. However, it is impossible, given that even an
-institution like IIT admits close to 1.5k students yearly. Books are repositories of knowledge that help teachers structure 
-their lectures systematically for a large student audience. 
+implementation, while theory is generic and fails to include unforeseen real-life, unforeseen constraints. Therefore, 
+hands-on learning is necessary for skill development. It is the skill and skill alone which 
+fetches a good placement or brings success in life. The Gurukul education system in the days of Nalanda, Takshilla, or 
+Vikramshilla was purely based on hands-on learning.  Every single guru had an unique padegogic style
+and responsible for only a few disciples (students). A guru would share his experience, and his disciples 
+learn the survival tricks only through practice. No books were available at that time. However, hands-on teaching is
+impossible, given that even an institution like IIT admits close to 1.5k students yearly. Books are repositories of knowledge 
+that help teachers structure their lectures systematically for a large student audience. 
 Attending classroom lectures helps them understand the nuances of applying theory to practice. However, 
 webinars and youtube videos have made classroom lectures almost redundant and a waste of time. One of my students told
-me the same a few years. Nonetheless, the same student preferred to join me when 
+me the same a few years ago. Nonetheless, the same student preferred to join me when 
 choosing a guide for his major project. He attended regular meetings and did a decent 
 job on the project. It emphasizes the need for a hands-on approach to learning. A big class size, where the teacher delivers 
-lectures for a median student, hoping it could be more effective for both ends of the spectrum of student abilities
-for assimilation. Though books are indeed resources from which teachers source to teach the material, a lot of effort is needed 
-to make these materials in a form that an average learner in the classroom may find easy to understand. 
+lectures for a median student, hoping that it could serve the abilities to assimilate for both ends of the student-spectrum. 
+Though books are indeed resources from which teachers source to teach the material, a lot of effort is needed 
+to make these materials in a form that an average learner in the classroom may find easy to understand. So, a teacher's
+job is to create a rendition of a book to a lecture material. 
 
 An entirely new problem that teachers these days find problematic is in evaluating home assignments. About 40% of students 
 who submit assignments directly lift solutions from available sources on the Internet. With ChatGPT and its clones, it has 
@@ -49,16 +52,20 @@ A teacher-taught ratio of 1:10 may be adequate. We need to trim down unnecessary
 Grading and evaluation are still primarily dependent on written exams. Therefore, success in exams is proportional to a student's 
 retention ability. The parents measure the success of their wards by
 the salary packages they can get. Wherever there is an emphasis on hands-on learning, students acquire innovation skills. 
-However, rote learning also has a place. Rote learning equips students with a content-addressable, in-memory 
-knowledge base. The right mix of rote learning and hands-on contributes to a person's success. Indian education system puts
-a lot of emphasis on rote learning. Our exam methodology is primarily designed to test the ability to memorize things. That may 
-be why even CEOs of Google and MSN are Indians. Many of my old students are now established entrepreneurs.  
+However, rote learning also has a place. It equips students with a content-addressable, in-memory knowledge base. The right mix
+of rote learning and hands-on contributes to a person's success. Indian education system puts
+a lot of emphasis on rote learning. Our exam methodology is primarily designed to test the ability to memorize things. However,
+rote learning is completely inadequate for a person's ability to innovate and handle unforeseen situations. Learning through
+experimentation is essential for innovations and inventions. At IITs, faculty members have some liberties to create their
+own evaluation system through home assignments, quizzes, term papers, take home exams, seminars, etc. The students 
+go through a regular system of evaluation without feeling the pressure of having to memorize everything.
 
-The underlying discussion thread is limited to the country's technical education system. However, about 85-90% of the students
-who continue their studies after schools have to go for undergraduate education in liberal arts. Science and Commerce. Only 0.1% of 
-these graduates barely manage a salary package of 5lacs PA. The remaining 99.99% are unemployable. Even out of 15lac technical
-graduates (which include engineering, fashion designers, architecture, mass communication, etc.), at most 1-1.5 lac get 
-jobs. The remaining 90% are unemployable. The country's growth is, therefore, held back by unemployable youths. 
+So far, the thread of discussion has been restricted to technical education system. However, about 85-90% of the students
+who continue their studies after schools have to go for undergraduate education in Science, Liberal arts, or Commerce. 
+Approximately 0.1% of these non-technical under graduates barely manage a salary package of 5lacs PA. The remaining 99.99% 
+are unemployable. Even out of 15lac technical graduates (which include engineering, fashion designers, architecture, mass 
+communication, etc.), at most 1-1.5 lac get jobs. The remaining 90% are unemployable. The country's growth is, therefore, 
+held back by generation of unemployable youths. 
 
 Over 40% of the country's workforce belongs to the agriculture sector. However, this sector remains archaic and accounts for a 
 large share of the unorganized labor force. I am unable to understand why the government withdrew firm laws. The highest court 
