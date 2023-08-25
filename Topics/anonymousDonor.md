@@ -10,6 +10,7 @@ The total outlay for education sector in India is about 1.12 lakh corers. It inc
 literacy programmes. So, about 44k corers are allocated to higher education. The government of India enacted CSR Act in 2013.
 It became applicable only from 1st April 2014. 
 The companies with 
+
 - Net worth of rupees five hundred crore or more; or
 - Turnover of rupees one thousand crore or more; or
 - Net profit of rupees five crore or more during the immediately preceding financial year
