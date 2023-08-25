@@ -13,6 +13,7 @@ The companies with
 - Net worth of rupees five hundred crore or more; or
 - Turnover of rupees one thousand crore or more; or
 - Net profit of rupees five crore or more during the immediately preceding financial year
+  
 are required to constitute a Corporate Responsibility Committee of the Board. I guess the number of such companies will be
 close 6000. The CSR contribution is pegged at 2% of the profit. CSR funding not restricted to contribution for educational 
 institutions. It is a evolving term for strategic initiatives for national building including cleaner and sustainable
