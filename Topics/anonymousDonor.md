@@ -1,18 +1,32 @@
-# Anonymous Donor
+# Anonymous Donor and its Effects in Education Sector
 
-Recently, [IIT Bombay received INR 160 corers from an anonymous donor](https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-gets-rs-160-crore-from-anonymous-donor/articleshow/103035390.cms?from=mdr).
-It hartening to see that successful alumni from an Indian institution is giving back so generously. IIT Bombay has received large
-donations from Kanwal Rekhi and others in the past. Nandan Nilekani donated 315 corers only recently. But, I consider the
-the contribution of 160 corers from an anonymous as a momentus event. It perhaps will be a trend setter, and I hope more such 
-such donations will pour in from alumnus of other older IITs. Large donations to US universities is common phenomenon. 
+A week back, [IIT Bombay received INR 160 corers from an anonymous donor](https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-gets-rs-160-crore-from-anonymous-donor/articleshow/103035390.cms?from=mdr).
+It hartening to see that successful alumni from an Indian institution is giving back so generously. In the past, IIT Bombay has 
+received large donations from Kanwal Rekhi and others. Nandan Nilekani donated 315 corers only recently. Other old IITs and 
+other educational institutes are receiving generous donations from their respective alumnis. However, this particular
+anonymous donation of 160 corers is a momentus event. I wish it to be a trend setter for donation to educational institutes in 
+the country. 
 
-Before elaborating further on the requirement of donations in upkeep and diversification of universities, let me spend a bit
-of time its background. The total outlay for education sector in India is about 1.12 lakh corers. It includes 65k corers for
-School Educations and literacy programmes. So, about 44k corers are allocated to higher education. The total enrollement in
-higher education in India is about 4.41 corers (PIB sources) in 2020-21. Cost per student in professional education is
-70k per year. I think in non-professional courses the cost per student per year will be around 30k per student.
+Before celebrating the moment of anonymous donation, let us understand why donations are key to survival, autonomy, and
+diversification of universities. The total outlay for education sector in central budget is about 1.12 lakh corers. It 
+includes 65k corers for School Educations and literacy programmes. So, about 44k corers are allocated to higher education. 
+The total enrollement in higher education in India is about 4.41 corers (PIB sources) in 2020-21. The cost per student in 
+professional education is 70k per year. I think in non-professional courses the cost per student per year will be between
+30-40k per student. Therefore, there is huge gap between requirements and resources. Govt spending on freebies are now 
+between 1.7-2.7% of state GSDP. However, for the states like Andhra Pradesh, MP, Punjab, West Bengal, the figures are
+14.1%, 10.8%, 17.8%, and 9.7% of their revenue receipts respectively. The state spending on education
+and healthcare suffer due to freebies. Tamilnadu's AIDMK party was the first to start freebie culture for electoral gains, 
+and other parties were quick to follow the same for electoral gains. The debate between subsidies and allocation for social 
+sector is complex. Though it provides a safety net for survival, a sense of complacency is noticeable among populace. It has 
+led to a situation where GSDP suffering as there is no sense of urgency for people to work for a living. Karnatak's congress 
+govt announce freebies to the tune of 62k corers. If implemented fully, it will plunge Karnatak into bankcrupty. 
+Education being in the concurrent list, a majority of universities and educational institutions are administered and controlled 
+by the states. About 80% of spending in education sector is supposed to be borne by the states. However, the freebie culture 
+is eating into the resources and the first causality has been the budget cut on education and healthcare. 
 
-        The budget allocation for India’s Institutions of Eminence has increased by 25 per cent from last year’s revised estimates.  This project aims to establish 10 institutions each in public and private sector which achieve the highest levels of global excellence in teaching and research.
+The budget allocation for India’s Institutions of Eminence has increased by 25 per cent from last year’s revised estimates.  This 
+project aims to establish 10 institutions each in public and private sector which achieve the highest levels of global excellence in 
+teaching and research.
     The research and innovation budget has increased over the years.  The 2023-24 allocation of GBP 21 million is an increase of 275 per cent from the actual amount spent in 2021-22.  It is however interesting to note that funding for most research programmes has stayed the same or decreased marginally, but funding for the new World Bank aided project called Multidisciplinary Education and Research Improvement in Technical Education (MERITE) has increased exponentially from around £900,000 to around £10 million. It will be implemented in about 350 public sector engineering institutions and affiliated technical universities.
     The national mission on teachers and teaching which provides an integrated platform for building synergies among all the existing initiatives and augment capacity at individual level and also enhance institutional infrastructure for pre service and in service teacher training gets an increase in the allocation as GBP 4.5 million, a rise of 80 per cent.
     The University Grants Commission, the higher education regulator for non-technical education has received an increased allocation of GBP 536 million. This has steadily risen in recent years.  The allocation for All India Council for Technical Education, the second regulator and responsible for technical education has had its allocation maintained at GBP 42 million for the last three years.
