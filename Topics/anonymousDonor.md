@@ -8,22 +8,34 @@ anonymous donation of 160 corers is a momentus event. I wish it to be a trend se
 the country. 
 
 Before celebrating the moment of anonymous donation, let us understand why donations are key to survival, autonomy, and
-diversification of universities. The total outlay for education sector in central budget is about 1.12 lakh corers. It 
-includes 65k corers for School Educations and literacy programmes. So, about 44k corers are allocated to higher education. 
+diversification of educational institutions. The total outlay for education sector in the central budget is 1.12 lakh corers. 
+It includes 65k corers for School Educations and literacy programmes and 44k corers for higher education. 
 The total enrollement in higher education in India is about 4.41 corers (PIB sources) in 2020-21. The cost per student in 
 professional education is 70k per year. I think in non-professional courses the cost per student per year will be between
 30-40k per student. Therefore, there is huge gap between requirements and resources. Govt spending on freebies are now 
 between 1.7-2.7% of state GSDP. However, for the states like Andhra Pradesh, MP, Punjab, West Bengal, the figures are
 14.1%, 10.8%, 17.8%, and 9.7% of their revenue receipts respectively. The state spending on education
-and healthcare suffer due to freebies. Tamilnadu's AIDMK party was the first to start freebie culture for electoral gains, 
-and other parties were quick to follow the same for electoral gains. The debate between subsidies and allocation for social 
-sector is complex. Though it provides a safety net for survival, a sense of complacency is noticeable among populace. It has 
-led to a situation where GSDP suffering as there is no sense of urgency for people to work for a living. Karnatak's congress 
-govt announce freebies to the tune of 62k corers. If implemented fully, it will plunge Karnatak into bankcrupty. 
-Education being in the concurrent list, a majority of universities and educational institutions are administered and controlled 
-by the states. About 80% of spending in education sector is supposed to be borne by the states. However, the freebie culture 
-is eating into the resources and the first causality has been the budget cut on education and healthcare. 
+and healthcare suffer due to freebies. AIDMK party in Tamilnadu was the first to start freebie culture for electoral gains, 
+Other parties were quick to follow the path shown by AIDMK for electoral gains. The debate between subsidies and allocation
+for social sector is complex. Freebies like food ration, mid-day meals provide a safety net for survival. However, it also
+breeds a sense of complacency among the populace. It has led to a situation where GSDP is suffering as there is no sense of 
+urgency for people to work for a living. Karnatak's congress govt announce freebies to the tune of 62k corers prior to
+recently concluded election in the state without working out budgetry details. If the promised freebies are implemented fully,
+it will plunge the state of Karnatak into bankcrupty. Punjab will be in serious trouble if the Aap govt actually implements 
+the promised freebies. The story in no different for other states too. 
 
+Education is in the concurrent list, a majority of universities and educational institutions across the country are administered
+and controlled by the states. About 80% of spending in education sector is borne by the states. The states simply cut back grants to
+educational institute to tide over the fiscal deficit. As a result, the universities can do very little beyond maintaining
+teaching activities. Most state universities and professional colleges typically operate with a strength of 30% regular faculty.
+Therefore, these institutions using guest/ad hoc lecturers who are typically paid a fee of Rs 500-1000/- per lecture. Under 
+paid teachers are understandably under qualified. They neither have knowledge nor abilities to teach. There is no fund for
+research, or running science labs. Unless universities receive big donations there is no way they can survive. The situation
+is pretty bad. The politics have already destroyed the system of higher education to a point from where it can never turn around. 
+
+Now let us examine the situation in centrally funded institutions. At least the teaching activities in these institutions 
+are managed by regular faculty. Research grants are administered through various agencies like DST, CSIR, ARB, MeITy. The
+control of these agencies 
 The budget allocation for India’s Institutions of Eminence has increased by 25 per cent from last year’s revised estimates.  This 
 project aims to establish 10 institutions each in public and private sector which achieve the highest levels of global excellence in 
 teaching and research.
