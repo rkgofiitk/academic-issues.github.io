@@ -64,7 +64,7 @@ governments have a different level of thinking. Education certainly not higher i
 Let us examine the effectiveness of CSR funding. The government of India enacted the CSR Act in 2013.
 It became applicable only on 1 April 2014. Tata and Birla Group of companies were funding education institutions much 
 before independence. Birla Group established engineering colleges; among these, BITS Pilani is perhaps the best private 
-engineering college to be in the top 1000 world rankings. IISc is the most well-known institute among several institutes 
+engineering college to be in the top 1000 world rankings. IISc is globally well-known institute among the several 
 funded and established by the Tata Group. 
 
 The companies with 
