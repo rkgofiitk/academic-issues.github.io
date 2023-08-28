@@ -8,7 +8,7 @@ donation to IIT Bombay is not new, it has received large donations from Kanwal R
 recent past. Other old IITs and a few renowned educational institutes have also received generous donations from their 
 respective alums. Well-known universities worldwide, like Harvard, Cambridge, Oxford, CMU, Yale,
 etc., regularly receive large donations. However, this anonymous donation to IIT Bombay is a momentous event for
-an Indian institution. I wish it to be a trendsetter for donations to educational institutes in the country. 
+an Indian institution. I wish it becomes a trendsetter for donations to educational institutes in the country. 
 
 Before celebrating the event, let us understand why donations are vital to educational institutions' survival, autonomy, and 
 excellence. Let us restrict the discussion only to the Indian context. The problem is more or less similar elsewhere.
