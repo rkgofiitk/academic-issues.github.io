@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [Anonymous Donor of IIT Bombay](Topics/anonymousDonor.md)
 - [Learning and Teaching](Topics/learningAndTeaching.md)
 - [Generative AI and Age-Reversal Pill: A Heady Concotion](Topics/GenAIantiAging.md)
 - [Open AI, Social Networking, and Personal Privacy](Topics/dataPrivacyAI.md)
