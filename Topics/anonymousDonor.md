@@ -36,12 +36,12 @@ very little beyond struggling to maintain teaching activities. Most state univer
 lecturers who generally are paid a fee of Rs 500-1000/- per lecture. Underpaid teachers are understandably underqualified.
 They neither have the knowledge nor the ability to teach. There is no funding for research or even for running science labs.
 Universities need to receive significant donations to survive in this situation. I was reminded of the situation
-in Sri Lanka. Sometime back, I received a request for evaluation of a Ph. D. thesis from Srilankan University. After I 
-had submitted the report, the university asked me to fill out a form to claim the examination fee. Luckily, I learned the student
-had paid for the thesis submission, examination, and mailing fees. I still need to send the form and write
-a waiver letter for examination fee. The Srilankan situation may have a different explanation. However, the root cause boils
-down to the scarcity of resources. Bad politics have already destroyed the higher education system to a point where it can
-never turn around without a well thought-out idea. 
+in Sri Lanka. Sometime back, I received a request for evaluation of a Ph. D. thesis from a Srilankan University. After I 
+had submitted the report, the university asked me to fill out a form to claim the examination fee.  I came to know that the student
+had paid for the thesis submission, examination fee, and the mailing charges. However, according to university rules, I still
+need to send the form and write a waiver letter for examination fee. The Srilankan situation may have a different 
+explanation. However, the root cause boils down to the scarcity of resources. Bad politics have already destroyed the 
+higher education system to a point where it can never turn around without a well thought-out idea. 
 
 Now, let us examine the situation in centrally funded institutions. At least the teaching activities in these institutions 
 are managed by regular faculty. Research grants are administered through various agencies like DST, CSIR, ISRO, ARB, and MeITy. The 
