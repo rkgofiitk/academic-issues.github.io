@@ -4,7 +4,7 @@
 
 [IIT Bombay received INR 160 corers from an anonymous donor](https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-gets-rs-160-crore-from-anonymous-donor/articleshow/103035390.cms?from=mdr).
 It is heartening to see that successful alums from an Indian institution give back generously to their alma mater. The
-donation is not new; IIT Bombay has received large donations from Kanwal Rekhi, Nandan Nilekani, and others in 
+donation to IIT Bombay is not new, it has received large donations from Kanwal Rekhi, Nandan Nilekani, and others in 
 recent past. Other old IITs and a few renowned educational institutes have also received generous donations from their 
 respective alums. Well-known universities worldwide, like Harvard, Cambridge, Oxford, CMU, Yale,
 etc., regularly receive large donations. However, this anonymous donation to IIT Bombay is a momentous event for
