@@ -1,6 +1,6 @@
 # Anonymous Donor and its Effects in Education Sector
 
-[Index](../index.md)
+[Blog Index](../index.md)
 
 [IIT Bombay received INR 160 corers from an anonymous donor](https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-gets-rs-160-crore-from-anonymous-donor/articleshow/103035390.cms?from=mdr).
 It is heartening to see that successful alums from an Indian institution give back generously to their alma mater. The
