@@ -1,4 +1,4 @@
-# Anonymous Donor and its Effects in Education Sector
+# Celebrating Anonymous Donation to IIT Bombay
 
 [Blog Index](../index.md)
 
