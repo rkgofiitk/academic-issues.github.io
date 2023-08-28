@@ -1,5 +1,7 @@
 # Anonymous Donor and its Effects in Education Sector
 
+[Index](../index.md)
+
 [IIT Bombay received INR 160 corers from an anonymous donor](https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-gets-rs-160-crore-from-anonymous-donor/articleshow/103035390.cms?from=mdr).
 It is heartening to see that successful alums from an Indian institution give back generously to their alma mater. The
 donation is not new; IIT Bombay has received large donations from Kanwal Rekhi, Nandan Nilekani, and others in 
@@ -87,3 +89,5 @@ an institute becomes financially independent, there are fewer chances of govt in
 well-meaning educationists should lobby for an independent higher education regulatory board having a constitutionally
 sanctioned power. Then, it would be possible to stop the political interference in the affairs of a university. It will
 bring not only fiscal stability but eliminate unwanted political intereferences from education sector.
+
+[Back Index](../index.md)
