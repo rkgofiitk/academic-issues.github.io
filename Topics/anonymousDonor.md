@@ -31,8 +31,8 @@ Education is a subject in the concurrent list. Most universities and educational
 are administered and controlled by the states. The states bear about 80% of spending in the education sector. 
 Therefore, freebies and expenditures in the education sector are closely linked to managing a state's fiscal deficit. The 
 states cut back grants to educational institutes to tide over the fiscal deficit. As a result, the universities can do 
-very little beyond struggling to maintain teaching activities. Most state universities and professional colleges typically 
-have 30% regular faculty strength. By and large, teaching activities are carried out using guest and ad hoc
+very little beyond struggling to maintain teaching activities. Most state universities and professional colleges operate with
+30% of regular faculty strength. By and large, teaching activities are carried out using guest and ad hoc
 lecturers who generally are paid a fee of Rs 500-1000/- per lecture. Underpaid teachers are understandably underqualified.
 They neither have the knowledge nor the ability to teach. There is no funding for research or even for running science labs.
 Universities need to receive significant donations to survive in this situation. I was reminded of the situation
