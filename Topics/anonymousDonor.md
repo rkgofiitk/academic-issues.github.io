@@ -78,7 +78,7 @@ close 6000. The CSR contribution is pegged at 2% of the profit. CSR is still evo
 companies to support strategic initiatives for the national building, including a cleaner and more sustainable environment through CSR
 avenues. Therefore, CSR funding is not restricted to funding initiatives for education sectors. Educational institutions receive
 only a small amount of donations from CSR funds. Many companies have established their educational institutions to
-plow back CSR funding through the trusts held by their founders. The total CSR funding to the educational sector is nearly 3k out 
+plough back CSR funding through the trusts held by their founders. The total CSR funding to the educational sector is nearly 3k out 
 of 26k corers in 2020-21. So, CSR contribution to the higher education sector is under 2% of govt spending.  
 
 Alternative funding sources are essential given the scenario of govt grants, and the fact that CSR funding has contributed little
