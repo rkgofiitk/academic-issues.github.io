@@ -74,7 +74,7 @@ The companies with
 - Net profit of rupees five crore or more during the immediately preceding financial year
   
 are required to constitute a Corporate Responsibility Committee of the Board. I guess the number of such companies will be
-close 6000. The CSR contribution is pegged at 2% of the profit. CSR is still evolving. The government is persuading 
+close to 6000. The CSR contribution is pegged at 2% of the profit. CSR is still evolving. The government is persuading 
 companies to support strategic initiatives for the national building, including a cleaner and more sustainable environment through CSR
 avenues. Therefore, CSR funding is not restricted to funding initiatives for education sectors. Educational institutions receive
 only a small amount of donations from CSR funds. Many companies have established their educational institutions to
