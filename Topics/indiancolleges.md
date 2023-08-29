@@ -1,5 +1,7 @@
 # Indian Colleges Affecting Growth of Country's Digital Ecosystem 
 
+[Blog Index](../index.md)
+
 Recently, I came across an article titled
 [Worthless Degrees Are Creating an Unemployable Generation in India."](https://www.bloomberg.com/news/articles/2023-04-17/india-s-worthless-college-degrees-undercut-world-s-fastest-growing-major-economy#xj4y7vzkg)  
 Over the past couple of years, my blogs focused primarily on worthless B. Tech. Degrees in computer science. It is flooding ill-trained, 
