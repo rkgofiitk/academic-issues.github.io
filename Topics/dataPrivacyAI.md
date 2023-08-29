@@ -1,5 +1,7 @@
 ## Open AI, Social Networking, and Personal Privacy
 
+[Blog Index](../index.md)
+
 Machines have already automated millions of routine working-class jobs in manufacturing, ground logistics support, and surface transport. 
 Industry 4.0 integrates people with automation, but most heavy-lifting jobs are handled through cobots (collaborative robots) by advanced
 production and operation techniques with digital technologies. Conventional labor-intensive jobs are wiped out, leaving most people jobless.
