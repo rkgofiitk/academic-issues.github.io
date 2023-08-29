@@ -1,6 +1,6 @@
-## Shortage of Skilled Programmers 
+# Shortage of Skilled Programmers 
 
-
+[Blog Index](../index.md)
 
 
 Before focusing on the shortage of skilled programmers, let me take the readers about 50 years back to understand where we were and where we stand now. 
