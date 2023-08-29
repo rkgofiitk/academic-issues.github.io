@@ -1,5 +1,6 @@
 ## Getting a Ph. D. from an Indian Institution 
 
+[Blog Index](../index.md)
 
 Years back, I was visiting a relative's place at a central university in the eastern part of India. During a course of a casual evening gathering at my host's 
 residence, one of the young professors jocularly commented that he would love to recruit one male and another female research scholar. He would get the male 
