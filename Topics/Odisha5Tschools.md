@@ -1,5 +1,7 @@
 # Status of 5T Transformations of Odisha's Govt Schools
 
+{Blog Index](../index.md)
+
 [A recent news items in ToI](https://m.timesofindia.com/city/bhubaneswar/hc-to-monitor-availability-of-basic-amenities-in-schools/articleshow/100045353.cms) 
 states that the Odisha High Court ordered appointed an amicus curiae to monitor the progress of the 5T transformation pledged by the Odisha Govt. It 
 is pathetic that citizens must approach the High Court to intervene and monitor a government's work in progress. Odisha state budget for 2022-2023 
