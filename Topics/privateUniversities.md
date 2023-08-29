@@ -1,5 +1,7 @@
 ## Private Universities in India
 
+[Blog Index](../index.md)
+
 The foundation of Indian univsersity sysetem was laid by the British rulers during the colonial days. The three
 universities, one each at Bombay, Madras and Calcutta were established in the year 1857 just before the British rulers faced 
 the first spontaneous public protest that colonial historians termed as "the sepoy mutiny". It was not clear if the
