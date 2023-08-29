@@ -1,5 +1,7 @@
 # Learning and Teaching
 
+[Blog Index](../index.md)
+
 The mainstream television channels in India are obsessed with politics and irrelevant talk shows, which creates a narrative that
 India is all about hatred, religious bigotry, and crimes. They hardly ever bring social issues to public attention. It is, 
 therefore, heartening that many serious content creators are turning to podcasts for highlighting apolitical social issues like 
