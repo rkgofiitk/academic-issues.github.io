@@ -1,5 +1,7 @@
 ## Upskilling Engineering Graduates 
 
+[Blog Index](../index.md)
+
 Engineering seats in technical schools in India picked over 320000 during 2013-2014. From 2015 to 2016, many colleges started applying for closures. Engineering 
 seats declined from then onwards. In 2021, [AICTE](https://www.aicte-india.org/) announced the closure of sixty-three engineering colleges across India. 
 Seats have fallen to the lowest in the last ten years. It is now around 230000, a decline of nearly 100000 at the rate of 10000 per year. 
