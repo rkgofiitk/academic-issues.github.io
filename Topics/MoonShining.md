@@ -1,5 +1,7 @@
 ##  Software Techies on Moonshine! 
 
+[Blog Index](../index.md)
+
 Recently, I came across a news article that Wipro's Rashid Premji was concerned with moonshining by his staff. How does the moon shine? It 
 wanes for two weeks and waxes for two weeks. It never shines all the time. That is how the solar system works. I am a bit surprised by the 
 younger Premji's take on what is known as moonshining. The popular perception is Mr. Azim Premji is the largest donor to philanthropic
