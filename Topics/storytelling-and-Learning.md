@@ -1,5 +1,7 @@
 ## Storytelling, History, and Literature
 
+[Blog Index](../index.md)
+
 Learning is a continuous process, but maturity is slow. A bit of external staging is necessary for the handshaking between 
 the two. It is made possible through the system of school and college syllabi and teachers. The choice of textbooks and the 
 selection of teachers are essential cogs in the wheels to build the intellectual capital of a state. The subjects we 
