@@ -1,5 +1,7 @@
 # Pursuing Ph. D. at IITs
 
+[Blog Index](../index.md)
+
 The purpose of this blog is to dispel some of the disinformation being circulated on a few social networking sites. Quora is one of these.
 Quora is a site where people ask questions, and others write answers. Sometimes both the questions the answers are specifically targeted
 to rundown an organization or an enterprise with a vengeance. It becomes apparent from a response that a balanced view is missing, and 
