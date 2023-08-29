@@ -1,6 +1,6 @@
 ##  WhatsApp International University & Distruptive Intervention in Personal Space
 
-
+[Blog Index](../index.md)
 
 Disruptive communication technology significantly alters the ways of communication and interaction among people. In recent years we witnessed two 
 types of disruptive communication systems (i) social networking systems and (ii) Instant messaging systems. Almost
