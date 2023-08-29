@@ -1,5 +1,7 @@
 ## Attendance in Classroom
 
+[Blog Index](../index.md)
+
 Programming and data structure are two essential elements in building a career as a software techie. India boasts of many software companies like TCS, 
 Infosys, HCL Technologies, Mindtree, Tech Mahinda, L&T infotech, ITC infotech, First source, etc. I understand that all of these companies have in-house training 
 units. They induct graduate trainees and put them through rigorous coding training before induction. Many of the trainees cannot cope up the rigor and 
