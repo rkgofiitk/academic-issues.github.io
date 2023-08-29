@@ -1,5 +1,7 @@
 ## Challenges in Increasing GER of Higher Education
 
+[Blog Index](../index.md)
+
 The prominent tribal leader Birsa Munda's birth anniversary falls on 15th November. He was a freedom fighter and a leader 
 of a mass religious movement of late 19th century. The airport at Ranchi is named after him. For more details about Birsa 
 Munda, the readers may refer to the [wikipedia page](https://en.wikipedia.org/wiki/Birsa_Munda). Jharkhand state was 
