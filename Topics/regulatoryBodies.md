@@ -1,4 +1,6 @@
-## Academic Regulatory Bodies in India
+# Academic Regulatory Bodies in India
+
+[Blog Index](../index.md)
 
 India has many regulatory bodies for academic institutions. 
 
