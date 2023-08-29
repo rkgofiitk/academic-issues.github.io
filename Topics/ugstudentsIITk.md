@@ -1,5 +1,7 @@
 # A Senior's Advise to JEE Advance Qualifiers
 
+[Blog Index](../index.md)
+
 Today I stumbled upon a question seeking advice on joining as a freshman at IIT Kanpur. The answer was written by someone who graduated from IITK
 some years ago. The comments are interesting. It differs quite a bit from the advice from a second-year, pre-final, or final-year student of 
 the institute. The response is quite measured and mature. However, the important aspect that struck me is the interest and usability of 
