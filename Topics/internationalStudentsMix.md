@@ -1,5 +1,7 @@
 ## Enrollment of International Students at Indian Universities
 
+[Blog Index](../idnex.md)
+
 About 3.3 lac students from 160 different countries were enrolled at various Indian Universities over five years, from 2016 
 to 2021. In 2019 about 75k chose India to pursue higher studies. Most international students in India come from Nigeria, 
 Sudan, Tanzania, Ethiopia, and very few from Malaysia, Iran, Maldives, Myanmar, and Yemen. In contrast, the number of Indian 
