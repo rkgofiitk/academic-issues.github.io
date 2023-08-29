@@ -1,5 +1,8 @@
 ## Unification of UGC, AICTE and NCTE
 
+[Blog Index](../index.md)
+
+
 In an interview with a Times of India reporter, the UGC chairperson disclosed that a committee had been formed
 for the [unification of UGC, AICTE, and NCTE](https://am.linkedin.com/posts/mamidala-jagadesh-kumar-76b090146_manash-gohain-of-times-of-india-writes-the-activity-6896151745542901760-HVLe?trk=public_profile_like_view) to streamline the domain of higher education. It is unclear how the proposed unification may speed up or facilitate the
 implementation of the new National Education Policy. Govt is working on a bill to create a new unified 
