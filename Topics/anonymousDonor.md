@@ -30,7 +30,7 @@ is already in serious trouble. The story is similar for other states, too.
 Education is a subject in the concurrent list. Most universities and educational institutions nationwide 
 are administered and controlled by the states. The states bear about 80% of spending in the education sector. 
 Therefore, freebies and expenditures in the education sector are closely linked to managing a state's fiscal deficit. The 
-states cut back grants to educational institutes to tide over the fiscal deficit. As a result, the universities can do 
+states cut back grants to educational institutes to tide over the fiscal deficits. As a result, the universities can do 
 very little beyond struggling to maintain teaching activities. Most state universities and professional colleges operate with
 30% of regular faculty strength. By and large, teaching activities are carried out using guest and ad hoc
 lecturers who generally are paid a fee of Rs 500-1000/- per lecture. Underpaid teachers are understandably underqualified.
@@ -53,13 +53,13 @@ especially on grants from govt agencies.
 
 Let us delve a bit deeper into research and innovation grants. The government of India declared several institutes of eminences (IoE).
 The budget allocation for IoE has increased by 25 percent from last year's revised estimates. The stated aim of
-establishing IoEs is to encourage faculty members of that institute to compete with the highest levels of global excellence 
+establishing IoEs is to encourage faculty members of those institutes to compete with the highest levels of global excellence 
 in teaching and research. It is, however, interesting to note that funding for most research programs has stayed the same or 
 decreased. I fail to appreciate the level of thinking that goes into the strategy to boost research and innovation.
-We cannot maintain islands of excellence when the surrounding is full of mud and dirt. IoE needs a set of lower-level feeder 
+We cannot maintain islands of excellence when the surrounding is full of muck and dirt. IoEs need a set of lower-level feeder 
 institutes for human resources. So, there should be a proportionate increase in research innovation budgets for secondary-level 
 institutions. Even then, the central govt's efforts will only work with support from state governments. Unfortunately, state
-governments have a different level of thinking. Education certainly not higher in their priorities for staying in power. 
+governments have a different level of thinking. Education certainly not the highest in their priorities for staying in power. 
 
 Let us examine the effectiveness of CSR funding. The government of India enacted the CSR Act in 2013.
 It became applicable only on 1 April 2014. Tata and Birla Group of companies were funding education institutions much 
