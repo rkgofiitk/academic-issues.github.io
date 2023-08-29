@@ -1,3 +1,7 @@
+# Cronyism in the Game of Research Publications
+
+[Blog Index](../index.md)
+
 I am a bit apprehensive about approaching this subject in a blog. I hope serious researchers do not take it as casting aspersions on their research. Many young 
 people are engaged in intensive research in manufacturing, IT and computing, electronics, fabrications,  and space research. My intention is not to discourage 
 them but to be aware of many influential researchers at elite academic institutions of the country.
