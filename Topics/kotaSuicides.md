@@ -1,6 +1,8 @@
 
 # Killing Factories of Kota!
 
+[Blog Index](../index.md)
+
 I came across two articles recently touching various issues including lack of quality education in context of series of suicides
 of aspirants registered in different coaching centers operating from Kota. [One of the articles](https://timesofindia.indiatimes.com/blogs/voices/what-the-kota-factory-suicides-say-about-our-education-system/) 
 by Prof V. Ramgopal Rao, VC of BIT Pilani. It goes a bit into the issues that require more analysis. 
