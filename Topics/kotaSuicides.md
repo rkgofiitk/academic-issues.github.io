@@ -33,7 +33,7 @@ for NEET-qualified students and 39k in JEE Mains. JEE Advance offers 17k, wherea
 other well-known medical collages in India are KGM Lucknow, JIPMER Puducherry, PGIMER Chandigarh, Kasturba Medical College 
 Manipal, JNMC Aligarh, SRMC Chennai, GSVMMC Kanpur, SCBMC Cuttack, etc. Though there are 612 medical colleges, 
 48k seats are in government colleges. We know about 20k medical students were evacuated when the Ukraine war started. About 5k 
-students go every year to China for medical studies. That makes about 25-30k students go to foreign countries for MBBS 
+students go every year to China for medical studies. That makes about 25-30k students going abroad for MBBS 
 degrees yearly. Though it is an unbalanced comparison, we are talking about 2900k aspirants who compete for only 
 65k (17k engineering + 48k medical) seats. The overall success rate is 2.2%. In plain terms, only about 2 out of every 100 
 aspirants are successful. For engineering admission, the success rate is 1.9%.
