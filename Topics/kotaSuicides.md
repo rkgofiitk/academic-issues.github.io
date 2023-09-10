@@ -22,7 +22,8 @@ of engineering education. Dheeraj's article goes deeper with some facts and figu
 It also speaks of other comparable options to the parents for their wards.
 
 The coaching centers are in Kota and other major cities like Vizag, New Delhi, Kanpur, Lucknow, Hyderabad,
-and Ranchi. However, with an annual enrollment of 200k, Kota beats them all. It records three suicides per month on average or 30-35 suicides per year. The figures for other cities have yet to be discovered. But I guess the average rate of suicides 
+and Ranchi. However, with an annual enrollment of 200k, Kota beats them all. It records three suicides per month on average or 30-35 
+suicides per year. The figures for other cities have not been reported. But I guess the average rate of suicides 
 may be slightly lower among aspirants in different cities or towns. It might be due to various reasons, including unorganized 
 small coaching centers in other cities where the level of aspiration is lower among the peer groups. 
 
