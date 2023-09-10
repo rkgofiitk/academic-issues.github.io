@@ -63,7 +63,8 @@ create a public perception about getting admissions into IITs. A successful doct
 from IIT. A successful architect can employ many engineers. A successful lawyer earns astronomical fee for a day's court
 appearance. Many corporate law firms employ very highly paid lawyers. However, it require at least 5-10 years to succeed in
 alternative vocations, whereas an engineer's success depends on the placement after graduation. But getting into an IIT is 
-more challenging than a medical, or a law school. 
+more challenging than a medical, or a law school. The point I am making is that there is no short-cut to success. It is
+just a question whether you do it sooner or later. 
 
 I have to disagree with the fourth point in Prof. Ramgopal's article. The lack of resources for expansion is a myth created 
 by the government of the day. It opened up the education sector to private players who needed proper planning. AICTE regulated
