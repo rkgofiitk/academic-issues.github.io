@@ -124,7 +124,7 @@ I would recommend five sets of universities:
 - Universities for law
 
 The experiment being suggested is familiar. The successes of IITs, IIMs, AIIMs, Ashoka, and NCLs are apparent to us. 
-Education should be removed from the state list altogether. The concurrent list also has muddled the peaceful environment of 
+Education should be placed in central list. The concurrent list has muddled the peaceful environment of 
 even reputed educational institutes in many states. A few states even trying to block implementation of the National
 Education Policy. A few state govts making attempts to lower the level of competition among students by opposing all 
 India entrance examinations to professional courses in state universities. Resources for centrally funced institutions
