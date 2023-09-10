@@ -17,7 +17,7 @@ target of reducing the menace of Coaching centers. Sociologists, politicians, an
 malady without fully addressing the root cause of capacity expansion. Two popular TV series, "Kota Factory" (Netflix) and 
 "Crash Course" (Amazon Prime) depict facets of the lives of young aspirants in private hostels and their interactions with 
 teachers of coaching centers. They also bring out the socio-economic issues that affect the lives of India's middle-class people 
-in their quest for cherished aspirations. However, nobody dares honestly attempt to point out the "curse of scaling" on our
+in their quest for cherished aspirations. However, nobody dares honestly attempts to point out the "curse of scaling" on our
 education system. Both the articles mentioned above talk about scaling issues from the point of view of engineering 
 education. Dheeraj's article goes deeper with some facts and figures and points to the "curse of scaling." It also advises
 other comparable options for their wards.
