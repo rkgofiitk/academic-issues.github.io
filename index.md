@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [Kota's killing Factory](Topics/kotaSuicides.md)
 - [Celebrating Anonymous Donation to IIT Bombay](Topics/anonymousDonor.md)
 - [Learning and Teaching](Topics/learningAndTeaching.md)
 - [Generative AI and Age-Reversal Pill: A Heady Concotion](Topics/GenAIantiAging.md)
