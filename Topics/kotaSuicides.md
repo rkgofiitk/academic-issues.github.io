@@ -57,7 +57,7 @@ chief architect of economic liberalization under PV Narshima Rao was the head of
 India witnessed sluggish growth despite policy paralysis and what the then PM termed as "coalition compulsion." Being an 
 engineer or a doctor is perceived as a great achievement for a young person in that period. Multi-national companies 
 recruited undergraduates from IITs with salary packages that far exceeded even the professors who taught them. The parents
-wanted to see their children as doctors or engineers. Media emphasis on high salaries originated from societal aspirations.
+wanted to see their children as doctors or engineers. Media  hype on high salaries originated from societal aspirations.
 Unfortunately, the mass media in India focuses on the wrong issues with the sole aim of better TRP and viewership. It does 
 create a public perception about getting admissions into IITs. A successful doctor can earn more than a highly paid engineer
 from IIT. However, doctors require at least 5-10 years to succeed, whereas an engineer's success
