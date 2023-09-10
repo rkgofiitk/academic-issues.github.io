@@ -19,7 +19,7 @@ malady without fully addressing the root cause of capacity expansion. Two popula
 teachers of coaching centers. They also bring out the socio-economic issues that affect the lives of India's middle-class people 
 in their quest for cherished aspirations. Both the articles mentioned above talk about scaling issues from the point of view 
 of engineering education. Dheeraj's article goes deeper with some facts and figures and points to the "curse of scaling." 
-It also advises other comparable options to the parents for their wards.
+It also speaks of other comparable options to the parents for their wards.
 
 The coaching centers are in Kota and other major cities like Vizag, New Delhi, Kanpur, Lucknow, Hyderabad,
 and Ranchi. However, with an annual enrollment of 200k, Kota beats them all. It records three suicides per month on average or 30-35 suicides per year. The figures for other cities have yet to be discovered. But I guess the average rate of suicides 
