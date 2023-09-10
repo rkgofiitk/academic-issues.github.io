@@ -112,9 +112,9 @@ is worth examining. Reviving state-run universities is to make them genuinely au
 operate under the tight control of state governments. All regional parties ruling the state governments work with a single-point 
 agenda to fill the party's coffers. Even a tiny political party controls enough resources to establish 5-10 IITs. 
 They are in the business of retaining power by "hook or crook." The meddling of governments and parties in the affairs
-of universities is obnoxiously violent, and they often resort to stifling saner voices by blocking the flow of funds 
+of universities is often obnoxiously violent, and they often resort to stifling saner voices by blocking the flow of funds 
 to universities. Student unions are highly politicized. Clearing such a mess is beyond herculean unless universities 
-compartmentalize their operations. Politics has deep roots in HSS and subjects where placements take time. 
+compartmentalize their operations. Politics has set deep roots in HSS and the subjects where [placements figures are abysmal](). 
 I would recommend five sets of universities:
 
 - Universities for Engineering and science
