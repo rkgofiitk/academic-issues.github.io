@@ -15,7 +15,7 @@ Kota is a town in Rajasthan known for its coaching centers. In the past, there h
 activities. Significant changes in "IIT JEE" were administered by Kapil Sibal MHRD in the first UPA cabinet with an apparent
 target of reducing the menace of Coaching centers. Sociologists, politicians, and educationists have denounced coaching as a
 malady without fully addressing the root cause of capacity expansion. Two popular TV series, "Kota Factory" (Netflix) and 
-"Crash Course" (Amazon Prime) depicted facets of the lives of young aspirants in private hostels and their interactions with 
+"Crash Course" (Amazon Prime) depict facets of the lives of young aspirants in private hostels and their interactions with 
 teachers of coaching centers. They also bring out the socio-economic issues that affect the lives of India's middle-class people 
 in their quest for cherished aspirations. However, nobody dares honestly attempt to point out the "curse of scaling" on our
 education system. Both the articles mentioned above talk about scaling issues from the point of view of engineering 
