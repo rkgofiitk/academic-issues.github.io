@@ -69,7 +69,7 @@ just a question whether you do it sooner or later.
 I have to disagree with the fourth point in Prof. Ramgopal's article. The lack of resources for expansion is a myth created 
 by the government of the day. It opened up the education sector to private players who needed proper planning. AICTE regulated
 engineering colleges. However, an honest educationist would know about the role of AICTE. I wish to avoid going into it 
-in further detail. AICTE created a set of impractical guidelines, perhaps deliberately. Ultimately, the backdoor recognition 
+in further detail. AICTE created a set of impractical guidelines, perhaps deliberately so. Ultimately, the backdoor recognition 
 system operated from AICTE made the expert evaluation a redundant eyewash. It is the politicians who call the shots 
 in controlling engineering education. It created a large pool of unemployable engineering graduates. Now, we find many colleges
 are forced to shut down their operations. 
