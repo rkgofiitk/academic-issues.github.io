@@ -24,13 +24,23 @@ large pool of talented young people. It requires the Indian government to invest
 
 India inherited its education system from British rule. China's situation is different. British rule in parts of China did not substantially influence the Chinese education system. China's school system is broadly similar to elsewhere. A significant aspect of any Chinese system lies in implementing and enforcing norms. The primary level between 3-9 years is universal. All urban schools are publicly funded. Rural primary education is dependent on local resources. For many years, the Chinese school system has emphasized vocational education. China had restrictions on mainland students seeking admission into US universities. However, China created many autonomous special administrative regions. Students from these regions could pursue higher studies in foreign universities. During Deng's tenure, restrictions were removed. China introduced English as a compulsory subject in the high school curriculum, allowing its students to compete with the outside world. In 1978, English became a test subject for college entrance. Beginning with the 1990s, a considerable number of Chinese students started taking the GRE and TOEFL. China is now the biggest English education market in the world. There is a conscious effort to bring Chinese students to the world talent pool. Nothing happens in China without direct approvals of the CCCP. 
 
-In contrast, India started abolishing the good things we inherited from British rulers. India had the unique advantage of having  English as the medium of instruction in college education. English was a major test subject in the middle and secondary school education. We had two papers in English at high schools around the 1970s. West Bengal CPM was the first to dismantle English from primary and middle schools. Ironically, the CPM party, which draws its ideological link with CCCP, advocated the abolition of English as a test subject. The party argued that it puts a lot of stress to have a child learn three languages: mother tongue, Hindi, and English. Soon, other regional parties tried to ape CPM. It led to a deterioration of the English skills of Indians. 
+In contrast, India started abolishing the good things we inherited from British rulers. India had the unique 
+advantage of having  English as the medium of instruction in college education. English was a major test 
+subject in the middle and secondary school education. We had two papers in English at high schools around the 
+1970s. West Bengal CPM was the first to dismantle English from primary and middle schools. Ironically, the CPM 
+party, which draws its ideological link with CCCP, advocated the abolition of English as a test subject. The 
+party argued that it puts a lot of stress to have a child learn three languages: mother tongue, Hindi, and 
+English. Soon, other regional parties tried to ape CPM. It led to a deterioration of the English skills of 
+Indians. 
 
-The spread of education to rural regions is mainly dependent on government initiatives. Evangelical efforts were only confined to a few rural pockets. There were many hurdles in these efforts:
-The orthodox rural population refused to send their girl child to schools.
-The politicians soon realized that having a solid base of rural education would be counterproductive for their recipe of divide and rule policy.
-The human resources for running schools in far-flung, inaccessible rural regions was always a problem. The teachers were not interested in serving at those places. 
-It was hard to detect the dereliction of duties by teachers at far-flung places. 
+The spread of education to rural regions is mainly dependent on government initiatives. Evangelical efforts 
+were only confined to a few rural pockets. There were many hurdles in these efforts:
+
+- The orthodox rural population refused to send their girl child to schools.
+- The politicians soon realized that having a solid base of rural education would be counterproductive for their recipe of divide and rule policy.
+- The human resources for running schools in far-flung, inaccessible rural regions was always a problem. The teachers were not interested in serving at those places. 
+- It was hard to detect the dereliction of duties by teachers at far-flung places. 
+
 The government has yet to attempt to build infrastructure, which may have eased these problems. 
 As a result, we ended up having a broken education system. 
 
