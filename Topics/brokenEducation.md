@@ -2,8 +2,6 @@
 
 [Blog Index](../index.md)
 
-# Broken Education System
-
 We hear a lot about India's success story. The success of a country is measured in terms of the strength of 
 its economy. The US and China are the top two economies of the world. They compete with each other in 
 creating their axes of influence, either with financial aid to economically weaker countries or political understanding 
