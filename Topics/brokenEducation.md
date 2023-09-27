@@ -41,7 +41,7 @@ were only confined to a few rural pockets. There were many hurdles in these effo
 - The human resources for running schools in far-flung, inaccessible rural regions was always a problem. The teachers were not interested in serving at those places. 
 - It was hard to detect the dereliction of duties by teachers at far-flung places. 
 
-The government has yet to attempt to build infrastructure, which may have eased these problems. 
+The state governments did not build adequate infrastructure, which may have eased these problems. 
 As a result, we ended up having a broken education system. 
 
 About 70% of enrollment is in government schools. So, government schools play a significant role in nation-
