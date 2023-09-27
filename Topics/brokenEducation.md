@@ -78,7 +78,7 @@ Another aspect of our broken education system is [the obsession to score 100% in
 It has turned learning into a rat race. Parents push their wards to a limit where even one mark less than the 
 maximum is considered not good enough. Prof. Rajendra Pratap  Gupta, a member of the NEP drafting committee, 
 points out that the rat race breaks self-confidence even among those in the 90% bracket. Likewise, the 
-inability to crack IIT JEE breaks or NEET breaks an aspirant's self-confidence. It leads to [the unfortunate premature end of the lives of many bright young people](./kotaSuicide.md). 
+inability to crack IIT JEE breaks or NEET breaks an aspirant's self-confidence. It leads to [the unfortunate premature end of the lives of many bright young people](./kotaSuicides.md). 
 Prof. Gupta says we built only an examination system, not an education system. 
 
 Let's examine the higher education system. About 4.6 crore students seek admission to colleges. Colleges are 
