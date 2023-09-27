@@ -22,7 +22,19 @@ India could quickly rise from 10th to 5th in world economic rankings within nine
 culture created many opportunities for young people. For the success of startups, the country needs a 
 large pool of talented young people. It requires the Indian government to invest heavily in educational institutions. Policy planners must have advised the government adequately on the issue. However, we should fix the country's broken education system. 
 
-India inherited its education system from British rule. China's situation is different. British rule in parts of China did not substantially influence the Chinese education system. China's school system is broadly similar to elsewhere. A significant aspect of any Chinese system lies in implementing and enforcing norms. The primary level between 3-9 years is universal. All urban schools are publicly funded. Rural primary education is dependent on local resources. For many years, the Chinese school system has emphasized vocational education. China had restrictions on mainland students seeking admission into US universities. However, China created many autonomous special administrative regions. Students from these regions could pursue higher studies in foreign universities. During Deng's tenure, restrictions were removed. China introduced English as a compulsory subject in the high school curriculum, allowing its students to compete with the outside world. In 1978, English became a test subject for college entrance. Beginning with the 1990s, a considerable number of Chinese students started taking the GRE and TOEFL. China is now the biggest English education market in the world. There is a conscious effort to bring Chinese students to the world talent pool. Nothing happens in China without direct approvals of the CCCP. 
+India inherited its education system from British rule. China's situation is different. British rule in parts 
+of China did not substantially influence the Chinese education system. China's school system is broadly similar 
+to elsewhere. A significant aspect of any Chinese system lies in implementing and enforcing norms. The primary 
+level between 3-9 years is universal. All urban schools are publicly funded. Rural primary education is 
+dependent on local resources. For many years, the Chinese school system has emphasized vocational education. 
+China had restrictions on mainland students seeking admission into US universities. However, China created 
+many autonomous special administrative regions. Students from these regions could pursue higher studies in 
+foreign universities. During Deng's tenure, restrictions were removed. China introduced English as a 
+compulsory subject in the high school curriculum, allowing its students to compete with the outside world. In 
+1978, English became a test subject for college entrance. Beginning with the 1990s, a considerable number of 
+Chinese students started taking the GRE and TOEFL. China is now the biggest English education market in the 
+world. There is a conscious effort to bring Chinese students to the world talent pool. Nothing happens in 
+China without direct approvals of the CCP. 
 
 In contrast, India started abolishing the good things we inherited from British rulers. India had the unique 
 advantage of having  English as the medium of instruction in college education. English was a major test 
