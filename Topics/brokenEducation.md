@@ -9,9 +9,10 @@ with developed countries. The USA, for example, has been either directly engaged
 conflicts where there were none. It helped the USA to sustain its defense industry and war machines well-oiled. 
 It is not only able to retain the pool of scientific talents but also recruit talents from other countries. 
 The comfort of the life of self and family that the US can provide made it easy for people to prefer to live
-and work in the USA. On the other hand, China made its manufacturing sector strong and provided a work environment for its people. Chinese dictators like Deng Xiao Peng ruled China for a long time, which 
-provided stability to nation-building. Deng was instrumental in creating China as a manufacturing hub of 
-the world. He also encouraged private enterprises in the real estate and service sectors. It made China to
+and work in the USA. On the other hand, China made its manufacturing sector strong and provided a work 
+environment for its people. Deng Xiao Peng ruled China for a long time, which 
+provided stability to nation-building. He was instrumental in creating China as a manufacturing hub of 
+the world. Deng also encouraged private enterprises in the real estate and service sectors. It made China to
 become a world power. 
 
 As far as India is concerned, the success story started in 2014. MSME, startup, and significant CAPEX investments
