@@ -38,7 +38,7 @@ In contrast, India started abolishing the good things we inherited from British 
 advantage of having  English as the medium of instruction in college education. English was a major test 
 subject in the middle and secondary school education. We had two papers in English at high schools around the 
 1970s. West Bengal CPM was the first to dismantle English from primary and middle schools. Ironically, the CPM 
-party, which draws its ideological link with CCCP, advocated the abolition of English as a test subject. The 
+party, which draws its ideological link with CCP, advocated the abolition of English as a test subject. The 
 party argued that it puts a lot of stress to have a child learn three languages: mother tongue, Hindi, and 
 English. Soon, other regional parties tried to ape CPM. It led to a deterioration of the English skills of 
 Indians. 
