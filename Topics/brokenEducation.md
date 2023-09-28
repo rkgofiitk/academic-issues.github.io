@@ -1,4 +1,4 @@
-# Broken Education System
+# The Broken Education System
 
 [Blog Index](../index.md)
 
