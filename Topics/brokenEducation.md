@@ -17,7 +17,7 @@ become a world power.
 
 As far as India is concerned, the success story started in 2014. MSME, startup, and significant CAPEX investments
 propelled the country to a different growth trajectory. Despite being a country with multiple diversity
-India could quickly rise from 10th to 5th in world economic rankings within nine years. In the last few years, startup 
+India could quickly rose from 10th to 5th in world economic rankings within nine years. In the last few years, startup 
 culture created many opportunities for young people. For the success of startups, the country needs a 
 large pool of talented young people. It requires the Indian government to invest heavily in educational institutions. Policy planners must have advised the government adequately on the issue. However, we should fix the country's broken education system. 
 
