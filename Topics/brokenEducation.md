@@ -8,8 +8,7 @@ creating separate axes of influence. The strategy is usually multi-pronged, the 
 coercion by direct intervention in a country's internal affairs. The USA, for example, has been either
 directly engaged or by proxies to create conflicts where there were none. It helped the USA to sustain 
 its defense industry and war machines well-oiled. It allowed the USA to maintain global economic and military 
-supremacy. As a result, the USA can maintain technological superiority by liberal funding research 
-organizations and creating advanced centers of excellence. It not only helped the USA to retain the 
+supremacy. As a result, the USA can maintain technological superiority by liberal funding research organizations and creating advanced centers of excellence. It not only helped the USA to retain the 
 pool of scientific talents but also to recruit talents from other countries. The comfort of the life of 
 self and family that the US can provide made it easy for people to 
 prefer to live and work in the USA. On the other hand, China made its manufacturing sector strong and 
