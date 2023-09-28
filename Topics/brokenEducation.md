@@ -43,11 +43,11 @@ China without direct approvals of the CCP.
 In contrast, India started abolishing the good things we inherited from British rulers. India had the unique 
 advantage of having  English as the medium of instruction in college education. English was a major test 
 subject in the middle and secondary school education. We had two papers in English at high schools around the 
-1970s. West Bengal CPM was the first to dismantle English from primary and middle schools. Ironically, the CPM 
-party, which draws its ideological link with CCP, advocated the abolition of English as a test subject. The 
-party think tank argued that it puts a lot of stress to have a child learn three languages: mother tongue, 
-Hindi, and English. Soon, other regional parties tried to ape CPM. It led to a deterioration of the English 
-language skills among Indians. 
+1970s. West Bengal's CPM party government was the first to dismantle English from primary and middle schools. 
+Ironically, the CPM, which draws its ideological link with CCP, advocated the abolition of English as a 
+test subject. The party's think tank argued that it puts a lot of stress to have a child learn three 
+languages: mother tongue, Hindi, and English. Soon, other regional parties tried to ape CPM. It led to a 
+deterioration of the English language skills among Indians. 
 
 The spread of education to rural regions is mainly dependent on government initiatives. Evangelical efforts 
 were only confined to a few rural pockets. There were many hurdles in these efforts:
