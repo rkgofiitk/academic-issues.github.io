@@ -4,22 +4,27 @@
 
 We hear a lot about India's success story. The success of a country is measured in terms of the strength of 
 its economy. The US and China are the top two economies of the world. They compete with each other in 
-creating their axes of influence, either with financial aid to economically weaker countries or political understanding 
-with developed countries. The USA, for example, has been either directly engaged or by proxies to create 
-conflicts where there were none. It helped the USA to sustain its defense industry and war machines well-oiled. 
-It is not only able to retain the pool of scientific talents but also recruit talents from other countries. 
-The comfort of the life of self and family that the US can provide made it easy for people to prefer to live
-and work in the USA. On the other hand, China made its manufacturing sector strong and provided a work 
-environment for its people. Deng Xiao Peng ruled China for a long time, which 
+creating their axes of influence, either with financial aid to economically weaker countries or political 
+understanding with developed countries. The USA, for example, has been either directly engaged or by proxies 
+to create conflicts where there were none. It helped the USA to sustain its defense industry and war machines 
+well-oiled. It is not only able to retain the pool of scientific talents but also recruit talents from other 
+countries. The comfort of the life of self and family that the US can provide made it easy for people to 
+prefer to live and work in the USA. On the other hand, China made its manufacturing sector strong and 
+provided a work environment for its people. Deng Xiao Peng ruled China for a long time, which 
 provided stability to nation-building. He was instrumental in creating China as a manufacturing hub of 
 the world. Deng also encouraged private enterprises in the real estate and service sectors. It made China to
-become a world power. 
+become a world power. Of course, China's political system did not encourage foreigners to live or work in 
+there. But China invited well established scientists and teachers of chinese origin from USA and Europe to 
+spend time in institutions of excellence. China also allowed international students to pursue higher studies
+in those institutions.
 
-As far as India is concerned, the success story started in 2014. MSME, startup, and significant CAPEX investments
-propelled the country to a different growth trajectory. Despite being a country with multiple diversity
-India could quickly rose from 10th to 5th in world economic rankings within nine years. In the last few years, startup 
-culture created many opportunities for young people. For the success of startups, the country needs a 
-large pool of talented young people. It requires the Indian government to invest heavily in educational institutions. Policy planners must have advised the government adequately on the issue. However, we should fix the country's broken education system. 
+As far as India is concerned, the success story started in 2014. MSME, startup, and significant CAPEX 
+investments propelled the country to a different growth trajectory. Despite being a country with multiple 
+diversity India could quickly rose from 10th to 5th in world economic rankings within nine years. In the last 
+few years, startup culture created many opportunities for young people. For the success of startups, the 
+country needs a large pool of talented young people. It requires the Indian government to invest heavily in 
+educational institutions. Policy planners must have advised the government adequately on the issue. However, 
+we should fix the country's broken education system. 
 
 India inherited its education system from British rule. China's situation is different. British rule in parts 
 of China did not substantially influence the Chinese education system. China's school system is broadly similar 
