@@ -8,18 +8,18 @@ creating separate axes of influence. The strategy is usually multi-pronged, the 
 coercion by direct intervention in a country's internal affairs. The USA, for example, has been either
 directly engaged or by proxies to create conflicts where there were none. It helped the USA to sustain 
 its defense industry and war machines well-oiled. It allowed the USA to maintain global economic and military 
-supremacy. As a result, the USA can maintain technological superiority by liberal funding  
-research organizations and creating advanced centers of excellence. It not only helped the USA to retain the 
+supremacy. As a result, the USA can maintain technological superiority by liberal funding research 
+organizations and creating advanced centers of excellence. It not only helped the USA to retain the 
 pool of scientific talents but also to recruit talents from other countries. The comfort of the life of 
 self and family that the US can provide made it easy for people to 
 prefer to live and work in the USA. On the other hand, China made its manufacturing sector strong and 
 provided a work environment for its people. Deng Xiao Peng ruled China for a long time, which 
 provided stability to nation-building. He was instrumental in creating China as a manufacturing hub of 
 the world. Deng also encouraged private enterprises in the real estate and service sectors. It made China to
-become a world power. Of course, China's political system did not encourage foreigners to live or work  
-there. However, China invited well-established scientists and teachers of Chinese origin from the USA and Europe to 
-spend time in institutions of excellence. China also allowed international students to pursue higher studies
-in those institutions.
+become a world power. China's political system did not encourage foreigners to live or work there. 
+However, China invited well-established scientists and teachers of Chinese origin from the USA and 
+Europe to spend time in institutions of excellence. China also allowed international students to pursue higher 
+studies in those institutions.
 
 As far as India is concerned, the success story started in 2014. MSME, startup, and significant CAPEX 
 investments propelled the country to a different growth trajectory. Despite being a country with multiple 
@@ -31,16 +31,15 @@ we should fix the country's broken education system.
 
 India inherited its education system from British rule. China's situation is different. British rule in parts 
 of China did not substantially influence the Chinese education system. China's school system is broadly 
-similar 
-to elsewhere. A significant aspect of any Chinese system lies in implementing and enforcing norms. The primary 
-level between 3-9 years is universal. All urban schools are publicly funded. Rural primary education is 
-dependent on local resources. For many years, the Chinese school system has emphasized vocational education. 
-China had restrictions on mainland students seeking admission into US universities. However, China created 
-many autonomous special administrative regions. Students from these regions could pursue higher studies in 
-foreign universities. During Deng's tenure, restrictions were removed. China introduced English as a 
-compulsory subject in the high school curriculum, allowing its students to compete with the outside world. In 
-1978, English became a test subject for college entrance. Beginning with the 1990s, a considerable number of 
-Chinese students started taking the GRE and TOEFL. China is now the biggest English education market in the 
+similar to elsewhere. A significant aspect of any Chinese system lies in implementing and enforcing norms. The 
+primary level between 3-9 years is universal. All urban schools are publicly funded. Rural primary education 
+is dependent on local resources. For many years, the Chinese school system has emphasized vocational 
+education. China had restrictions on mainland students seeking admission into US universities. However, China 
+created many autonomous special administrative regions. Students from these regions could pursue higher 
+studies in foreign universities. During Deng's tenure, restrictions were removed. China introduced English as 
+a compulsory subject in the high school curriculum, allowing its students to compete with the outside world. 
+In 1978, English became a test subject for college entrance. Beginning with the 1990s, a considerable number 
+of Chinese students started taking the GRE and TOEFL. China is now the biggest English education market in the 
 world. There is a conscious effort to bring Chinese students to the world talent pool. Nothing happens in 
 China without direct approvals of the CCP. 
 
