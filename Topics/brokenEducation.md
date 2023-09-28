@@ -40,9 +40,9 @@ advantage of having  English as the medium of instruction in college education. 
 subject in the middle and secondary school education. We had two papers in English at high schools around the 
 1970s. West Bengal CPM was the first to dismantle English from primary and middle schools. Ironically, the CPM 
 party, which draws its ideological link with CCP, advocated the abolition of English as a test subject. The 
-party argued that it puts a lot of stress to have a child learn three languages: mother tongue, Hindi, and 
-English. Soon, other regional parties tried to ape CPM. It led to a deterioration of the English skills of 
-Indians. 
+party think tank argued that it puts a lot of stress to have a child learn three languages: mother tongue, 
+Hindi, and English. Soon, other regional parties tried to ape CPM. It led to a deterioration of the English 
+language skills among Indians. 
 
 The spread of education to rural regions is mainly dependent on government initiatives. Evangelical efforts 
 were only confined to a few rural pockets. There were many hurdles in these efforts:
@@ -90,8 +90,8 @@ colleges depend only on fees or grants-in-aid from state governments. AICTE form
 education. However, the actual implementation of standards and conduct of examinations and certification comes 
 under the realm of universities. So, it all depends on how well the universities are administered or managed. 
 Student politics often creates disruption. Left-supported student unions are notoriously aggressive and create 
-problems in the college's smooth conduct of classes, exams, or day-to-day functioning. So, the higher education 
-system is also broken.
+problems in the college's smooth conduct of classes, exams, or day-to-day functioning. So, the higher 
+education system is also broken.
 
 Unfortunately, the average voter does not understand the importance of the education system for a country's 
 overall growth trajectory. Political parties promise only freebies like egg-rice or rasam-rice meals or a DBT 
