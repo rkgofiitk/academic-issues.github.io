@@ -2,32 +2,36 @@
 
 [Blog Index](../index.md)
 
-We hear a lot about India's success story. The success of a country is measured in terms of the strength of 
+The success of a country is measured in terms of the strength of 
 its economy. The US and China are the top two economies of the world. They compete with each other in 
-creating their axes of influence, either with financial aid to economically weaker countries or political 
-understanding with developed countries. The USA, for example, has been either directly engaged or by proxies 
-to create conflicts where there were none. It helped the USA to sustain its defense industry and war machines 
-well-oiled. It is not only able to retain the pool of scientific talents but also recruit talents from other 
-countries. The comfort of the life of self and family that the US can provide made it easy for people to 
+creating separate axes of influence. The strategy is usually multi-pronged, the foremost being
+coercion by direct intervention in a country's internal affairs. The USA, for example, has been either
+directly engaged or by proxies to create conflicts where there were none. It helped the USA to sustain 
+its defense industry and war machines well-oiled. It allowed the USA to maintain global economic and military 
+supremacy. As a result, the USA can maintain technological superiority by liberal funding  
+research organizations and creating advanced centers of excellence. It not only helped the USA to retain the 
+pool of scientific talents but also to recruit talents from other countries. The comfort of the life of 
+self and family that the US can provide made it easy for people to 
 prefer to live and work in the USA. On the other hand, China made its manufacturing sector strong and 
 provided a work environment for its people. Deng Xiao Peng ruled China for a long time, which 
 provided stability to nation-building. He was instrumental in creating China as a manufacturing hub of 
 the world. Deng also encouraged private enterprises in the real estate and service sectors. It made China to
-become a world power. Of course, China's political system did not encourage foreigners to live or work in 
-there. But China invited well established scientists and teachers of chinese origin from USA and Europe to 
+become a world power. Of course, China's political system did not encourage foreigners to live or work  
+there. However, China invited well-established scientists and teachers of Chinese origin from the USA and Europe to 
 spend time in institutions of excellence. China also allowed international students to pursue higher studies
 in those institutions.
 
 As far as India is concerned, the success story started in 2014. MSME, startup, and significant CAPEX 
 investments propelled the country to a different growth trajectory. Despite being a country with multiple 
-diversity India could quickly rose from 10th to 5th in world economic rankings within nine years. In the last 
+diversity, India could quickly rise from 10th to 5th in world economic rankings within nine years. In the last 
 few years, startup culture created many opportunities for young people. For the success of startups, the 
 country needs a large pool of talented young people. It requires the Indian government to invest heavily in 
 educational institutions. Policy planners must have advised the government adequately on the issue. However, 
 we should fix the country's broken education system. 
 
 India inherited its education system from British rule. China's situation is different. British rule in parts 
-of China did not substantially influence the Chinese education system. China's school system is broadly similar 
+of China did not substantially influence the Chinese education system. China's school system is broadly 
+similar 
 to elsewhere. A significant aspect of any Chinese system lies in implementing and enforcing norms. The primary 
 level between 3-9 years is universal. All urban schools are publicly funded. Rural primary education is 
 dependent on local resources. For many years, the Chinese school system has emphasized vocational education. 
@@ -44,7 +48,7 @@ In contrast, India started abolishing the good things we inherited from British 
 advantage of having  English as the medium of instruction in college education. English was a major test 
 subject in the middle and secondary school education. We had two papers in English at high schools around the 
 1970s. West Bengal's CPM party government was the first to dismantle English from primary and middle schools. 
-Ironically, the CPM, which draws its ideological link with CCP, advocated the abolition of English as a 
+Ironically, the CPM, which draws its ideological link with the CCP, advocated the abolition of English as a 
 test subject. The party's think tank argued that it puts a lot of stress to have a child learn three 
 languages: mother tongue, Hindi, and English. Soon, other regional parties tried to ape CPM. It led to a 
 deterioration of the English language skills among Indians. 
@@ -60,7 +64,7 @@ were only confined to a few rural pockets. There were many hurdles in these effo
 The state governments did not build adequate infrastructure, which may have eased these problems. 
 As a result, we ended up having a broken education system. 
 
-About 70% of enrollment is in government schools. So, government schools play a significant role in nation-
+About 70% of enrollment is in government schools. So, government schools play a significant role in the nation--
 building. Right To Education (RTE) Act of 2009 guarantees free elementary school education for every child. 
 However, the guarantee does not include quality of education. The government of India has introduced certain 
 innovations to deal with the quality of education. ICT and AI-based tools are being increasingly introduced for 
@@ -77,7 +81,7 @@ don't have any information on the actual status of govt schools in rural areas o
 important to know that at least one state government is working towards improving the elementary and middle 
 schools in the state. I am yet to hear about any such efforts in other states. Instead, many state governments 
 are creating a situation for shutting down government schools. Some of the existing infrastructure of schools 
-being used for the party's political activities. As a result, the country has to deal with a broken education 
+is being used for the party's political activities. As a result, the country has to deal with a broken education 
 system. The apathy is reflected in every stage, including colleges and higher learning institutions. 
 
 Another aspect of our broken education system is [the obsession to score 100% in exams]( https://www.outlookindia.com/website/story/society-news-99-and-above-is-our-education-system-lost-besides-being-broken/329921). 
@@ -88,7 +92,7 @@ inability to crack IIT JEE breaks or NEET breaks an aspirant's self-confidence. 
 Prof. Gupta says we built only an examination system, not an education system. 
 
 Let's examine the higher education system. About 4.6 crore students seek admission to colleges. Colleges are 
-mostly affiliated to state Universities. We also have a few autonomous colleges that frame their syllabi and 
+mostly affiliated with state Universities. We also have a few autonomous colleges that frame their syllabi and 
 conduct exams to award degrees. Primarily, two regulatory bodies oversee the ecosystem of college education. 
 University Grants Commission defines standards and provides funding to universities. However, affiliate 
 colleges depend only on fees or grants-in-aid from state governments. AICTE formulates norms for technical 
