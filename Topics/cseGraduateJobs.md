@@ -10,7 +10,7 @@ There are three main reasons for most Indian universities producing unemployable
 - They recruit low-quality teaching faculty, and
 - They don't have adequate resources to offer such courses.
 
-As a result, the graduating students from most universities end up for looking for placement offers long ater their graduation. Most job seekers have no option but to enroll themselves for additional training in so-called "finishing schools." Finishing schools are intermediaries who may have ties-ups with employers and run head-hunting operations.  
+As a result, the CSE students from most universities end up looking for placement offers long ater their graduation. Most job seekers have no option but to enroll themselves for additional training in so-called "finishing schools." Finishing schools are intermediaries who may have ties-ups with employers and run head-hunting operations.  
 
 Software companies like Infosys TCS, Wipro, HCL, Tech Mahindra have in-house training centers. These companies do not care about what the students learn during their graduate studies. They typically look for the background and general perception of the university's standing. Essentially, the recruiters look for intrinsic capabilities of a candidate to learn and adapt to a job's challenges. Infosys runs a very big training center at Mysore that trains 10,000 freshers. Most Indian software companies have rigorous training programs. A fresher is asked to quit if she cannot complete the training program.  
 
