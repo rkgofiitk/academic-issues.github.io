@@ -11,8 +11,9 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [Raising Employment Opportunities for CSE Graduates](Topics/cseGraduateJob.md)
 - [Broken Education System of India](Topics/brokenEducation.md)
--  [Kota's killing factories](Topics/kotaSuicides.md)
+- [Kota's killing factories](Topics/kotaSuicides.md)
 - [Celebrating Anonymous Donation to IIT Bombay](Topics/anonymousDonor.md)
 - [Learning and Teaching](Topics/learningAndTeaching.md)
 - [Generative AI and Age-Reversal Pill: A Heady Concotion](Topics/GenAIantiAging.md)
