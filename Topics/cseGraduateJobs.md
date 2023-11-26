@@ -20,7 +20,7 @@ Most freshers from state or private universities have never written 100 lines of
 would avoid writing codes. There is a general tendency to lift codes for assignments from 
 different sources, including copying code from a batch mate. We have to use MOSS or Turnitin to 
 check for the originality of the code. Initially, I found that 80% of the students copied their coding 
-assignments from their batch mates. I think most teaching faculty elsewhere and even in IITs
+assignments from the batch mates. I think most teaching faculty elsewhere and even in IITs
 don't consider policing students is not their job, and rightly so. We took extra care to ensure
 that our undergraduates are the best employable graduates in the market.
 Sometime back, we interviewed a candidate for a teaching post at NIT Durgapur. We found that the candidate had no clue about basic C programming syntax, though he claimed to have written complex C programs for the experiments related to his thesis. Often, we hear candidates claim to have enough exposure to programming and data structures. However, they were not proficient enough to answer basic questions of linked lists or binary search trees. 
