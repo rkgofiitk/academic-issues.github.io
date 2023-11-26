@@ -1,5 +1,7 @@
 # Raising Employment Opportunities for CSE Graduates.
 
+[Blog Index](../index.md)
+
 Indian universities offer many different academic programs in the general area of computer science and its application. B. Tech in Computer Science & Engineering is the most standardized among these. Many institutions also offer MCA (Master in Computer Applications). The MCA syllabus emphasizes teaching programming skills with a fair amount of accounting and some training in business management. Some universities also offer BCA, BSc, and MSc courses in computer science. However, except for IITs and a few IIITs and CFTIs, most institutions produce nonemployable graduates.
 
 There are three main reasons for most Indian universities producing unemployable CSE graduates:
@@ -25,5 +27,7 @@ Sometime back, we interviewed a candidate for a teaching post at NIT Durgapur. W
 
 The skill set requirements for a programmer's job have evolved a lot after 2000. The front end is now web-oriented, while the back end depends on cloud technology and high-performance computing. The use of AI and ML has made the backend programming requirement more complicated than ever. Under the changed scenarios, a software developer needs to acquire many different programming skills. Teaching such skills through an academic program is not possible unless we update the syllabus. Furthermore, the syllabus update may be possible only to the extent it makes students better prepared to learn required skills faster. The students can refer to open courseware and other study material available on the Internet, which can be useful for learning skills for DevOps jobs. 
 
+
 However, alternate routes for learning skills for a job in a software company are expensive. Therefore, upgrading the quality of CSE graduates at the university level is extremely important. AICTE, UGC, NAAC, MeitY, and other regulatory bodies need to wake up and address the issue of universities producing unemployed engineering graduates. I have discussed more about our [broken education system](./brokenEducation.md) in an earlier post. 
 
+[Back to Index](../index.md)
