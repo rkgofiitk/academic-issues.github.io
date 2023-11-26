@@ -1,4 +1,4 @@
-# Employment opportunities for CSE students.
+## Employment opportunities for CSE students.
 
 Indian universities offer many different academic programs on general area of computer science and its application. Most standardised among these is the B. Tech in Computer Science & Engineering.  MCA (Master in Computer Applications) is also offered by many institutions. MCA syllabus emphasises on teaching programming skills with a fair amount of accounting and a bit of training in business management. Some universities also offer BCA, BSc, and MSc courses in computer science. However, except for IITs, and a few IIITs and CFTIs, most institutions produce non employable graduates.
 
