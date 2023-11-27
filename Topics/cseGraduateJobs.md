@@ -30,4 +30,9 @@ The skill set requirements for a programmer's job have evolved a lot after 2000.
 
 However, alternate routes for learning skills for a job in a software company are expensive. Therefore, upgrading the quality of CSE graduates at the university level is extremely important. AICTE, UGC, NAAC, MeitY, and other regulatory bodies need to wake up and address the issue of universities producing unemployable engineering graduates. I have discussed more about our [broken education system](./brokenEducation.md) in an earlier post. 
 
+## Edit (suggested by Dr Kshitiz Verma)
+
+I forgot to mention free GenAI tools for enhanced coding assistance. ChatGPT is a versatile AI tool for seeking answers beyond coding requirements. It is ideal for problem-solving and seeking explanations of the solutions and reportedly has acquired capabilities to solve basic math problems. In summary, chatGPT has a broader range of capabilities than GitHub co-pilot. The latter is suited more for enhanced coding completion within IDEs. Developers have started using GitHub co-pilot to handle large coding projects. It is free for students. Handling even large coding assignments is now simpler than it used to be 2-3 years back. Now students merely frame appropriate questions to seek
+answers to assignment problems from GenAI tools. Therefore,  many teachers argue that giving coding assignments is useless. IMHO, the coding assignments could be designed more elaborately so that the students would use GenAI tools and would be forced to acquire DevOp skills beyond the mere understanding of the theory. 
+
 [Back to Index](../index.md)
