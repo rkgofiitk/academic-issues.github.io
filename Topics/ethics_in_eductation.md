@@ -61,5 +61,16 @@ Without ethics system will be chaotic and anarchic. In a larger canvas we may vi
 organized communities like academic societies, or educationsal institutions all evolved with 
 certain ethical basis. 
 
-My concern here is about ethics in educational institutions, teaching and research. However, the 
+This writeup is not about generic philosophical basis of human conduct, my concern is about ethics in educational institutions, teaching 
+and research. We created institutional mechanims for evaluation of universities like third party ranking. However, this has not
+worked to the extent one would expect, as these ranking scheme miss out the critical input on ethics. Ethics in 
+
+
+
+Ranking organizations have become commercial enterprises. I had talked about QS, THE and
+NIRF rankings in the past. These ranking schemes try to achieve something impossible, i.e., comparing apples with oranges. They
+do seek academic perception inputs from experts, but any weigted ranking scheme can never be useful and flawed. Recently, I came
+across another ranking scheme called urank (India Research Watchdog group). It allows users to fiddle with relative weights but 
+does not really explain the algorithm they are using. As a result it throws up interesting result such as Saveetha Medical and 
+Technical Science being ranked ahead of many older IIT even for engineering disciplines. 
 
