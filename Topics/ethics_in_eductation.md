@@ -50,10 +50,11 @@ Ethics sits on top of both morality and law. When asked to define ethics, we get
 None of the answers expresses ethics appropriately. We have to consider the meaning of ethics from the scenarios discussed earlier. 
 Ethics is from the Greek work "ethos." It means a way of living. Most appropriately,
 it is a bunch of philosophies for human conduct in society. Ethics enables us to examine the rational 
-justification of our moral judgments; it tells us what is morally right or wrong, just or unjust. There would not be any ethical requirements if human beings did not interact with nature or other humans.
-It does not mean human existence is under bondage. Rather, it governs the freedom of human beings 
-under a framework of interactions with nature, community, country, and global order. 
-Without an ethics system, it would be chaotic and disorderly. On a larger canvas, we may view the religious institutions like temples, churches, or political entities like countries, states, or  
+justification of our moral judgments; it tells us what is morally right or wrong, just or unjust. There would not be any ethical requirements 
+if human beings did not interact with nature or other humans. It does not mean human existence is under bondage. Rather, it governs the freedom 
+of human beings under a framework of interactions with nature, community, country, and global order. 
+Without an ethics system, it would be chaotic and
+disorderly. On a larger canvas, we may view the religious institutions like temples, churches, or political entities like countries, states, or  
 organized communities like academic societies or educational institutions all evolved with 
 certain ethical basis.  
 
@@ -99,6 +100,11 @@ It leads me to believe in civic virtues like:
 - Respect for the law
 
 are essential, together with an expensive retribution mechanism. Reforms in watchdog (ombudsman-based accountability system) mechanisms are extremely
-important. 
+important. I am bit unsure about the mechanism for checking the trend of cheating by students. Many students who need not cheat cannot resist
+the temptation to cheat for improving their grades. There was a case of a student who would have easily scored 10 points was expelled for a semester
+after a case of cheating was detected. Most students copy programming assignments from Internet sites and from their batch mates. A teacher who has a zero-tolerance
+policy finds overwhelmed with assignment of checking cheatings in student submissions. ChatGPT and other generative AI tools have made cheating 
+very easy. Policing is not a part of a teacher's responsibility. With increased enrollment the task of enforcing ethics among student has become impossible.
+So, 
 
 [Back to index](../index.md)
