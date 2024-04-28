@@ -100,11 +100,11 @@ It leads me to believe in civic virtues like:
 - Respect for the law
 
 are essential, together with an expensive retribution mechanism. Reforms in watchdog (ombudsman-based accountability system) mechanisms are extremely
-important. I am bit unsure about the mechanism for checking the trend of cheating by students. Many students who need not cheat cannot resist
-the temptation to cheat for improving their grades. There was a case of a student who would have easily scored 10 points was expelled for a semester
-after a case of cheating was detected. Most students copy programming assignments from Internet sites and from their batch mates. A teacher who has a zero-tolerance
-policy finds overwhelmed with assignment of checking cheatings in student submissions. ChatGPT and other generative AI tools have made cheating 
-very easy. Policing is not a part of a teacher's responsibility. With increased enrollment the task of enforcing ethics among student has become impossible.
-So, 
+important. I am unsure about the mechanism for checking the trend of cheating by students. Many students who need not cheat cannot resist the 
+temptation to cheat to improve their grades. There was a case of a student who would have easily scored 10 points and had to be expelled for 
+a semester after a case of cheating was detected. Most students copy programming assignments from Internet sites and their batch mates. A teacher 
+who has a zero-tolerance policy is overwhelmed with the assignment of checking cheating in student submissions. ChatGPT and other generative AI
+tools have made cheating very easy. Policing is not a part of a teacher's responsibility. With increased enrollment, enforcing ethics
+among students has become impossible.
 
 [Back to index](../index.md)
