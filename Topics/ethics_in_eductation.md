@@ -24,7 +24,7 @@ Mongol, Moghul, or Turkic colonizers. The Moghuls relied heavily on religious co
 The British colonizer trained people to administer a vast country with a large population. Only about one to two
 hundred thousand Britishers ever lived and ruled India. They needed means and apparatus to administer a vast country of 30-40 corers. The current 
 education system in India has the old colonial British legacy. The Britishers did not care to enforce ethics, morality, or law among native Indians
-as long as educated Indians helped preserve British interests. 
+as long as educated among the natives helped preserve British interests. 
 
 This write-up is neither about the philosophical basis of human conduct nor the political underpinning behind ethics and morality in modern Indian society. 
 My concern is ethics in educational institutions, teaching, and research. 
