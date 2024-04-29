@@ -99,7 +99,10 @@ It leads me to believe in civic virtues like:
 - Dignity in relation to others
 - Respect for the law
 
-are essential, together with an expensive retribution mechanism. Reforms in watchdog (ombudsman-based accountability system) mechanisms are extremely important. 
+are essential, together with an expensive retribution mechanism. Reforms in watchdog (ombudsman-based accountability system) mechanisms are extremely important. First of all we need a
+careful selction process of people who may be ombudsman. The section process should be transparent where only persons with integrity are elligible for selection. Still there may be 
+disputes. For example, parliament and assembly members are elected. There are many checks and balances to ensure free and fair election. However, we know that about 40% of these lawmakers
+have criminal records. Law is inadequate and there are several loophole possibly Even courts of the country been ineffective to check
 
 
 I am unsure about the mechanism for checking the trend of cheating by students. Many students who need not cheat cannot resist the 
