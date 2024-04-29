@@ -115,6 +115,9 @@ temptation to cheat to improve their grades. Let us analyze the tendency of chea
 - Middle-tier students who maintain grade points between 7.5 to 8.5
 - Bottom-tier students who maintain grade points between 6 to 7.5
 
+Many students belonging to the middle-tier have a tendency to take assignment casually. Some of them work in groups for solving a challenging assignment. They often run into problem of
+deadline management. The top-tier students interact with the middle-tier but with caution. They try to extract ideas and from the middle-tier students and work on them to meet the deadline.
+Bottom-tier students try a bit sincerely, often they are unable to complete. Many of them submit half-complete assignments or just copy the assignments. 
 There was a case of a student who would have easily scored 10 points and had to be expelled for 
 a semester after a case of cheating was detected. Most students copy programming assignments from Internet sites and their batch mates. A teacher 
 who has a zero-tolerance policy is overwhelmed with the assignment of checking cheating in student submissions. ChatGPT and other generative AI
