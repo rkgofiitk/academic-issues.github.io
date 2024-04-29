@@ -102,7 +102,9 @@ It leads me to believe in civic virtues like:
 are essential, together with an expensive retribution mechanism. Reforms in watchdog (ombudsman-based accountability system) mechanisms are extremely important. First of all we need a
 careful selction process of people who may be ombudsman. The section process should be transparent where only persons with integrity are elligible for selection. Still there may be 
 disputes. For example, parliament and assembly members are elected. There are many checks and balances to ensure free and fair election. Yet, we know that about 40% of these lawmakers
-have criminal records. Law is inadequate and allows criminals to dance around the legal loopholes to enter  the temples of democracy.  Even courts of the country been ineffective to check
+have criminal records. Law is inadequate and allows criminals to dance around the legal loopholes to enter  the temples of democracy.  Every system has it fair share of pros and cons.
+For example, who would have thought about 6th January insurrection in US, yet it happened. In India emergency was imposed in 1975 and the constitution was suspended by Indira Gandhi. 
+No one thought Indira Gandhi would be overthrown by an agitation by an unassuming septgenerian leader like Jayprakash Narayan, yet it happened.  
 
 
 I am unsure about the mechanism for checking the trend of cheating by students. Many students who need not cheat cannot resist the 
