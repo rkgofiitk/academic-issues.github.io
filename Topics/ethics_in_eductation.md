@@ -122,10 +122,13 @@ I am bit concerned with the middle-tier students. Many of them are really good a
 So, the system should develop a way to encourage them. However, top-tier students may be delt carefully. Let me describe two anecdotes here. I think it was around mid nineties, 
 there was a student who was selected to receive PGM. An anonymous complaint was received by students counseling service about cheating. The gist of the complaint was that the student scored
 full marks in all class assignments without ever 
-solving any of them. So, the person is not worthy of PGM, the next student should be chosen for it.   of There was a case of a student who would have easily scored 10 points and had to be expelled for 
-a semester after a case of cheating was detected. Most students copy programming assignments from Internet sites and their batch mates. A teacher 
-who has a zero-tolerance policy is overwhelmed with the assignment of checking cheating in student submissions. ChatGPT and other generative AI
-tools have made cheating very easy. Policing is not a part of a teacher's responsibility. With increased enrollment, enforcing ethics
-among students has become impossible.
+solving any of them. Apparently, the person would come and discuss the assignment with students of middle-tier for days. After getting enough clues would solve the assignment and quietly submit it. 
+Although it is not a cheating in strict sense, the student was indulging in the activity continuously suggests stealing of IP. The next  was a case of a student who would have easily scored 10 points and had to be expelled for 
+a semester after a case of cheating was detected. This student inserted answers in exam copies during time of review. Apparently, the act was caught by professor who kept photocopies of exam 
+paper before distributing them for reviews. Most students copy programming assignments from Internet sites and their batch mates. A teacher with a zero-tolerance policy is overwhelmed by 
+the burden of detecting cheating in student submissions. ChatGPT and other generative AI tools have made cheating very easy. Policing is not a part of a teacher's responsibility. With 
+increased enrollment, enforcing ethics among students has become impossible. I wonder if there is any solution to the problem. However, I would suggest the parents to let student pursue careers
+with enough freedom. Possibly a student could choose 2 course every semester that he/she finds interesting. It would reduce the cheating load on both students and teachers. No amoount of 
+laws and punishment can enforce ethics, we need to create environment for it to seepin into the education system.
 
 [Back to index](../index.md)
