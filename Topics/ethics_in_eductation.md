@@ -23,8 +23,7 @@ The Britishers established the foundation of the modern education system in Indi
 Mongol, Moghul, or Turkic colonizers. The Moghuls relied heavily on religious conversions to perpetuate their rule. 
 The British colonizer trained people to administer a vast country with a large population. Only about one to two
 hundred thousand Britishers ever lived and ruled India. They needed means and apparatus to administer a vast country of 30-40 corers. The current 
-education system in India has the old colonial British legacy. The Britishers did not care to enforce ethics, morality, or law among native Indians
-as long as educated among the natives helped preserve British interests. 
+education system in India has the old colonial British legacy. The Britishers did not care to enforce ethics, morality, or law among native Indians as long as educated among the natives helped preserve British interests. 
 
 This write-up is neither about the philosophical basis of human conduct nor the political underpinning behind ethics and morality in modern Indian society. 
 My concern is ethics in educational institutions, teaching, and research. 
@@ -66,7 +65,7 @@ The phenomenon was witnessed when UGC, AICTE, and other regulating institutions 
 Teaching lost its relevance altogether. Publishing became the only criterion for career advancement. Though we have an evaluation system for teaching
 abilities, it is largely ineffective. The students who could not get decent grades decidedly give poor grades to teachers. Knowing a class's background,
 cultural, and demographic composition is important to get a good evaluation. The educators have responsibilities like political leaders trying
-their luck to win an election. The world is an unequal system, though it offers opportunities to excel. Many good educators often flounder in the quest 
+their luck to win an election. Many good educators often flounder in the quest 
 to get good student evaluations. Recently, I watched a movie titled <i>12th Fail</i>. It narrates a person's struggle from Chambal (a geographical 
 region called Bundelkhand in UP). There is a clip where teachers are dictating answers to the examinees in the board exam. 
 It reminded me of my own experience as a JEE representative. One of the college teachers (an invigilator for the exam) at the center was curious enough 
