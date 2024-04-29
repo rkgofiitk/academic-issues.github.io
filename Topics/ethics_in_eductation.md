@@ -117,8 +117,12 @@ temptation to cheat to improve their grades. Let us analyze the tendency of chea
 
 Many students belonging to the middle-tier have a tendency to take assignment casually. Some of them work in groups for solving a challenging assignment. They often run into problem of
 deadline management. The top-tier students interact with the middle-tier but with caution. They try to extract ideas and from the middle-tier students and work on them to meet the deadline.
-Bottom-tier students try a bit sincerely, often they are unable to complete. Many of them submit half-complete assignments or just copy the assignments. 
-There was a case of a student who would have easily scored 10 points and had to be expelled for 
+Bottom-tier students try a bit sincerely, often they are unable to complete and many of them submit half-complete assignments or a few would submit assignments copied from others. 
+I am bit concerned with the middle-tier students. Many of them are really good and could achieve a lot working with a team. They seem to have an intrinsic ethical way of learning. 
+So, the system should develop a way to encourage them. However, top-tier students may be delt carefully. Let me describe two anecdotes here. I think it was around mid nineties, 
+there was a student who was selected to receive PGM. An anonymous complaint was received by students counseling service about cheating. The gist of the complaint was that the student scored
+full marks in all class assignments without ever 
+solving any of them. So, the person is not worthy of PGM, the next student should be chosen for it.   of There was a case of a student who would have easily scored 10 points and had to be expelled for 
 a semester after a case of cheating was detected. Most students copy programming assignments from Internet sites and their batch mates. A teacher 
 who has a zero-tolerance policy is overwhelmed with the assignment of checking cheating in student submissions. ChatGPT and other generative AI
 tools have made cheating very easy. Policing is not a part of a teacher's responsibility. With increased enrollment, enforcing ethics
