@@ -113,7 +113,7 @@ I wonder what could be the mechanism for checking the trend of  cheating by stud
 - Top-tier students who maintain grade points of 8.5 and above on a scale of 10.
 - Middle-tier students who maintain grade points between 7.5 to 8.5
 - Bottom-tier students who maintain grade points between 6 to 7.5
-- 
+  
 Many students belonging to the middle tier take assignments casually. Some of them work in groups to solve a challenging assignment. They often run into problems with deadline management.
 The top-tier students interact with the middle-tier but with caution. They try to extract ideas from the middle-tier students and work on them to meet the deadline. Bottom-tier students
 try sincerely; often, they cannot complete, and many of them submit half-complete assignments or a few submit assignments copied from others. I am concerned with the middle-tier students.
