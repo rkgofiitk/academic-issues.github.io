@@ -19,11 +19,11 @@ its famous library in 1193 AD. The Turkish and Mongol invaders were only after I
 They systematically continued the plunder of India and never once thought of building great institutions like Nalanda. The long reign of terror only made Indians adopt
 deceit, falsehood, and immorality in preference to ethics for survival under adverse situations. 
 
-The Britishers established foundation of the modern education system in India. The efforts of the British colonizers were not driven by altruism, though they were far more tolerant than 
+The Britishers established the foundation of the modern education system in India. The efforts of the British colonizers were not driven by altruism, though they were far more tolerant than 
 Mongol, Moghul, or Turkic colonizers. The Moghuls relied heavily on religious conversions to perpetuate their rule. 
 The British colonizer trained people to administer a vast country with a large population. Only about one to two
-hundred thousand Britishers ever lived and ruled India. So, they needed apparatus to administer a vast country of 30-40 corers. Therefore, the current 
-education system in India has an old British legacy. The Britishers did not care to enforce ethics, morality, or law among native Indians
+hundred thousand Britishers ever lived and ruled India. They needed means and apparatus to administer a vast country of 30-40 corers. The current 
+education system in India has the old colonial British legacy. The Britishers did not care to enforce ethics, morality, or law among native Indians
 as long as educated Indians helped preserve British interests. 
 
 This write-up is neither about the philosophical basis of human conduct nor the political underpinning behind ethics and morality in modern Indian society. 
