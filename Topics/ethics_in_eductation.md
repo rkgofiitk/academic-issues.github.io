@@ -109,26 +109,26 @@ democratic system resumed in the country. We cannot say that the constitution fr
 dilligence then it is ok to assume that the system will work as expected with 99% confidence.
 
 
-I am unsure about the mechanism for checking the trend of cheating by students. Many students who need not cheat cannot resist the 
-temptation to cheat to improve their grades. Let us analyze the tendency of cheating among students in a bit of details. We can divide the students into three groups:
-- Top-tier students who maintain grade point of 8.5 and above in the scale of 10.
+I wonder what could be the mechanism for checking the trend of  cheating by students. Many students who need not cheat cannot resist the temptation to cheat to improve their grades. Let us analyze the tendency of cheating among students in some detail. We can divide the  students into three groups:
+- Top-tier students who maintain grade points of 8.5 and above on a scale of 10.
 - Middle-tier students who maintain grade points between 7.5 to 8.5
 - Bottom-tier students who maintain grade points between 6 to 7.5
+- 
+Many students belonging to the middle tier take assignments casually. Some of them work in groups to solve a challenging assignment. They often run into problems with deadline management.
+The top-tier students interact with the middle-tier but with caution. They try to extract ideas from the middle-tier students and work on them to meet the deadline. Bottom-tier students
+try sincerely; often, they cannot complete, and many of them submit half-complete assignments or a few submit assignments copied from others. I am concerned with the middle-tier students.
+Many of them are good at it and could achieve a lot working with a team. They have an intrinsic ethical way of learning. So, the system should develop a way to encourage them. However,
+top-tier students may be dealt with care. Let me describe two anecdotes here.  Around the mid-nineties, the counseling service received an anonymous complaint that the student chosen to
+ receive PGM had indulged in large-scale cheating in assignments. The gist of the complaint was that the student scored full marks in all class assignments without ever solving any of them.
+The person would come and discuss the assignment with middle-tier students for days. After getting enough clues, that student would solve the assignment and quietly submit it. Although it is
+not cheating in a strict sense,  it amounts to stealing IP. The next was a case of a student who would have easily scored 10 points and had to be expelled for a semester after a case of cheating
+was detected. This student inserted answers in exam copies during the time of review. The act was caught by a professor who kept photocopies of exam papers before distributing them
+for review. Most students copy programming assignments from Internet sites and their batch mates.
+A  teacher with a zero-tolerance policy is overwhelmed by
+the burden of detecting cheating in student submissions. ChatGPT and other generative AI tools have made cheating very easy. Policing is not part of a teacher's responsibility. With increased
+enrollment, enforcing ethics among students has become impossible. Is there any solution to the problem? However, parents should allow students to pursue careers with enough freedom.
+A student could choose two courses every semester that they find interesting. It would reduce the cheating load on both students and teachers. No number of laws and punishments can
+enforce ethics; we need to create an environment for it to seep into the education system.
 
-Many students belonging to the middle-tier have a tendency to take assignment casually. Some of them work in groups for solving a challenging assignment. They often run into problem of
-deadline management. The top-tier students interact with the middle-tier but with caution. They try to extract ideas and from the middle-tier students and work on them to meet the deadline.
-Bottom-tier students try a bit sincerely, often they are unable to complete and many of them submit half-complete assignments or a few would submit assignments copied from others. 
-I am bit concerned with the middle-tier students. Many of them are really good and could achieve a lot working with a team. They seem to have an intrinsic ethical way of learning. 
-So, the system should develop a way to encourage them. However, top-tier students may be delt carefully. Let me describe two anecdotes here. I think it was around mid nineties, 
-there was a student who was selected to receive PGM. An anonymous complaint was received by students counseling service about cheating. The gist of the complaint was that the student scored
-full marks in all class assignments without ever 
-solving any of them. Apparently, the person would come and discuss the assignment with students of middle-tier for days. After getting enough clues would solve the assignment and quietly submit it. 
-Although it is not a cheating in strict sense, the student was indulging in the activity continuously suggests stealing of IP. The next  was a case of a student who would have easily scored 10 points and had to be expelled for 
-a semester after a case of cheating was detected. This student inserted answers in exam copies during time of review. Apparently, the act was caught by professor who kept photocopies of exam 
-paper before distributing them for reviews. Most students copy programming assignments from Internet sites and their batch mates. A teacher with a zero-tolerance policy is overwhelmed by 
-the burden of detecting cheating in student submissions. ChatGPT and other generative AI tools have made cheating very easy. Policing is not a part of a teacher's responsibility. With 
-increased enrollment, enforcing ethics among students has become impossible. I wonder if there is any solution to the problem. However, I would suggest the parents to let student pursue careers
-with enough freedom. Possibly a student could choose 2 course every semester that he/she finds interesting. It would reduce the cheating load on both students and teachers. No amoount of 
-laws and punishment can enforce ethics, we need to create environment for it to seepin into the education system.
 
 [Back to index](../index.md)
