@@ -110,7 +110,12 @@ dilligence then it is ok to assume that the system will work as expected with 99
 
 
 I am unsure about the mechanism for checking the trend of cheating by students. Many students who need not cheat cannot resist the 
-temptation to cheat to improve their grades. There was a case of a student who would have easily scored 10 points and had to be expelled for 
+temptation to cheat to improve their grades. Let us analyze the tendency of cheating among students in a bit of details. We can divide the students into three groups:
+- Top-tier students who maintain grade point of 8.5 and above in the scale of 10.
+- Middle-tier students who maintain grade points between 7.5 to 8.5
+- Bottom-tier students who maintain grade points between 6 to 7.5
+
+There was a case of a student who would have easily scored 10 points and had to be expelled for 
 a semester after a case of cheating was detected. Most students copy programming assignments from Internet sites and their batch mates. A teacher 
 who has a zero-tolerance policy is overwhelmed with the assignment of checking cheating in student submissions. ChatGPT and other generative AI
 tools have made cheating very easy. Policing is not a part of a teacher's responsibility. With increased enrollment, enforcing ethics
