@@ -19,7 +19,7 @@ its famous library in 1193 AD. The Turkish and Mongol invaders were only after I
 They systematically continued the plunder of India and never once thought of building great institutions like Nalanda. The long reign of terror only made Indians adopt
 deceit, falsehood, and immorality in preference to ethics for survival under adverse situations. 
 
-The Britishers brought about the revival of the modern education system in India. However, the efforts of the British colonizers were not driven by altruism, though they were far more tolerant than 
+The Britishers established foundation of the modern education system in India. The efforts of the British colonizers were not driven by altruism, though they were far more tolerant than 
 Mongol, Turkic, and Moghul colonizers relied heavily on religious conversions to perpetuate their rule. 
 The British colonizer trained people to administer a vast country with a large population. Only about one to two
 hundred thousand Britishers ever lived and ruled India. So, they needed apparatus to administer a vast country of 30-40 corers. Therefore, the current 
