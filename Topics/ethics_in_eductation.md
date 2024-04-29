@@ -54,9 +54,8 @@ justification of our moral judgments; it tells us what is morally right or wrong
 if human beings did not interact with nature or other humans. It does not mean human existence is under bondage. Rather, it governs the freedom 
 of human beings under a framework of interactions with nature, community, country, and global order. 
 Without an ethics system, it would be chaotic and
-disorderly. On a larger canvas, we may view the religious institutions like temples, churches, or political entities like countries, states, or  
-organized communities like academic societies or educational institutions all evolved with 
-certain ethical basis.  
+disorderly. On a larger canvas, we may view the religious institutions like temples, churches, or political entities like countries, states, or organized communities like academic societies 
+or educational institutions all evolved with certain ethical basis.  
 
 Ethics, morality, and law have loose connectivity when seen in isolation. Most of us think that the utility of these phrases is restricted
 to preaching when it crosses human ambitions. The world is unequal; the yearning to get noticed has no 
@@ -82,7 +81,8 @@ So far as ethics in research is concerned, there are umpteen known instances whe
 A few enterprising authors could even get a letter of acceptance before the journal issue was announced. The retribution, in most cases, is only
 limited to either retraction of the paper or redaction of parts of the paper. It is a question of balancing the gains against consequential loss when caught.
 The temptation to fast-track success is too much. The law against immoral, unethical behavior in research is either nonexistent or has a very high 
-threshold as long as it is not an expensive pecuniary proposition. Patent laws are separately identified in IIPR because they protect corporate interests. 
+threshold. I believe the punishment for academic misdemeanors should be swift and sufficient to discourage but not demotivate. Interestingly, patent laws are separately identified in IIPR 
+because they protect corporate interests. 
 
 Let us now look at indirect mechanisms for enforcing accountability in educational institutions. Ranking institutions is one such mechanism. 
 Third-party supposedly independent ranking schemes like QS, THE, TIMES, and NIRF miss out on critical ethical input. Ranking organizations themselves lack ethics. QS, THE, TIMES, and
@@ -108,7 +108,6 @@ No one thought Indira Gandhi would be overthrown by an agitation by an unassumin
 democratic system resumed in the country. We cannot say that the constitution framer were idiots who did not foresee the problem. So, the point is if system is evolved with due 
 dilligence then it is ok to assume that the system will work as expected with 99% confidence.
 
-
 I wonder what could be the mechanism for checking the trend of  cheating by students. Many students who need not cheat cannot resist the temptation to cheat to improve their grades. Let us analyze the tendency of cheating among students in some detail. We can divide the  students into three groups:
 - Top-tier students who maintain grade points of 8.5 and above on a scale of 10.
 - Middle-tier students who maintain grade points between 7.5 to 8.5
@@ -126,8 +125,9 @@ was detected. This student inserted answers in exam copies during the time of re
 for review. Most students copy programming assignments from Internet sites and their batch mates.
 A  teacher with a zero-tolerance policy is overwhelmed by
 the burden of detecting cheating in student submissions. ChatGPT and other generative AI tools have made cheating very easy. Policing is not part of a teacher's responsibility. With increased
-enrollment, enforcing ethics among students has become impossible. Is there any solution to the problem? However, parents should allow students to pursue careers with enough freedom.
-A student could choose two courses every semester that they find interesting. It would reduce the cheating load on both students and teachers. No number of laws and punishments can
+enrollment, enforcing ethics among students has become impossible. Is there any solution to the problem? I believe the parents should allow students to pursue careers with enough freedom and
+do not try to accomplish their dream at the cost of their wards.
+A student could choose two courses every semester that they find interesting and challenging. It would reduce the cheating load on both students and teachers. No law or punishment can
 enforce ethics; we need to create an environment for it to seep into the education system.
 
 
