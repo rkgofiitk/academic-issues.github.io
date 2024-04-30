@@ -10,7 +10,8 @@ the situation for the research and education. The shortcuts to the Hall of Fame 
 The history of ancient India tells us a different story. Aryabhatta, Bhaskaracharya, Sushruta, Charaka, Kanad, Nagarjuna, Bodhayan, Bramhagupta, 
 Varahamihira, Kautuliya, and Patanjali had made Bharat famous. They could not have reached the pinnacle of
 glory and success if a fair amount of ancient literature did not exist then. India was known for its enlightened thinkers and scholars until 700 AD, who flourished
-and enriched its knowledge centers at ancient universities like Takshilla, Vikramshilla, and Nalanda. The spate of invasions by the marauders like Muhammed Bin Kassim, Ghengiz Khan, Taimur 
+and enriched its knowledge centers at ancient universities like Takshilla, Vikramshilla, and Nalanda. I believe that the fact that Indian economy 
+was doing well at that time also contributed to the ways of life guided by practices and traditions. It created an overall environment for knowledge creation.  The spate of invasions by the marauders like Muhammed Bin Kassim, Ghengiz Khan, Taimur 
 Lang,  Mahamud Gazni, Mohammad Shah Ghori, and the Moghuls ruined the country from the 7th century to the 13th century AD. Toramana Shahi Jauvla, the Hun
 invaders, was said to have destroyed Takshilla in the 5th century BC. But many believe either Alexander or Mihirakula of the Hun dynasty was responsible for
 the destruction of Takshilla because Kautilya (372-283 BC) studied in Takshilla and joined its faculty. The Hun Toramana's time was much before it. 
@@ -123,15 +124,16 @@ Many of them are good at it and could achieve a lot working with a team. They ha
 top-tier students may be dealt with care. Let me describe two anecdotes here.  Around the mid-nineties, the counseling service received an anonymous complaint that the student chosen to
  receive PGM had indulged in large-scale cheating in assignments. The gist of the complaint was that the student scored full marks in all class assignments without ever solving any of them.
 The person would come and discuss the assignment with middle-tier students for days. After getting enough clues, that student would solve the assignment and quietly submit it. Although it is
-not cheating in a strict sense,  it amounts to stealing IP. The next was a case of a student who would have easily scored 10 points and had to be expelled for a semester after a case of cheating
-was detected. This student inserted answers in exam copies during the time of review. The act was caught by a professor who kept photocopies of exam papers before distributing them
+not cheating in a strict sense,  it amounts to unethical stealing of IP. The next was a case of a student who would have easily scored 10 points
+and had to be expelled for a semester after a case of cheating was detected. This student inserted answers in exam copies during the time of review. 
+The act was caught by a professor who kept photocopies of exam papers before distributing them
 for review. Most students copy programming assignments from Internet sites and their batch mates.
-A  teacher with a zero-tolerance policy is overwhelmed by
-the burden of detecting cheating in student submissions. ChatGPT and other generative AI tools have made cheating very easy. Policing is not part of a teacher's responsibility. With increased
+A  teacher with a zero-tolerance policy is overwhelmed by the burden of detecting cheating in student submissions. ChatGPT and other generative AI tools 
+have made cheating very easy. Policing is not part of a teacher's responsibility. With increased
 enrollment, enforcing ethics among students has become impossible. Is there any solution to the problem? I believe the parents should allow students to pursue careers with enough freedom and
 do not try to accomplish their dream at the cost of their wards.
-A student could choose two courses every semester that they find interesting and challenging. It would reduce the cheating load on both students and teachers. No law or punishment can
-enforce ethics; we need to create an environment for it to seep into the education system.
+A student could choose at most two courses every semester that they find interesting and challenging. It would reduce the cheating load on both 
+students and teachers. No law or punishment can enforce ethics; we need to create an environment for it to seep into the education system.
 
 
 [Back to index](../index.md)
