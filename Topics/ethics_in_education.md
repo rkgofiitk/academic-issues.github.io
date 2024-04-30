@@ -3,16 +3,17 @@
 Cheating and plagiarism are menaces that afflict education and research in India and worldwide. From time to time, reports appear in various media
 channels and social network handles, lamenting the extent of its adverse impacts on the quality of education and research. It demotivates the educators
 and researchers across the board. Honest, hard-working people suffer from the humiliation that those less endowed get early success. Those who indulge in plagiarism and cheating for quick success
-are not immune from ill-effects of the curses. Many often get caught in the act of cheating and fail to
-recover from shock after being shamed. Their descent to shame becomes much faster than their ascent to fame. So, resorting to plagiarism is mostly a lose-lose
+are also not immune from ill-effects of the curses. Many often get caught in the act of cheating and fail to
+recover from shock after being shamed. Their descent to shame becomes much faster than the ascent to fame. So, resorting to plagiarism is essentially a lose-lose
 the situation for the research and education. The shortcuts to the Hall of Fame frequently lead one to the Hall of Shame. 
 
 The history of ancient India tells us a different story. Aryabhatta, Bhaskaracharya, Sushruta, Charaka, Kanad, Nagarjuna, Bodhayan, Bramhagupta, 
 Varahamihira, Kautuliya, and Patanjali had made Bharat famous. They could not have reached the pinnacle of
-glory and success if a fair amount of ancient literature did not exist then. India was known for its enlightened thinkers and scholars until 700 AD, who flourished
-and enriched its knowledge centers at ancient universities like Takshilla, Vikramshilla, and Nalanda. I believe that the fact that Indian economy 
-was doing well at that time also contributed to the ways of life guided by practices and traditions. It created an overall environment for knowledge creation.  The spate of invasions by the marauders like Muhammed Bin Kassim, Ghengiz Khan, Taimur 
-Lang,  Mahamud Gazni, Mohammad Shah Ghori, and the Moghuls ruined the country from the 7th century to the 13th century AD. Toramana Shahi Jauvla, the Hun
+glory and success if a fair amount of ancient literature did not exist then. Nalanda along had a collection nine million books when it was destroyed. 
+India was known for its enlightened thinkers and scholars until 700 AD, who flourished and enriched its knowledge centers at ancient universities like
+Takshilla, Vikramshilla, and Nalanda. I believe that the fact that Indian economy was doing well at that time also contributed to the ways of life guided
+by practices and traditions. It created an overall environment for knowledge creation.  The spate of invasions by the marauders like Muhammed Bin Kassim, Ghengiz Khan,
+Taimur Lang,  Mahamud Gazni, Mohammad Shah Ghori, and the Moghuls ruined the country from the 7th century to the 13th century AD. Toramana Shahi Jauvla, the Hun
 invaders, was said to have destroyed Takshilla in the 5th century BC. But many believe either Alexander or Mihirakula of the Hun dynasty was responsible for
 the destruction of Takshilla because Kautilya (372-283 BC) studied in Takshilla and joined its faculty. The Hun Toramana's time was much before it. 
 Baktiyar Khiliji, the monstrous general of Muhammad Ghori, killed the monks, destroyed the monastery, Nalanda University, and burnt down
@@ -22,25 +23,23 @@ colonizers. The Moghuls relied heavily on religious conversions to perpetuate th
 deceit, falsehood, and immorality in preference to ethics for survival under adverse situations. 
 
 The Britishers established the foundation of the modern education system in India. The efforts of the British colonizers were not driven by altruism,
-though they were far more tolerant than the Mongol, Turkic and Moghu colonizers. The British colonizer trained people to administer a vast country
-with a large population. Only about one to two hundred thousand Britishers ever lived and ruled India. They needed means and apparatus to 
-administer a vast country of 30-40 corers. The current education system in India has the
-old colonial British legacy. The Britishers did not care to enforce ethics, morality, or law among native Indians as long as educated among the
-natives helped preserve British interests. This write-up is neither about the philosophical basis of human conduct nor the political underpinning
-behind ethics and morality in modern Indian society. My concern is ethics in educational institutions, teaching, and research. 
+though they were far more tolerant than the Mongol, Turkic and Moghuls rulers. The British colonizer trained people to administer a vast country
+with a large population. Only about one to two hundred thousand Britishers ever lived and ruled India. The current education system in India has the
+old colonial British legacy. The Britishers did not care to enforce ethics, morality, or law among native Indians as long as educated among them
+helpe preserve British interests. This write-up is neither about the philosophical basis of human conduct nor the political underpinning
+behind ethics and morality in modern Indian society. My concern is lack of ethics in educational institutions, and research community. 
 However, it is pertinent to understand three loaded terms: ethics, morality, and law. They express intertwined concepts. Morality is based
 on the expected behavior of a person in society and family. 
 
-Morality is best described by the behavior of a random person when he watches a drowning boy in 
-a muddy pond. Society expects that the person should pull the boy out of the pond. Suppose the person later narrating the event of 
-the drowning boy to his family or friends says that he let the boy drown because his clothes would be dirty or many other people watched the event
-and did not come to help, so he also did not come to rescue the boy. The person will be deemed a monster and unfit for society 
-because of his moral vacuousness. Yet, morality is not the ultimate thing. Consider the situation where a doctor at a hospital has only 
-one anti-venom shot. An elderly person was brought to the hospital just minutes before another younger person with the snake bites. Morality teaches
-the doctor to administer the shot to the older person and let the younger one die. The doctor surmises that the older person has lived his
-life, and a family depends on the younger one's earnings. So, the doctor selects the younger person to receive the shot. The decision is 
-rational and humane. Therefore, strict moral obligations are acceptable under certain environmental constraints. The role of law is to enforce morality in society.
-Ethics sits on top of both morality and law. When asked to define ethics, we get different answers:
+Morality is best described by the behavior of a random person when he watches a drowning boy in a muddy pond. Society expects that the person should 
+pull the boy out of the pond. The person later narrating the event to his family or friends says that he let the boy drown because his clothes would be dirty,
+or that many other people watched the event and did not come to help, so he also did not volunteer to rescue the boy. 
+The person will be deemed a monster and unfit for society because of his moral vacuousness. Yet, morality is not the ultimate thing. Consider 
+the situation where a doctor at a hospital has only one anti-venom shot. A person was brought to the hospital just minutes before another 
+younger person with the snake bites. Morality teaches the doctor to administer the shot to the person who arrived first and let the other one to die. The doctor 
+surmises that the older person has lived and enjoyed his life, and a family depends on the younger one's earnings. So, the doctor selects the younger person to 
+receive the shot. The decision is rational and humane. Therefore, strict moral obligations may be relaxed under certain environmental constraints. 
+The role of law is to enforce morality in society. Ethics sits on top of both morality and law. When asked to define ethics, we get different answers:
 
   - Ethics prompts me to do correct things and prevents me from doing wrong things
   - My religious beliefs drive ethics
