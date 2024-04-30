@@ -16,11 +16,12 @@ invaders, was said to have destroyed Takshilla in the 5th century BC. But many b
 the destruction of Takshilla because Kautilya (372-283 BC) studied in Takshilla and joined its faculty. The Hun Toramana's time was much before it. 
 Baktiyar Khiliji, the monstrous general of Muhammad Ghori, killed the monks, destroyed the monastery, Nalanda University, and burnt down
 its famous library in 1193 AD. The Turkish and Mongol invaders were only after India's wealth. Babur transported much of his loot from India to Samarkand.
-They systematically continued the plunder of India and never once thought of building great institutions like Nalanda. The long reign of terror only made Indians adopt
+They systematically continued the plunder of India and never once thought of building great institutions like Nalanda. Mongol, Moghul, or Turkic 
+colonizers. The Moghuls relied heavily on religious conversions to perpetuate their rule. The long reign of terror only made Indians adopt
 deceit, falsehood, and immorality in preference to ethics for survival under adverse situations. 
 
 The Britishers established the foundation of the modern education system in India. The efforts of the British colonizers were not driven by altruism, though they were far more tolerant than 
-Mongol, Moghul, or Turkic colonizers. The Moghuls relied heavily on religious conversions to perpetuate their rule. 
+
 The British colonizer trained people to administer a vast country with a large population. Only about one to two
 hundred thousand Britishers ever lived and ruled India. They needed means and apparatus to administer a vast country of 30-40 corers. The current 
 education system in India has the old colonial British legacy. The Britishers did not care to enforce ethics, morality, or law among native Indians as long as educated among the natives helped preserve British interests. 
