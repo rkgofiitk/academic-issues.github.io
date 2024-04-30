@@ -1,4 +1,4 @@
- # Ethics in Education and Research
+# Ethics in Education and Research
 
 Cheating and plagiarism are menaces that afflict education and research in India and worldwide. Frequently, reports appear in various media
 channels and social network handles, lamenting the extent of its adverse impacts on the quality of education and research. It demotivates educators
