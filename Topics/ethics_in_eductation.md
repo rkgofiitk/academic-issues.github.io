@@ -87,7 +87,7 @@ threshold. I believe the punishment for academic misdemeanors should be swift an
 Interestingly, patent laws are separately identified in IIPR because they protect corporate interests. 
 
 Let us now look at indirect mechanisms for enforcing accountability in educational institutions. Ranking institutions is one such mechanism. 
-Third-party supposedly independent ranking schemes like QS, THE, TIMES, and NIRF miss out on critical ethical input. Ranking organizations themselves lack ethics. QS, THE, TIMES, and
+Third-party supposedly independent ranking schemes like QS, THE, TIMES, and NIRF miss out on critical ethical inputs. Ranking organizations themselves lack ethics. QS, THE, TIMES, and
 NIRF ranking schemes try to achieve something impossible, i.e., comparing apples with oranges. They seek expert inputs on academic perceptions, 
 so we must revise weighted ranking schemes drastically if they can be taken seriously. Recently, I came across another ranking scheme called u-rank (India Research Watchdog group).
 It allows users to fiddle with relative weights but does not explain the algorithm they are using. As a result, it throws up interesting results, such as
