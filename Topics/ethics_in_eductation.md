@@ -3,7 +3,7 @@
 Cheating and plagiarism are menaces that afflict education and research in India and worldwide. From time to time, reports appear in various media
 channels and social network handles, lamenting the extent of its adverse impacts on the quality of education and research. It demotivates the educators
 and researchers across the board. Honest, hard-working people suffer from the humiliation that those less endowed get early success. Those who indulge in plagiarism and cheating for quick success
-are not immune from ill-effects of its curses. Many often get caught in the act of cheating and fail to
+are not immune from ill-effects of the curses. Many often get caught in the act of cheating and fail to
 recover from shock after being shamed. Their descent to shame becomes much faster than their ascent to fame. So, resorting to plagiarism is mostly a lose-lose
 the situation for the research and education. The shortcuts to the Hall of Fame frequently lead one to the Hall of Shame. 
 
