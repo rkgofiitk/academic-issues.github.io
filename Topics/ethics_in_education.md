@@ -1,9 +1,9 @@
  # Ethics in Education and Research
 
-Cheating and plagiarism are menaces that afflict education and research in India and worldwide. Occasionally, reports appear in various media
+Cheating and plagiarism are menaces that afflict education and research in India and worldwide. Frequently, reports appear in various media
 channels and social network handles, lamenting the extent of its adverse impacts on the quality of education and research. It demotivates educators
 and researchers across the board. Honest, hard-working people suffer from the humiliation that those less endowed get early success. Those who indulge in plagiarism and cheating for quick success
-are also not immune from ill-effects of the curses. Many often get caught in the act of cheating and fail to
+are also not immune from ill-effects of the curse. Many often get caught in the act of cheating and fail to
 recover from shock after being shamed. Their descent to shame becomes much faster than the ascent to fame. So, resorting to plagiarism is essentially a lose-lose
 the situation for the research and education. The shortcuts to the Hall of Fame frequently lead one to the Hall of Shame. 
 
@@ -12,15 +12,15 @@ Varahamihira, Kautuliya, and Patanjali had made Bharat famous. They could not ha
 glory and success if a fair amount of ancient literature did not exist then. Nalanda alone had a collection of nine million books when it was destroyed. 
 India was known for its enlightened thinkers and scholars until 700 AD, who flourished and enriched its knowledge centers at ancient universities like
 Takshilla, Vikramshilla, and Nalanda. I believe that the fact that the Indian economy was doing well at that time also contributed to the ways of life guided
-by practices and traditions. It created an overall environment for knowledge creation.  The spate of invasions by the marauders like Muhammed Bin Kassim, Ghengiz Khan,
+by ethical practices and traditions. It created an overall environment for knowledge creation.  The spate of invasions by the marauders like Muhammed Bin Kassim, Ghengiz Khan,
 Taimur Lang,  Mahamud Gazni, Mohammad Shah Ghori, and the Moghuls ruined the country from the 7th century to the 13th century AD. Toramana Shahi Jauvla, the Hun
 invaders, was said to have destroyed Takshilla in the 5th century BC. Many believe either Alexander or Mihirakula of the Hun dynasty was responsible for
 the destruction of Takshilla because Kautilya (372-283 BC) studied in Takshilla and joined its faculty. The Hun Toramana's time was much before it. 
 Baktiyar Khiliji, the monstrous general of Muhammad Ghori, killed the monks, destroyed the monastery, Nalanda University, and burnt down
 its famous library in 1193 AD. The Turkish and Mongol invaders were only after India's wealth. Babur transported much of his loot from India to Samarkand.
 They systematically continued the plunder of India and never once thought of building great institutions like Nalanda. Mongol, Moghul, or Turkic 
-colonizers. The Moghuls relied heavily on religious conversions to perpetuate their rule. The long reign of terror only made Indians adopt
-deceit, falsehood, and immorality in preference to ethics for survival under adverse situations. 
+colonizers. The Moghuls relied heavily on religious conversions to perpetuate their rule. The long reign of terror only made Indians abandon ethical conduct
+and adopt deceit, falsehood, and immorality for survival under adverse situations. 
 
 The Britishers established the foundation of the modern education system in India. The efforts of the British colonizers were not driven by altruism,
 though they were far more tolerant than the Mongol, Turkic, and Moghul rulers. The British colonizer trained people to administer a vast country
