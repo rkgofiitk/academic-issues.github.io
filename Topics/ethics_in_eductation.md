@@ -107,7 +107,7 @@ disputes. For example, parliament and assembly members are elected. There are ma
 have criminal records. Law is inadequate and enforcement agencies work in sloth's paces. It allows criminals to dance around the legal loopholes to enter 
 the temples of democracy.  Every system has it fair share of pros and cons.
 For example, who would have thought about the insurrection attempt of 6th January 2020t in US, yet it happened. In India emergency was imposed in 1975 and the constitution was suspended by Indira Gandhi. 
-No one thought Indira Gandhi would be overthrown by an agitation by an unassuming septgenerian leader like Jayprakash Narayan, yet it happened.  The constitution was restored and 
+No one thought Indira Gandhi would be overthrown by an agitation led by the unassuming septgenerian leader like Jayprakash Narayan, yet it happened.  The constitution was restored and 
 democratic system resumed in the country. We cannot say that the constitution framer were idiots who did not foresee the problem. So, the point is if system is evolved with due 
 dilligence then it is ok to assume that the system will work as expected with 99% confidence.
 
