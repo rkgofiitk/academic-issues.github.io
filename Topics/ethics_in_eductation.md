@@ -65,8 +65,10 @@ Teaching lost its relevance altogether. Publishing became the only criterion for
 abilities, it is largely ineffective. The students who could not get decent grades decidedly give poor grades to teachers. Knowing a class's background,
 cultural, and demographic composition is important to get a good evaluation. The educators have responsibilities like political leaders trying
 their luck to win an election. Many good educators often flounder in the quest 
-to get good student evaluations. Recently, I watched a movie titled <i>12th Fail</i>. It narrates a person's struggle from Chambal (a geographical 
-region called Bundelkhand in UP). There is a clip where teachers are dictating answers to the examinees in the board exam. 
+to get good student evaluations.
+
+Recently, I watched a movie titled <i>12th Fail</i>. It narrates a person's struggle from Chambal (a geographical 
+region called Bundelkhand in UP and bordering MP). There is a clip where teachers are dictating answers to the examinees in the board exam. 
 It reminded me of my own experience as a JEE representative. One of the college teachers (an invigilator for the exam) at the center was curious enough 
 to ask me if I came from another planet where cheating in exams never happens. I have to admit that our job was to minimize the incidences of cheating. 
 The anecdote says that the lack of ethics and morality has no age boundary.
