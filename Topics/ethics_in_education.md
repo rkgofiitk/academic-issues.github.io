@@ -52,8 +52,7 @@ Ethics is from the Greek work "ethos." It means a way of living. Most appropriat
 it is a bunch of philosophies for human conduct in society. Ethics enables us to examine the rational 
 justification of our moral judgments; it tells us what is morally right or wrong, just or unjust. There would not be any ethical requirements 
 if human beings did not interact with nature or other humans. It does not mean human existence is under bondage. Rather, it governs the freedom 
-of human beings under a framework of interactions with nature, community, country, and global order. 
-Without an ethics system, it would be chaotic and
+of human beings under a framework of interactions with nature, communities, state, country, and the world. Without ethics, a system would be chaotic and
 disorderly. On a larger canvas, we may view the religious institutions like temples, churches, or political entities like countries, states, or organized communities like academic societies 
 or educational institutions all evolved with certain ethical basis.  
 
