@@ -83,8 +83,8 @@ So far as ethics in research is concerned, there are umpteen known instances whe
 A few enterprising authors could even get a letter of acceptance before the journal issue was announced. The retribution, in most cases, is only
 limited to either retraction of the paper or redaction of parts of the paper. It is a question of balancing the gains against consequential loss when caught.
 The temptation to fast-track success is too much. The law against immoral, unethical behavior in research is either nonexistent or has a very high 
-threshold. I believe the punishment for academic misdemeanors should be swift and sufficient to discourage but not demotivate. Interestingly, patent laws are separately identified in IIPR 
-because they protect corporate interests. 
+threshold. I believe the punishment for academic misdemeanors should be swift and sufficient to discourage unethical conducts but do not demotivate people. 
+Interestingly, patent laws are separately identified in IIPR because they protect corporate interests. 
 
 Let us now look at indirect mechanisms for enforcing accountability in educational institutions. Ranking institutions is one such mechanism. 
 Third-party supposedly independent ranking schemes like QS, THE, TIMES, and NIRF miss out on critical ethical input. Ranking organizations themselves lack ethics. QS, THE, TIMES, and
