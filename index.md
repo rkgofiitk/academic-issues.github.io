@@ -12,6 +12,7 @@ certain policies from a neutral viewpoint.
 ### Blog Links
 
 - [Raising Employment Opportunities for CSE Graduates](Topics/cseGraduateJobs.md)
+- [Ethics in Education and Research](Topics/ethics_in_education.md)
 - [Broken Education System of India](Topics/brokenEducation.md)
 - [Kota's killing factories](Topics/kotaSuicides.md)
 - [Celebrating Anonymous Donation to IIT Bombay](Topics/anonymousDonor.md)
