@@ -104,8 +104,9 @@ It leads me to believe in civic virtues like:
 are essential, together with an expensive retribution mechanism. Reforms in watchdog (ombudsman-based accountability system) mechanisms are extremely important. First of all we need a
 careful selction process of people who may be ombudsman. The section process should be transparent where only persons with integrity are elligible for selection. Still there may be 
 disputes. For example, parliament and assembly members are elected. There are many checks and balances to ensure free and fair election. Yet, we know that about 40% of these lawmakers
-have criminal records. Law is inadequate and allows criminals to dance around the legal loopholes to enter  the temples of democracy.  Every system has it fair share of pros and cons.
-For example, who would have thought about 6th January insurrection in US, yet it happened. In India emergency was imposed in 1975 and the constitution was suspended by Indira Gandhi. 
+have criminal records. Law is inadequate and enforcement agencies work in sloth's paces. It allows criminals to dance around the legal loopholes to enter 
+the temples of democracy.  Every system has it fair share of pros and cons.
+For example, who would have thought about the insurrection attempt of 6th January 2020t in US, yet it happened. In India emergency was imposed in 1975 and the constitution was suspended by Indira Gandhi. 
 No one thought Indira Gandhi would be overthrown by an agitation by an unassuming septgenerian leader like Jayprakash Narayan, yet it happened.  The constitution was restored and 
 democratic system resumed in the country. We cannot say that the constitution framer were idiots who did not foresee the problem. So, the point is if system is evolved with due 
 dilligence then it is ok to assume that the system will work as expected with 99% confidence.
