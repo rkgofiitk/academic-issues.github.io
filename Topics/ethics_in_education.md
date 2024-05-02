@@ -15,11 +15,12 @@ Takshilla, Vikramshilla, and Nalanda. I believe that the fact that the Indian ec
 by ethical practices and traditions. It created an overall environment for knowledge creation.  The spate of invasions by the marauders like Muhammed Bin Kassim, Ghengiz Khan,
 Taimur Lang,  Mahamud Gazni, Mohammad Shah Ghori, and the Moghuls ruined the country from the 7th century to the 13th century AD. Toramana Shahi Jauvla, the Hun
 invaders, was said to have destroyed Takshilla in the 5th century BC. Many believe either Alexander or Mihirakula of the Hun dynasty was responsible for
-the destruction of Takshilla because Kautilya (372-283 BC) studied in Takshilla and joined its faculty. The Hun Toramana's time was much before it. 
-Baktiyar Khiliji, the monstrous general of Muhammad Ghori, killed the monks, destroyed the monastery, Nalanda University, and burnt down
+the destruction of Takshilla because Kautilya (372-283 BC) studied in Takshilla and joined its faculty. The Hun Toramana's time was much before it,
+so it is unlikely that he was responsible for destruction of Takshilla. Baktiyar Khiliji, the monstrous general of Muhammad Ghori, killed the monks, 
+destroyed the Nalanda monastery, University, and burnt down
 its famous library in 1193 AD. The Turkish and Mongol invaders were only after India's wealth. Babur transported much of his loot from India to Samarkand.
-They systematically continued the plunder of India and never once thought of building great institutions like Nalanda. Mongol, Moghul, or Turkic 
-colonizers. The Moghuls relied heavily on religious conversions to perpetuate their rule. The long reign of terror only made Indians abandon ethical conduct
+They (foreign invaders) systematically continued the plunder of India and never once thought of building great institutions like Nalanda. The Moghuls
+relied heavily on religious conversions to perpetuate their rule. The long reign of terror only made Indians abandon ethical conduct
 and adopt deceit, falsehood, and immorality for survival under adverse situations. 
 
 The Britishers established the foundation of the modern education system in India. The efforts of the British colonizers were not driven by altruism,
@@ -31,14 +32,14 @@ behind ethics and morality in modern Indian society. My concern is the lack of e
 However, it is pertinent to understand three loaded terms: ethics, morality, and law. They express intertwined concepts. Morality is based
 on the expected behavior of a person in society and family. 
 
-Morality is best described by the behavior of a random person when he watches a drowning boy in a muddy pond. Society expects that the person should 
+Morality is best described by the behavior of a random person when he watches a drowning boy in a muddy pond. Society expects that the person with ethical conduct to 
 pull the boy out of the pond. The person later narrating the event to his family or friends says that he let the boy drown because his clothes would be dirty,
 or that many other people watched the event and did not come to help, so he also did not volunteer to rescue the boy. 
 The person will be deemed a monster and unfit for society because of his moral vacuousness. Yet, morality is not the ultimate thing. Consider 
-the situation where a doctor at a hospital has only one anti-venom shot. A person was brought to the hospital just minutes before another 
+the situation where a doctor at a hospital has only one anti-venom shot. A person was brought to the hospital minutes before another 
 younger person with the snake bites. Morality teaches the doctor to administer the shot to the person who arrived first and let the other one die. The doctor 
-surmises that the older person has lived and enjoyed his life, and a family depends on the younger one's earnings. So, the doctor selects the younger person to 
-receive the shot. The decision is rational and humane. Therefore, strict moral obligations may be relaxed under certain environmental constraints. 
+surmises that the older person has lived and enjoyed his life, whereas a family depends on the younger one's earnings. So, the doctor selects the younger person to 
+receive the shot. The decision is rational and humane. Therefore, strict moral obligations may be relaxed under certain environmental situations. 
 The role of law is to enforce morality in society. Ethics sits on top of both morality and law. When asked to define ethics, we get different answers:
 
   - Ethics prompts me to do correct things and prevents me from doing wrong things
@@ -51,8 +52,8 @@ None of the answers expresses ethics appropriately. We have to consider the mean
 Ethics is from the Greek work "ethos." It means a way of living. Most appropriately,
 it is a bunch of philosophies for human conduct in society. Ethics enables us to examine the rational 
 justification of our moral judgments; it tells us what is morally right or wrong, just or unjust. There would not be any ethical requirements 
-if human beings did not interact with nature or other humans. It does not mean human existence is under bondage. Instead, it governs the freedom 
-of human beings under a framework of interactions with nature, communities, states, countries, and the world. Without ethics, a system would be chaotic and
+if human beings did not interact with nature or other humans. It does not mean human existence is under bondage. Instead, the freedom 
+of human beings is governed by  under a framework of interactions with nature, communities, states, countries, and the world. Without ethics, a system would be chaotic and
 disorderly. On a larger canvas, we may view the religious institutions like temples, churches, political entities like countries, states, or organized communities like academic societies 
 or educational institutions all evolved with certain ethical bases.  
 
@@ -64,35 +65,36 @@ adopting objective criteria for evaluating the quality of research.
 Teaching lost its relevance altogether. Publishing became the only criterion for career advancement. Though we have an evaluation system for teaching
 abilities, it could be more effective. Knowing a class's background,
 cultural, and demographic composition is important for a good evaluation. The educators have responsibilities like political leaders trying
-their luck to win an election. Many good educators often flounder in the quest to get good student evaluations. I know about teachers who may go to the extent 
-of bribing to get good student evaluations. Likewise, many students who do not attend classes, submit assignments late, or get poor grades often write
+their luck to win an election. Many good educators often flounder in the quest to get good student evaluations. I know about a few teachers who may go to the extent 
+of bribing students for good evaluations. Likewise, many students who do not attend classes, submit assignments late, or get poor grades often write
 extremely poor evaluations bordering contempt with abusive words and curses. 
 
-Recently, I watched a movie titled <i>12th Fail</i>. It narrates a person's struggle from Chambal (a geographical 
-region called Bundelkhand in UP and bordering MP). There is a clip where teachers dictate answers to the examinees in the board exam. 
+Recently, I watched a movie titled <i>12th Fail</i>. It narrates a person's struggle from Chambal (a geographical region called Bundelkhand in UP and bordering MP). 
+There is a clip where teachers dictate answers to the examinees in the board exam. 
 It reminded me of my own experience as a JEE representative. One of the college teachers (an invigilator for the exam) at the center was curious enough 
 to ask me if I came from another planet where cheating in exams never happens. I have to admit that our job was to minimize the incidences of cheating. 
 The anecdote says the lack of ethics and morality has no age boundary.
 
 So far as ethics in research is concerned, there are umpteen known instances where many researchers  
 - Often tried to use plagiarised material from well-known or obscure sources in their papers
-- Cooked intelligently camouflaged results as those from their experiments
+- Intelligently cooked or camouflaged existing results as those from their experiments
 - Added names of well-respected researchers as one of the authors without any reference ever
 - Script-generated paper by crawling sources from the Internet
 - Self-authored papers in the journals edited by them
   
 A few enterprising authors could even get a letter of acceptance before the journal issue was announced. In most cases, the retribution is only
-limited to either retraction of the paper or redaction of parts of the paper. It is a question of balancing the gains against consequential loss when caught.
+limited to either to retraction of the paper or redaction of parts of the paper. It is a question of balancing the gains against consequential loss when caught.
 The temptation to fast-track success is too much. The law against immoral, unethical behavior in research is either nonexistent or has a very high 
 threshold. The punishment for academic misdemeanors should be swift and sufficient to discourage unethical conduct but not demotivate people. 
 Interestingly, patent laws are separately identified in IIPR because they protect corporate interests. 
 
 Let us now look at indirect mechanisms for enforcing accountability in educational institutions. Ranking institutions is one such mechanism. 
 Third-party supposedly independent ranking schemes like QS, THE, TIMES, and NIRF miss out on critical ethical inputs. Ranking organizations themselves lack ethics. QS, THE, TIMES, and
-NIRF ranking schemes try to achieve something impossible, i.e., comparing apples with oranges. They seek expert inputs on academic perceptions, 
-so we must revise weighted ranking schemes drastically to consider them seriously. Recently, I came across another ranking scheme called u-rank (India Research Watchdog group).
-It allows users to fiddle with relative weights but does not explain the algorithm they are using. As a result, it throws up interesting results, such as
-Saveetha Medical and Technical Science is ranked ahead of many older IITs, even for engineering disciplines. 
+NIRF ranking schemes try to achieve something impossible, i.e., comparing apples with oranges. They seek expert inputs on academic perceptions. 
+However, it is unclear how the input is used in ranking. So we must revise weighted ranking schemes drastically if they are to be considered seriously. Recently, 
+I came across another ranking scheme called u-rank (India Research Watchdog group). It allows users to fiddle with relative weights but does not explain
+the algorithm they are using. As a result, it throws up interesting results, such as Saveetha Medical and Technical Sciences is ranked ahead of many
+older IITs, even for engineering disciplines. 
 
 It leads me to believe in civic virtues like: 
 - Loyalty
@@ -102,38 +104,41 @@ It leads me to believe in civic virtues like:
 - Dignity in relation to others
 - Respect for the law
 
-are essential, together with an expensive retribution mechanism. Reforms in watchdog (ombudsman-based accountability system) mechanisms are fundamental. First, we need a
-careful selection process of people who may be ombudsmen. The section process should be transparent, where only persons with integrity are eligible for selection. Still, there may be 
+are essential, together with an expensive retribution mechanism for unethical conducts. Reforms in watchdog (ombudsman-based accountability system) 
+mechanisms are fundamental. First, we need a careful selection process of people who may be ombudsmen. The section process should be transparent, 
+where only persons with integrity are eligible for selection. Still, there may be 
 disputes. For example, parliament and assembly members are elected. There are many checks and balances to ensure free and fair elections. Yet, about 40% of these lawmakers
 have criminal records. Law is inadequate, and enforcement agencies work at sloth's pace. It allows criminals to dance around the legal loopholes to enter 
-the temples of democracy.  Every system has its fair share of pros and cons.
-For example, who would have thought about the insurrection attempt on 6 January 2020 in the US, yet it happened?  The emergency was imposed in India in 1975, and Indira Gandhi suspended the constitution. 
-No one thought Indira Gandhi would be overthrown by an agitation led by the unassuming septuagenarian leader like Jayprakash Narayan, yet it happened.  The constitution was restored, and 
-the democratic system resumed in the country. We cannot say that the constitution framers were idiots who did not foresee the problem. The point is that if the system evolves with due 
-diligence, it is okay to assume that it will work as expected with 99% confidence.
+the temples of democracy.  Every system has its fair share of pros and cons. For example, who would have thought about the insurrection attempt 
+on 6 January 2020 in the US? Yet it happened. The emergency was imposed in India in 1975, and Indira Gandhi suspended the constitution. 
+No one thought Indira Gandhi would be overthrown by an agitation led by the unassuming septuagenarian leader like Jayprakash Narayan, yet it happened. 
+The constitution was restored, and the democratic system resumed in the country. We cannot say that the constitution framers were idiots who
+did not foresee the problem. The point is that if the system evolves with due diligence, it is okay to assume that it will work as expected with 99% confidence.
 
-What could be the mechanism for checking the growing trend of student cheating? Many students who need not cheat cannot resist the temptation to cheat to improve their grades. Let us analyze the tendency of cheating among students in some detail. We can divide the  students into three groups:
+What could be the mechanism for checking the growing trend of student cheating? Many students who need not cheat cannot resist the temptation to 
+cheat to improve their grades. Let us analyze the tendency of cheating among students in some detail. We can divide the  students into three groups:
 - Top-tier students who maintain grade points of 8.5 and above on a scale 10.
 - Middle-tier students who maintain grade points between 7.5 to 8.5
 - Bottom-tier students who maintain grade points between 6 to 7.5
   
 Many students belonging to the middle tier take assignments casually. Some of them work in groups to solve a challenging assignment. They often run into problems with deadline management.
-The top-tier students interact with the middle-tier but with caution. They try to extract ideas from the middle-tier students and work on them to meet the deadline. Bottom-tier students
-try sincerely; often, they cannot complete, and many submit half-complete assignments or a few submit assignments copied from others. I am concerned with the middle-tier students.
-Many are good at it and could achieve a lot working with a team. They have an intrinsic ethical way of learning. So, the system should develop a way to encourage them. However,
-top-tier students may be dealt with care. Let me describe two anecdotes here.  Around the mid-nineties, the counseling service received an anonymous complaint that the student chosen to
- receive PGM had indulged in large-scale cheating in assignments. The gist of the complaint was that the student scored full marks in all class assignments without ever solving any of them.
-The person would come and discuss the assignment with middle-tier students for days. After getting enough clues, that student would solve the assignment and quietly submit it. Although it is
-not cheating in a strict sense,  it amounts to unethical stealing of IP. The next was a case of a student who would have easily scored 10 points
-and had to be expelled for a semester after a case of cheating was detected. This student inserted answers in exam copies during the time of review. 
-The act was caught by a professor who kept photocopies of exam papers before distributing them
-for review. Most students copy programming assignments from Internet sites and their batch mates.
-A  teacher with a zero-tolerance policy is overwhelmed by the burden of detecting cheating in student submissions. ChatGPT and other generative AI tools 
-have made cheating very easy. Policing is not part of a teacher's responsibility. With increased
-enrollment, enforcing ethics among students has become impossible. Is there any solution to the problem? The parents should allow students to pursue careers with enough freedom and
-not try to accomplish their dreams at the cost of their wards.
-A student could choose at most two courses they find exciting and challenging every semester. It would reduce the cheating load on both 
-students and teachers. No law or punishment can enforce ethics; we need to create an environment for it to seep into the education system.
+The top-tier students interact with the middle-tier but with undeclared motives. They try to extract ideas from the middle-tier students and work 
+on them to meet the deadline. Bottom-tier students try sincerely; often, they cannot complete, and many submit half-complete assignments or a few
+submit assignments copied from others. I am concerned with the middle-tier students. Many are good at it and could achieve a lot working with a team.
+They have an intrinsic ethical way of learning. So, the system should develop a way to encourage them. The top-tier students may be dealt with care.
+Let me describe two anecdotes here.  Around the mid-nineties, the counseling service received an anonymous complaint that the student chosen to
+receive PGM had indulged in large-scale cheating in assignments. The gist of the complaint was that the student scored full marks in all class assignments without ever solving any of them.
+The person would come and discuss the assignment with middle-tier students for days. After getting enough clues, that student would solve the
+assignment and quietly submit it. Although it is not cheating in a strict sense,  it amounts to unethical stealing of IP. The next was a
+case of a student who would have easily scored 10 points and had to be expelled for a semester after a case of cheating was detected. This student 
+inserted answers in exam copies during the time of review. The act was caught by a professor who kept photocopies of exam papers before distributing them
+for review. Most students copy programming assignments from Internet sites and their batch mates. A  teacher with a zero-tolerance policy is overwhelmed 
+by the burden of detecting cheating in student submissions. ChatGPT and other generative AI tools have made cheating very easy. Policing is not part of 
+a teacher's responsibility. With increased enrollment, enforcing ethics among students has become impossible. Is there any solution 
+to the problem? The parents should allow students to pursue careers with enough freedom and
+not try to accomplish their dreams at the cost of their wards. A student could choose at most two courses they find exciting and challenging 
+every semester. It would reduce the cheating load on both students and teachers. No law or punishment can enforce ethics; we need to create an 
+environment for it to seep into the education system.
 
 
 [Back to index](../index.md)
