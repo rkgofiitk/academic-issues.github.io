@@ -32,7 +32,7 @@ behind ethics and morality in modern Indian society. My concern is the lack of e
 However, it is pertinent to understand three loaded terms: ethics, morality, and law. They express intertwined concepts. Morality is based
 on the expected behavior of a person in society and family. 
 
-Morality is best described by the behavior of a random person when he watches a drowning boy in a muddy pond. Society expects that the person with ethical conduct to 
+Morality is best described by the behavior of a random person when he watches a drowning boy in a muddy pond. Society expects that the person with a moral compass to 
 pull the boy out of the pond. The person later narrating the event to his family or friends says that he let the boy drown because his clothes would be dirty,
 or that many other people watched the event and did not come to help, so he also did not volunteer to rescue the boy. 
 The person will be deemed a monster and unfit for society because of his moral vacuousness. Yet, morality is not the ultimate thing. Consider 
