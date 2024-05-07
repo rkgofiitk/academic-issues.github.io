@@ -28,8 +28,34 @@ energy in talent acquisition. The arguments in such a strategy are:
 The two points stated above are simple, yet powerful SOP for talent acquisition which have remained
 the core hirings principles through campus placements of most companies. However, AI brings
 sophistication in talent acquisition process. The AI-powered SOP for recruitments saves a company
-from subsequent embarassment of probable bad recruitments due to a misjudgement of human recruiters. 
+from subsequent embarassment of probable poor recruitments due to a misjudgement of human recruiters. 
 If AI-powered predictive analytics are used then a company would perhaps be able to create pseudo 
 profiles of future talent requirements. The actual profiles of job applicants can
 then be matched with the mined profiles to prepare a shortlist of prospective candidates. I do not
-know if any large recuriter is actually  it, but it looks very promising. 
+know if any large recuriter is actually following such a process, but it looks very promising. However,
+the basic assumption for AI-based predictive analytics to work is that we have enough data to create 
+pseudo profiles and mine them. Whether a company will share them is debatable. Therefore, premise 
+behind such a conclusion is that each company will have to develop analytics on their own data. In that
+case can the approach be generic enough? First, we need to create sufficient abstractions for developing
+the set of AI-based predictive analytics. These cannot be any different from statics based predictive
+analytics couple with a bit of automated reasoning theory.  
+
+I believe candidate resourcing could be easy through automated tools. Though it might not be possible 
+to pick actual identity of candidates, it would be fairly simple to gather enough information from
+many published web resources and social media activities of people, where they graduated from and which
+organizations they belong.
+
+Complete elimination of recruitment biases may not be very desirable at times. An ideal candidates is 
+not the best one to recruit. The suitability of a candidate would depend largely on environment. The 
+environment would include personal space, work space and societal space. The complex interplay of 
+these spaces may cloud psycho-analytic evaluation of a candidate's suitability for a particular job.
+Human decision makers use unexplanable instincts on a candidate's worthiness under constrained
+environmental conditions. I doubt whether even explanable AI techniques can make such a decision. 
+However, I believe, AI can largely eliminate things like conflict of interests, nepotism, cronyism and
+other human frailities in favoring a candidate.
+
+Analysis and forecasting workforce trend are fairly straightforward. Clearly, AI has an edge over 
+human assisted techniques. Many statistical techniques exists in this space. AI technique would rely
+on these technique but can make much smarter analysis.
+
+HR dept of any company 
