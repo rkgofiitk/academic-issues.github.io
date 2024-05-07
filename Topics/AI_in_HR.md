@@ -25,10 +25,11 @@ energy in talent acquisition. The arguments in such a strategy are:
 - Candidates must be intrinsically good if they could enter such institutions.
 - Weak candidates anyway cannot survive the company's internship program.
 
-The two points are simple, yet powerful SOP for talent acquisition which have remained the core hirings
-principles through campus placement in most companies. However, AI brings sophistication to talent 
-acquisition. The AI-powered SOP for recruitments saves a company from subsequent embarassment of bad
-recruitments. If AI-powered predictive analytics are used then a company would perhaps be able to 
-create exact profiles of future talent requirements. Mining such data the applicants can be matched
-with the mined profiles to prepare a shortlist of prospective candidates. I do not know if any large
-recuriter is actually doing it, but it looks very promising. 
+The two points stated above are simple, yet powerful SOP for talent acquisition which have remained
+the core hirings principles through campus placements of most companies. However, AI brings
+sophistication in talent acquisition process. The AI-powered SOP for recruitments saves a company
+from subsequent embarassment of probable bad recruitments due to a misjudgement of human recruiters. 
+If AI-powered predictive analytics are used then a company would perhaps be able to create pseudo 
+profiles of future talent requirements. The actual profiles of job applicants can
+then be matched with the mined profiles to prepare a shortlist of prospective candidates. I do not
+know if any large recuriter is actually  it, but it looks very promising. 
