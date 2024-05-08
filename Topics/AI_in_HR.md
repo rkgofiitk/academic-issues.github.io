@@ -1,4 +1,4 @@
-## AI Applications for Handling Recruitments
+## AI of Applications in Talent Acquisition
 
 Today, I came across an insightful post from one my former students on LinkedIn. He highlighted the 
 application of AI in talent acquisition by HR depts. The six aspects of talent acquisition strategies 
@@ -28,21 +28,21 @@ effort time and energy in talent acquisition. The arguments in such a strategy a
 - Weak candidates anyway cannot survive the company's rigorous induction program.
 
 The above two points are simple, yet powerful SOP for talent acquisition which have remained
-the core hirings principles through campus placements of most companies. However, the focus of 
+the core hirings principles through campus placements in most companies. However, the focus of 
 recruitment is talent acquisition from IITs and NITs that use JEE advance scores for entrance. 
-Therefore, it is no brainer to understand the recruiters rely on it. Unfortunately, the recruiters
-would not have luxry of relying exclusively on campus placements at other a few hundred other 
-institutions though there may be extremely talented candidates. If AI-powered predictive analytics
-are used then a company would perhaps be able to create pseudo profiles of future talent 
-requirements. The actual profiles of job applicants can then be matched with the mined profiles 
-to produce a shortlist of prospective candidates without human intervention. I do not
-know if any large recuriter is actually following such a process, but it looks very promising. 
+Therefore, it is no brainer to understand why the recruiters rely on it. Unfortunately, the recruiters
+would not have luxry of relying exclusively on campus placements at a few hundred other 
+institutions though there may be extremely talented candidates perhaps better than IITs and NITs. 
+If AI-powered predictive analytics can used then it would perhaps be possible to create pseudo 
+profiles of exact talent requirements. The actual profiles of job applicants can then be matched 
+with the mined profiles to produce a shortlist of prospective candidates without human intervention. 
+I do not know if any large recuriter is actually following such a process, but it looks very promising. 
 The basic assumption for AI-based predictive analytics to work is that enough data exists to create 
 pseudo profiles and mine them. Whether the recruiters would share them is debatable. Therefore, the 
 premise behind such a conclusion is that each company will have to develop analytics on their own
 data. In that case can the approach be generic enough? I believe it is possible. At first, we need 
 to create sufficient abstractions for developing the set of AI-based predictive analytics. These
-cannot be any different from statics based predictive analytics coupled with the principles of
+cannot be any different from statical methods for predictive analytics coupled with the principles of
 automated reasoning. The next step is training with data. This step can be performed and customised for
 each enterprise. 
 
@@ -52,17 +52,25 @@ many published web resources and social media activities of people, where they g
 organizations they belong, their facebook/instagram profiles, the interest groups they are associated
 with, and so on. 
 
-Complete elimination of recruitment biases may not be very desirable at times. An ideal candidates is 
-not the best one to recruit. The suitability of a candidate would depend largely on environment. The 
-environment would include personal space, work space and societal space. The complex interplay of 
+Complete elimination of recruitment biases may not be very desirable at times. An ideal candidate is 
+someties not the best one to recruit. The suitability of a candidate would depend largely on
+environment. The environment can be defined by a three dimensional space consisting of personal 
+space including the family, work space and societal space. The complex interplay of 
 these spaces may cloud psycho-analytic evaluation of a candidate's suitability for a particular job.
 Human decision makers use unexplanable instincts on a candidate's worthiness under constrained
-environmental conditions. I doubt whether even explanable AI techniques can make such a decision. 
-However, I believe, AI can largely eliminate things like conflict of interests, nepotism, cronyism and
-other human frailities in favoring a candidate.
+environmental conditions that I think would be difficult to capture through AI tools or techniques.
+Yet, I believe, AI can largely eliminate things like conflict of interests, nepotism, cronyism and
+other human frailities in favoring a candidate over another.
 
 Analysis and forecasting workforce trend are fairly straightforward. Clearly, AI has an edge over 
 human assisted techniques. Many statistical techniques exists in this space. AI technique would rely
-on these technique but can make much smarter analysis.
+on these technique but can make much smarter analysis. HR personels are always viewed with a bit of
+mistrust by the employees. Sometimes they are viewed as a part of the problem than the problem 
+solvers by the recruitees. So, having an AI-based tool to evaluate performance is always an affordable
+and preferable option. Besides, the tool can provide regular personalized feedback for
+career progression.
 
-HR dept of any company 
+The last point is also quite amenable to tool-based predictive analytics. Overall, I guess AI would
+influence the talent acquisition in near future. However, I believe, AI's effectiveness in detecting 
+singularities in any space would remain a point of concern. It is the singularities in talent 
+acquisition that can catapult an organization's success. 
