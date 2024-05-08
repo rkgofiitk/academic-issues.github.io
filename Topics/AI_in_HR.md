@@ -15,43 +15,43 @@ statistical packages to predict the performance trends of the existing workforce
 exercises remained in the domain of policymakers, who used them to evaluate where
 the enterprise or the organization was headed. It allowed them to plan for reassigning the workforce
 depending on the requirement of new product requirements and upgrades. However, I don't know how much
-of that analysis was used in practice to predict talent requirements. Perceptions and informal chatroom
-discussions are deemed reliable pointers to talent acquisition. Sometime in the past, I had an 
-interesting informal talk with a highly-placed company executive at Siemens Ltd. I gathered that 
-many established companies rely on campus placements at prestigious institutions like IITs or NITs. 
-They are not even bothered about candidate's academic grades. They evaluate the candidates based 
-on extra-curricular activities and the supposedly high brand value of the institutions. Most 
-companies have a sufficiently rigorous induction program that settles whether a candidate 
-can reach the finish line for induction. So they can spend little effort, time, and energy on talent 
-acquisition. The arguments for such a strategy are:
+of that analysis was used in practice to predict talent requirements. 
+
+Perceptions and informal chatroom discussions are deemed reliable pointers to talent acquisition. 
+Sometime in the past, I had an interesting informal talk with a highly-placed company executive at 
+Siemens Ltd. I gathered that many established companies rely on campus placements at prestigious 
+institutions like IITs or NITs. They are not even bothered about candidate's academic grades. 
+They evaluate the candidates based on extra-curricular activities and the supposedly high brand 
+value of the institutions. Most companies have a sufficiently rigorous induction program that
+settles whether a candidate can reach the finish line for induction. So they can spend little
+effort, time, and energy on talent acquisition. The arguments for such a strategy are:
 - Candidates must be intrinsically good if admitted to such institutions.
 - Weak candidates cannot survive the company's rigorous induction program.
 
 The above two points are simple yet powerful SOPs for talent acquisition, which have remained
-most companies' core hiring principles in campus placements. However, such a relaxed approach
-focuses on talent acquisition from IITs, NITs, and the institutions that use JEE advance scores 
-for admissions. Therefore, it is no brainer to understand why the recruiters rely on it. 
-Unfortunately, such a relaxed approach to talent acquisition is not possible for campus placements
-at a few hundred other middle-tier institutions. There may be highly talented candidates in these institutions
-who are better than the average candidates from IITs and NITs. 
-Creating and mining pseudo 
-profiles of exact talent requirements would be possible using AI-based predictive analytics. The actual profiles of job applicants can then be matched 
-with the mined profiles to produce a shortlist of prospective candidates without human intervention. 
-I don't know if any large recruiter is following such a process, but it looks promising. 
-The basic assumption for AI-based predictive analytics to work is that enough data exists to create 
-pseudo profiles and mine them. Whether the recruiters would share them is debatable. Therefore, the 
-premise behind such a conclusion is that each company must develop analytics on its 
+most companies' core hiring principles in campus placements from IITs, NITs and a handful of 
+institutions that use JEE advance scores for admission. It is no brainer to understand why the
+recruiters rely on it. Unfortunately, such a relaxed approach to talent acquisition is not possible
+for campus placements at hundreds of other middle-tier institutions. There may be highly talented 
+candidates in these institutions who are better than the average candidates from IITs and NITs. 
+AI-based predictice analytics makes it possible to create and mine pseudo profiles of exact talent 
+requirements. The profiles of actual job applicants can be matched with the mined profiles to produce
+a shortlist of prospective candidates without human intervention. I don't know if any large 
+recruiter is following such a process, but it looks promising. The basic assumption for AI-based 
+predictive analytics to work is that enough data exists to create pseudo profiles and mine them. 
+Whether the recruiters would share data is debatable. Therefore, the 
+premise behind such a conclusion is that each company must develop analytics on its available 
 data. In that case, can the approach be generic enough? It is possible. First, we need 
 to create sufficient abstractions to build the set of AI-based predictive analytics. These
 cannot be any different from statistical methods for predictive analytics coupled with the principles of
-automated reasoning. The next step is training with data, which can be performed and customized as per
-the requirements of an enterprise. 
+automated reasoning. The next step is training with data, which can be performed over synthetically
+generated data and customized as per the requirements of an enterprise. 
 
 Candidate resourcing could be easy through automated tools. Though it might not be possible 
 identify actual candidates, it would be pretty simple to gather enough information from
-many published web resources and social media activities of people, where they graduated from, to which
-organizations they belong to, Facebook/Instagram profiles of the candidates, and the interest groups 
-they are associated with, and so on. 
+many published web resources and social media activities of candidates, where they graduated from, 
+to which organizations they belong to, Facebook/Instagram profiles of the candidates, and the 
+interest groups they are associated with, and so on. 
 
 Complete elimination of recruitment biases may not be desirable at times. An ideal candidate is 
 sometimes not the best one to recruit. The suitability of a candidate would depend mainly on
