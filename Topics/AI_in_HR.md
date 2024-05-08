@@ -10,7 +10,7 @@ where AI may help are:
 - Strategizing future talent acquisition
 
 Many mid-sized companies already use specific in-house predictive analyses in 
-talent acquisition. Many companies in the past or even today are using substantially involved
+talent acquisition. In the past or even today some of them are using substantially involved
 statistical packages to predict the performance trends of the existing workforce. However, these 
 exercises remained in the domain of policymakers, who used them to evaluate where
 the enterprise or the organization is headed for. It allowed them to plan for reassigning the workforce
