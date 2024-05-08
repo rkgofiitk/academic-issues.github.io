@@ -71,7 +71,7 @@ than the problem solvers. So, an AI-based tool to evaluate performance is always
 preferable and affordable. Besides, the tool can provide regular personalized feedback for
 individuals' career progression.
 
-The last point is also amenable to tool-based predictive analytics. Overall, AI will
+The last point is also amenable to AI-based predictive analytics. Overall, AI will
 influence talent acquisition shortly. However, AI's effectiveness in detecting 
 singularities in any space would remain a suspect. The singularities in talent 
 acquisition can catapult an organization's success. Only an experienced human decision-maker 
