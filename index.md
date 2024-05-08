@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [Application of AI in Talent Acquisition](Topics/AI_in_HR.md)
 - [Ethics in Education and Research](Topics/ethics_in_education.md)
 - [Raising Employment Opportunities for CSE Graduates](Topics/cseGraduateJobs.md)
 - [Broken Education System of India](Topics/brokenEducation.md)
