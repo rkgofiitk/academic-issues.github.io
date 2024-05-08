@@ -1,40 +1,40 @@
 ## Applications of AI in Talent Acquisition
 
 Today, I came across an insightful post from one of my former students. He highlighted the 
-application of AI in talent acquisition by HR depts. The six aspects of talent acquisition strategies 
+application of AI in talent acquisition. The six aspects of talent acquisition strategies 
 where AI may help are:
-- Predictive analytics in talent requirements
+- Assessing talent requirements through predictive analytics
 - Automated candidate resourcing
 - Elimination of recruitment biases
 - Analysis and forecasting of workforce trend
 - Strategizing future talent acquisition
 
 Many mid-sized companies already use specific in-house predictive analyses in 
-talent acquisition. In the past, or even today, some of them have used substantially involved
-statistical packages to predict the performance trends of the existing workforce. However, these 
-exercises remained in the domain of policymakers, who used them to evaluate where
+talent acquisition. In the past, or even today, some of these companies have used statistical packages
+like SPSS for data-driven decision-making, breaking the silos created by various systems and tools. 
+However, these exercises remained in the domain of policymakers, who used them to evaluate where
 the enterprise or the organization was headed. It allowed them to plan for reassigning the workforce
 depending on the requirement of new product requirements and upgrades. However, I don't know how much
-of that analysis was used in practice to predict talent requirements. 
+of SPSS based predictive analytics was used in practice to predict talent requirements. 
 
 Perceptions and informal chatroom discussions are deemed reliable pointers to talent acquisition. 
 Sometime in the past, I had an interesting informal talk with a highly-placed company executive at 
 Siemens Ltd. I gathered that many established companies rely on campus placements at prestigious 
 institutions like IITs or NITs. They are not even bothered about candidate's academic grades. 
 They evaluate the candidates based on extra-curricular activities and the supposedly high brand 
-value of the institutions. Most companies have a sufficiently rigorous induction program that
-settles whether a candidate can reach the finish line for induction. So they can spend little
-effort, time, and energy on talent acquisition. The arguments for such a strategy are:
+value of the institutions they come from. Most companies have a sufficiently rigorous induction 
+program that settles whether a candidate can reach the finish line for induction. So they can 
+spend little effort, time, and energy on talent acquisition. The arguments for such a strategy are:
 - Candidates must be intrinsically good if admitted to such institutions.
 - Weak candidates cannot survive the company's rigorous induction program.
 
 The above two points are simple yet powerful SOPs for talent acquisition, which have remained
-most companies' core hiring principles in campus placements from IITs, NITs and a handful of 
+the core hiring principles of most companies in campus placements from IITs,  NITs, and a handful of 
 institutions that use JEE advance scores for admission. It is no brainer to understand why the
 recruiters rely on it. Unfortunately, such a relaxed approach to talent acquisition is not possible
 for campus placements at hundreds of other middle-tier institutions. There may be highly talented 
 candidates in these institutions who are better than the average candidates from IITs and NITs. 
-AI-based predictice analytics makes it possible to create and mine pseudo profiles of exact talent 
+AI-based predictive analytics allows the creation and mining pseudo profiles of exact talent 
 requirements. The profiles of actual job applicants can be matched with the mined profiles to produce
 a shortlist of prospective candidates without human intervention. I don't know if any large 
 recruiter is following such a process, but it looks promising. The basic assumption for AI-based 
@@ -43,8 +43,8 @@ Whether the recruiters would share data is debatable. Therefore, the
 premise behind such a conclusion is that each company must develop analytics on its available 
 data. In that case, can the approach be generic enough? It is possible. First, we need 
 to create sufficient abstractions to build the set of AI-based predictive analytics. These
-cannot be any different from statistical methods for predictive analytics coupled with the principles of
-automated reasoning. The next step is training with data, which can be performed over synthetically
+cannot be any different from statistical methods for predictive analytics coupled with the principles 
+of automated reasoning. The next step is training with data, which can be performed over synthetically
 generated data and customized as per the requirements of an enterprise. 
 
 Candidate resourcing could be easy through automated tools. Though it might not be possible 
