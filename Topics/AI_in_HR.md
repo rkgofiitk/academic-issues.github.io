@@ -14,8 +14,8 @@ talent acquisition. In the past, or even today, some of these companies have use
 like SPSS for data-driven decision-making, breaking the silos created by various systems and tools. 
 However, these exercises remained in the domain of policymakers, who used them to evaluate where
 the enterprise or the organization was headed. It allowed them to plan for reassigning the workforce
-depending on the requirement of new product requirements and upgrades. However, I don't know how much
-of SPSS based predictive analytics was used in practice to predict talent requirements. 
+depending on the requirements of new product and upgrades of existing products. However, I don't 
+know how much of SPSS based predictive analytics was used in practice for talent acquisition. 
 
 Perceptions and informal chatroom discussions are deemed reliable pointers to talent acquisition. 
 Sometime in the past, I had an interesting informal talk with a highly-placed company executive at 
