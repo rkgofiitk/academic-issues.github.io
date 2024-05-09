@@ -28,7 +28,7 @@ spend little effort, time, and energy on talent acquisition. The arguments for s
 - Candidates must be intrinsically good if they could get admissions into "good" institutions.
 - Weak candidates cannot survive the company's rigorous induction program.
 
-The above two points are simple yet powerful SOPs for talent acquisition, which have remained
+The above two points are simple yet powerful SOPs for talent acquisition, and have remained
 the core hiring principles of most companies in campus placements from IITs,  NITs, and a handful of 
 institutions that use JEE advance scores for admission. It is no brainer to understand why the
 recruiters rely on it. Unfortunately, such a relaxed approach to talent acquisition is not possible
