@@ -9,7 +9,7 @@ where AI may help are:
 - Analysis and forecasting of workforce trend
 - Strategizing future talent acquisition
 
-Many mid-sized companies already use specific in-house predictive analyses in 
+Many mid-sized companies already use specific in-house predictive analytics for  
 talent acquisition. In the past, or even today, some of these companies have used statistical packages
 like SPSS for data-driven decision-making, breaking the silos created by various systems and tools. 
 However, these exercises remained in the domain of policymakers, who used them to evaluate where
