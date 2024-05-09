@@ -1,6 +1,6 @@
 ## Applications of AI in Talent Acquisition
 
-Today, I came across an insightful post from one of my former students. He highlighted the 
+Recently, I came across an insightful post from one of my former students. He highlighted the 
 application of AI in talent acquisition. The six aspects of talent acquisition strategies 
 where AI may help are:
 - Assessing talent requirements through predictive analytics
