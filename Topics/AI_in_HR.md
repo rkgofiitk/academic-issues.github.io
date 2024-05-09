@@ -20,12 +20,12 @@ know how much of SPSS based predictive analytics was used in practice for talent
 Perceptions and informal chatroom discussions are deemed reliable pointers to talent acquisition. 
 Sometime in the past, I had an interesting informal talk with a highly-placed company executive at 
 Siemens Ltd. I gathered that many established companies rely on campus placements at prestigious 
-institutions like IITs or NITs. They are not even bothered about candidate's academic grades. 
+institutions like IITs or NITs. They are not unduly bothered about candidate's academic grades. 
 They evaluate the candidates based on extra-curricular activities and the supposedly high brand 
 value of the institutions they come from. Most companies have a sufficiently rigorous induction 
-program that settles whether a candidate can reach the finish line for induction. So they can 
+program that settles whether a candidate reach the finish line for induction. So they can 
 spend little effort, time, and energy on talent acquisition. The arguments for such a strategy are:
-- Candidates must be intrinsically good if admitted to such institutions.
+- Candidates must be intrinsically good if they could get admissions into "good" institutions.
 - Weak candidates cannot survive the company's rigorous induction program.
 
 The above two points are simple yet powerful SOPs for talent acquisition, which have remained
