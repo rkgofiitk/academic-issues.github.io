@@ -41,40 +41,43 @@ recruiter is following such a process, but it looks promising. The basic assumpt
 predictive analytics to work is that enough data exists to create pseudo profiles and mine them. 
 Whether the recruiters would share data is debatable. Therefore, the 
 premise behind such a conclusion is that each company must develop analytics on its available 
-data. In that case, can the approach be generic enough? It is possible. First, we need 
+data. In that case, can the approach be generic enough? Yes, it is possible. First, we need 
 to create sufficient abstractions to build the set of AI-based predictive analytics. These
 cannot be any different from statistical methods for predictive analytics coupled with the principles 
 of automated reasoning. The next step is training with data, which can be performed over synthetically
 generated data and customized as per the requirements of an enterprise. 
 
-Candidate resourcing could be easy through automated tools. Though it might not be possible 
+Candidate resourcing could be easy through automated tools. Though it might not always be possible 
 identify actual candidates, it would be pretty simple to gather enough information from
-many published web resources and social media activities of candidates, where they graduated from, 
-to which organizations they belong to, Facebook/Instagram profiles of the candidates, and the 
-interest groups they are associated with, and so on. 
+many published resources which include:
+- The institutions from where the candidates graduated, 
+- The organizations they belong to,
+- Facebook/Instagram profiles of the candidates,
+- Social media activities of the candidates,
+- The interest groups the candidates are associated with, and so on. 
 
 Complete elimination of recruitment biases may not be desirable at times. An ideal candidate is 
 sometimes not the best one to recruit. The suitability of a candidate would depend mainly on
-the environment. The environment can be defined as a three-dimensional space consisting of personal 
+the environment. The environment is essentially a three-dimensional space consisting of personal 
 space (including the family), workspace, and societal space. The complex interplay of 
 these spaces may cloud the psycho-analytic evaluation of a candidate's suitability for a particular job.
 Human decision-makers have unexplainable instincts to determine a candidate's worthiness under
 constrained environmental conditions. It would be difficult to capture them (human instincts) through 
-AI tools or techniques. Yet, AI can eliminate conflict of interest, nepotism, 
-cronyism, and other human frailties in favoring a candidate over another.
+AI tools or techniques. Yet, AI can eliminate conflict of interest, nepotism, cronyism, and other
+human frailties which favor one candidate over another.
 
 Analysis and forecasting of workforce trends are pretty straightforward. AI has an edge over 
 human-assisted techniques. Many statistical methods exist in this space. AI techniques would rely
 on these methods but can make a much more insightful analysis. HR personnel are always viewed with a 
 bit of mistrust by the employees. Sometimes, the employees consider them a part of the problem rather 
-than the problem solvers. So, an AI-based tool to evaluate performance is always 
-preferable and affordable. Besides, the tool can provide regular personalized feedback for
-individuals' career progression.
+than the solution. So, an AI-based tool to evaluate performance is not only 
+preferable but affordable too. Besides, the tool can be designed to provide regular personalized
+feedback for an individual's career progression.
 
-The last point is also amenable to AI-based predictive analytics. Overall, AI will
-influence talent acquisition shortly. However, AI's effectiveness in detecting 
-singularities in any space would remain a suspect. The singularities in talent 
-acquisition can catapult an organization's success. Only an experienced human decision-maker 
-can spot such outliers in talent acquisition.
+The last point is also amenable to AI-based predictive analytics. Overall, AI will increasingly
+influence talent acquisition in near future. However, AI's effectiveness in detecting 
+singularities in any space would still remain a suspect. The singularities in talent 
+acquisition can catapult an organization's success in a short span of time. Only an experienced
+human decision-maker can spot such outliers in talent acquisition.
 
 [Back to Index](../index.md)
