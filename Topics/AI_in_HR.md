@@ -80,4 +80,5 @@ singularities in any space would still remain a suspect. The singularities in ta
 acquisition can catapult an organization's success in a short span of time. Only an experienced
 human decision-maker can spot such outliers in talent acquisition.
 
+
 [Back to Index](../index.md)
