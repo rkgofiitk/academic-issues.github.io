@@ -8,8 +8,8 @@ NID was established at Ahmedabad in 1961 which offered courses on Industrial Des
 Industrial Design Center came up in 1969, it initially offered M. Des program. The first Indian 
 university to offer 4 years batchelor program in Design (B. Des) is IIT Guwahati in 1999.   
 
-Design is the most fundamental building block for any discipline. 
-Engineering, be it Manufacuring,
-Communication Technologies, Architecture, Town-Planning, Advertising, Brand Development, Marketing, 
-Business Development, Entrepreneurship, Fashion, Textiles, Visual Merchandising, Interior Design, Theatre, TV Production, Film, Publishing, Animation and Multi-media, Arts, service design and interaction design.
+Design is the most fundamental building block for any discipline.  
+Engineering, Manufacuring,Communication Technologies, Architecture, Town-Planning, Advertising, Brand Development, Marketing, 
+Business Development, Entrepreneurship, Fashion, Textiles, Visual Merchandising, Interior Design, Theatre, TV, and Movie Production, 
+Publishing, Animation and Multi-media, Arts, Service design and interaction design.
 
