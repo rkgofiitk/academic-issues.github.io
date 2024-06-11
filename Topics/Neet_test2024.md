@@ -16,7 +16,7 @@ a subjective test. Those who did not qualify for the MCO test were eliminated af
 In May 2012, the then HRD minister, Mr. Kapil Sibal, wanted to replace IIT JEE with a common test for
 all engineering colleges. IITs opposed it, pointing out that it violated the IIT Acts passed
 by parliament. However, most IIT Directors sided with Mr. Sibal. The Senates of IIT Kanpur, IIT Bombay, 
-and IIT Delhi were spearheading the confrontation with the HRD minister. Mr Sibal said  
+and IIT Delhi were spearheading the confrontation with the HRD minister. Mr Sibal threatened that 
 he would create another IITK (euphemistically termed IIT Kapil) if IITK were to conduct its admission test.
 However, IIT councils brokered a compromise. AIEEE JEE (mains) was created to replace IIT's screening
 test. The process has worked without problems as far as IIT admissions are concerned because
