@@ -1,5 +1,7 @@
 # NEET 2024 Fiasco, NTA Goofs-up Big
 
+[Blog index](../index.md)
+
 Let us first begin with the creation of NTA. In 1961, the IITs agreed to hold a Joint Entrance Examination (JEE)
 for admissions into their UG program. Since then, JEE has been ranked consistently as one of the world's most 
 challenging and the most secured examinations in India. However, it was not entirely without controversies.
@@ -91,5 +93,5 @@ solutions. There is no way to replace a leveler like a secured admission test. W
 the job or not is the point of debate.
 
 
-
+[Back to index](../index.md)
 
