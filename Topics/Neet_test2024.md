@@ -31,6 +31,31 @@ structure of India. However, education is in concurrent list. So central govt ha
 enact law related to administration of Education as a service to people. Medical Council of India
 is a powerful body of doctors in India. MCI too opposed NEET when CBSE mooted it. That explains 
 the reason why NEET is such a controversial entrace examination. So, it is hard to imagine why
-NTA goofed NEET 2024 up so badly. I understand 67 examinees scored  
+NTA goofed NEET 2024 up so badly. I understand 67 examinees scored 719 out of 720 marks and one
+center in Haryana alone had six such examinees topping with AIR 1. Already people from Andhra
+and Telengana had knocked Supreme court seeking a cancellation of NEET 2024 result. 
+
+According to reports, NTA awarded grace marks to 1500 candidates who complained about wrong
+questions. NTA explains that because of grace marks, statistically impossible situations of 
+candidate scoring 719 and 718 have arisen. There were reports which also suggest that test papers
+were leaked out before the conduct of examination in Patna. Apparently, an FIR lodged with
+Sashtri Nagar Police station in Patna. However, I have no independent confirmation to back the
+report. Social media is full of personal accounts of candidates who claimed wrong papers were
+distributed in a few centers and taken back after they have already started solving the paper
+and marking OMRs. Clearly, NTA has not been able to establish a full-proof process for test
+and chewed more than it can probably digest. IITs conduct online GATE examination without much
+of a problem from 2014. I don't understand why NTA is still having teething problem. I am not
+casting any asperstions on NTA chief or its organizational setup without knowing details. But
+I believe buck stops at chief's desk. It is high time that govt revamps NTA structure considering
+the large stakeholders' base. There should be a through review of NTA's organizational setup 
+to localize the goof up. The test process itself should be vetted by experience people with proven
+track record of integrity. I think just putting big names is not enough. We need experts who
+go into micro-level details of the process of conducting a secure exam rather than award seeking
+CV-building individuals. It is not rocket science to discover who or which loop-hole in the
+process of conducting examination brought the entire process under cloud. 
+
+The other thing I want to point out is about Patna which many say is the location where question
+papers were leaked. It happened also in JEE 1997. Some thinking must be done about it. 
+
 
 
