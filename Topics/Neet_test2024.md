@@ -54,8 +54,23 @@ go into micro-level details of the process of conducting a secure exam rather th
 CV-building individuals. It is not rocket science to discover who or which loop-hole in the
 process of conducting examination brought the entire process under cloud. 
 
-The other thing I want to point out is about Patna which many say is the location where question
-papers were leaked. It happened also in JEE 1997. Some thinking must be done about it. 
+The other thing I want to point out is about Patna which many say is the location where test
+papers were leaked. It happened also in JEE 1997. Some thinking must be done about location of
+test centers or create processes that will ensure sanctity of the test. Unfortunately, people in 
+lower the chain to conduct test can be bribed easily. Light punishments against corruption in the
+country has emboldened ordinary non-descript even god fearing people to accept bribe as if it
+is almost a way of life like religion is.
+
+One retired justice of Madras highcourt reported to have suggested the DMK govt in Tamilnadu to
+abolish NEET and take steps to ensure plus two marks be considered for admission. People having no
+connection to reality are pushing opinions to muddy the water. First of all, the sanctity of the
+school leaving exam is well known. Examiners are constant pressure from influential parents, 
+politician friends of candidate to improve and even undermine the evaluation process. There are 
+schools where competent teachers are unavailable. State govts are in competitions to close down
+govt run schools. Under the situation the school education is essentially a scam where students
+with sufficiently influential parent could score above the required threshold. So, advocacy by the
+opinion makers seem to invite more problems than solutions. There is no way to replace a leveler
+like secured admission test. Whether NTA is a upto the job or not is the point of debate.
 
 
 
