@@ -18,7 +18,7 @@ all engineering colleges. IITs opposed it, pointing out that it violated the IIT
 by parliament. However, most IIT Directors sided with Mr. Sibal. The Senates of IIT Kanpur, IIT Bombay, 
 and IIT Delhi were spearheading the confrontation with the HRD minister. Mr Sibal threatened that 
 he would create another IITK (euphemistically termed IIT Kapil) if IITK were to conduct its admission test.
-However, IIT councils brokered a compromise. AIEEE JEE (mains) was created to replace IIT's screening
+However, IIT council could broker a compromise. AIEEE JEE (mains) was created to replace IIT's screening
 test. The process has worked without problems as far as IIT admissions are concerned because
 Advanced JEE is still under the control of IITs. CBSE controlled JEE(mains) initially. A few minor
 incidents of paper leakage happened during that time. However, CBSE promptly took situations under control
@@ -36,16 +36,16 @@ India's federal structure. However, education is on the concurrent list. So, the
 enact laws related to the administration of education as a service to the people. The Medical Council of India
 is a powerful body of doctors. MCI also opposed NEET when NTA floated the idea for fear of losing clout in
 medical education. That explains why NEET is such a controversial entrance examination. It is, therefore,
-hard to imagine why NTA goofed up badly in condcut of NEET 2024. I understand that 67 examinees scored 720 out
+hard to imagine why NTA goofed up badly in conduct of NEET 2024. I understand that 67 examinees scored 720 out
 of 720 marks, and one center in Haryana alone had six such examinees topping with AIR 1. Already, people from Andhra
 and Telangana had knocked the Supreme Court seeking a cancellation of the NEET 2024 result. It is rather strange
 to hear that the Supreme Court has allowed NTA to continue counselling process.
 
-According to reports, NTA awarded grace marks to over 1500 candidates who complained about wrong
+According to reports, NTA awarded grace marks to over 1563 candidates who complained about wrong
 questions. NTA explains that a statistically impossible situation of 67 
 candidates scoring 720 has arisen because of grace marks. Some reports also suggest that test papers
 were leaked before the examination was conducted in Patna. An FIR was lodged with
-Sashtri Nagar Police station in Patna. However, I have no independent confirmation to back the
+Sashtri Nagar Police station of Patna. However, I have no independent confirmation to back the
 report. Social media is full of personal accounts of candidates who claimed the invigilators distributed the wrong papers
 in a few centers and were taken back after they started solving the paper
 and marking OMRs. NTA still needs to establish a foolproof process for conducting tests. It appears to
