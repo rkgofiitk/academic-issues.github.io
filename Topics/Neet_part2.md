@@ -23,11 +23,16 @@ Mr. Subodh K. Singh was giving clarifications on NEET 2024 results.
 - Is there an instance when NTA published results 10 days in advance?
 
 Mr. Alakh Pandey of Physicswalla says NTA's clarification did not deal with the question that Bihar police arrested some people 
-from Gujrat. Some of these arrested persons reportedly paid up to 50 lacs to get test paper ahead of test date. It was not clear
-how an investigation by a committee of four headed by Chairperson UPSC could resolve these issue. Quite obviously, there is an
-angle of criminality in leakage of test papers. The committee of academics and UPSC chairpersons are not trained to investigate
-criminal angle of the test fiasco. Does it mean that NTA is absolutely sure that no leakage happened ever? Watching the press
-conference, I felt NTA chief was evasive not direcly answering pointed questions. He only harped on transparency of NTA processes.
-The secretary education dept of Govt of India, Mr. Sandip Murthy did not take any question from the press or say a word during
-the entire press conference.
+from Gujrat. Some of these arrested persons reportedly paid up to 50 lacs to get test paper ahead of test date. Mr. Pandey also
+tells that there are people in different states who are in business of leaking question papers with a price. It clearly points 
+to the fact that NTA's house is not in order. There are insiders in the agency who are actively involved with the pan-national
+criminals. Quite obviously, there is an angle of criminality in leakage of test papers. The committee of academics and UPSC
+chairpersons are not trained to investigate criminal angle of the test fiasco. Does it mean that NTA is absolutely confident 
+that no leakage happened ever? Watching the press conference, I felt NTA chief was evasive, and not direcly answering pointed
+questions. He only harped on transparency of NTA processes. The secretary education dept of Govt of India, Mr. Sandip Murthy who
+was present during the press conference did not given any clarification or take any question from the press. Is the government
+looking for a fall guy? If so, Mr. Singh will be fall guy. However, no one is prepared to take the responsibility of putting
+the future of 13 lac qualifiers in jeopardy. I also did not understand the logic of declaring 13 lac qualifiers when only
+1 lac seats are available. It appears those who scored 640-650 won't find a place in any of the government medical colleges
+because total number of seat in these colleges is about 42k. 
 
