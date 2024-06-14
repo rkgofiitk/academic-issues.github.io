@@ -12,7 +12,7 @@ these out for the readers.
 - Is there a known scientific method of mapping lost time to the problem-solving efficiency of a candidate?
 - Is the mapping unique or varies with the difficulty level of the subject or the question?
 - Did NTA use any AI-assisted technique to determine problem-solving efficiency?
-- If so, are these AI techniques provably correct, or what training data did it use?
+- If so, are these AI techniques provably correct, and what training data did it use?
 - What is the maximum lost time across all centers?
 - What is the maximum grace mark a student can be awarded for lost time
 - How many test questions are wrong? 
