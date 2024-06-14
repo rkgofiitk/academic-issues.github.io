@@ -9,7 +9,7 @@ these out for the readers.
 - Did NTA pre-announce the award of grace marks?
 - If so, did it specify the situations under which grace marks should be awarded?
 - Are the late start and loss of time due to the wrong question included? 
-- Is there a known scientific method of mapping lost time to the problem-solving efficiency of each candidate?
+- Is there a known scientific method of mapping lost time to the problem-solving efficiency of a candidate?
 - Is the mapping unique or varies with the difficulty level of the subject or the question?
 - Did NTA use any AI-assisted technique to determine problem-solving efficiency?
 - If so, are these AI techniques provably correct, or what training data did it use?
