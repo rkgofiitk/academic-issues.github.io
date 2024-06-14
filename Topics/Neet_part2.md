@@ -19,12 +19,18 @@ Mr. Subodh K. Singh was giving clarifications on NEET 2024 results.
 - Was a retest conducted in any center?
 - Did NTA prerserve the full recording of CCTV images at the centers?
 - If so, would the investation committee have acces to those images?
+- How could the ranks explode beyond 58000 for marks in range 650-600?
 - Why was the result published 10days in advance to coincide with election result day?
 - Is there an instance when NTA published results 10 days in advance?
 
-Mr. Alakh Pandey of Physicswalla says NTA's clarification did not deal with the question that Bihar police arrested some people 
-from Gujrat. Some of these arrested persons reportedly paid up to 50 lacs to get test paper ahead of test date. Mr. Pandey also
-tells that there are people in different states who are in business of leaking question papers with a price. It clearly points 
+Mr. Alakh Pandey of Physicswalla says NTA's clarification did not deal with the question that Bihar 
+police arrested some people from Gujrat and Patna. Some of these arrested persons reportedly paid up to 
+50 lacs to get test paper ahead of test date. Mr. Pandey also tells that there are people in different 
+states who are in business of systematic leaking question papers with a price. How could NTA be 
+unware of what Alakh Pandey says. I believe that NTA has a security aparatus considering the fact
+they conduct tests for nearly 5.0 million students for many admissions tests such as JEE(mains), NEET,
+CMAT, GPAT, JNUEE and UGC NET. 
+It clearly points 
 to the fact that NTA's house is not in order. There are insiders in the agency who are actively involved with the pan-national
 criminals. Quite obviously, there is an angle of criminality in leakage of test papers. The committee of academics and UPSC
 chairpersons are not trained to investigate criminal angle of the test fiasco. Does it mean that NTA is absolutely confident 
