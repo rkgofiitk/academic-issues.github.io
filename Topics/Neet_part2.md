@@ -14,7 +14,7 @@ these out for the readers.
 - Did NTA use any AI-assisted technique to determine problem-solving efficiency?
 - If so, are these AI techniques provably correct, and what training data did it use?
 - What is the maximum lost time across all centers?
-- What is the maximum grace mark a student can be awarded for lost time
+- What is the maximum grace mark a student can be awarded for lost time?
 - How many test questions are wrong? 
 - How many marks are involved in wrong questions?
 - Who constituted the expert committee recommending the award of grace marks?
