@@ -43,13 +43,13 @@ Since CLAT had a recording of the candidate's clock, it could determine the exac
 candidate. It could also estimate the problem-solving efficiency from time spent on solving questions.
 Though the method is not entirely scientific, it allowed a level playing field for the 
 award of grace marks. NEET is an offline examination. So, it is surprising how the so-called expert
-committee arrived at the formula for measuring the problem-solving efficiency of the candidates. More
-precisely,
+committee arrived at the formula for measuring the problem-solving efficiency of the candidates. In
+particular,
 
-- What is the formula for estimating the answering efficiency of an average candidate in an offline test?
-- Did NTA preserve CCTV images to evaluate centers where the loss of time occurred? 
+- What formula did the expert committe recommend for estimating the answering efficiency of an average candidate in an offline test?
+- Did NTA preserve CCTV images and allowed its access to the expert committee? 
 
-NTA reported clarifying that time loss occurred in at least six centers in the Sawai Madhavpur
+NTA reportedly clarified that time loss occurred in at least six centers in the Sawai Madhavpur
 district of Rajasthan. However, NTA needed to explain if all 1563 students awarded grace
 marks belonged to only these six centers. I cannot comprehend how the answering efficiency of a 
 student can be estimated without applying the LLM model, especially when three different subjects (PCB) are 
@@ -57,11 +57,9 @@ involved. If NTA indeed applied the LLM model, kudos to it! We should hail the i
 Furthermore, there is a center at Bahadurgarh in Haryana where six students scored 720. How was that 
 possible? 
 
-
-
-Let me turn to the menace of coaching centers. At IITs, we knew many retired science professors attached 
+Let me digress a bit and turn to the menace of coaching centers. At IITs, we knew many retired science professors attached 
 to coaching centers would drop by on the pretext of catching up with old colleagues close to JEE 
-preparation time. The sole aim of Bonhomie was to extract the pattern of the JEE (advance) test. 
+preparation time. The sole aim of <i>bonhomie</i> was to extract the pattern of the JEE (advance) test. 
 JEE organizing chairperson would routinely go incommunicado for the entire year to ward off 
 these sophisticated bots. Of course, I am talking about the times when AI-based techniques for
 hacking were rare place. I wonder if some of the sophisticated coaching centers
@@ -73,7 +71,7 @@ know if only 1563 or more students were given grace marks. How can an agency tha
 up so badly be believed about the figures they put out in the public domain? However, it is difficult
 to extract more information unless an investigating agency goes hard on the trails. 
 
-Considering that fact NTA conducts entrance tests such as JEE(mains), NEET, CMAT, GPAT, JNUEE, and UGC 
+Considering that fact NTA conducts entrance tests such as JEE (mains), NEET, CMAT, GPAT, JNUEE, and UGC 
 NET must have a standing committee for ethics and security. However, I did not find anything about the 
 existence of such a committee, at least in the public domain. So, it is unclear if NTA does have a setup to
 handle ethics and security. The combined number of aspirants who sit for these tests would 
@@ -90,17 +88,17 @@ There is rise of 0.3 million in the number of aspirants compared to 2023. At the
 quality of students remains almost identical, or there is a marginal improvement in rank. 
 Performance improvement in the top 1000 aspirants would be at least 10-15% at best. So,
 at most <i>1.15n</i>, students may bunch for the top 1000 places. It is true that bunching 
-progressively increases down the list. However, it is surprising to see that it has exceeded almost
-Five times compared to 2023, when the overall increase in the number of candidates is just 25%. We
+progressively increases down the list. It is surprising to see that the figure has exceeded almost
+five times compared to 2023, though the overall increase in the number of candidates is just 25%. We
 must understand that the entrance tests are used as filters (elimination) rather than
 selection. So, it makes little sense to treat it as a qualifier, especially when the country
 cannot offer equal medical education opportunities. The governments before
 2014 did not anticipate the problem and allowed MCI to establish its stranglehold over the medical 
 education system in the country.
 
-The committee of academics and UPSC chairpersons appointed by NTA are not trained to investigate
-the criminal angle of the test fiasco. How can NTA be sure that no leakage ever happens? 
-However, watching the press conference, I felt the NTA chief needed to be more evasive and not directly answer 
+The committee of academics chaired by the UPSC chairperson that NTA has appointed cannot investigate
+the criminal angle of the test fiasco. How can NTA be sure that leakage never happened? 
+However, watching the press conference, I felt the NTA chief was evasive and not directly answer 
 pointed questions. He only harped on the transparency of NTA processes. The secretary of education dept of 
 Govt of India, Mr. Sanjeev Murthy, who was present during the press conference, did not give any 
 clarification or take any questions from the press. That, too, was odd. Why did he have to show up
@@ -109,8 +107,9 @@ will, in all probability, be the fall guy. However, no one is prepared to take t
 putting the future of 1.3 million qualifiers in jeopardy. 
 
 Mr. Alakh Pandey's concern regarding reopening the registration window from 9-10 April 2024 indicates 
-a sinister design. Did NTA reopen it to facilitate the change of centers? It is reported that sixteen
-students were clubbed into one center in Godra, Gujrat. Did all of them changed their centers during the two day time.
+a systematic design for hacking the test. Did NTA reopen it only to facilitate the change of centers?
+It is reported that sixteen such students were clubbed into one center in Godra, Gujrat. Did all of
+them score good marks? What are the ranks of these students?
 
 Lastly, I also did not understand the logic of declaring 1.3  qualifiers when only
 0.1 million seats are available. Those who scored 640-650 won't find a place in government medical colleges
