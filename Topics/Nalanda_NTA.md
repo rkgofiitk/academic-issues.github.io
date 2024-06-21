@@ -8,8 +8,9 @@ of zero at Nalanda University. The university excelled all branches of science a
 housed over 10k students from around the world. The Turkish origin muslim invader Bakhtiyar Khiliji 
 destroyed the university and set its cherished library on fire. However the post is not about how 
 it was destroyed, there are many accounts of the burning of Nalanda University in history books and
-some excellent videos available in youtube. I wish to restrict myself to India's quest to reclaim
-the venerable Nalanda legacy of the past.
+some excellent videos available in youtube. Erstwhile Nalanda served and propelled some of the greatest 
+cognitive discoveries. It had disciplines like mathematics, astrophysics and medical sciences. 
+I wish to restrict myself to India's quest to reclaim the venerable Nalanda legacy of the past.
 
 The modern campus of Nalanda University was funded by cooperative efforts of 10 countries of east
 Asia Summit (Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, 
@@ -36,5 +37,25 @@ teaching of mathematics in statistics in India is in absymal state. We could tra
 country to become a powerhouse of ideas and innovations. Unless government makes a solid 
 investments in HR, it would remain in the never ending loop of traders and service renders.
 
-Erstwhile Nalanda served and propelled some of the greatest cognitive discoveries. It had disciplines
-like mathematics, astrophysics and medical sciences.  
+The second event is scrapping of UGC-NET test by the Education Ministry. NTA now faces serious 
+existential threat as a credible national test agency. The NET questions papers were reportedly
+available on dark nets before the test. Education Mafiaso is creating havoc in India and giving
+serious competitions to perhaps El Chapo or Pablo Esocbar. Now is the time for the government to
+think about establishing NCB for Education malpractices. I also think state level education 
+bosses with active political help from state politicians are trying to run down NTA. There has
+been a clamour from TN, Karnatak, and even the main opposition party Congress to devolve power
+of conducting eligibility test to state level. Once the control is ceded to state the education
+mafia would have almost freepass. At least right things are getting detected. 
+
+Let me now wrap up this post with a few remarks about NEET 2024. 
+- Court intervention on NEET 2024 like urgent matters has not been up to expectation.
+- Government must not outsource NEET 2024 fiasco entirely to court adjudication.
+- Court can perhaps be involved in long term legal and ethical issues connected to conduct of test.
+- It will be unfair on thousands of successful candidates if a retest is ordered.
+- Retest is only possible if large-scale leakage happened.
+- The real challenge would be localize the leakage area where retest can be ordered.
+- The activities of coaching centers should be monitored on regular basis as a preventive measure. 
+- Life time ban on politicians should be imposed for any involvement in leakage issue. 
+
+I know many of the points mentioned above would be difficult to implement as they may involve 
+infringement of privacy issues. But desparet situations demand desparet measures. 
