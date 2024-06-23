@@ -1,5 +1,7 @@
 # Nalanda Inauguration & UGC-NET 
 
+[Blog Index](../index.md)
+
 The events of 19th June 2024 were academically more significant than in the last five 
 years. The first is the Nalanda Campus, inaugurated by the Prime Minister. Kumar Gupta 
 established Nalanda University in the 14th century. It was hailed as the finest citadel of learning 
@@ -88,3 +90,5 @@ Let me wrap up this post with a few remarks about NEET 2024.
 
 Many of the points mentioned above would take a lot of work to implement as they may involve 
 infringement of privacy issues. But desperate situations demand desperate measures. 
+
+[Back to Index](../index.md)
