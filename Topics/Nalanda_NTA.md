@@ -1,7 +1,7 @@
 # Nalanda Inauguration & UGC-NET 
 
-The events of the day, 19th June 2024, were academically hot, as were the long summer days.  The 
-first is the Nalanda Campus, inaugurated by the Prime Minister. Kumar Gupta 
+The events of 19th June 2024, were academically more significant than it was in the last five 
+years. The first is the Nalanda Campus, inaugurated by the Prime Minister. Kumar Gupta 
 established Nalanda University in the 14th century. It was hailed as the finest citadel of learning 
 in the oriental world. Aryabhat invented the concept of zero at Nalanda University, revolutionizing
 mathematics and scientific studies. The Nalanda University excelled in all branches of science 
