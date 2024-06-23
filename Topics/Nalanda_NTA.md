@@ -40,9 +40,10 @@ such a university (with only an enrollment of 400 odd students) appears to be a 
 especially when a government is struggling even to ensure equal opportunities for medical sciences
 to its aspiring young citizens. 
 
-The country needs good doctors and many of them. About 2.3 million students sit for the NEET test. The government can train at least 0.1 million (approx. 4%) of them to become doctors, if not more. 
+The country needs good doctors and many of them. About 2.3 million students sit for the NEET test. 
+We can train at least 0.1 million (approx. 4%) of them to become doctors, if not more. 
 Except for a few institutions like ISI, CMI, and IITs, teaching mathematics in statistics in India
-is abysmal. We could train at least 0.1 million students to become better mathematicians,
+is abysmal. It is possible also to train at least 0.1 million students to become better mathematicians,
 statisticians, and data scientists. Human resources is critical for a country to become a
 powerhouse of ideas and innovations. Unless the government invests heavily in the development of 
 human resources, it will remain a nation of traders and service providers.
