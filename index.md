@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [NTA's NEET (Neat) Scam](Topics/NTA_neet.md)
 - [NTA's NEET (Neat) Scam](Topics/Neet_part2.md)
 - [NEET 2024 Fiasco, NTA Goofs-up Big](Topics/Neet_test2024.md)
 - [Application of AI in Talent Acquisition](Topics/AI_in_HR.md)
