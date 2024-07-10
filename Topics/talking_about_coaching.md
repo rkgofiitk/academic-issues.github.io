@@ -1,10 +1,15 @@
 # Coaching Centers Pulling Down Country's Economy
 
-I am disturbed by the effect of coaching business growing to become the largest non-creator of 
-wealth in the country. A country's growth depends on wealth creation much as activist and left liberals
-berate everyone who believe in it. A decadant political system called left is abandoned even in its 
-much cherised incubators like Russia and China. The idea of "wealth distribution" can never be fully
-realized even in an equitable system as activists and their ecosystem want us to believe. It is true 
+A country's growth depends on wealth creation much as activist and left liberals berate everyone who 
+believes in it. Sustainable growth adds to GDP. Unless manufacturing industry accounts for 20%, the 
+growth will not be sustainable. Indian growth story is led by service sector. It contributes to 50% of
+India's GDP. Valued at nearly US$ 6.5 billion, coaching institutions in India contributes only
+0.2% of country's GDP. The question then arises is: why do we worry about it's menace? 
+As such India's academic institutions do not rank so well compared to those in US, China, Singapore or
+Taiwan. Implementation of NEP has not made any impact on the ground. Still why there is so much 
+focus on coaching institutions? They prepare students for entrance into Medical colleges, Engineering
+and Management schools. International standards. However, it has potentials to turn India into the largest non-creator of wealth in the country. 
+ It is true 
 that with large part of population being in thores of abject proverty, then a nation cannot become a
 viable economy much less a world class economy. However, making billionaires flee the country and 
 lose interest in wealth creation would destroy a country's economy and make it go into debt trap. 
