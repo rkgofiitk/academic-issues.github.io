@@ -11,6 +11,7 @@ certain policies from a neutral viewpoint.
 
 ### Blog Links
 
+- [Technical Education in Vernacular Languages](Topics/teaching_in_mother_tongue.md)
 - [Nalanda Inauguration & UGC-NET](Topics/Nalanda_NTA.md)
 - [NTA's NEET (Neat) Scam](Topics/Neet_part2.md)
 - [NEET 2024 Fiasco, NTA Goofs-up Big](Topics/Neet_test2024.md)
