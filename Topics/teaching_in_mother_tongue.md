@@ -1,5 +1,7 @@
 # Technical Education in Vernacular Languages
 
+[Blog Index](../index.md)
+
 I had an enriching experience talking to an audience of educators in Odia at BITS, 
 Mesra. The 3-day workshop was sponsored by AICTE under a scheme called VANNI. The 
 scheme was mooted to initiate students in plus two grades in schools to 
@@ -70,3 +72,5 @@ with the task. Linguists, sometimes, have preconceived notions of the purity of 
 language. I think they may be ill-equipped to handle the problem and the
 requirements of simplifying or enriching a language suitably to be used
 as the medium of instruction for technical disciplines.
+
+[Blog Index](../index.md)
