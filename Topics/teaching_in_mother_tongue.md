@@ -1,4 +1,4 @@
-# Tech Education in Vernacular Languages
+# Technical Education in Vernacular Languages
 
 I had an enriching experience talking to an audience of educators in Odia at BITS, 
 Mesra. The 3-day workshop was sponsored by AICTE under a scheme called VANNI. The 
