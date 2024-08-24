@@ -17,11 +17,18 @@ on these aspirants is enormous and entirely borne by their parents. Perhaps a fe
 be supported by their parents to get quality education outside India while the rest who succeed are
 essentially self-made. The educational institutions outside the handful of elite schools mentioned
 above destroy any motivations that may still exist with the young aspirants. The whole scenario appears
-to turn the individual investments of large number
+to turn the individual investments of a large number
 of Indian middle class families into non-performing assets even if we include non-tangible gains out 
 of coaching industry. Coaching industry do not create wealth unlike manufacturing or service sectors.
 It essentially transfers wealth from personal savings to a few proprietors of coaching
-centers. It breaks a safety net for survival of middle class families in India. 
+centers and breaks the safety nets for survival of huge number of middle class families in India. 
+Governments do not care. The politicians are only interested to latch onto schemes that earn votes
+like providing freebies. Admittedly, freebies are needed for a large part of population that live
+in abject poverty. However, instead of increasing capex most state government are spending close to
+70% for freebies. A large part of the expenditure on freebies end up with buidling party cadres and
+really not serving the purpose it supposed to do. We still find beggars on streets of metros like
+Kolkata, Delhi, Bombay, Madras and Kanpur. I guess the situations in villages would be worse. Our
+political class has failed up miserably. 
 
  However, it has potentials to turn India into the largest non-creator of wealth in the country. 
  It is true 
