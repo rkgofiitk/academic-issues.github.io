@@ -9,15 +9,15 @@ aspirants for entrance tests for Medical, Engineering, Law, Managements and a fe
 courses. At most 2% of the aspirants get admissions into a few elite schools (IITs, NIITs, IIMs, AIMS,
 IISER, and a few other CFTIs) in India. The problem we should be worried about is: where most of the
 90-92% aspirants end up with. I believe at least 5% of the remaining aspirants are well prepared and
-still preserve motivations to succeed given adequate opportunities. The amount of investment on these
-aspirants is enormous and entirely borne by their parents. Perhaps a few of these aspirants may 
+still preserve motivations to succeed given adequate opportunities. The amount of collective investments 
+on these aspirants is enormous and entirely borne by their parents. Perhaps a few of these aspirants may 
 be supported by their parents to get quality education outside India while the rest who succeed are
 essentially self-made. The whole scenario appears to turn the individual investments of large number
 of Indian middle class families into non-performing assets even if we include non-tangible gains out 
-of coaching industry. The transfer of wealth from personal savings to large number of coaching 
-centers breaks a safety net for survival of middle class families in India. 
-to become professional graduates. Some of these aspirants undoubtedly lose motivations, but a few of
-them still fo
+of coaching industry. Coaching industry do not create wealth unlike manufacturing or service sectors.
+It essentially transfers wealth from personal savings to a few proprietors of coaching
+centers. It breaks a safety net for survival of middle class families in India. 
+
 As such India's academic institutions do not rank so well compared to those in US, China, Singapore or
 Taiwan. Implementation of NEP has not made any impact on the ground. Still why there is so much 
 focus on coaching institutions? They prepare students for entrance into Medical colleges, Engineering
