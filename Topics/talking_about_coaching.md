@@ -7,7 +7,15 @@ India's GDP. Valued at nearly US$ 6.5 billion, coaching institutions in India co
 0.2% of country's GDP. The question then arises is: why do we worry about it's menace? They prepare
 aspirants for entrance tests for Medical, Engineering, Law, Managements and a few other professional
 courses. At most 2% of the aspirants get admissions into a few elite schools (IITs, NIITs, IIMs, AIMS,
-IISER, and a few other CFTIs) in India. 
+IISER, and a few other CFTIs) in India. The problem we should be worried about is: where most of the
+90-92% aspirants end up with. I believe at least 5% of the remaining aspirants are well prepared and
+still preserve motivations to succeed given adequate opportunities. The amount of investment on these
+aspirants is enormous and entirely borne by their parents. Perhaps a few of these aspirants may 
+be supported by their parents to get quality education outside India while the rest who succeed are
+essentially self-made. The whole scenario appears to turn the personal investment of many family into
+non-creator of wealth even if we include non-tangible gains out of coaching industry.
+to become professional graduates. Some of these aspirants undoubtedly lose motivations, but a few of
+them still fo
 As such India's academic institutions do not rank so well compared to those in US, China, Singapore or
 Taiwan. Implementation of NEP has not made any impact on the ground. Still why there is so much 
 focus on coaching institutions? They prepare students for entrance into Medical colleges, Engineering
