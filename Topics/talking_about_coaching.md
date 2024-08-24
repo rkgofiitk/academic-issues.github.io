@@ -4,7 +4,10 @@ A country's growth depends on wealth creation much as activist and left liberals
 believes in it. Sustainable growth adds to GDP. Unless manufacturing industry accounts for 20%, the 
 growth will not be sustainable. Indian growth story is led by service sector. It contributes to 50% of
 India's GDP. Valued at nearly US$ 6.5 billion, coaching institutions in India contributes only
-0.2% of country's GDP. The question then arises is: why do we worry about it's menace? 
+0.2% of country's GDP. The question then arises is: why do we worry about it's menace? They prepare
+aspirants for entrance tests for Medical, Engineering, Law, Managements and a few other professional
+courses. At most 2% of the aspirants get admissions into a few elite schools (IITs, NIITs, IIMs, AIMS,
+IISER, and a few other CFTIs) in India. 
 As such India's academic institutions do not rank so well compared to those in US, China, Singapore or
 Taiwan. Implementation of NEP has not made any impact on the ground. Still why there is so much 
 focus on coaching institutions? They prepare students for entrance into Medical colleges, Engineering
