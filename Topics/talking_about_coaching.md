@@ -4,24 +4,26 @@ A country's growth depends on wealth creation much as activist and left liberals
 believes in it. Sustainable growth adds to GDP. Unless manufacturing industry accounts for 20%, the 
 growth will not be sustainable. Indian growth story is led by service sector. It contributes to 50% of
 India's GDP. Valued at nearly US$ 6.5 billion, coaching institutions in India contributes only
-0.2% of country's GDP. The question then arises is: why do we worry about it's menace? They prepare
-aspirants for entrance tests for Medical, Engineering, Law, Managements and a few other professional
-courses. At most 2% of the aspirants get admissions into a few elite schools (IITs, NIITs, IIMs, AIMS,
-IISER, and a few other CFTIs) in India. The problem we should be worried about is: where most of the
+0.2% of country's GDP. As such India's academic institutions do not rank so well compared to those in
+US, China, Singapore or Taiwan. The new NEP has not made any impact on the ground. Yet, why there 
+is so much focus on coaching institutions? After all, they prepare aspirants for entrance into medical 
+sciences, engineering and management schools. The question then arises is: why do we worry about the
+"menace"?  The problem is the country's policy makers have failed us. Only at most 2% of the aspirants 
+get admissions into a few elite schools (IITs, NIITs, IIMs, AIMS, IISER, and a few other CFTIs) in India. 
+The problem we should be worried about is: where most of the
 90-92% aspirants end up with. I believe at least 5% of the remaining aspirants are well prepared and
 still preserve motivations to succeed given adequate opportunities. The amount of collective investments 
 on these aspirants is enormous and entirely borne by their parents. Perhaps a few of these aspirants may 
 be supported by their parents to get quality education outside India while the rest who succeed are
-essentially self-made. The whole scenario appears to turn the individual investments of large number
+essentially self-made. The educational institutions outside the handful of elite schools mentioned
+above destroy any motivations that may still exist with the young aspirants. The whole scenario appears
+to turn the individual investments of large number
 of Indian middle class families into non-performing assets even if we include non-tangible gains out 
 of coaching industry. Coaching industry do not create wealth unlike manufacturing or service sectors.
 It essentially transfers wealth from personal savings to a few proprietors of coaching
 centers. It breaks a safety net for survival of middle class families in India. 
 
-As such India's academic institutions do not rank so well compared to those in US, China, Singapore or
-Taiwan. Implementation of NEP has not made any impact on the ground. Still why there is so much 
-focus on coaching institutions? They prepare students for entrance into Medical colleges, Engineering
-and Management schools. International standards. However, it has potentials to turn India into the largest non-creator of wealth in the country. 
+ However, it has potentials to turn India into the largest non-creator of wealth in the country. 
  It is true 
 that with large part of population being in thores of abject proverty, then a nation cannot become a
 viable economy much less a world class economy. However, making billionaires flee the country and 
