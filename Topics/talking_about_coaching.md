@@ -12,8 +12,10 @@ IISER, and a few other CFTIs) in India. The problem we should be worried about i
 still preserve motivations to succeed given adequate opportunities. The amount of investment on these
 aspirants is enormous and entirely borne by their parents. Perhaps a few of these aspirants may 
 be supported by their parents to get quality education outside India while the rest who succeed are
-essentially self-made. The whole scenario appears to turn the personal investment of many family into
-non-creator of wealth even if we include non-tangible gains out of coaching industry.
+essentially self-made. The whole scenario appears to turn the individual investments of large number
+of Indian middle class families into non-performing assets even if we include non-tangible gains out 
+of coaching industry. The transfer of wealth from personal savings to large number of coaching 
+centers breaks a safety net for survival of middle class families in India. 
 to become professional graduates. Some of these aspirants undoubtedly lose motivations, but a few of
 them still fo
 As such India's academic institutions do not rank so well compared to those in US, China, Singapore or
