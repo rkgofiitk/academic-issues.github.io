@@ -25,23 +25,23 @@ help him. Fortunately, I could find a TA who was fluent in Telegu. I request him
 to help the students and gradually initiate him to the English medium. 
 Barring a few elite schools, both govt and private schools have ill-trained 
 teachers. Most of these teachers probably are for babysitting rather than focusing 
-educating the students. The politicians cutting across party lines deliberately 
+on educating the students. The politicians cutting across party lines deliberately 
 plan to prevent access to quality education beyond the reach of common 
-people. Somehow society in general is not smart enough to
+people. Somehow our society in general is not smart enough to
 realize it. The learning at schools has now been relegated to 
-passing a board examination. The phase shift in learning, especially in technical 
-education, has now become a big problem for any technical discipline due to sudden
-changes in the medium of instruction.  Given this background, AICTE's VANNI 
-scheme seems to be a good initiative. 
+passing a board examination. The phase shift in learning due to sudden
+change in the medium of instruction has now become a big problem for
+any discipline, especially in technical education.  Given this background, 
+AICTE's VANNI scheme seems to be a good initiative. 
 
-I am sure that experts with AICTE appreciate two difficult aspects of the success 
-of VANNI: 
+I am sure that experts  with AICTE are aware of two difficult aspects of the 
+success of VANNI: 
 - Fast creation of technical textbooks in vernacular languages.
 - Simplification or adaptation of vernacular languages for technical education.
 
 First one is easily achievable and probably AICTE may have already started scouting
-talented authors. Let me deal only with the second aspect. While delivering my talk in Odia I found
-myself completely inadequate to spit out even ten words in Odia. The term AI with
+talented authors. Let me deal only with the second aspect. While delivering my talk in 
+Odia I found myself completely inadequate to spit out even ten words in Odia. The term AI with
 transliteration sounded more "artificial" than "artificial intelligence." Odia is a 
 phonetically rich language, it has many consonants and lots of vowels as is with
 other Indian languages. However, when spoken, Odia retains most of its vowel sounds, 
