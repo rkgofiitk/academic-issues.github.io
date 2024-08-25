@@ -10,27 +10,27 @@ impact on the ground. Yet, why is there so much focus on coaching institutions? 
 prepare aspirants for entrance into medical sciences, engineering and management schools. Only at most
 2% of the aspirants get admissions into a few elite schools in India. These include IITs, NIITs, IIMs,
 AIMS, IISER, BITS Pilani, and a few other CFTIs. India has just about 150 ellite institutions are there.
-A recent tv report "vantage" in first post explains 80% of nearly
-2 million graduating engineers are employable. Only 5% of these have training in programming. 
-According to this report, Cognizant which has a large presence in India offers only 20k PM to freshers
-which is lower than the average monthly salary of a driver or a house keeper. The average annual pay 
-for fresh engineers in most software companies (TCS, Infosys, Wipro, Techm) has stagnated at 3-3.5 lacs for
-the last ten years. 
+A [recent tv report "vantage" in first post](https://youtu.be/kK3OfIdlgTw?si=yFxV58E5C7e_PNI9) explains 
+80% of nearly 2 million graduating engineers are employable. Only 5% of these have training in programming. 
+According to this report, Cognizant which has a large presence in India offers only INR 20k PM (USD 240)
+to fresh graduates which is lower than the average monthly salary of a driver or a house keeper. The 
+average annual pay for fresh engineers in most software companies (TCS, Infosys, Wipro, Techm) has 
+stagnated at INR 3-3.5 lacs (3500-4100 USD per annum) for last ten years. 
   
-The problem we should be worried about is: where most of the
-90-92% aspirants end up with. I believe at least 5% of the remaining aspirants are well prepared and
+The problem we should be worried about is: where do most of the
+90-92% aspirants end up? I believe at least 5% of the remaining aspirants are well prepared and
 still preserve motivations to succeed given adequate opportunities. The amount of collective investments 
-on the aspirants is enormous and entirely borne by their parents. Perhaps a few of these aspirants may 
-be supported by their parents to get quality education outside India while the rest who succeed are
-essentially self-made. The educational institutions outside the handful of elite schools 
+on the aspirants is enormous and borne entirely by their parents. Perhaps a few of these aspirants may 
+be supported by their parents to get quality education outside India, while the rest who succeed are
+essentially self-made. Other educational institutions outside the handful of elite schools 
 destroy any motivations that may still exist with the young aspirants. The whole scenario appears
 to turn the individual investments of a large number
 of Indian middle class families into non-performing assets even if we include non-tangible gains out 
 of coaching industry. Coaching industry do not create wealth unlike manufacturing or service sectors.
 It essentially transfers wealth from personal savings to a few proprietors of coaching
-centers and in the process actually breaks the safety nets for survival of huge number of middle 
+centers and in the process breaks the safety nets for survival of huge number of middle 
 class families in India. The governments do not care. The politicians are only interested to 
-latch onto the idea of devising freebie schemes that earn them votes.
+latch onto the idea of devising freebie schemes  (IPAC kind of companies exists) that earn them votes.
 Admittedly, freebies are needed for a large part of population that live
 in abject poverty. However, instead of increasing CAPEX all state governments are spending close to
 70% of state's revenue for freebies. A large part of the expenditure on freebies end up with buidling
