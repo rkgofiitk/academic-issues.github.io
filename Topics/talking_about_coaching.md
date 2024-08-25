@@ -30,38 +30,40 @@ of coaching industry. Coaching industry do not create wealth unlike manufacturin
 It essentially transfers wealth from personal savings to a few proprietors of coaching
 centers and in the process breaks the safety nets for survival of huge number of middle 
 class families in India. The governments do not care. The politicians are only interested to 
-latch onto the idea of devising freebie schemes  (IPAC kind of companies exists) that earn them votes.
-Admittedly, freebies are needed for a large part of population that live
-in abject poverty. However, instead of increasing CAPEX all state governments are spending close to
-70% of state's revenue for freebies. A large part of the expenditure on freebies end up with buidling
-party cadres and really serving no purpose except for creating literally "party cadres" (euphimism  
-for goons). We still find 
-beggars, squatters, and hawkers occupying the streets of metros like Kolkata, Delhi, Bombay, 
-Madras and Kanpur. I guess the situations 
-in villages would be worse. Our political class has failed us miserably. 
+latch onto political consultants (e.g., I-PAC) for devising ideas for freebies that can win votes.
+that earn them votes. Admittedly, freebies work as social security for a large part of population
+that live in abject poverty. However, these freebies drainout funds for CAPEX. Most
+state governments are spending close to 70% of state's revenue for freebies. 
 
-However, I believe a country cannot operate from vacuum. There must be a power structure even in 
-avowedly left centered
-nation. Mao Zedong, Lenin or Stalin, Fidel Catro, and scores of other famous left leaning leaders 
+Of course, a country cannot operate from vacuum. There must be a power structure even in 
+avowedly welfare state or a captialist state. China and Russia have progressed quite well
+under communist rules. Mao Zedong, Lenin and scores of other famous left leaning leaders 
 created dreaded power centers around by a set of oligarch around them. The oligarchy system essentially
 bulied all resistances against them. Let us analyze how these power centers were created in the first 
 place. Charismatic leaders always create a group of blind followers, like the godmen do. But nothing
 comes for free, the group is adequately nourished and a few who ever aspire to challenge are severely
 punished. The process is simply "carrot and stick" which enabled the left leaning leaders to create a 
 strong bureaucratic set up in army and governance much like a dictator would do. The army is easy to 
-control, but governance requires diabolical skill in  sense quell all opposition no matter how. The 
-classical quartet theory of "saam (fabrication or flattery), daam (greed), danda (punishment), bhed
+control, but governance requires diabolical skill in the sense quell all oppositions no matter how. The 
+classical quartet-theory of "saam (fabrication or flattery), daam (greed), danda (punishment), bhed
 (divide)" works to build a pliant bureaucratic structure. Once you are able to create one there is no
 stopping. That is also the success story behind all long serving governments (state or center) in India.
+A large part of the expenditure on freebies end up with buidling so called "party cadres" and really
+serving no purpose except for bullying oppositions of any kind. We still find 
+beggars, squatters, and hawkers occupying the streets of metros like Kolkata, Delhi, Bombay, 
+Madras and Kanpur. I guess the situations in villages would be worse. Our political class has failed us miserably. 
 
 In an over populated country like India everything always in short supply. From medieval time India's
 success dependent mostly on service and trade. Wealth was concentrated among few rich aristrocrats.
-The system hasn't changed at all. Tool creation was not a forte of Indians at anytime. It is also the
-reason why the country came under foreign invaders (mongols, moghuls, turkic, greek and hun) from
-time to time in the past. The invaders had much improved armda.  Therefore, an average
-Indian look for getting engaged in some way dispensing service to others. An engineer, a doctor, a
+The system hasn't changed at all. Tool creation had never been a forte of Indians. It was also the
+reason why the country came under barbaric invasions of scores of foreign invaders like mongols,
+moghuls, turkic, greeks and huns. The invaders had much improved armda. Very few Indian rulers 
+were even matches with the invaders. 
+
+An average Indian look for getting engaged in some way dispensing service to others. Indians are 
+by nature stragglers not strugglers. An engineer, a doctor, a
 teacher, a lawyer or a bureaucrat has very little contribution in terms of innovations or discovery
-of tools. Until now the number of patents filed in India did not reach even one lac. The top four
+of a tool. Until now the number of patents filed in India did not reach even one lac. The top four
 states Tamilnadu, Maharashtra, UP and Karnatak report patent filings over 5k. West Bengal and Odisha
 trail far behind at only 10% of the leader state. I guess, TN being the auto-industry hub account for
 the highest number of patent filings. The figure rose by 46% in 2023 from 2022. The 2004 US patents
