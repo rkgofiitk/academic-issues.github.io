@@ -1,12 +1,13 @@
-# Are Coaching Centers Responsible for Pulling Down Country's Economy?
+# Are coaching centers liable for the decline of the country's economy?
 
-A country's growth depends on wealth creation much as activist and left liberals berate everyone who 
-believes in it. Sustainable growth adds to GDP. Unless manufacturing industry accounts for 20% of GDP,
-the growth will not be sustainable in long run. Indian growth story is led by service sector. It 
-contributes 50% to India's GDP. Valued at nearly US$ 6.5 billion, coaching institutions in India 
-contributes only 0.2% of country's GDP. As such India's academic institutions do not rank well compared
-to those in US, Japan, UK, China, Singapore, South Korea or even Taiwan. The new NEP has not made any
-impact on the ground. Yet, why is there so much focus on coaching institutions? After all, they 
+
+Regardless of criticisms of left-leaning activists and liberals, wealth creation is vital to a nation's growth.
+GDP rises when growth is feasible. Growth over the long term cannot be sustained unless 
+the manufacturing sector contributes 20% of GDP. The service sector is driving India's economic growth. It makes 
+up half of India's GDP. With an estimated value of US$6.5 billion, coaching institutes make up just 0.2% of India's
+GDP.  When compared to academic institutions in the US, Japan, UK, China, Singapore, South Korea, or
+even Taiwan, Indian institutions do not score highly. There has been no change in the ground despite the new NEP.
+Then why is there such focus on coaching institutions? After all, they 
 prepare aspirants for entrance into medical sciences, engineering and management schools. Only at most
 2% of the aspirants get admissions into a few elite schools in India. These include IITs, NIITs, IIMs,
 AIMS, IISER, BITS Pilani, and a few other CFTIs. India has just about 150 ellite institutions are there.
