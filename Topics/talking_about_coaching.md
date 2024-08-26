@@ -66,8 +66,8 @@ reason why the country came under barbaric invasions of scores of foreign invade
 moghuls, turkic, greeks and huns. The invaders had much improved armda. Very few Indian rulers 
 were even matches with the invaders. 
 
-An average Indian look for getting engaged in some way dispensing service to others. Indians are 
-by nature stragglers not strugglers. An engineer, a doctor, a
+An average Indian look for getting engaged in some way dispensing service to others. Indians  
+by nature are stragglers not strugglers. An engineer, a doctor, a
 teacher, a lawyer or a bureaucrat has very little contribution in terms of innovations or discovery
 of a tool. Until now the number of patents filed in India did not reach even one lac. The top four
 states Tamilnadu, Maharashtra, UP and Karnatak report patent filings over 5k. West Bengal and Odisha
@@ -77,14 +77,17 @@ statistics shows India had 363 utility patents,	9 design patents, and 4 plant pa
 Indian patent filings are actually due to foreign companies. Most are related to technology and 
 manufacturing. Leading companies are 
 [Qualcum, Samsung, Huwei, Philips, Ericson, Microsoft, etc](https://insights.greyb.com/india-patent-trends-and-statistics/). 
-Among Indian educational institutions only LPU, IIT Madras and IIT Bombay crossed 1k mark. None of
+Among Indian educational institutions only LPU, IIT Madras and IIT Bombay crossed 1k mark. However, none of
 these are in manufacturing. The patent applications were for pharmaceutical, medical, computer, 
-IoTs, and environmental technology. 
-
-The discussion on patents may seem entirely disconnected with the issue of coaching industry in 
-the country. I want the reader to understand where we stand in terms of rewarding innovators and
-the reason behind country's over-reliance on service-sector for economic growth. There are umpteen
-number of sociological reasons for it. We possibly cannot over-emphasize the reluctance of Indians
-to take risk. It is a case of survival of an entire family a tyical middle class Indian if one
-member succeeds to become an Administrative cadre officer, a Doctor, an engineer, or a corporate
-honcho. Coaching industry thrive on it. You have fixer everywhere. 
+IoTs, and environmental technology. The discussion on patents may seem entirely orthogonal
+to the issue of coaching industry in the country. I want the reader to understand where we stand 
+in terms of rewarding innovators and the reason behind country's over-reliance on service-sector
+for economic growth. There are umpteen number of sociological reasons for it. We possibly cannot 
+over-emphasize the reluctance of Indians to take risk. It is a case of survival of an entire 
+family a tyical middle class Indian if one member succeeds to become an Administrative cadre officer,
+a Police Officer, a Doctor, an engineer, or a corporate honcho. Coaching industry thrive on this
+mindset. There is fixer everywhere given right prices. Most often people fall prey to cheaters and
+scammers. Yet, desparation gets better of them. Laws exist but aparatus for dispensing justice 
+is woefully inadequate. Courts function as if humans are immortals. Leakage at every stage has
+made people lose faith in every system. After all, it is a zero-sum game to be a middle class
+Indian. Suckers everywhere no one to give solace. 
