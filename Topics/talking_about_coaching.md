@@ -1,4 +1,4 @@
-# Coaching Centers Pulling Down Country's Economy?
+# Are Coaching Centers Responsible for Pulling Down Country's Economy?
 
 A country's growth depends on wealth creation much as activist and left liberals berate everyone who 
 believes in it. Sustainable growth adds to GDP. Unless manufacturing industry accounts for 20% of GDP,
@@ -17,36 +17,42 @@ to fresh graduates which is lower than the average monthly salary of a driver or
 average annual pay for fresh engineers in most software companies (TCS, Infosys, Wipro, Techm) has 
 stagnated at INR 3-3.5 lacs (3500-4100 USD per annum) for last ten years. 
   
-The problem we should be worried about is: where do most of the
+The problem we should be worried about is: where do most of the rest
 90-92% aspirants end up? I believe at least 5% of the remaining aspirants are well prepared and
 still preserve motivations to succeed given adequate opportunities. The amount of collective investments 
 on the aspirants is enormous and borne entirely by their parents. Perhaps a few of these aspirants may 
 be supported by their parents to get quality education outside India, while the rest who succeed are
-essentially self-made. Other educational institutions outside the handful of elite schools 
-destroy any motivations that may still exist with the young aspirants. The whole scenario appears
+essentially self-made. The educational institutions outside the handful of elite schools 
+destroy any motivation that may still exist with the young aspirants. The whole scenario appears
 to turn the individual investments of a large number
-of Indian middle class families into non-performing assets even if we include non-tangible gains out 
+of Indian middle class families into non-performing assets even if we include any non-tangible gains out 
 of coaching industry. Coaching industry do not create wealth unlike manufacturing or service sectors.
 It essentially transfers wealth from personal savings to a few proprietors of coaching
 centers and in the process breaks the safety nets for survival of huge number of middle 
-class families in India. The governments do not care. The politicians are only interested to 
-latch onto political consultants (e.g., I-PAC) for devising ideas for freebies that can win votes.
-that earn them votes. Admittedly, freebies work as social security for a large part of population
+class families in India. The governments do not care as long politicians get their cuts. 
+They are only interested to 
+latch onto political consultants (e.g., I-PAC) for devising ideas of freebies that can win votes.
+Admittedly, freebies work as social security for a large part of population
 that live in abject poverty. However, these freebies drainout funds for CAPEX. Most
-state governments are spending close to 70% of state's revenue for freebies. 
+state governments are spending close to 70% of state's revenue for freebies. I don't understand
+why the ECI or the courts have nothing to say in this wonton plundering of tax-payer's money for
+the benefits of political class. Sadly, constitution of India is inadequate in preventing
+the game plan of politicians. 
 
-Of course, a country cannot operate from vacuum. There must be a power structure even in 
+Of course, I understand a country cannot operate from vacuum. There must be a power structure even in 
 avowedly welfare state or a captialist state. China and Russia have progressed quite well
-under communist rules. Mao Zedong, Lenin and scores of other famous left leaning leaders 
-created dreaded power centers around by a set of oligarch around them. The oligarchy system essentially
-bulied all resistances against them. Let us analyze how these power centers were created in the first 
-place. Charismatic leaders always create a group of blind followers, like the godmen do. But nothing
-comes for free, the group is adequately nourished and a few who ever aspire to challenge are severely
-punished. The process is simply "carrot and stick" which enabled the left leaning leaders to create a 
+under the "communist rules." However, we need to understand these two countries run a different
+version of communism. I would dare to say China and Russia actually practice a form of 
+dictatorship. Mao Zedong, Lenin and scores of other famous left leaning leaders 
+created dreaded power centers around by a set of oligarchs around them. The oligarchy system essentially
+bulied all resistances against them. Charismatic leaders always create a group of blind followers, 
+like the godmen do. But nothing comes for free, the group is adequately nourished and a few who 
+ever aspire to challenge are severely punished. The process is simply "carrot and stick" which enabled 
+so called the left leaning leaders to create a 
 strong bureaucratic set up in army and governance much like a dictator would do. The army is easy to 
-control, but governance requires diabolical skill in the sense quell all oppositions no matter how. The 
+control, but governance requires diabolical skill to quell all oppositions, no matter how. The 
 classical quartet-theory of "saam (fabrication or flattery), daam (greed), danda (punishment), bhed
-(divide)" works to build a pliant bureaucratic structure. Once you are able to create one there is no
+(divide)" works to build a pliant bureaucratic structure. Once that is done, there is no
 stopping. That is also the success story behind all long serving governments (state or center) in India.
 A large part of the expenditure on freebies end up with buidling so called "party cadres" and really
 serving no purpose except for bullying oppositions of any kind. We still find 
