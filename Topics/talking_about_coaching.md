@@ -90,4 +90,5 @@ mindset. There is fixer everywhere given right prices. Most often people fall pr
 scammers. Yet, desparation gets better of them. Laws exist but aparatus for dispensing justice 
 is woefully inadequate. Courts function as if humans are immortals. Leakage at every stage has
 made people lose faith in every system. After all, it is a zero-sum game to be a middle class
-Indian. Suckers everywhere no one to give solace. 
+Indian. Suckers everywhere no one to give solace. I doubt if any coaching center will ever 
+go out of business unless pulled down by its own rivals.
