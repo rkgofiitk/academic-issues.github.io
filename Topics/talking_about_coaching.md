@@ -91,7 +91,7 @@ We possibly cannot over-emphasize the reluctance of Indians to take risks. It is
 family a typical middle-class Indian. If one member succeeds in becoming an Administrative cadre officer,
 a Police Officer, a Doctor, an engineer, or a corporate honcho, the family survives. The coaching industry
 thrives on this mindset. Corruption has permeated every strata of society. There is a fixer everywhere 
-given the right prices. Most often people fall prey to cheaters and scammers. Yet, desperation gets the
+given the right price. Most often people fall prey to cheaters and scammers. Yet, desperation gets the
 better of them. Laws exist but the apparatus for dispensing justice is woefully inadequate. Our courts 
 function as if Indians are "immortals." Leakage at every stage has
 made people lose faith in every system. After all, it is a zero-sum game to be a middle-class
