@@ -1,4 +1,4 @@
-# Are coaching centers liable for the decline of the country's economy?
+# Are Coaching Centers Liable for the decline of Country's Economy?
 
 [Back to Index](../index.md)
 
