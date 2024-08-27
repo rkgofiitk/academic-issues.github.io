@@ -95,7 +95,7 @@ everywhere given the right price. Most often people fall prey to cheaters and sc
 better of them. Laws exist but the apparatus for dispensing justice is woefully inadequate. Our courts 
 function as if Indians are "immortals." Leakage at every stage has
 made people lose faith in every system. After all, it is a zero-sum game to be a middle-class
-Indian. Suckers everywhere no one to give solace. I doubt if any coaching center will ever 
+Indian. Suckers everywhere, no one to give solace. I doubt if any coaching center will ever 
 go out of business unless pulled down by its rivals.
 
 [Back to Index](../index.md)
