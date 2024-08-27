@@ -2,6 +2,12 @@
 
 [Back to Index](../index.md)
 
+Recently, many UPSC aspirants were trapped in floods in the basement of a building where Rau's IAS Circle library
+was located. Three of the aspirants died. After about a week's noise in the media, everything is back to normal.
+No one (the Delhi government, Delhi corporation, or the central government) cared.  The current post aims to 
+understand the reasons behind societal apathy and the unhinged operations carried out by coaching centers right 
+under the noses of various regulators.
+
 Regardless of criticisms by left-leaning activists and liberals, wealth creation is vital to a nation's growth.
 If a country's GDP continues to rise then growth is feasible. Growth over the long term cannot be sustained unless 
 the manufacturing sector contributes 20% of GDP. The service sector is driving India's economic growth. It makes 
