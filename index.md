@@ -9,8 +9,8 @@ major contributor to mass-based upheavals in the Governance of the state. So, th
 time govt comes up with an intervention to course correct the educators to support those in power. Therefore, it is important to analyze the implications of 
 certain policies from a neutral viewpoint.
 
-### Blog Links
 
+- [Are Coaching Centers Liable for Decline of Country's Economy?](Topics/talking_about_coaching.md)
 - [Technical Education in Vernacular Languages](Topics/teaching_in_mother_tongue.md)
 - [Nalanda Inauguration & UGC-NET](Topics/Nalanda_NTA.md)
 - [NTA's NEET (Neat) Scam](Topics/Neet_part2.md)
