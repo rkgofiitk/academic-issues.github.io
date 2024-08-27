@@ -70,8 +70,8 @@ a much-improved armada. Very few Indian rulers were evenly matched with the inva
 collaborators (either bullied or bribed) made things worse for those who opposed invaders. The point
 is Indians should learn to build.
 
-An average Indian looks to get engaged in some way by dispensing service to others. Indians  
-by nature are stragglers, not strugglers. An engineer, a doctor, a
+An average Indian looks to get engaged in some way by dispensing service to others. Indians by nature
+are stragglers, not strugglers. An engineer, a doctor, a
 teacher, a lawyer, or a bureaucrat has very little contribution in terms of innovations or discovery
 of tools. Until now the number of patents filed in India did not reach even 100 thousand. The top four
 states Tamilnadu, Maharashtra, UP, and Karnatak report patent filings of over 5k. West Bengal and Odisha
