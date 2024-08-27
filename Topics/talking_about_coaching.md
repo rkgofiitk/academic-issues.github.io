@@ -31,59 +31,62 @@ of coaching centers and in the process breaks the safety nets for the survival o
 families in India. The governments do not care as long as politicians get their cuts. They are only 
 interested in latching onto political consultants (e.g., I-PAC) for devising ideas of freebies that can win 
 votes. Admittedly, freebies work as social security for a large part of the population that lives in abject poverty.
-However, these freebies drain out funds for CAPEX. Most state governments are spending close to 70% of the state's 
-revenue for freebies. I don't understand why the ECI or the courts have nothing to say in this wonton 
-plundering of tax-payer money for the exclusive benefits of the political class. Sadly, the constitution of 
-India is inadequate in preventing the game plan of politicians. 
+However, these freebies drain out funds and leaves nothing for CAPEX. Most state governments are spending close 
+to 80% of the state's revenue receipts for freebies. I don't understand why the ECI or the courts have nothing
+to say in this wonton plundering of tax-payer money for the exclusive benefits of the political class. Sadly, 
+the constitution of India is inadequate in preventing the game plan of politicians. 
 
 Of course, I understand a country cannot operate in a vacuum. There must be a power structure even in 
 an avowed welfare state or a capitalist state. China and Russia have progressed quite well
 under the "communist rules." However, we need to understand these two countries run a different
-version of dictatorship.  Mao Zedong, Lenin, and scores of other famous left-leaning leaders 
+institutonalized dictatorship.  Mao Zedong, Lenin, and scores of other famous left-leaning leaders 
 created dreaded power centers around a set of oligarchs around them. The oligarchy system essentially
-bullied all resistance against them. Charismatic leaders always create a group of blind followers, 
-as the godmen do. But nothing comes for free, the group is adequately nourished and a few who 
+bullied all resistance against them. Charismatic leaders succeed by create a group of blind followers, 
+as the godmen do. But nothing comes for free, the group of followers is adequately nourished and a few who 
 ever aspire to challenge are severely punished. The process is simply "carrot and stick" which enabled 
-so-called left-leaning leaders to create a strong bureaucratic setup in the army and governance much
-like a dictator would do. The army is easy to control, but governance requires diabolical skills to quell 
+so-called left-leaning leaders to create a strong bureaucratic setup in the army and governance. The
+army is easy to control, but governance requires diabolical skills to quell 
 all oppositions, no matter how. The classical quartet theory of "saam (fabrication or flattery), daam (greed), 
 danda (punishment), bhed (divide)" works to build a pliant bureaucratic structure. Once that is done, there
 is no stopping. That is also the success story behind all long-serving governments (state or center) in India.
 A large part of the expenditure on freebies ends up in building so-called "party cadres" and 
 serving no purpose except for bullying oppositions of any kind. We still find 
 beggars, squatters, and hawkers occupying the streets of metros like Kolkata, Delhi, Bombay, 
-Madras and Kanpur. I guess the situation in villages would be worse. Our political class has failed us miserably. 
+Madras and Kanpur. I guess the situation in villages would be even worse. Our political class has failed us miserably. 
 
 In an overpopulated country like India, everything is always in short supply. From medieval times India's
 success depended mostly on service and trade. Wealth was concentrated among a few rich aristocrats.
 The system hasn't changed at all. Tool creation had never been a forte of Indians. It was also the
-reason why the country came under barbaric invasions by scores of foreign invaders like Mongols,
-Moghuls, Turkic, greeks, and Huns. The invaders had a much-improved armada. Very few Indian rulers 
-were even matched with the invaders. 
+reason why the country came under barbaric invasions by scores of foreign invaders like the Mongols,
+the Moghuls, the Turkic, the Greeks,the Huns, the British and other European races. The invaders had 
+a much-improved armada. Very few Indian rulers were evenly matched with the invaders. The Indian 
+collaborators (either bullied or bribed) made things worse for those who opposed invaders. The point
+is Indian should learn to build.
 
 An average Indian looks to get engaged in some way by dispensing service to others. Indians  
 by nature are stragglers, not strugglers. An engineer, a doctor, a
 teacher, a lawyer, or a bureaucrat has very little contribution in terms of innovations or discovery
-of a tool. Until now the number of patents filed in India did not reach even one lac. The top four
+of tools. Until now the number of patents filed in India did not reach even a 100 thousand. The top four
 states Tamilnadu, Maharashtra, UP, and Karnatak report patent filings of over 5k. West Bengal and Odisha
 trail far behind at only 10% of the leader state. I guess, TN being the auto-industry hub accounts for
 the highest number of patent filings. The figure rose by 46% in 2023 from 2022. The 2004 US patents
 statistics show India had 363 utility patents,	9 design patents, and 4 plant patents. However, 
-Indian patent filings are due to foreign companies. Most are related to technology and 
-manufacturing. Leading companies are 
-[Qualcum, Samsung, Huawei, Philips, Ericson, Microsoft, etc](https://insights.greyb.com/india-patent-trends-and-statistics/). 
+Indian patent filings are due to foreign companies. Most are related to technology and manufacturing. 
+Leading companies are [Qualcum, Samsung, Huawei, Philips, Ericson, Microsoft, etc](https://insights.greyb.com/india-patent-trends-and-statistics/). 
 Among Indian educational institutions only LPU, IIT Madras, and IIT Bombay crossed the 1k mark. However, none of
 these are in manufacturing. The patent applications were for pharmaceutical, medical, computer, 
 IoTs, and environmental technology. The discussion on patents may seem entirely orthogonal
 to the issue of the coaching industry in the country. I want the reader to understand where we stand 
 in terms of rewarding innovators and the reason behind the country's over-reliance on the service sector
-for economic growth. There are umpteen number of sociological reasons for it. We possibly cannot 
-over-emphasize the reluctance of Indians to take risks. It is a case of survival of an entire 
-family a typical middle-class Indian if one member succeeds in becoming an Administrative cadre officer,
-a Police Officer, a Doctor, an engineer, or a corporate honcho. The coaching industry thrives on this
-mindset. There is a fixer everywhere given the right prices. Most often people fall prey to cheaters and
-scammers. Yet, desperation gets the better of them. Laws exist but the apparatus for dispensing justice 
-is woefully inadequate. Our courts function as if humans are "immortals." Leakage at every stage has
+for economic growth. There are umpteen number of sociological reasons for it. 
+
+We possibly cannot over-emphasize the reluctance of Indians to take risks. It is a case of survival of an entire 
+family a typical middle-class Indian. If one member succeeds to become an Administrative cadre officer,
+a Police Officer, a Doctor, an engineer, or a corporate honcho, the family survives. The coaching industry
+thrives on this mindset. Corruption has permeated every strata of society. There is a fixer everywhere 
+given the right prices. Most often people fall prey to cheaters and scammers. Yet, desperation gets the
+better of them. Laws exist but the apparatus for dispensing justice is woefully inadequate. Our courts 
+function as if Indians are "immortals." Leakage at every stage has
 made people lose faith in every system. After all, it is a zero-sum game to be a middle-class
 Indian. Suckers everywhere no one to give solace. I doubt if any coaching center will ever 
 go out of business unless pulled down by its rivals
