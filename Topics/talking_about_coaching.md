@@ -1,32 +1,34 @@
 # Are coaching centers liable for the decline of the country's economy?
 
 
-Regardless of criticisms of left-leaning activists and liberals, wealth creation is vital to a nation's growth.
-GDP rises when growth is feasible. Growth over the long term cannot be sustained unless 
+Regardless of criticisms by the left-leaning activists and liberals, wealth creation is vital to a nation's growth.
+If country's GDP continue to rise then growth is feasible. Growth over the long term cannot be sustained unless 
 the manufacturing sector contributes 20% of GDP. The service sector is driving India's economic growth. It makes 
-up half of India's GDP. With an estimated value of US$6.5 billion, coaching institutes make up just 0.2% of India's
+up half of India's GDP. With an estimated value of US$6.5 billion, coaching institutes contribute a mere 0.2% of India's
 GDP.  When compared to academic institutions in the US, Japan, UK, China, Singapore, South Korea, or
-even Taiwan, Indian institutions do not score highly. There has been no change in the ground despite the new NEP.
+even Taiwan, Indian institutions do not rank well. There has been no change in the ground despite the new NEP.
 Then why is there such a focus on coaching institutions? After all, they prepare aspirants for entrance into
-medical sciences, engineering, and management schools. Only at most 2% of the aspirants get admission into a
-few elite schools in India. These include IITs, NIITs, IIMs, AIMS, IISER, BITS Pilani, and a few other CFTIs. 
-India has just about 150 elite institutions. A [recent TV report "vantage" in the first post](https://youtu.be/kK3OfIdlgTw?si=yFxV58E5C7e_PNI9) 
-explains that 80% of nearly 2 million graduating engineers are employable. Only 5% of these have training in programming. 
-According to this report, Cognizant which has a large presence in India offers only INR 20k per month (USD 240)
-to fresh graduates which is lower than the average monthly salary of a driver or a housekeeper. The 
+medical sciences, engineering, management and law schools. Only at most 2% of the aspirants get admission into a
+few elite schools in India. These include IITs, NIITs, IIMs, AIMS, IISER, BITS Pilani, National law colleges,
+and a few other CFTIs. India has just about 150-200 elite institutions. A [recent TV report "vantage" in the first post](https://youtu.be/kK3OfIdlgTw?si=yFxV58E5C7e_PNI9) 
+explains that 80% of nearly 2 million graduating engineers are unemployable. IT sector is one of biggest
+employer. However, only 5% of these have training in programming. The report says Cognizant which has a large 
+presence in India offers only INR 20k per month (USD 240) to fresh engineering graduates which is lower than 
+the average monthly salary of a driver or a housekeeper. The 
 average annual pay for fresh engineers in most software companies (TCS, Infosys, Wipro, Techm) has 
 stagnated at INR 3-3.5 lacs (3500-4100 USD per annum) for the last ten years. 
   
-The problem we should be worried about is: where do most of the rest 90-92% of aspirants end up? I believe at 
+The problem we should be worried about is: where do most of the rest 80% of aspirants end up? I believe at 
 least 5% of the remaining aspirants are well prepared and still preserve the motivation to succeed given adequate
-opportunities. The amount of collective investments in the aspirants is enormous and borne entirely by their parents.
+opportunities. The amount of collective investments on the aspirants is huge and borne entirely by their parents.
 Perhaps a few of these aspirants may be supported by their parents to get quality education outside India, while 
 the rest who succeed are essentially self-made. The educational institutions outside the handful of elite schools 
 destroy any motivation that may still exist with the young aspirants. The whole scenario appears to turn the 
 individual investments of a large number of Indian middle-class families into non-performing assets even if we
 include any non-tangible gains out of the coaching industry. The coaching industry does not create wealth, unlike 
-manufacturing or service sectors. It essentially transfers wealth from personal savings to a few proprietors
-of coaching centers and in the process breaks the safety nets for the survival of a huge number of middle-class families in India. The governments do not care as long as politicians get their cuts. They are only 
+manufacturing or service sectors do. It essentially transfers wealth from personal savings to a few proprietors
+of coaching centers and in the process breaks the safety nets for the survival of a huge number of middle-class
+families in India. The governments do not care as long as politicians get their cuts. They are only 
 interested in latching onto political consultants (e.g., I-PAC) for devising ideas of freebies that can win 
 votes. Admittedly, freebies work as social security for a large part of the population that lives in abject poverty.
 However, these freebies drain out funds for CAPEX. Most state governments are spending close to 70% of the state's 
