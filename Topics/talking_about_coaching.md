@@ -107,7 +107,7 @@ Laws exist but the apparatus for dispensing justice is woefully inadequate. Out 
 4.5cr (i.e., 87%) are pending, with government being the biggest litigant accounting for 50% of the cases. About
 62 hundred thousand case in high courts and nearly 80k cases are pending in the supreme court of India. It makes
 me wonder if courts function with the premise that every Indian have attained either "immortality or nirvana." 
-Every system in India leaks like a giant sieve with large holes. It is, indeed, a zero-sum game to be a middle-class
+Every system in India leaks like a sieve with giant holes. It is, indeed, a zero-sum game to be a middle-class
 Indian. <i>Suckers everywhere, no one to give solace</i>. I doubt if any coaching center will ever 
 go out of business unless pulled down by its rivals.
 
