@@ -10,7 +10,7 @@ time govt comes up with an intervention to course correct the educators to suppo
 certain policies from a neutral viewpoint.
 
 
-- [Are Coaching Centers Liable for Decline of Country's Economy?](Topics/talking_about_coaching.md)
+- [Why Blame Coaching Centers?](Topics/talking_about_coaching.md)
 - [Technical Education in Vernacular Languages](Topics/teaching_in_mother_tongue.md)
 - [Nalanda Inauguration & UGC-NET](Topics/Nalanda_NTA.md)
 - [NTA's NEET (Neat) Scam](Topics/Neet_part2.md)
