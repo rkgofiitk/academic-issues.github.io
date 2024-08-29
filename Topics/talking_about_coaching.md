@@ -26,11 +26,11 @@ average annual pay for fresh engineers in most software companies (TCS, Infosys,
 stagnated at INR 3-3.5 lacs (3500-4100 USD per annum) for the last ten years. 
   
 The problems we should be worried about are:
-- Where do most of the rest 80% of aspirants end up?
+- Where do the unsuccessful aspirants for admission into higher educational institutions end up?
 - Why the fresh engineers could get salaries lower than drivers or housekeepers?
 
 I believe out of 98% of unsuccessful aspirants for admission into higher institutions, 
-least 5% are well prepared and still preserve the motivation to succeed given adequate
+least 5% are well prepared and still preserve the motivation to succeed given the right
 opportunities. The amount of collective investments for the aspirants is huge and borne entirely by their parents.
 Perhaps a few of these aspirants may be supported by their parents to get quality education outside India, while 
 the rest who succeed are essentially self-made. The educational institutions outside the handful of elite schools 
