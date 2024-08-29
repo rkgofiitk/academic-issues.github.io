@@ -100,8 +100,8 @@ a Police Officer, a Doctor, an engineer, or a corporate honcho, the family survi
 thrives on this mindset. Corruption has permeated every strata of society. There is a fixer ("a service dispenser")
 for everything given the right price. Most often people fall prey to cheaters and scammers because the success
 is not easy. NEET-UG score of 600-650 out of 720 does not guarantee a seat in any decent government medical college.
-Desperate situations calls for desparate measures such as scoring 100% in an entrance test! It is possible only
-one is a genius or knows the question paper ahead of test. Trying to get question paper ahead of a test
+Desperate situations calls for desparate measures such as scoring 100% in an entrance test! It is possible only if
+one is a genius or knows the question paper ahead of the test. Trying to get question paper ahead of a test
 opens up opportunities for the fixers and the scammers. 
 Laws exist but the apparatus for dispensing justice is woefully inadequate. Out of 5.1cr cases in District courts
 4.5cr (i.e., 87%) are pending, with government being the biggest litigant accounting for 50% of the cases. About
