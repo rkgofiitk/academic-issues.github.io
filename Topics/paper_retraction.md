@@ -5,4 +5,4 @@ scientists for their work in mRNA vaccine. Gregg studied medical genetics at Har
 An introduction on illustrious background of Semenza is necessary for the readers to appreciate the importance of the topic of this blog. 
 At the time of writing this blog Prof. Semenza has a list of 13 retractions to his credit. All retractions were multi-authored research
 papers published in reputed journals. An [investigation by Nature](https://www.the-scientist.com/nobel-prize-winner-faces-investigation-into-paper-integrity-70669)
-found 17 papers where Gregg is a co-author are retracted, corrected, or raised concerns regarding falsified data and conclusions. 
+found 17 papers co-authored by Gregg are retracted, corrected, or raised concerns regarding falsified data and conclusions. 
