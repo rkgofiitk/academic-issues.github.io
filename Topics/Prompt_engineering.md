@@ -21,12 +21,13 @@ the intent. Double entendre is often used in political discourse. So, extension 
 prompting could create confusion for users of generative AI tools. It may lead to similar near catastrophic
 results as exhibited by heuritics driven soft computing methods even after lots of training.
 
-Prompt-hacking could add or excerbate the problem obfuscating the intent in user's query. A recent article
-by [Morris](https://dl.acm.org/doi/pdf/10.1145/3673861) argues that "p-hacking" could be main reason 
-for "replication crisis" in AI research. She observes that social sciences already experiencing 
+Prompt-hacking could add or excerbate the problem obfuscating the intent in user's query. A recent article 
+published in CACM, [Morris](https://dl.acm.org/doi/pdf/10.1145/3673861) argues that "p-hacking" could be 
+the main reason for "replication crisis" in AI research. She observes that social sciences already 
+experiencing 
 p-hacking crisis. She hastens to add that her observation should not be viewed to imply that social
 science researchers intentially engaging in "neferious intent". However, I believe much of her observation
-may extend equally well in Indian context. The Indian retraction rate is 44 per million papers which
+may extend equally well in Indian context. The Indian retraction rate is 44 per million of published papers which
 is more than 2.5 times of average rate. It is true that the high retraction rate is not entirely be
 due to generative AI, because the tool is a fairly recent additon in search kit of researchers. I
 believe the replication crisis could actually lead to a drop in retraction rate. Because the researchers
