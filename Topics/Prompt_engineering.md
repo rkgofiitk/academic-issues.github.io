@@ -18,7 +18,7 @@ The question that AI experts need to ponder about is that
 The problem with prompting stems from the fact that it is not the same as being able to communicate in 
 pure natural language. When we communicate in natural language, the collaborators or the partners
 understand the inherent subtleness of verbal conversation; when they don't, clarifications are sought. 
-In human conversation, perceived intent is an essential element of a speaker's utterances. It is highly
+In human conversation, perceived intent is an essential element in a speaker's utterances. It is highly
 critical to understand the intent. Double entendre is often used in political discourse. So, extending 
 natural language as the prompting interface could confuse users of generative AI tools. 
 It may lead to similar near-catastrophic results as often exhibited by heuristic-driven soft 
