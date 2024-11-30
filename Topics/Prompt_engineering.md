@@ -1,4 +1,4 @@
-# P-Hacking in AI for Non-Replicable Research 
+# Is P-Hacking Affecting Research Innovation?
 
 [Blog Index](../index.md)
 
