@@ -29,36 +29,38 @@ article published in CACM, [Morris](https://dl.acm.org/doi/pdf/10.1145/3673861) 
 could be the main reason for the "replication crisis" in AI research. She observes that social sciences 
 are already experiencing a p-hacking crisis. She hastens to add that her observation should not be 
 viewed to imply that social science researchers are engaging in "nefarious intent." However, much of 
-her observations may extend equally well to the context of engineering research in India. The Indian
-retraction rate is 44 per million published papers, more than 2.5 times the average. 
+her observations may extend equally well to the context of science and engineering research in India.
+The Indian retraction rate is 44 per million published papers, more than 2.5 times the average. 
 Of course, the high retraction rate is not entirely due to generative AI because the tool is a 
-reasonably recent addition to researchers' search kits. The replication crisis could lead to 
+reasonably recent addition to researchers' search kits. The replication crisis may actually lead to 
 a drop in retraction rate. Because the researchers may carefully craft prompts to extract 
-desired results. It will become difficult to figure out original work from AI-generated work.
+desired results. It will become difficult to figure out an original work from an AI-generated work.
+The question is, how do we address this seemingly invincible technique? 
 
-The question is, how do we address this seemingly invincible technique? Sometime back, we received
-a large number of submissions from a Chinese institution to an International Conference we were 
-organizing. At first, we were a little perplexed. A closer examination revealed that the submissions
-appeared to be a clever cut-and-paste job. We spent considerable time to discover the sources. 
-Another submission from an Indian researcher dealt with the network sharing of USB file systems. 
-I was thoroughly impressed with the submission and thought it could be an ideal candidate for the
-Best Paper award. At that time, we did not have access to plagiarism detection tools. Suddenly, 
-while reviewing the paper, I came across an identical copy of the paper
+Sometime back, we received a large number of submissions from a Chinese institution to an
+International Conference we were organizing. At first, we were a little perplexed. A closer examination
+revealed that the submissions were clever cut-and-paste jobs. We had to spend a considerable time to 
+discover the sources. Another submission was from an Indian researcher that dealt with the network 
+sharing of USB file systems. I was thoroughly impressed with the submission and thought it could be 
+an ideal candidate for the best paper award. At that time, we did not have access to plagiarism 
+detection tools. Suddenly, while reviewing the paper, I came across an identical copy of the paper
 from the USENIX conference but by a set of different authors. Indeed, the paper received the Best Paper 
-award at the Usenix conference. Plagiarism detection tools are not sufficiently improved to deal with 
-p-hacking. So, how are we going to detect p-hacked papers? The answer
-to this needs to be more straightforward. It opens up several possibilities.
+award at the USENIX conference. 
+
+Plagiarism detection tools are not sufficiently improved to deal with p-hacking. So, how are we going to
+detect p-hacked papers? The answer to this needs to be more straightforward. It opens up several 
+possibilities apart from improving Plagiarism detection tools.
 - Developing a clear set of prompting standards
 - More investment in natural language interface.
 - Prompt log registration could be enforced.
 - Prompt may be restrictive in disallowing p-hacking.
 
-However, restricting prompt formats will rob the generative AI's most unique characteristics, i.e., 
-natural language query interface. Enforcing pre-registration of prompts will affect the natural evolution
-of queries from human interlocutors. It sure helps in p-hacking attempts. However, more investment in the 
-natural language interface is probably the only safe way out. Reducing the replication 
-crisis will be possible with a better understanding of natural language queries. It means that the race 
-between LLM and human interlocutors is fiercer than ever. Unless we address it, the LLM model will
-reduce human innovations to a mediocre level. 
+However, restricting prompt formats will rob generative AI's most unique characteristics, i.e., 
+natural language query interface. Enforcing pre-registration of prompts will surely help in dampening 
+p-hacking attempts. However, it will affect the natural evolution of queries from human interlocutors. 
+More investments in the natural language interface is probably the only safe way out. Reducing the
+replication crisis will be possible with a better understanding of natural language queries. It means
+that the race between LLM and human interlocutors is fiercer than ever. Unless we address it, the LLM
+model will reduce human innovations to a mediocre level. 
  
 [Back to Index](../index.md)
