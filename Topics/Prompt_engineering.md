@@ -1,5 +1,7 @@
 # P-Hacking in AI for Non-Replicable Research 
 
+[Blog Index](../index.md)
+
 Generative AI works by creating new text, images or videos by training from a massive amount of data. It 
 learns patterns from those data and generates similar content. The principle
 of extension is the key feature to generative AI. It cannot generate vacously. From the point of view of an 
@@ -34,5 +36,19 @@ may carefully craft prompts to extract their desired results. It will become dif
 work from AI generated work.
 
 The question is how do we address this seemingly invincible technique? Plagiarism detection tools are 
-clearly inadequate to deal with p-hacking. Then question  
+clearly inadequate to deal with p-hacking. So, how are we going to detect p-hacked papers? The answer
+to it not straightforward. It opens up several possibilities.
+- Developing clear set of prompting standards
+- More investment on natural language interface.
+- Prompt log registration could be enforced.
+- Prompt may be restrictive to disallow p-hacking.
 
+However, restricting prompt formats will rob the generative AI's most unique characteristics, i.e., 
+natural language query interface. Enforcing pre-registration of prompts will affect the natural evolution
+of queries from human interlocutor. However, it certain help in p-hacking attempts. I believe more
+investment on natural language interface is probably the only safe way out. Reducing replication 
+crisis will be possible with better understanding of natural language queries. It means the race 
+between LLM and human interlocutors is fiercer than ever. Unless we address it the LLM model will
+reduce the innovation to midocre level. 
+ 
+[Back to Index](../index.md)
