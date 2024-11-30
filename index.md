@@ -10,6 +10,7 @@ time govt comes up with an intervention to course correct the educators to suppo
 certain policies from a neutral viewpoint.
 
 
+- [Role of P-Hacking in Resarch and Innovation](Topics/Prompt_engineering.md)
 - [Why Blame Coaching Centers?](Topics/talking_about_coaching.md)
 - [Technical Education in Vernacular Languages](Topics/teaching_in_mother_tongue.md)
 - [Nalanda Inauguration & UGC-NET](Topics/Nalanda_NTA.md)
