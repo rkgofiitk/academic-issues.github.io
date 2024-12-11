@@ -2,22 +2,23 @@
 
 Many employ voice-based virtual assistant like Apple Siri, Microsoft Cortana, Amazon Alexa and Google 
 Assistant for various tasks such as setting alarms, reminders, and several context-aware conversational
-commands like switching on gysers, shutting down air conditioner, preparing shopping lists and so on.
+commands like switching on gysers, shutting down air conditioner, preparing shopping lists, giving navigation
+instruction to a self-driven vehicle, and so on.
 
-Much of stock market predictions are now AI-based. There are many investment instruments like quant
-fund which rely on machine learning models for portfolio managment. SBI has announced that its quant
-fund NFO could generate returns on investment in the range of 77-83% according to their back testing
-result. I am not quite sure what checks and balances SEBI has to assure the investors that these 
-AI-oriented, data-driven prediction models are not entirely misleading. 
+Much of the stock market predictions are increasingly AI-based. There are many investment instruments like quant
+fund which rely on machine learning prediction models for portfolio managment. The quant fund managers boast
+that investments could generate returns in the range of 77-83% according to back testing
+result. I am not quite sure what checks and balances that SEBI has put in place to assure the investors that 
+these AI-oriented, data-driven prediction models are not entirely misleading. 
 
 Robotic surgery and application of industrial robots has become quite well-established in precision
-surgery and manufacturing. Construction activities have become mostly automated and Industry 4.0
-is a reality. We have almost reached the age of driverless cabs, trains and transportation
-system. Most these activities are heavily AI-driven.  
+surgery and industrial manufacturing processes. Construction activities have become largely automated and 
+Industry 4.0 is a reality even in industries like steel macking. Bhilai steel plant's rail making process
+is completely automated. We have almost reached the age of driverless cabs, trains and transportation
+system. Most these activities are heavily sesnor-based and AI-driven.  
 
-However, extending the possibility of reach AI-comfort in lessening human pains, suffering,
-travails and toils, one can guess that the intelligent assistants may one day
-graduate to become scientific research assistants. We are already witnessing 
+One can guess that the intelligent assistants may progressively graduate to become scientific research 
+assistants with extension of AI-comfort in lessening human pains, suffering, travails and toils,  We are already witnessing 
 [p-hacking phenomenon in the quest for establishing reseach hypothesis](https://rkgofiitk.github.io/Topics/Prompt_engineering.html)
 It will be interesting to surmise that in next few years much theoretical research would be AI-driven.
 
