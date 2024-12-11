@@ -6,19 +6,23 @@ commands like switching on gysers, shutting down air conditioner, preparing shop
 instruction to a self-driven vehicle, and so on.
 
 Much of the stock market predictions are increasingly AI-based. There are many investment instruments like quant
-fund which rely on machine learning prediction models for portfolio managment. The quant fund managers boast
-that investments could generate returns in the range of 77-83% according to back testing
-result. I am not quite sure what checks and balances that SEBI has put in place to assure the investors that 
+fund that rely on machine learning prediction models for portfolio management. The quant fund managers boast
+that investments in quant funds could generate returns in the range of 77-83% according to back testing
+results. I am  unaware of checks and balances that SEBI has put in place to assure the investors that 
 these AI-oriented, data-driven prediction models are not entirely misleading. 
 
-Robotic surgery and application of industrial robots has become quite well-established in precision
+Robotic surgery and applications of industrial robots have become quite well-established in precision
 surgery and industrial manufacturing processes. Construction activities have become largely automated and 
-Industry 4.0 is a reality even in industries like steel macking. Bhilai steel plant's rail making process
-is completely automated. We have almost reached the age of driverless cabs, trains and transportation
-system. Most these activities are heavily sesnor-based and AI-driven.  
+Industry 4.0 is a reality even in heavy industries like steel macking. Bhilai steel plant's rail making process
+is completely automated. We have reached the age of driverless cabs, trains and transportation
+services. Most these activities are heavily sesnor-based and AI-driven.  
 
 One can guess that the intelligent assistants may progressively graduate to become scientific research 
-assistants with extension of AI-comfort in lessening human pains, suffering, travails and toils,  We are already witnessing 
+assistants with extension of AI-comfort in lessening human pains, suffering, travails and toils, Experimental
+set ups are mostly handled by precision instruments and automation. 
+
+The other aspect of research is literature survey, report writing and publication. Literature survey is 
+now assisteed mostly by intelligent generative AI-based search assistants. Many have started relying  
 [p-hacking phenomenon in the quest for establishing reseach hypothesis](https://rkgofiitk.github.io/Topics/Prompt_engineering.html)
 It will be interesting to surmise that in next few years much theoretical research would be AI-driven.
 
