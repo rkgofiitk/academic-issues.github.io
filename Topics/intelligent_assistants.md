@@ -19,12 +19,24 @@ services. Most these activities are heavily sesnor-based and AI-driven.
 
 One can guess that the intelligent assistants may progressively graduate to become scientific research 
 assistants with extension of AI-comfort in lessening human pains, suffering, travails and toils, Experimental
-set ups are mostly handled by precision instruments and automation. 
+set ups are mostly handled by precision instruments and automation. Much of research in drug discovery, clinical
+informatics span across geographically dispersed labs. Agreegation and fusing of results from early
+discovery through development to manufacturing is now being increasingly controlled by virtual assistants.
+There are platforms like Amazon Lambda that host a custom skill for interacting  with the laboratory 
+device shadows and reacts with speech processed commands. Computational chemists have developed
+end-to-end AI research assistant like Coscientist that takes over tedious time-consuming tasks like
+deciding reaction conditions and writing code for automated systems. [Gabe Gomes’s team at CMU use the GPT-4 to perform 
+different functions inside Coscientist. Coscientist demonstrated capabilities to autonomously design, plan and 
+perform palladium-catalysed carbon–carbon bond formation reactions, originally described in a preprint in April 2023.](https://www.nature.com/articles/s41586-023-06792-0)
 
-The other aspect of research is literature survey, report writing and publication. Literature survey is 
-now assisteed mostly by intelligent generative AI-based search assistants. Many have started relying  
+The other major aspects of research include literature survey, report writing and publication. Literature survey is 
+now assisteed mostly by intelligent generative AI-based search assistants like Gemini. Many have started relying  
 [p-hacking phenomenon in the quest for establishing reseach hypothesis](https://rkgofiitk.github.io/Topics/Prompt_engineering.html)
-It will be interesting to surmise that in next few years much theoretical research would be AI-driven.
+It will be interesting to surmise that in next few years much of research in humanities, social sciences and
+management would be AI-driven. AI's role in mathematicel science appears counter-intuitive as mathematics 
+is dependent on rigorous definitions, derivations and proofs  [So, the research in mathematical sciences 
+cannot be replaced by AI systems in the near future. However, the combination of human expertise 
+and AI algorithms will become an integral part of theoretical research.](https://www.nature.com/articles/s42254-024-00740-1)
 
 The year 2024's nobel prize in Physics has been awarded to Molecular Biologist John Hopfield and Computer Scientist.
 Giffry Hinton for their "Foundational discoveries and innovations that enable machine learning with artifical
