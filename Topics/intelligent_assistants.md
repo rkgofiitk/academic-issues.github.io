@@ -34,9 +34,13 @@ now assisteed mostly by intelligent generative AI-based search assistants like G
 [p-hacking phenomenon in the quest for establishing reseach hypothesis](https://rkgofiitk.github.io/Topics/Prompt_engineering.html)
 It will be interesting to surmise that in next few years much of research in humanities, social sciences and
 management would be AI-driven. AI's role in mathematicel science appears counter-intuitive as mathematics 
-is dependent on rigorous definitions, derivations and proofs  [So, the research in mathematical sciences 
-cannot be replaced by AI systems in the near future. However, the combination of human expertise 
-and AI algorithms will become an integral part of theoretical research.](https://www.nature.com/articles/s42254-024-00740-1)
+is dependent on rigorous definitions, derivations and proofs  [So, as of now AI systems are ill-equipped
+to be assistance to create human validated research in mathematical sciences](https://www.nature.com/articles/s42254-024-00740-1)
+However, the combination of human expertise and AI algorithms will become an integral part of theoretical research 
+in near future as it is already in the case of social sciences. In fact, carefully-curated AI augmented mathematical 
+education systems may do a much better job than an average human tutor. The US department of education has created a 
+[policy document](https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf) on the automation based association
+to education and learning. The report refers to AI's role in education as a double-edged sword that can be "virtuous" or "vicious".
 
 The year 2024's nobel prize in Physics has been awarded to Molecular Biologist John Hopfield and Computer Scientist.
 Giffry Hinton for their "Foundational discoveries and innovations that enable machine learning with artifical
