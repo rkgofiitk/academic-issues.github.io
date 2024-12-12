@@ -10,6 +10,7 @@ time govt comes up with an intervention to course correct the educators to suppo
 certain policies from a neutral viewpoint.
 
 
+- [Virtual Assistants in Research](Topics/intelligent_assistants.md)
 - [Is P-Hacking Affecting Research Innovation?](Topics/Prompt_engineering.md)
 - [Why Blame Coaching Centers?](Topics/talking_about_coaching.md)
 - [Technical Education in Vernacular Languages](Topics/teaching_in_mother_tongue.md)
