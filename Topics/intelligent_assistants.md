@@ -37,7 +37,7 @@ on [p-hacking ](https://rkgofiitk.github.io/academic-issues.github.io/Topics/Pro
 It will be interesting to surmise that much of humanities, social sciences, and
 management research will be AI-driven in the next few years. AI's role in mathematical science appears counter-intuitive as mathematics 
 is dependent on rigorous definitions, derivations, and proofs  [So, as of now, AI systems are ill-equipped
-to be assistance in creating human-validated research in mathematical sciences](https://www.nature.com/articles/s42254-024-00740-1)
+to be assistance in creating human-validated research in mathematical sciences.](https://www.nature.com/articles/s42254-024-00740-1)
 However, the combination of human expertise and AI algorithms will become an integral part of theoretical research 
 in the near future, as is already the case in social sciences. Carefully curated AI-augmented mathematical 
 education systems may do a much better job than an average human tutor. The US Education Department has created a 
