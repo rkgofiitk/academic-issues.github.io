@@ -20,8 +20,8 @@ services. Most of these activities are heavily sensor-based and AI-driven.
 
 The intelligent assistants may progressively graduate to become scientific research 
 assistants with the extension of AI-comfort in lessening human pains, suffering, travails, and toils. Precision 
-instruments and automation primarily handle experimental setups in hazardous substances. Much research in drug discovery and clinical
-informatics spans geographically dispersed labs. Virtual assistants increasingly control aggregation and fuse results from early
+instruments and automation primarily handle experimental setups in hazardous substances. Research in drug discovery and clinical
+informatics spans geographically dispersed labs. Virtual assistants increasingly control aggregation and fuse the results from early
 discovery through development to manufacturing.
 Platforms like Amazon Lambda host a custom skill for interacting with the laboratory 
 device shadows and reacting with speech-processed commands. Computational chemists have developed
@@ -31,14 +31,14 @@ different functions inside Coscientist](https://www.nature.com/articles/s41586-0
 Coscientist demonstrated capabilities to autonomously design, plan, and 
 perform palladium-catalyzed carbon-carbon bond formation reactions, originally described in a preprint in April 2023.
 
-The other significant aspects of research include a literature survey, report writing, and publication. Literature surveys are 
-now assisted primarily by intelligent generative AI-based search assistants like Gemini. Many have started relying  
-on [p-hacking ](https://rkgofiitk.github.io/academic-issues.github.io/Topics/Prompt_engineering.html) in quest for establishing research hypothesis.
-It will be interesting to surmise that much of humanities, social sciences, and
+Some of the significant aspects of research include a literature survey, report writing, and publication. Literature surveys are 
+now assisted primarily by intelligent generative AI-based search assistants like Gemini and Chat-GPT. Many social science researchers
+have started relying  on [p-hacking ](https://rkgofiitk.github.io/academic-issues.github.io/Topics/Prompt_engineering.html) for 
+establishing research hypothesis.It will be interesting to surmise that much of humanities, social sciences, and
 management research will be AI-driven in the next few years. AI's role in mathematical science appears counter-intuitive as mathematics 
-is dependent on rigorous definitions, derivations, and proofs  [So, as of now, AI systems are ill-equipped
-to be assistance in creating human-validated research in mathematical sciences.](https://www.nature.com/articles/s42254-024-00740-1)
-However, the combination of human expertise and AI algorithms will become an integral part of theoretical research 
+is dependent on rigorous definitions, derivations, and proofs  [AI systems are ill-equipped](https://www.nature.com/articles/s42254-024-00740-1)
+to be of any assistance in creating human-validated type of research in mathematical sciences. However, the combination of 
+human expertise and AI algorithms will become an integral part of theoretical research 
 in the near future, as is already the case in social sciences. Carefully curated AI-augmented mathematical 
 education systems may do a much better job than an average human tutor. The US Education Department has created a 
 [policy document](https://www.ed.gov/sites/ed/files/documents/ai-report/ai-report.pdf) on the automation-based association
@@ -47,10 +47,10 @@ to education and learning. The report refers to AI's role in education as a doub
 In 2024,  Molecular Biologist John Hopfield and Computer Scientist.
 Geoffrey Hinton received the Nobel Prize for their "Foundational discoveries and Innovations that enable machine learning with artificial
 neural network." The heart of their research is AI-assisted. Likewise, Nobel prizes in chemistry went
-to David Baker, a professor of biochemistry, and John Jumper, Demis Hassabis, cofounder and CEO of Google Deepmind.
-The citations refer to their research in "computational protein structure design" and "protein structure prediction," 
-respectively. Physicists and Chemists were predictably very upset. In an oped in CACM, Yannis Ioannidis terms 
-AI-driven scientific discovery as the 5th Paradigm. Reverse engineering research could be a 
+to David Baker, a professor of biochemistry, and Demis Hassabis, cofounder and CEO of Google Deepmind and John Jumper, 
+a researcher at Google Deepmind. The citations refer to their research in "computational protein structure design" and
+"protein structure prediction," respectively. Physicists and Chemists were predictably very upset. In an oped in CACM, Yannis
+Ioannidis terms AI-driven scientific discovery as the [5th Paradigm](https://dl.acm.org/doi/pdf/10.1145/3702970). Reverse engineering research could be a 
 real game-changer in establishing theories and conjectures. Ioannidis surmises: "Can we expect AI to transform
 from a tool to an actual researcher itself, pose and investigate scientific hypotheses, and eventually write
 papers about its work?" In other words, can AI become a peer for humans in research and innovation? Can 
