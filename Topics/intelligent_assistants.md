@@ -33,7 +33,7 @@ perform palladium-catalyzed carbon-carbon bond formation reactions, originally d
 
 The other significant aspects of research include a literature survey, report writing, and publication. Literature surveys are 
 now assisted primarily by intelligent generative AI-based search assistants like Gemini. Many have started relying  
-on [p-hacking ](https://github.com/rkgofiitk/academic-issues.github.io/Topics/Prompt_engineering.html) in quest for establishing research hypothesis.
+on [p-hacking ](https://rkgofiitk.github.io/academic-issues.github.io/Topics/Prompt_engineering.html) in quest for establishing research hypothesis.
 It will be interesting to surmise that much of humanities, social sciences, and
 management research will be AI-driven in the next few years. AI's role in mathematical science appears counter-intuitive as mathematics 
 is dependent on rigorous definitions, derivations, and proofs  [So, as of now, AI systems are ill-equipped
