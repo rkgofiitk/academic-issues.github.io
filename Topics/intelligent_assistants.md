@@ -20,7 +20,7 @@ services. Most of these activities are heavily sensor-based and AI-driven.
 
 The intelligent assistants may progressively graduate to become scientific research 
 assistants with the extension of AI-comfort in lessening human pains, suffering, travails, and toils. Precision 
-instruments and automation primarily handle experimental setups. Much research in drug discovery and clinical
+instruments and automation primarily handle experimental setups in hazardous substances. Much research in drug discovery and clinical
 informatics spans geographically dispersed labs. Virtual assistants increasingly control aggregation and fuse results from early
 discovery through development to manufacturing.
 Platforms like Amazon Lambda host a custom skill for interacting with the laboratory 
