@@ -1,4 +1,4 @@
-# AI Assistants in Research Innovation, a Reality
+# Virtual Assistants in Research
 
 [Blog Index](../index.md)
 
