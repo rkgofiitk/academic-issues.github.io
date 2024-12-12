@@ -27,8 +27,9 @@ Platforms like Amazon Lambda host a custom skill for interacting with the labora
 device shadows and reacting with speech-processed commands. Computational chemists have developed
 end-to-end AI research assistants like "Coscientist" that takes over tedious, time-consuming tasks like
 deciding reaction conditions and writing code for automated systems. [Gabe Gomes's team at CMU uses the GPT-4 to perform 
-different functions inside Coscientist. Coscientist demonstrated capabilities to autonomously design, plan, and 
-perform palladium-catalyzed carbon-carbon bond formation reactions, originally described in a preprint in April 2023.](https://www.nature.com/articles/s41586-023-06792-0)
+different functions inside Coscientist](https://www.nature.com/articles/s41586-023-06792-0).
+Coscientist demonstrated capabilities to autonomously design, plan, and 
+perform palladium-catalyzed carbon-carbon bond formation reactions, originally described in a preprint in April 2023.
 
 The other significant aspects of research include a literature survey, report writing, and publication. Literature surveys are 
 now assisted primarily by intelligent generative AI-based search assistants like Gemini. Many have started relying  
