@@ -25,7 +25,7 @@ informatics spans geographically dispersed labs. Virtual assistants increasingly
 discovery through development to manufacturing.
 Platforms like Amazon Lambda host a custom skill for interacting with the laboratory 
 device shadows and reacting with speech-processed commands. Computational chemists have developed
-end-to-end AI research assistants like Coscientists, who take over tedious, time-consuming tasks like
+end-to-end AI research assistants like "Coscientist" that takes over tedious, time-consuming tasks like
 deciding reaction conditions and writing code for automated systems. [Gabe Gomes's team at CMU uses the GPT-4 to perform 
 different functions inside Coscientist. Coscientist demonstrated capabilities to autonomously design, plan, and 
 perform palladium-catalyzed carbon-carbon bond formation reactions, originally described in a preprint in April 2023.](https://www.nature.com/articles/s41586-023-06792-0)
