@@ -4,12 +4,19 @@ Chairperson of Univrsity Grant Commission (UGC) has pitched for improving qualit
 not the first time nor will it be the last time an incumbent Chairperson UGC publicly expressed disastisfaction about the quality of Ph D degrees. Though
 present UGC Chairperson appears to be hyperactive in social network sites, he probably is not paying attentions to many issues discussed in social media
 about the difficulties that students face in persuing a Ph. D. in India. Not all universities including IITs or IISc offer a decent work environment for
-Ph. D. scholars. The problems that the scholars face could be:
+Ph. D. scholars. Some of issues related environment arise due to r. Ph. D.
+is a sort of personal committment with the supervisor. So, many problems that affect the quality of Ph. D. may germinate from a scholar's inability to 
+take an informed decision to join a specific supervisor. Sometimes a scholar is unable to extricate from clutches of a supervisor if the latter is 
+abusive. 
+There are several micro-management problems that the scholars face could be:
 - Resource paucity issues
 - Placement issues after Ph. D.
 - Personal committment issues
 - Abusive and incompetent supervisor
-- Sustainance allowance 
+- Timely release of scholarship
+- No grievance redresssal
+- Insistance on GATE/NET 
+
 Quality of teaching has never been a determining parameter for survival of a university in the country. UGC enforced Ph. D. in the required discipline
 as a minimum requirement for a faculty position, hoping that quality of faculty would automatically improve the quality of degrees in engineering awarded 
 by our universities. It has not worked, as most university started offering Ph. D. degrees without caring for quality. 
