@@ -1,8 +1,19 @@
 # Quality of PhDs
 
 Chairperson of Univrsity Grant Commission (UGC) has pitched for improving quality of Ph. D. degrees being awarded by Indian Universities. I believe it is
-not the first time nor will it be the last time an incumbent Chairperson UGC publicly expressed disastisfaction about the quality of degrees being awarded
-by many of our Universities. Quality has never been a determining parameter for survival of a university in the country. A country with over 1.4 billion
+not the first time nor will it be the last time an incumbent Chairperson UGC publicly expressed disastisfaction about the quality of Ph D degrees. Though
+present UGC Chairperson appears to be hyperactive in social network sites, he probably is not paying attentions to many issues discussed in social media
+about the difficulties that students face in persuing a Ph. D. in India. Not all universities including IITs or IISc offer a decent work environment for
+Ph. D. scholars. The problems that the scholars face could be:
+- Resource paucity issues
+- Placement issues after Ph. D.
+- Personal committment issues
+- Abusive and incompetent supervisor
+- Sustainance allowance 
+Quality of teaching has never been a determining parameter for survival of a university in the country. UGC enforced Ph. D. in the required discipline
+as a minimum requirement for a faculty position, hoping that quality of faculty would automatically improve the quality of degrees in engineering awarded 
+by our universities. It has not worked, as most university started offering Ph. D. degrees without caring for quality. 
+are useless A country with over 1.4 billion
 people requires a lot of universities. As of 2023, India has a little of 1100  university and 42000 colleges. About 4.14 corers enrollment in 
 institutions across India. The governments in the past 50 years since the country's independence
 from Briish did not think much about education. Only a few institutions were added during the time. When Homi Bhabha was inducted chief scientific 
