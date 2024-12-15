@@ -25,6 +25,11 @@ observes that educational change depends on generational. The parents of low qua
 of a educational change as the current generation students have access to better intellecutal capitals  from their parents. While this may be true about
 undergraduate studies, the situation in graduate studies in India will still remain very poor. 
 
+The general feeling is that the fate of anyone joining the [PhD program in a private university in India is doomed.](https://www.moneylife.in/article/doing-phd-in-india-think-thrice/52923.html)
+India is considered as a worst place to do PhD even in reputed institutions like IISc, IITs, and IIESR. The major criticism targets the corruption and issues
+with the supervisors. Corruption seems to be a big issue in most countries with a long collonial past. Collonial governance has conditioned the general
+population with attitude ot nornalizing greasing plams on every walks of life. However, students who may opt for doing PhDs won't take it kindly. 
+
 I have been going through various posts in social media sites about the poor quality graduate programs in India. Having been associated with one of the 
 older IITs for over three decades, I noticed many ups and downs in this respect. Around 1980s, only a few institutes were offering PhD programs, mostly in 
 science subjects. Scholarship for a students were absymally low. Many were financially supported by their parents. Only around 2000 things improved a lot.
