@@ -26,15 +26,20 @@ of a educational change as the current generation students have access to better
 undergraduate studies, the situation in graduate studies in India will still remain very poor. 
 
 The general feeling is that the fate of anyone joining the [PhD program in a private university in India is doomed.](https://www.moneylife.in/article/doing-phd-in-india-think-thrice/52923.html)
-India is considered as a worst place to do PhD even in reputed institutions like IISc, IITs, and IIESR. The major criticism targets the corruption and issues
-with the supervisors. Corruption seems to be a big issue in most countries with a long collonial past. Collonial governance has conditioned the general
-population with attitude ot nornalizing greasing plams on every walks of life. However, students who may opt for doing PhDs won't take it kindly. 
+India is considered as a worst place to do PhD even in reputed institutions like IISc, IITs, and IIESR. The two major criticism appears to be
+- Corruption and
+- Supervisors.
+
+Corruption endemic in countries with a long colonial past. The colonial governance apparently conditioned the general population in normalizing greasing plams with 
+a processing fee for a legitimate government approval. The situation has continued until very recently when Internet did not exist or has not widely spread across
+India. The younger generation of population is now aware of their rights and limits of approval authorities. However, as we know habits die hard, so the corruption
+is still very much in diaplay. 
+
+and would like to have clean working environment.  
 
 I have been going through various posts in social media sites about the poor quality graduate programs in India. Having been associated with one of the 
 older IITs for over three decades, I noticed many ups and downs in this respect. Around 1980s, only a few institutes were offering PhD programs, mostly in 
 science subjects. Scholarship for a students were absymally low. Many were financially supported by their parents. Only around 2000 things improved a lot.
-However, there are a host of other issues:
-- Resource and lab issue remained a sore point.
 
 
 education remains pathetically theory oriented. Often well networked loud mouth babblers and people with specific agenda sieze control of 
