@@ -1,9 +1,23 @@
 # Quality of PhDs
 
-Chairperson of Univrsity Grant Commission (UGC) has pitched for improving quality of Ph. D. degrees being awarded by Indian Universities. I believe it is
+Chairperson of Univrsity Grant Commission (UGC) has been pitching for improving quality of Ph. D. degrees being awarded by Indian Universities. I believe it is
 not the first time nor will it be the last time an incumbent Chairperson UGC publicly expressed disastisfaction about the quality of Ph D degrees. Though
-present UGC Chairperson appears to be hyperactive in social network sites, he probably is not paying attentions to many issues discussed in social media
-about the difficulties that students face in persuing a Ph. D. in India. Not all universities including IITs or IISc offer a decent work environment for
+present UGC Chairperson appears to be hyperactive in social network sites, he probably is not paying enough attentions to many issues discussed at micro-level
+which dissuade a majority of competent person to persue Ph D in Indian Universities. There are about 1200 universities and about 170 CFTIs in India which offer
+Ph D programs. [Less than 0.5%](https://opportunities-insight.britishcouncil.org/short-articles/news/india-releases-updated-higher-education-statistics) of 
+students enrolled for higher education in India opt to enrol in Ph D programs. Of course, just over 2% of the population in US and other developed European
+countries hold PhDs. There are total of 8 million PhD holders in the world as per 2014 data. Statista infochart tells that US produces 67k PhDs per year whereas
+India produces 24k PhDs annually. Out of 43.3 million students enrolled in higher educational institutes across India only 0.5%, i.e, 216500 students enroll
+for PhDs in India. The why under 25k students graduate with a degree? In 2019, the enrollment figure was 202550. So, even assuming average tenure of the
+program is 5 years, we should be producing at least 50k PhDs per year (calculating at a mean completion rate of lower than 25%). The mean completion
+rate is not even 11% of the enrollment. US universities annually enroll a little over a million of international students. The mean completion rate for PhD from
+US is over 50%. Many would think that comparison with USA is not fair. However, I believe there is no reason to compare demographically with lesser developed
+nations when we aspire to become world leaders. 
+
+
+We always tend to compare with US, because there is no The number of international students in Indian institutions is just 46k in
+2021-2022 which dropped by 2% from the previous year. average is 7%. So there are
+major issue in persuing Ph Ds in India. about the difficulties that students face in persuing a Ph. D. in India. Not all universities including IITs or IISc offer a decent work environment for
 Ph. D. scholars. Some of issues related environment arise due to r. Ph. D.
 is a sort of personal committment with the supervisor. So, many problems that affect the quality of Ph. D. may germinate from a scholar's inability to 
 take an informed decision to join a specific supervisor. Sometimes a scholar is unable to extricate from clutches of a supervisor if the latter is 
