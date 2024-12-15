@@ -20,10 +20,18 @@ The number of international students in Indian institutions is just about 46k in
 account for [35% of Phd enrollments](https://monitor.icef.com/2023/10/further-growth-in-international-enrolment-in-us-graduate-programmes/) in private not for
 profit US universities. There is an [insightful post](https://www.quora.com/Why-did-the-Indian-education-system-fail-compared-to-the-global-universities-and-colleges) 
 in quora by Anbazhagan Ambrose who explains the issues that dissuade international students to opt for enrollment in UG programs in Indian institutions. He
-says there are at least 10 universities in Germany that are 500 years old, in contrast the oldest university in India is only about 170 years old. Our education
-system is recreated by Colonial rulers who instilled as sense of superiority among engineering students who consider spending time with tool-builders or craftsmen
-is beneath difnity. The students from Tier-2 and Tier-3 colleges are prime generator of wealth and are unsung heros.   
-Our attitude towards  
+says there are at least 10 universities in Germany that are 500 years old, in contrast the oldest university in India is only about 170 years old. Ambrose 
+observes that educational change depends on generational. The parents of low quality graduates are mostly 10th grade qualifiers. However, India in thresholds
+of a educational change as the current generation students have access to better intellecutal capitals  from their parents. While this may be true about
+undergraduate studies, the situation in graduate studies in India will still remain very poor. 
+
+I have been going through various posts in social media sites about the poor quality graduate programs in India. Having been associated with one of the 
+older IITs for over three decades, I noticed many ups and downs in this respect. Around 1980s, only a few institutes were offering PhD programs, mostly in 
+science subjects. Scholarship for a students were absymally low. Many were financially supported by their parents. Only around 2000 things improved a lot.
+However, there are a host of other issues:
+- Resource and lab issue remained a sore point.
+
+
 education remains pathetically theory oriented. Often well networked loud mouth babblers and people with specific agenda sieze control of 
 decision making in academic regulatory bodies. Unfortunately, our system can neither recognize nor disassociate those elements from government policy making. 
 
