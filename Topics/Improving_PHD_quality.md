@@ -12,15 +12,16 @@ India produces 24k PhDs annually. Out of 43.3 million students enrolled in highe
 for PhDs in India. The why under 25k students graduate with a degree? In 2019, the enrollment figure was 202550. So, even assuming average tenure of the
 program is 5 years, we should be producing at least 50k PhDs per year (calculating at a mean completion rate of lower than 25%). The mean completion
 rate is not even 11% of the enrollment. US universities annually enroll a little over a million of international students. The [mean completion rate for PhD from
-US is over 50%](https://www.apa.org/gradpsych/2008/11/phd). Many would think that comparison with USA is not fair. However, I believe there is no reason to compare 
-demographically with lesser developed nations when we aspire to become world leaders. 
+US is over 50%](https://www.apa.org/gradpsych/2008/11/phd). Many would say that comparison with USA is not fair. However, I believe there is no reason to compare 
+demographically with lesser developed nations if we aspire to become world leaders. 
 
 
-The number of international students in Indian institutions is just 46k in 2021-2022 which dropped by 2% from the previous year. The international students 
-account for [35% of Phd enrollments](https://monitor.icef.com/2023/10/further-growth-in-international-enrolment-in-us-graduate-programmes/) in US universities. 
-I came across an [insightful post](https://www.quora.com/Why-did-the-Indian-education-system-fail-compared-to-the-global-universities-and-colleges) in quora by 
-Anbazhagan Ambrose explaining the issues that dissuade international student to opt for enrollment in Indian institutions. Our attitude towards education
-remains largely and pathetically theory oriented. We produce loud mouth bable.
+The number of international students in Indian institutions is just about 46k in 2021-2022 which dropped by 2% from the previous year. The international students 
+account for [35% of Phd enrollments](https://monitor.icef.com/2023/10/further-growth-in-international-enrolment-in-us-graduate-programmes/) in private not for
+profig US universities. There is an [insightful post](https://www.quora.com/Why-did-the-Indian-education-system-fail-compared-to-the-global-universities-and-colleges) 
+in quora by Anbazhagan Ambrose explaining the issues that dissuade international students to opt for enrollment in Indian institutions. Our attitude towards 
+education remains pathetically theory oriented. Often well networked loud mouth babblers and people with specific agenda sieze control of discourse in academic 
+decision making. Unfortunately, our system can neither recognize nor disassociate them from government policy making. 
 
 major issue in persuing Ph Ds in India. about the difficulties that students face in persuing a Ph. D. in India. Not all universities including IITs or IISc offer a decent work environment for
 Ph. D. scholars. Some of issues related environment arise due to r. Ph. D.
