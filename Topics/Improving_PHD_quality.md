@@ -16,8 +16,12 @@ US is over 50%](https://www.apa.org/gradpsych/2008/11/phd). Many would think tha
 demographically with lesser developed nations when we aspire to become world leaders. 
 
 
-We always tend to compare with US, because there is no The number of international students in Indian institutions is just 46k in
-2021-2022 which dropped by 2% from the previous year. average is 7%. So there are
+The number of international students in Indian institutions is just 46k in 2021-2022 which dropped by 2% from the previous year. The international students 
+account for [35% of Phd enrollments](https://monitor.icef.com/2023/10/further-growth-in-international-enrolment-in-us-graduate-programmes/) in US universities. 
+I came across an [insightful post](https://www.quora.com/Why-did-the-Indian-education-system-fail-compared-to-the-global-universities-and-colleges) in quora by 
+Anbazhagan Ambrose explaining the issues that dissuade international student to opt for enrollment in Indian institutions. Our attitude towards education
+remains largely and pathetically theory oriented. We produce loud mouth bable.
+
 major issue in persuing Ph Ds in India. about the difficulties that students face in persuing a Ph. D. in India. Not all universities including IITs or IISc offer a decent work environment for
 Ph. D. scholars. Some of issues related environment arise due to r. Ph. D.
 is a sort of personal committment with the supervisor. So, many problems that affect the quality of Ph. D. may germinate from a scholar's inability to 
