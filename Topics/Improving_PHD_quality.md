@@ -18,10 +18,14 @@ demographically with lesser developed nations if we aspire to become world leade
 
 The number of international students in Indian institutions is just about 46k in 2021-2022 which dropped by 2% from the previous year. The international students 
 account for [35% of Phd enrollments](https://monitor.icef.com/2023/10/further-growth-in-international-enrolment-in-us-graduate-programmes/) in private not for
-profig US universities. There is an [insightful post](https://www.quora.com/Why-did-the-Indian-education-system-fail-compared-to-the-global-universities-and-colleges) 
-in quora by Anbazhagan Ambrose explaining the issues that dissuade international students to opt for enrollment in Indian institutions. Our attitude towards 
-education remains pathetically theory oriented. Often well networked loud mouth babblers and people with specific agenda sieze control of discourse in academic 
-decision making. Unfortunately, our system can neither recognize nor disassociate them from government policy making. 
+profit US universities. There is an [insightful post](https://www.quora.com/Why-did-the-Indian-education-system-fail-compared-to-the-global-universities-and-colleges) 
+in quora by Anbazhagan Ambrose who explains the issues that dissuade international students to opt for enrollment in UG programs in Indian institutions. He
+says there are at least 10 universities in Germany that are 500 years old, in contrast the oldest university in India is only about 170 years old. Our education
+system is recreated by Colonial rulers who instilled as sense of superiority among engineering students who consider spending time with tool-builders or craftsmen
+is beneath difnity. The students from Tier-2 and Tier-3 colleges are prime generator of wealth and are unsung heros.   
+Our attitude towards  
+education remains pathetically theory oriented. Often well networked loud mouth babblers and people with specific agenda sieze control of 
+decision making in academic regulatory bodies. Unfortunately, our system can neither recognize nor disassociate those elements from government policy making. 
 
 major issue in persuing Ph Ds in India. about the difficulties that students face in persuing a Ph. D. in India. Not all universities including IITs or IISc offer a decent work environment for
 Ph. D. scholars. Some of issues related environment arise due to r. Ph. D.
