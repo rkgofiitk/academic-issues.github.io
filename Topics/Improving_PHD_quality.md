@@ -32,8 +32,8 @@ studies in India still remains very poor.
 The general feeling is that the fate of anyone joining the [PhD program in a private university in India is doomed.](https://www.moneylife.in/article/doing-phd-in-india-think-thrice/52923.html)
 Going through a sample of social media posts, the verdict is that India is the worst place to do PhD even in reputed institutions like IISc, IITs, and IIESR. The 
 two major criticism appears to be directed towards
-- Corruption and
-- Issues with supervisors.
+- Systemic Corruption and
+- Issues with supervisors and other colleagues
 
 Corruption endemic in countries with a long colonial past. The colonial governance apparently conditioned the general population in normalizing "greasing plams" 
 (euphimsm for paying a processing fee to a government official) for a legitimate approval. The situation has continued until very recently when Internet did not 
@@ -44,10 +44,34 @@ approval and stall it. I had exeperience in dealing with DST, CSIR, BNRS, and th
 at low-end office assistants. Luckily, all higher officials I met had helped to sort out the problem as fast as they could.  Stil, I found having a
 foreign research grant is simpler to handle even if local purchase and account department may meddle a bit.  
 
+The single most irritant for a research scholar is interpersonal relationship with supervisor and colleagues under the same supervisor/and or department. 
+Most supervisors at even in India's leading institutions treat a research scholar as personal assistant and a helping hand. It breed contempt for the supervisor
+and the animosity betweeen advisee and advisor start affecting demeanour of a scholar. The kind of problems between an advisee and advisor could be:
+- Lack of communiation
+- Absent supervisor
+- Overbearing supervisor
+- Changing supervisor
+
+The root of the problem is lack of communication between the parties. Unless there is a healthy undertanding and regular communication between advisee and advisor, 
+it is impossible to complete the requirements for the degree. Since PhD is a longtime commitment the relationship between two is develop over time and may change
+from time to time. The mentee being a younger may have little patient. It is the role of mentor to handle the mantee carefully. However, the mentee should be 
+aware of his/her responsibilities. An absentee supervisor need to create a channel for regular updates from the students possibly through slack, github and
+hold online meet to avoid miscommunication and lack of communication. However, the problem of overbearing supervisor is where the responsibilities of a scholar
+becomes more demanding. Usually, control freaks or younger supervisor tend to be overbearing. Frequent meeting could be counter productive.  The shcolar has
+to tactfully avoid a direct clash with the supervisor and develop a skill for negotiation. Perhaps opting for co-supervisor could make things easier. Remember
+PhD is not just an academic degree it also demands skills such as planning and management. Changing supervisor is a complex issue. Most supervisor in IITs
+or elsewhere resent the change. However, if scholar loses interest in topic of research, then it could bite back the supervisor in the long run. So, for best
+interest of all concerned the supervisor should let go the scholar. Still changing supervisor is very complex and could create unease between the scholar and
+the department. Therefore, selection of supervisor is a big step before starting a PhD program. It is necessary that the scholars should make an informed 
+assessment of the probable supervisor and topic of research. Study the credentials including the person's inter-personal relationship with past students before
+joining a specific supervisor. Often it may be possible due to various reasons including availability of research grants. In that case, the scholar should be
+able to make an assessment of the pros and cons before joining. 
 
 I have been going through various posts in social media sites about the poor quality graduate programs in India. Having been associated with one of the 
 older IITs for over three decades, I noticed many ups and downs in this respect. Around 1980s, only a few institutes were offering PhD programs, mostly in 
-science subjects. Scholarship for a students were absymally low. Many were financially supported by their parents. Only around 2000 things improved a lot.
+science subjects. Scholarship for a students were absymally low. Many were financially supported by their parents. Only around 2000 things improved a lot. Now
+the situation is different. Granting agencies are more liberal in sanctioning money. In private university, this may not the case. Only a few reputed private
+universities could provide financial support, but they would make the scholar work for the payment in terms of teaching roles. 
 
 
 education remains pathetically theory oriented. Often well networked loud mouth babblers and people with specific agenda sieze control of 
