@@ -16,26 +16,34 @@ US is over 50%](https://www.apa.org/gradpsych/2008/11/phd). Many would say that 
 demographically with lesser developed nations if we aspire to become world leaders. 
 
 
-The number of international students in Indian institutions is just about 46k in 2021-2022 which dropped by 2% from the previous year. The international students 
-account for [35% of Phd enrollments](https://monitor.icef.com/2023/10/further-growth-in-international-enrolment-in-us-graduate-programmes/) in private not for
-profit US universities. There is an [insightful post](https://www.quora.com/Why-did-the-Indian-education-system-fail-compared-to-the-global-universities-and-colleges) 
-in quora by Anbazhagan Ambrose who explains the issues that dissuade international students to opt for enrollment in UG programs in Indian institutions. He
-says there are at least 10 universities in Germany that are 500 years old, in contrast the oldest university in India is only about 170 years old. Ambrose 
-observes that educational change depends on generational. The parents of low quality graduates are mostly 10th grade qualifiers. However, India in thresholds
-of a educational change as the current generation students have access to better intellecutal capitals  from their parents. While this may be true about
-undergraduate studies, the situation in graduate studies in India will still remain very poor. 
+The number of international students in Indian institutions is just about 46k in 2021-2022 which dropped by 2% from the previous year. Whereas the international 
+students enrollments in USA is about a million followed by UK, Canada over half a million. USA is the most preferred destination of international students 
+for PhD programs. They account for [35% of Phd enrollments](https://monitor.icef.com/2023/10/further-growth-in-international-enrolment-in-us-graduate-programmes/) 
+in private not for profit universities. Even countries like Nzealand welcomed over 73k international students. It made me wonder why Indian institutions/universities
+are not preferred by foreign students from neighbouring countries like Pakistan, Bangladesh, Mynamar, Srilanka, Nepal, Thailand, Philipines, Maldives, Mauritius. 
+There is an [insightful post](https://www.quora.com/Why-did-the-Indian-education-system-fail-compared-to-the-global-universities-and-colleges) 
+in quora by Anbazhagan Ambrose who explains the issues that dissuade international students to opt for enrollment in UG programs in engineering at Indian institutions.
+He analyzes the issue by drawing comparison with Germany. There are at least ten universities in Germany that are 500 years old, in contrast the oldest university 
+in India is only about 170 years old. Ambrose observes that educational change depends on generational change. The parents of low quality graduates from Tier-2 and
+Tier-3 engineering institutes in India are mostly 10th grade qualifiers. India after 50 year could attend the thresholds of an educational change as the current 
+generation of students have access to better intellecutal capitals  from their parents. While this may be true about undergraduate studies, the situation in graduate
+studies in India still remains very poor. 
 
 The general feeling is that the fate of anyone joining the [PhD program in a private university in India is doomed.](https://www.moneylife.in/article/doing-phd-in-india-think-thrice/52923.html)
-India is considered as a worst place to do PhD even in reputed institutions like IISc, IITs, and IIESR. The two major criticism appears to be
+Going through a sample of social media posts, the verdict is that India is the worst place to do PhD even in reputed institutions like IISc, IITs, and IIESR. The 
+two major criticism appears to be directed towards
 - Corruption and
-- Supervisors.
+- Issues with supervisors.
 
-Corruption endemic in countries with a long colonial past. The colonial governance apparently conditioned the general population in normalizing greasing plams with 
-a processing fee for a legitimate government approval. The situation has continued until very recently when Internet did not exist or has not widely spread across
-India. The younger generation of population is now aware of their rights and limits of approval authorities. However, as we know habits die hard, so the corruption
-is still very much in diaplay. 
+Corruption endemic in countries with a long colonial past. The colonial governance apparently conditioned the general population in normalizing "greasing plams" 
+(euphimsm for paying a processing fee to a government official) for a legitimate approval. The situation has continued until very recently when Internet did not 
+exist or has not widely spread across India. The younger generation of population is now aware of their rights and limits of approval authorities. However, as we 
+know habits die hard, so the corruption is still very endemic to our system of governance. Government officials have found different ways to harass citizens,
+among these delaying tactic is one important tool. The single most pain point is finance or the money. One can easily find minor faults in an application seeking
+approval and stall it. I had exeperience in dealing with DST, CSIR, BNRS, and the local disbursing authorities. Funding agenecies have usual beureacratic problem
+at low-end office assistants. Luckily, all higher officials I met had helped to sort out the problem as fast as they could.  Stil, I found having a
+foreign research grant is simpler to handle even if local purchase and account department may meddle a bit.  
 
-and would like to have clean working environment.  
 
 I have been going through various posts in social media sites about the poor quality graduate programs in India. Having been associated with one of the 
 older IITs for over three decades, I noticed many ups and downs in this respect. Around 1980s, only a few institutes were offering PhD programs, mostly in 
