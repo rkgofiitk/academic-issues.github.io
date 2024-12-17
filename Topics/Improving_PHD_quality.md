@@ -1,5 +1,7 @@
 # Quality of PhDs
 
+[Blog Index](../index.md)
+
 Chairperson of Univrsity Grant Commission (UGC) has been pitching for improving quality of Ph. D. degrees being awarded by Indian Universities. I believe it is
 not the first time nor will it be the last time an incumbent Chairperson UGC publicly expressed disastisfaction about the quality of Ph D degrees. Though
 present UGC Chairperson appears to be hyperactive in social network sites, perhaps UGC is not paying enough attentions to many issues at micro-level
@@ -55,8 +57,10 @@ institutions. Even then, I found having a foreign research grant is simpler to h
 In summary, I feel the low-level corruption is hurting us more than the high-level corruption.
 
 The single most irritant for a research scholar is interpersonal relationship with supervisor and colleagues under the same supervisor/and or department. 
-Most supervisors at even in India's leading institutions treat a research scholar as personal assistant and a helping hand. It breed contempt for the supervisor
-and the animosity betweeen advisee and advisor start affecting demeanour of a scholar. The kind of problems between an advisee and advisor could be:
+Most supervisors at even in India's leading institutions treat a research scholar as personal assistant and a helping hand. In one of my old posts I 
+described a few [anecdotes](Topics/PhDstudents.md) about many reputed institutions in India. Absence of a healthy mutual respectful interpersonal
+relationship breed contempt for the supervisor and leads to serious animosity betweeen advisee and advisor start affecting demeanour of a scholar. 
+The kind of problems between an advisee and advisor could be:
 - Lack of communiation
 - Absent supervisor
 - Overbearing supervisor
@@ -99,4 +103,4 @@ to CSIR and DAE. Existing public universities experience a cut in funding. Fundi
 university system. Their places were taken by ill-equipped educators who neight had capabilities nor had inclination to achieve excellence. As a result the 
 university system crumbled. 
 
-I had an old post about how the [PhD students are treated](Topics/PhDstudents.md)in many reputed institutions in India.  
+[Back to Index](../index.md)
