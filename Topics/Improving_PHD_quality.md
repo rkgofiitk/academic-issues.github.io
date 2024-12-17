@@ -50,8 +50,8 @@ population to normalize "greasing palms" (a euphemism for paying a processing fe
 until very recently when the Internet did not exist or has not spread widely across India. The younger population is now aware of their rights and 
 limits of approval authorities. However, habits die hard, so corruption is still very endemic to our system of governance. Government officials have
 found newer ways to harass citizens, delaying tactics being one important tool. The most dominating pain point is finance or the money, as I have 
-already pointed out. One can easily find minor faults in an application seeking approval and stall it. I have experience dealing with DST, CSIR, BNRS,
-and the local disbursing authorities at my institute. Funding agencies have the usual bureaucratic problems at low-end office assistants. Luckily,
+already pointed out. One can easily find minor faults in an application seeking approval and stall it. I have experience dealing with DST, CSIR, BRNS,
+and the local disbursing authorities at my institute. Funding agencies have the usual problems at lower-level of the bureaucratic hierarchy. Luckily,
 all the higher officials I met had helped sort out the problem as quickly as possible. However, older IITs have an added advantage that probably is 
 not available to newer institutions. Even then, having a foreign research grant is more straightforward to handle, though the local purchase and 
 account department may meddle a bit. In summary, the low-level corruption hurts us more than the high-level corruption.
