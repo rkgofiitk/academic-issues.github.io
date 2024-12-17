@@ -56,7 +56,7 @@ all the higher officials I met had helped sort out the problem as quickly as pos
 not available to newer institutions. Even then, having a foreign research grant is more straightforward to handle, though the local purchase and 
 account departments may meddle a bit. In summary, the low-level corruption hurts us more than the high-level corruption.
 
-The most irritant for a research scholar is interpersonal relationships with supervisors and colleagues under the same supervisor/or department. 
+The most irritant for a research scholar is interpersonal relationships with supervisors and colleagues under the same supervisor/or in the same department. 
 Most supervisors, even in India's leading institutions, treat a research scholar as a personal assistant and a helping hand. In one of my old posts, I 
 described a few [anecdotes](Topics/PhDstudents.md) about the treatments meted out to research scholars by their respective supervisors in many 
 reputed institutions in India. The absence of a healthy, mutual, respectful interpersonal relationship breeds contempt for the supervisor and leads to 
