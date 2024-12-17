@@ -11,8 +11,8 @@ students enrolled in higher education in India opt for pursuing Ph D programs. O
 countries hold PhDs. Indeed, a PhD is a difficult degree. There are only 8 million PhD holders in the world, as per 2014 data. The [Statista 
 infochart](https://www.statista.com/chart/7272/the-countries-with-the-most-doctoral-graduates/) tells that US produces 67k PhDs per year whereas
 India produces 24k PhDs annually. Of 43.3 million students enrolled in higher educational institutes across India, only 0.5%, i.e., 216500 students, enroll
-for PhDs in India. Why do under 25k students graduate with a degree? In 2019, the enrollment figure was 202550. So, even assuming the average tenure of the
-program is 5 years, we should be producing at least 50k PhDs per year (calculating a mean completion rate of lower than 25%). The mean completion
+for PhDs in India. Why do under 25k students only graduate with a degree? In 2019, the enrollment figure was 202550. Even assuming the average tenure of the
+program is 5 years, we should be producing at least 50k PhDs per year (calculating at a mean completion rate of lower than 25%). The mean completion
 rate is not even 11% of the enrollment. US universities annually enroll a little over a million international students. The [mean completion rate for PhD from
 US is over 55%](https://www.apa.org/gradpsych/2008/11/phd). Many say that comparison with the USA is not fair. However, there is no reason to compare 
 demographically with lesser developed nations if we aspire to become world leaders. 
