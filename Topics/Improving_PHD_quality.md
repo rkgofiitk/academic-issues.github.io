@@ -47,7 +47,7 @@ So, I find that there is some truth in two of the major criticisms:
 
 Corruption is endemic to the countries with a long colonial past. The colonial governance conditioned the general 
 population to normalize "greasing palms" (a euphemism for paying a processing fee to a government official) for legitimate approval. The situation has continued 
-until very recently when the Internet did not exist or has not widely spread across India. The younger population is now aware of their rights and 
+until very recently when the Internet did not exist or has not spread widely across India. The younger population is now aware of their rights and 
 limits of approval authorities. However, habits die hard, so corruption is still very endemic to our system of governance. Government officials have
 found newer ways to harass citizens, delaying tactics being one important tool. The most dominating pain point is finance or the money, as I have 
 already pointed out. One can easily find minor faults in an application seeking approval and stall it. I have experience dealing with DST, CSIR, BNRS,
