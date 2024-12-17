@@ -98,9 +98,11 @@ stage to offer good PhD programs. In other words, none of them have reached a ge
 About 4.14 corers enrollment in institutions across India. The governments in the past 50 years since the country's independence
 from Briish did not think much about education. Perhaps politics of keeping mass away from education is a democratic decision as is giving universal 
 adult franchise. Only a few institutions were added during the time. When Homi Bhabha was inducted chief scientific 
-advisor of the government, he persuaded the primeminister to build specialized labs. The government of the day simply reallocated resources from universities
-to CSIR and DAE. Existing public universities experience a cut in funding. Funding crunch excerbated survival of universities. Many reputed professors left
-university system. Their places were taken by ill-equipped educators who neight had capabilities nor had inclination to achieve excellence. As a result the 
-university system crumbled. 
+advisor of the government, he persuaded the Prime Minister of the day to build specialized labs. The government simply reallocated resources from universities
+to CSIR, DAE, DRDO and so on. Existing public universities experience a cut in funding. Funding crunch excerbated survival of these public universities.
+Many reputed professors left universities for places where opportunities were better. The vaccum was replaced by less deserving people who were eagre
+to compromise for enjoying governemnt patronage. It was an intellectual disaster that ruined the universities and brought in level of sychophancy not
+seen in academic world. On the other hand, labs developed a culture of person-centric fiefdom that discouraged talents. Perhaps ISRO and BARC were only
+two exceptional institutions that emerged out of the conundrum. 
 
 [Back to Index](../index.md)
