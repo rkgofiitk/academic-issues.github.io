@@ -90,18 +90,20 @@ Apart from the two major issues discussed above, a few other micro-level managem
 - Insistence on GATE/NET 
 
 Most universities start offering Ph. D. degrees almost immediately without caring for quality. A country with over 1.4 billion
-people requires a lot of universities. As of 2023, India has a little of 1100 universities and 42000 colleges. From 2014, we started adding 40 
-new universities per year. However, the quality of these institutions is very low. At the risk of making a sweeping comment, private universities
-established between the early eighties and mid-nineties may have stabilized UG programs. However, they have yet to reach a 
-stage where they can offer good PhD programs. In other words, they have yet to reach a generational change regarding the PhD program.
+people requires a lot of universities. From 2014, we started adding 40 new universities per year. However, the quality of these institutions is 
+very low. At the risk of making a sweeping comment, private universities established between the early eighties and mid-nineties may have stabilized their
+UG programs. However, they have yet to reach a stage where they can offer good PhD programs. In other words, they have yet to reach a generational 
+change regarding the PhD program.
 
-About 4.14 corers enroll in institutions across India. In the past 50 years since the country's independence
-from the British, the governments have not thought much about education. Perhaps the politics of keeping mass away from education is a democratic decision, as 
-is giving universal adult franchise. The government added only a handful of institutions during that time. When Homi Bhabha was inducted  as the
-government's scientific advisor, he persuaded the Prime Minister of the day to build specialized labs. The government reallocated resources from universities
-to CSIR, DAE, DRDO, and so on. Existing public universities experience a cut in funding. The funding crunch exacerbated the survival of these public 
+About 4.14 corers enroll in institutions across India. Many leave their academic program in the mid-way due to various reasons, funding being the 
+most important among these. In the past 50 years since the country's independence from the British, the governments have not thought much about education. 
+Perhaps the politics of keeping mass away from education is a democratic decision, as is giving universal adult franchise. Around 60 universities
+of institutions of higher education were added during the period [1947-1970](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/jul/doc202272975101.pdf). 
+Homi J. Bhabha becaome chairperson of AEC in 1948 and a keen member of Scientific Advisory Committee of Government of India. Bhabha persuaded the Prime 
+Minister of the day to build specialized labs. The government instead of finding creating new funding opportunities, just reallocated resources from 
+universities to CSIR, DAE, DRDO, and so on. Existing public universities experienced severe cut in funding. It exacerbated the survival of these public 
 universities.Many reputed professors left universities for places where opportunities were better. The vacuum was replaced by less deserving people eager to 
-compromise to enjoy government patronage. It was an intellectual disaster that ruined the universities and brought in a sycophancy not
+compromise and enjoy government patronage. It was an intellectual disaster and brought in a sycophancy not
 seen in the academic world. On the other hand, labs developed a culture of person-centric fiefdom that discouraged talents. Perhaps ISRO and BARC were the only
 two exceptional institutions that emerged from the conundrum. 
 
