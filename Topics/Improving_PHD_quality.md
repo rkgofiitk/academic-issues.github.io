@@ -24,9 +24,9 @@ most preferred destination for international students for PhD programs. They acc
 in private not-for-profit universities. Even countries like Newzealand welcomed over 73k international students. It made me wonder why Indian institutions/
 universities are not preferred by international students from neighboring countries like Pakistan, Bangladesh, Myanmar, Sri Lanka, Nepal, Thailand, Philippines, 
 Maldives, and Mauritius. There is an [insightful post](https://www.quora.com/Why-did-the-Indian-education-system-fail-compared-to-the-global-universities-and-colleges) 
-in Quora, in which Anbazhagan Ambrose explains the issues that dissuade international students from enrolling in UG programs in engineering at Indian institutions 
-drawing comparisons with universities in Germany. At least ten universities in Germany are 500 years old; in contrast, the oldest university in India is only 
-about 170 years old. Ambrose observes that educational change is attributed to generational change. Most parents of low-quality graduates
+in Quora by Anbazhagan Ambrose. Ambrose explains the issues that dissuade international students from enrolling in UG programs in engineering at Indian 
+institutions drawing comparisons with universities in Germany. At least ten universities in Germany are 500 years old; in contrast, the oldest university in 
+India is only about 170 years old. Ambrose observes further that educational change is attributed to generational change. Most parents of low-quality graduates
 from Tier-2 and Tier-3 engineering institutes in India have been in school up to 10th grade. After 50 years, India attained a generational change, with
 the current generation of students having access to better intellectual capital from their parents. While this may be true about undergraduate studies, as
 far as graduate studies are concerned, the comment is irrelevant because inherited intellectual capital is of little use. However, the quality of
