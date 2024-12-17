@@ -71,7 +71,7 @@ and advisor, it is impossible to complete the requirements for the degree. Since
 time and may change dynamically. The mentee being young, has a lower threshold of patience compared to the mentor. It is the role of the mentor to handle 
 the mentee carefully. However, the mentees should also be mindful of their responsibilities. An absentee supervisor needs to create a channel for regular 
 updates from the students, possibly through Slackware, or GitHub, and hold online meetings to avoid miscommunication or lack of communication. However,
-the problem of an overbearing supervisor could shatter the mental health of a scholar. Usually, control freaks or younger supervisors often tend to be 
+the problem of an overbearing supervisor could shatter the mental health of a scholar. Usually, control freaks or younger supervisors tend to be 
 overbearing. Frequent meetings are counter-productive. The scholar should tactfully avoid a direct clash with the supervisor and  has to develop negotiation 
 skills. Opting for a co-supervisor could make things easier. PhD is not just an academic degree or a relationship of one-night-stand. It demands skills 
 such as planning and management. Changing supervisor is a complex issue. Most supervisors in IITs, IISc, or elsewhere resent scholar-initiated supervisor 
