@@ -66,7 +66,7 @@ serious animosity between advisee and advisor, affecting a scholar's demeanor. T
 - Overbearing supervisor
 - Changing supervisor
 
-The root of the problem is a lack of communication between the parties. Unless there is a healthy understanding and regular communication between the advisee 
+The root of the problem is a lack of communication between the parties. Unless there is regular communication between the advisee 
 and advisor, it is impossible to complete the requirements for the degree. Since a PhD is a longtime commitment, the relationship between the two develops over 
 time and may change from time to time. The mentee is younger and may have little patience. It is the role of the mentor to handle the mentee carefully. However, 
 the mentee should be aware of their responsibilities. An absentee supervisor needs to create a channel for regular updates from the students, possibly 
