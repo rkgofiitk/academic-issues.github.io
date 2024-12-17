@@ -45,7 +45,7 @@ So, I find that there is some truth in two of the major criticisms:
 - Systemic Corruption and
 - Issues with supervisors and other colleagues
 
-appears to be true. Corruption is endemic to the countries with a long colonial past. The colonial governance conditioned the general 
+Corruption is endemic to the countries with a long colonial past. The colonial governance conditioned the general 
 population to normalize "greasing palms" (a euphemism for paying a processing fee to a government official) for legitimate approval. The situation has continued 
 until very recently when the Internet did not exist or has not widely spread across India. The younger population is now aware of their rights and 
 limits of approval authorities. However, habits die hard, so corruption is still very endemic to our system of governance. Government officials have
