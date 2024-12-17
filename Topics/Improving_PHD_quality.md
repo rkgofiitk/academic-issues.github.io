@@ -14,7 +14,7 @@ India produces 24k PhDs annually. Of 43.3 million students enrolled in higher ed
 for PhDs in India. Why do under 25k students graduate with a degree? In 2019, the enrollment figure was 202550. So, even assuming the average tenure of the
 program is 5 years, we should be producing at least 50k PhDs per year (calculating a mean completion rate of lower than 25%). The mean completion
 rate is not even 11% of the enrollment. US universities annually enroll a little over a million international students. The [mean completion rate for PhD from
-US is over 50%](https://www.apa.org/gradpsych/2008/11/phd). Many say that comparison with the USA is not fair. However, there is no reason to compare 
+US is over 55%](https://www.apa.org/gradpsych/2008/11/phd). Many say that comparison with the USA is not fair. However, there is no reason to compare 
 demographically with lesser developed nations if we aspire to become world leaders. 
 
 
