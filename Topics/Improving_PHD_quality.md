@@ -86,14 +86,17 @@ Apart from the two major issues discussed above, a few other several micro-level
 - Insistance on GATE/NET 
 
 Most university start offering Ph. D. degrees almost immediately without caring for quality. A country with over 1.4 billion
-people requires a lot of universities. As of 2023, India has a little of 1100  university and 42000 colleges. About 4.14 corers enrollment in 
-institutions across India. The governments in the past 50 years since the country's independence
+people requires a lot of universities. As of 2023, India has a little of 1100  university and 42000 colleges. From 2014, we started adding 40 
+new universites per year. However, the qauality of these institutions are very low. At the risk of making a sweeping comment, I think private universities
+established between early eighties to mid nineties may have stablized as far as UG programs are concerned. But I don't think they have reached a 
+stage to offer good PhD programs. In other words, none of them have reached a generational change as far as PhD program is concerned.
+
+About 4.14 corers enrollment in institutions across India. The governments in the past 50 years since the country's independence
 from Briish did not think much about education. Perhaps politics of keeping mass away from education is a democratic decision as is giving universal 
 adult franchise. Only a few institutions were added during the time. When Homi Bhabha was inducted chief scientific 
 advisor of the government, he persuaded the primeminister to build specialized labs. The government of the day simply reallocated resources from universities
-to CSIR and DAE. Universities experience a cut in funding. Funding crunch excerbated survival of universities. Many reputed professors left university 
-system. Their places were taken by ill-equipped educators who neight had capabilities nor had inclination to achieve excellence. As a result the university
-system crumbled. 
-
+to CSIR and DAE. Existing public universities experience a cut in funding. Funding crunch excerbated survival of universities. Many reputed professors left
+university system. Their places were taken by ill-equipped educators who neight had capabilities nor had inclination to achieve excellence. As a result the 
+university system crumbled. 
 
 I had an old post about how the [PhD students are treated](Topics/PhDstudents.md)in many reputed institutions in India.  
