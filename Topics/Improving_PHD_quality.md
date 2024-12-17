@@ -107,8 +107,11 @@ compromise and enjoy government patronage. It was an intellectual disaster and b
 seen in the academic world. On the other hand, labs developed a culture of person-centric fiefdom that discouraged talents. Perhaps ISRO and BARC were the only
 two exceptional institutions that emerged from the conundrum. 
 
-We may not currently have funding issues, but the decision-making process still suffers from legacy issues and corruption. I think we need to
-develop a robust structural framework to eliminate corruption at lower-echelon of the government bureaucracy and, at the same time, UGC and other regulatory
-bodies must strive to establish a fool-proof rigorous protocol for evaluating PhDs.
+We may not have funding issues, but the decision-making process still suffers from legacy issues and corruption. We need to
+develop a robust structural framework to eliminate corruption at the lower echelon of the government bureaucracy. Corruption is also quite 
+widespread in the higher echelon of the bureaucracy. However, low-level corruption hurts end-users very severely. Micro-level details regarding PhD 
+program may not have come under the knowledge of the UGC Chairperson. However, having worked as a Vice-Chancellor of JNU, he must have enough inklings
+about the issues I have discussed in this post. So, I believe the UGC Chairperson can intervene systematically to remove the irritants and establish 
+a fool-proof rigorous protocol for evaluating PhDs.
 
 [Back to Index](../index.md)
