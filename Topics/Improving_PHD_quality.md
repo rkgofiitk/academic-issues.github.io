@@ -41,7 +41,7 @@ IIESR. The situation in government-sponsored labs is even worse, where you may o
 from their respective labs. Even government funding agencies are not immune from the syndrome of hunting credits. Some teaching faculty in one of the new IITs 
 shared one incident related to releasing sanctioned funds on the condition of sharing credits for publication.
 
-So, I find that there is some truth in two of the major criticisms: a
+So, I find that there is some truth in two of the major criticisms:
 - Systemic Corruption and
 - Issues with supervisors and other colleagues
 
