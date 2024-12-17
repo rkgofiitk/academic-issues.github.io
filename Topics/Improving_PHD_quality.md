@@ -54,7 +54,7 @@ already pointed out. One can easily find minor faults in an application seeking 
 and the local disbursing authorities at my institute. Funding agencies have the usual problems at lower-level of the bureaucratic hierarchy. Luckily,
 all the higher officials I met had helped sort out the problem as quickly as possible. However, older IITs have an added advantage that probably is 
 not available to newer institutions. Even then, having a foreign research grant is more straightforward to handle, though the local purchase and 
-account department may meddle a bit. In summary, the low-level corruption hurts us more than the high-level corruption.
+account departments may meddle a bit. In summary, the low-level corruption hurts us more than the high-level corruption.
 
 The most irritant for a research scholar is interpersonal relationships with supervisors and colleagues under the same supervisor/or department. 
 Most supervisors, even in India's leading institutions, treat a research scholar as a personal assistant and a helping hand. In one of my old posts, I 
