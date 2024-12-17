@@ -59,7 +59,7 @@ account departments may meddle a bit. In summary, the low-level corruption hurts
 The most irritant for a research scholar is interpersonal relationships with supervisors and colleagues under the same supervisor/or in the same department. 
 Most supervisors, even in India's leading institutions, treat a research scholar as a personal assistant and a helping hand. In one of my old posts, I 
 described a few [anecdotes](Topics/PhDstudents.md) about the treatments meted out to research scholars by their respective supervisors in many 
-reputed institutions in India. The absence of a healthy, mutual, respectful interpersonal relationship breeds contempt for the supervisor and leads to 
+reputed institutions in India. The absence of a healthy, mutually respectful interpersonal relationship breeds contempt for the supervisor and leads to 
 serious animosity between advisee and advisor, affecting a scholar's demeanor. The kind of problems between an advisee and advisor could be:
 - Lack of communication
 - Absent supervisor
