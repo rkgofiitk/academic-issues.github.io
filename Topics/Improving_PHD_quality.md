@@ -1,4 +1,4 @@
-# Quality of PhDs
+# Raising the Quality of PhDs
 
 [Blog Index](../index.md)
 
@@ -95,7 +95,7 @@ very low. At the risk of making a sweeping comment, private universities establi
 UG programs. However, they have yet to reach a stage where they can offer good PhD programs. In other words, they have yet to reach a generational 
 change regarding the PhD program.
 
-About 4.14 corers enroll in institutions across India. Many leave their academic program in the mid-way due to various reasons, funding being the 
+About 43.3 million students enroll in institutions across India. Many leave their academic program in the mid-way due to various reasons, funding being the 
 most important among these. In the past 50 years since the country's independence from the British, the governments have not thought much about education. 
 Perhaps the politics of keeping mass away from education is a democratic decision, as is giving universal adult franchise. Around 60 universities
 of institutions of higher education were added during the period [1947-1970](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022/jul/doc202272975101.pdf). 
@@ -106,5 +106,9 @@ universities.Many reputed professors left universities for places where opportun
 compromise and enjoy government patronage. It was an intellectual disaster and brought in a sycophancy not
 seen in the academic world. On the other hand, labs developed a culture of person-centric fiefdom that discouraged talents. Perhaps ISRO and BARC were the only
 two exceptional institutions that emerged from the conundrum. 
+
+We may not currently have funding issues, but the decision-making process still suffers from legacy issues and corruption. I think we need to
+develop a robust structural framework to eliminate corruption at lower-echelon of the government bureaucracy and, at the same time, UGC and other regulatory
+bodies must strive to establish a fool-proof rigorous protocol for evaluating PhDs.
 
 [Back to Index](../index.md)
