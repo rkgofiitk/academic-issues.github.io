@@ -21,7 +21,7 @@ demographically with lesser developed nations if we aspire to become world leade
 The number of international students in Indian institutions is just about 46k in 2021-2022, which dropped by 2% from the previous year. Whereas the 
 international student enrollment in the USA is about a million, followed by the UK, Canada each with over half a million enrollment. The USA is the
 most preferred destination for international students for PhD programs. They account for [35% of PhD enrollments](https://monitor.icef.com/2023/10/further-growth-in-international-enrolment-in-us-graduate-programmes/) 
-in private not-for-profit universities. Even countries like Nzealand welcomed over 73k international students. It made me wonder why Indian institutions/
+in private not-for-profit universities. Even countries like Newzealand welcomed over 73k international students. It made me wonder why Indian institutions/
 universities are not preferred by international students from neighboring countries like Pakistan, Bangladesh, Myanmar, Sri Lanka, Nepal, Thailand, Philippines, 
 Maldives, and Mauritius. There is an [insightful post](https://www.quora.com/Why-did-the-Indian-education-system-fail-compared-to-the-global-universities-and-colleges) 
 In Quora, Anbazhagan Ambrose explained the issues that dissuade international students from enrolling in UG programs in engineering at Indian institutions while
