@@ -24,7 +24,15 @@ in British Parliament.
 A Cambridge Univsersity researcher Aleksandar Kogan used the Cambridge Analytica API tool to determine what may affect behavior of Facebook users. 
 The research data was later shared with Cambridge Analytica. It is not clear, in what way Cambridge Analytica benefitted from Kogan's research. But 
 clearly opened avenues for large scale unethical computing which can influence a country's political power structure and make them permanently 
-unstable due to business models of big tech companies. We can draw parallel from unethical neuclear research. While neuclear power reactors led to 
+unstable due to business models of big tech companies.
+
+Vardi's aricle narrates the story of Uber centered around it founder Tarvis Kalanick's unethical computing practices.  In 2023, Kalanick lauded
+as a person who made services oriented to serve humanity.  Vardi quotes a report of a popular magazine which says "Travis Kalanick, had built
+an enormous, enthusiastic user base by subsidizing rides with the company’s vast reservoir of VC funding. Under Kalanick, Uber skirted regulations, 
+shrugged off safety issues, and presided over a workplace rife with sexual harassment."  Unethical misdeeds of Kalanick was exposed by a whitle blower
+who leaked more than 124,000 company files to the Guardian.
+
+We can draw parallel from unethical neuclear research. While neuclear power reactors led to 
 energy sufficiency and reduction of carbon footprint and cancer treatment it also is responsible forwhich created holocausts like Nagasaki and
 Hiroshima. About nine countries including India have nuclear weapon capabilities. Yet there has not been a single use of nuclear weapon after 1945. 
 People may also argue that nuclear capabilities act more a deterrents than destruction. I am not sure how Mose Vardi will view this analogy with
