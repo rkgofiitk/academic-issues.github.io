@@ -23,10 +23,13 @@ in British Parliament.
 
 A Cambridge Univsersity researcher Aleksandar Kogan used the Cambridge Analytica API tool to determine what may affect behavior of Facebook users. 
 The research data was later shared with Cambridge Analytica. It is not clear, in what way Cambridge Analytica benefitted from Kogan's research. But 
-clearly opened avenues for large scale unethical computing which can influence a country's power structure and make them permanently unstable at the
-whims and fancy of big companies like Google, Facebook,
-In 2014 employees and contractors of Cambridge Analytica were trying to sell psychological profiles of American voters to the polical campaigns by harvesting
-Facebook data. In a companion report, it was claimed that Cambridge Analytica and its British affiliate SCI group
-were in touch with executives of Lukoil, a Russian oil giant, which was interested in the way American voters may vote. 
+clearly opened avenues for large scale unethical computing which can influence a country's political power structure and make them permanently 
+unstable due to business models of big tech companies. We can draw parallel from unethical neuclear research. While neuclear power reactors led to 
+energy sufficiency and reduction of carbon footprint and cancer treatment it also is responsible forwhich created holocausts like Nagasaki and
+Hiroshima. About nine countries including India have nuclear weapon capabilities. Yet there has not been a single use of nuclear weapon after 1945. 
+People may also argue that nuclear capabilities act more a deterrents than destruction. I am not sure how Mose Vardi will view this analogy with
+respect to unethical computing. However, I view it in backdrop of holocaust that happened in 1945. US president Roosevelt who ordered dropping of
+nuclear bomb was most popular President of US who was elected 4 times and probably would have rule US 5 times had been a little younger and did 
+die 2 years into his 4th term. Interestingly, US constitution was amended after Roosevelt. 
 
 . 
