@@ -27,10 +27,11 @@ Kogan shared his research data with Cambridge Analytica. It is unclear how Cambr
 it might have opened avenues for large-scale unethical computing, which can influence a country's political power structure and make them permanently 
 unstable due to the business models of big tech companies.
 
-Vardi's article further narrates the story of Uber centered around its founder, Tarvis Kalanick, unethical computing practices. In 2023, Kalanick was lauded
-as a person who made services oriented to serve humanity. According to a report from a popular magazine, "... Travis Kalanick had built
+Vardi's article further narrates the story of Uber centered around its founder, Tarvis Kalanick. In 2023, Kalanick was lauded
+as a person who made affordable services available to a large user base. According to a report from a popular magazine, "... Travis Kalanick had built
 an enormous, enthusiastic user base by subsidizing rides with the company's vast reservoir of VC funding. Under Kalanick, Uber skirted regulations, 
-shrugged off safety issues, and presided over a workplace rife with sexual harassment."  A whistleblower exposed Kalanick's misdeeds, who leaked over 124,000 company files to the Guardian. 
+shrugged off safety issues, and presided over a workplace rife with sexual harassment."  A whistleblower exposed Kalanick's misdeeds, who leaked over 
+124,000 company files to the Guardian. 
 
 Both Cambridge Analytica and Uber's stories about unethical computing were driven by profit motivation. Is profit motivation against public good? 
 Moshe's article quotes [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith), a Scottish philosopher and economist of 18th century who pioneered thinking 
