@@ -57,10 +57,17 @@ science and religion is mostly hyped. While Hindus think science and theology ar
 Buddhists cannot identify any scientific research that come in they way of their relgious scriptures. Muslims say that science and Islam are generally 
 compatible though some areas in science like evolutionary theory is in conflict with their relgious beliefs.  
 
-Moshe Vardi quotes political activist Sinclair. According to Sinclair "it is difficult for a person to understand something when their salary depends on
-not understanding it." Vardi says that by and large big Tech workders do not ask hard questions which they should be asking on the business models that
+Moshe Vardi quotes political activist Upton Sinclair. According to Sinclair "it is difficult for a person to understand something when their salary depends on
+not understanding it." Vardi feels that by and large big Tech workders do not ask hard questions which they should be asking on the business models that
 the company wants to pursue. In conclusion there is a serious crisis of ethics in computing. I am not sure if Vardi will push for a course in ethics as
 a part of computer science course curriculum. However, I believe that no amount of course or teaching will ever eliminate crisis of ethics in any spehere
-of human life. In my opinion ethics and worldly requiremennts of existence are at times orthogonal to an ordinary person's life. So, crisis of ethics
+of human life. In my opinion ethics and worldly requirements for existence are orthogonal issues in an ordinary person's life. So, we cannot leave
+the responsibility of ethical computing on salaried employees of Big Tech companies.
+
+I believe crisis of ethics in computing has not attained its defining proporation yet. It will show up in much more larger proportions in applications of 
+AI research in building automated tools that may affect entire ecosystem around human society and civilization. It is difficult to foresee the kind of
+intervantion that AI application may have in future. However, like every research has pros and cons, I am sure that many researchers will work on 
+counter strategies for preseerving ethics. For example, at one time we thought wintel will dictate computing, but open source ensured computing is not
+overwhelmed by Microsoft and Intel. 
 
 
