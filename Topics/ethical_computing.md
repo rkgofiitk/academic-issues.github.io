@@ -58,7 +58,7 @@ Buddhists cannot identify any scientific research that comes in the way of their
 compatible, though some areas of science, like evolutionary theory, conflict with their religious beliefs.  
 
 Moshe Vardi quotes political activist Upton Sinclair. Sinclair states, "It is difficult for a person to understand something when their salary depends on
-not understanding it." Vardi feels that big tech workers do not ask hard questions, which they should be asking about the business models 
+not understanding it." Vardi feels that big tech workers do not ask hard questions, which they should be asking especially about the business models 
 the company wants to pursue. In conclusion, there is a severe ethical crisis in computing. I don't know if Vardi will push for a course in ethics as
 a part of the computer science course curriculum. However, no amount of courses or teaching will ever eliminate the crisis of ethics in any field
 of human life. Ethics and worldly requirements for existence are orthogonal issues in an ordinary person's life. So, we cannot leave
