@@ -50,8 +50,8 @@ The Constitution was amended after Roosevelt. The question is: why do US citizen
 a crisis of ethics? 
 
 I believe that scientific research should not be shackled. Almost all will agree that all religions strongly support the practice of ethics in all spheres
-of human society, including scientific research. Science and theology have often coexisted in harmony. Though the conflicts between Galileo and Copernicus with
-The church is well documented. Catholic Church banned Copernicus's theory and warned Galileo, but it could not stop the direction of scientific research.
+of human society, including scientific research. Science and theology have often coexisted in harmony. The conflicts between Galileo and Copernicus with
+The church is well documented. Catholic Church banned Copernicus's theory and warned Galileo, but it could or did not stop the direction of scientific research.
 According to a [pew research document](https://www.pewresearch.org/science/2020/08/26/on-the-intersection-of-science-and-religion/), the conflict between
 science and religion is mainly hyped. While Hindus think science and theology are complementary spheres, Buddhists isolate the two spheres. However, 
 Buddhists cannot identify any scientific research that comes in the way of their religious scriptures. Muslims say that science and Islam are generally 
