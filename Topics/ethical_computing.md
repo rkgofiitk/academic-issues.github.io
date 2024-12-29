@@ -73,7 +73,7 @@ counter strategies for ulterior purposes. For example, take the case of Elon Mus
 his numerous interests like Spacex, tesla, and starlinks. He resigned from the open board in 2018. However, Musk brought a lawsuit accusing
 Sam Altman of abandoning the avowed humanitarian goal of OpenAI. Sam was ousted from the CEO's post in late 2023 for four days. As impartial observers on 
 the sidelines, we can neither accept nor reject the accusation of Musk's lawsuit. It only reinforces our thesis that the dynamics of the free market 
-are beyond the control of ordinary citizens. 
+are beyond the control of ordinary citizens and may not always be for "public good." 
 
 The crisis of ethics in computing has not attained its defining proportion yet. It will show up in much larger proportions in applications of 
 AI research in building automated tools that may affect the entire ecosystem around human society and civilization. It is difficult to foresee the kind of
