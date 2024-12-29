@@ -64,9 +64,9 @@ a part of the computer science course curriculum. However, no amount of courses 
 of human life. Ethics and worldly requirements for existence are orthogonal issues in an ordinary person's life. So, we cannot say that
 the responsibility of ethical computing should be on the salaried workers of Big Tech companies.
 
-The crisis of ethics in computing has not attained its defining proportion yet. It will show up in much larger proportions in applications of 
-AI research in building automated tools that may affect the entire ecosystem around human society and civilization. It is difficult to foresee the kind of
-intervention that AI applications may have in the future. However, as every research study has pros and cons, many researchers will work on 
+The crisis of ethics in computing has not attained its defining proportion yet. It will show up in much larger proportions in use of automated tools
+with applications of AI research. These tools may ultimately control the entire ecosystem around human society and civilization. It is difficult to 
+foresee the kind of intervention that AI applications may have in the future. However, as every research study has pros and cons, many researchers will work on 
 counter strategies to preserve ethics. For example, we once thought Wintel would dictate computing, but open source ensured computing was not
 overwhelmed by Microsoft and Intel. 
 
