@@ -61,8 +61,8 @@ Moshe Vardi quotes political activist Upton Sinclair. Sinclair states, "It is di
 not understanding it." Vardi feels that big tech workers do not ask hard questions, which they should be asking especially about the business models 
 the company wants to pursue. In conclusion, there is a severe ethical crisis in computing. I don't know if Vardi will push for a course in ethics as
 a part of the computer science course curriculum. However, no amount of courses or teaching will ever eliminate the crisis of ethics in any field
-of human life. Ethics and worldly requirements for existence are orthogonal issues in an ordinary person's life. So, we cannot leave
-the responsibility of ethical computing on salaried employees of Big Tech companies.
+of human life. Ethics and worldly requirements for existence are orthogonal issues in an ordinary person's life. So, we cannot say that
+the responsibility of ethical computing should be on the salaried workers of Big Tech companies.
 
 The crisis of ethics in computing has not attained its defining proportion yet. It will show up in much larger proportions in applications of 
 AI research in building automated tools that may affect the entire ecosystem around human society and civilization. It is difficult to foresee the kind of
