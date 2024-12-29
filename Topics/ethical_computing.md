@@ -17,7 +17,7 @@ open graph with the associated APIs that can access data and features from one a
 API. In 2014, employees and contractors of Cambridge Analytica were trying to sell psychological profiles of American voters to political campaigns.
 In a companion report, it was claimed that Cambridge Analytica and its British affiliate SCI group were in touch with executives of Lukoil,
 a Russian oil giant. Lukoil was interested in the way Americans may vote. Obama's campaign reportedly developed an application that connected 
-Obama's supporters to his potential supporters. Cambridge Analytica meddled extensively with the Indian election. On 27th March 2018, the Times of India 
+Obama's supporters to his potential supporters. Cambridge Analytica also meddled with the Indian election. On 27th March 2018, the Times of India 
 reported that the company worked extensively with the Congress Party for the Indian Election as per whistleblower 
 [Christopher Wylie's testimony](https://timesofindia.indiatimes.com/india/whistleblower-names-congress-as-client-of-cambridge-analytica/articleshow/63491689.cmsin) 
 in the British Parliament. 
