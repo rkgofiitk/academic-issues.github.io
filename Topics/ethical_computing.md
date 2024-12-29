@@ -57,3 +57,10 @@ science and religion is mostly hyped. While Hindus think science and theology ar
 Buddhists cannot identify any scientific research that come in they way of their relgious scriptures. Muslims say that science and Islam are generally 
 compatible though some areas in science like evolutionary theory is in conflict with their relgious beliefs.  
 
+Moshe Vardi quotes political activist Sinclair. According to Sinclair "it is difficult for a person to understand something when their salary depends on
+not understanding it." Vardi says that by and large big Tech workders do not ask hard questions which they should be asking on the business models that
+the company wants to pursue. In conclusion there is a serious crisis of ethics in computing. I am not sure if Vardi will push for a course in ethics as
+a part of computer science course curriculum. However, I believe that no amount of course or teaching will ever eliminate crisis of ethics in any spehere
+of human life. In my opinion ethics and worldly requiremennts of existence are at times orthogonal to an ordinary person's life. So, crisis of ethics
+
+
