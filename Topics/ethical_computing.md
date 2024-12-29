@@ -66,13 +66,14 @@ the responsibility of ethical computing should be on the salaried workers of Big
 
 The crisis of ethics in computing has not attained its defining proportion yet. It will show up in much larger proportions using automated tools
 with AI research applications. These tools may ultimately control the entire ecosystem around human society and civilization. It is difficult to 
-foresee the kind of intervention that AI applications may have in the future. However, as every research study has pros and cons, many researchers may also
-work on counter strategies to preserve ethics. However, I agree with Moshe that vested interests often foist counter strategies for 
-ulterior purposes. For example, take the case of Elon Musk, one of the six co-founders of OpenAI. His AI ambitions were overshadowed by his numerous 
-interests like Spacex, tesla, and starlinks. He resigned from the open board in 2018. However, Musk brought a lawsuit accusing Sam Altman of abandoning 
-the avowed humanitarian goal of OpenAI. Sam was ousted from the CEO's post in late 2023 for four days. As impartial observers on the sidelines, we can neither 
-accept nor reject the accusation of Musk's lawsuit. It only reinforces our thesis that the dynamics of the free market are beyond the control of
-ordinary citizens. 
+foresee the kind of intervention that AI applications may have in the future. Every research study has its pros and cons. Many researchers 
+work on counter strategies to preserve ethics. Research in computer security, privacy, and surveillance is a defense mechanism against
+unauthorized exploitations of person-centric or organization-centric data breaches. However, I agree with Moshe that vested interests often foist 
+counter strategies for ulterior purposes. For example, take the case of Elon Musk, one of the six co-founders of OpenAI. His AI ambitions were overshadowed by 
+his numerous interests like Spacex, tesla, and starlinks. He resigned from the open board in 2018. However, Musk brought a lawsuit accusing
+Sam Altman of abandoning the avowed humanitarian goal of OpenAI. Sam was ousted from the CEO's post in late 2023 for four days. As impartial observers on 
+the sidelines, we can neither accept nor reject the accusation of Musk's lawsuit. It only reinforces our thesis that the dynamics of the free market 
+are beyond the control of ordinary citizens. 
 
 The crisis of ethics in computing has not attained its defining proportion yet. It will show up in much larger proportions in applications of 
 AI research in building automated tools that may affect the entire ecosystem around human society and civilization. It is difficult to foresee the kind of
