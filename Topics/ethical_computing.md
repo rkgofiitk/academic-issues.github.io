@@ -28,13 +28,13 @@ it might have opened avenues for large-scale unethical computing, which can infl
 unstable due to the business models of big tech companies.
 
 Vardi's article further narrates the story of Uber centered around its founder, Tarvis Kalanick. In 2023, Kalanick was lauded
-as a person who made affordable services available to a large user base. According to a report from a popular magazine, "... Travis Kalanick had built
+for making affordable services available to a large user base. According to a report from a popular magazine, "... Travis Kalanick had built
 an enormous, enthusiastic user base by subsidizing rides with the company's vast reservoir of VC funding. Under Kalanick, Uber skirted regulations, 
-shrugged off safety issues, and presided over a workplace rife with sexual harassment."  A whistleblower exposed Kalanick's misdeeds, who leaked over 
+shrugged off safety issues, and presided over a workplace rife with sexual harassment."  A whistleblower exposed kalanick's misdeeds, who leaked over 
 124,000 company files to the Guardian. 
 
 Both Cambridge Analytica and Uber's stories about unethical computing were driven by profit motivation. Is profit motivation against public good? 
-Moshe's article quotes [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith), a Scottish philosopher and economist of 18th century who pioneered 
+Moshe's article quotes [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith), a Scottish philosopher and economist of the 18th century who pioneered 
 thinking in political economy and said that "They are led by an invisible hand ...and thus without intending it, without knowing it, advance the interest 
 of the society." Vardi opines that Adam Smith's "free market always serves public good" theory has no theoretical basis. 
 He said, "Climate crisis has demonstrated the failure of the free market." Similarly, big tobacco companies are not working for the public good.
@@ -49,7 +49,7 @@ four times and probably would have ruled the US for 20 years had he been a littl
 The Constitution was amended after Roosevelt. The question is: why do US citizens think Roosevelt was so good? Does it mean most US citizens suffer from
 a crisis of ethics? 
 
-I believe that scientific research should not be shackled. Almost all will agree that all religions strongly support the practice of ethics in all spheres
+Scientific research should not be shackled. Almost all will agree that all religions strongly support the practice of ethics in all spheres
 of human society, including scientific research. Science and theology have often coexisted in harmony. The conflicts between Galileo and Copernicus with
 The church is well documented. Catholic Church banned Copernicus's theory and warned Galileo, but it could or did not stop the direction of scientific research.
 According to a [pew research document](https://www.pewresearch.org/science/2020/08/26/on-the-intersection-of-science-and-religion/), the conflict between
@@ -58,26 +58,26 @@ Buddhists cannot identify any scientific research that comes in the way of their
 compatible, though some areas of science, like evolutionary theory, conflict with their religious beliefs.  
 
 Moshe Vardi quotes political activist Upton Sinclair. Sinclair states, "It is difficult for a person to understand something when their salary depends on
-not understanding it." Vardi feels that big tech workers do not ask hard questions, which they should be asking especially about the business models 
+not understanding it." Vardi feels that big tech workers do not ask hard questions, which they should be asking, especially about the business models 
 the company wants to pursue. In conclusion, there is a severe ethical crisis in computing. I don't know if Vardi will push for a course in ethics as
 a part of the computer science course curriculum. However, no amount of courses or teaching will ever eliminate the crisis of ethics in any field
 of human life. Ethics and worldly requirements for existence are orthogonal issues in an ordinary person's life. So, we cannot say that
 the responsibility of ethical computing should be on the salaried workers of Big Tech companies.
 
-The crisis of ethics in computing has not attained its defining proportion yet. It will show up in much larger proportions in use of automated tools
-with applications of AI research. These tools may ultimately control the entire ecosystem around human society and civilization. It is difficult to 
+The crisis of ethics in computing has not attained its defining proportion yet. It will show up in much larger proportions using automated tools
+with AI research applications. These tools may ultimately control the entire ecosystem around human society and civilization. It is difficult to 
 foresee the kind of intervention that AI applications may have in the future. However, as every research study has pros and cons, many researchers may also
-work on counter strategies to preserve ethics. However, I agree with Moshe that counter strategies are often foisted by vested interests for 
-ulterior purposes. For example, take the case of Elon Musk one of the six co-founders of OpenAI. His AI ambitions were overshadowed by his numerous 
-interests like spacex, tesla, starlinks. He resigned from openAI board in 2018. However, Musk brought a law suit accuding Sam Altman of abandoning 
-avowed humanitarian goal of OpenAI. Sam was ousted for four days from CEO's post in late 2023. As impartial observer in the sideline we can neither be
-accept nor reject the accusition of Musk's law suit. It only reinforces our thesis that free market dynamics of free market is beyond control of
+work on counter strategies to preserve ethics. However, I agree with Moshe that vested interests often foist counter strategies for 
+ulterior purposes. For example, take the case of Elon Musk, one of the six co-founders of OpenAI. His AI ambitions were overshadowed by his numerous 
+interests like Spacex, tesla, and starlinks. He resigned from the open board in 2018. However, Musk brought a lawsuit accusing Sam Altman of abandoning 
+the avowed humanitarian goal of OpenAI. Sam was ousted from the CEO's post in late 2023 for four days. As impartial observers on the sidelines, we can neither 
+accept nor reject the accusation of Musk's lawsuit. It only reinforces our thesis that the dynamics of the free market are beyond the control of
 ordinary citizens. 
 
-I believe crisis of ethics in computing has not attained its defining proporation yet. It will show up in much more larger proportions in applications of 
-AI research in building automated tools that may affect entire ecosystem around human society and civilization. It is difficult to foresee the kind of
-intervantion that AI application may have in future. However, like every research has pros and cons, I am sure that many researchers will work on 
-counter strategies for preseerving ethics. For example, at one time we thought wintel will dictate computing, but open source ensured computing is not
+The crisis of ethics in computing has not attained its defining proportion yet. It will show up in much larger proportions in applications of 
+AI research in building automated tools that may affect the entire ecosystem around human society and civilization. It is difficult to foresee the kind of
+intervention that AI applications may have in the future. However, as every research study has pros and cons, many researchers will work on 
+counter strategies to preserve ethics. For example, we once thought Wintel would dictate computing, but open source ensured computing was not
 overwhelmed by Microsoft and Intel. 
 
 [Back to Index](../index.md)
