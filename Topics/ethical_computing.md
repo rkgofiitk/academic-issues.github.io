@@ -39,12 +39,18 @@ Vardi opines that Adam Smith's theory of "free market always serves public good"
 failure of free market." Similarly, Big Tobacco companies are surely not for public good. Basically, Moshe Vardi's article clearly identifies "ethical
 practices" as the thin dividing line between free market and public good. 
 
-Coming back to question of crisis of ethics in computing, we can draw a parallel from unethical neuclear research. While neuclear power reactors led to 
-energy sufficiency and reduction of carbon footprint and cancer treatment it also is responsible for creating holocausts like Nagasaki and
-Hiroshima. About nine countries including India now have nuclear weapon capabilities. Yet there has not been a single use of nuclear weapon after 1945. 
-People may also argue that nuclear capabilities act more a deterrent than destruction. I am not sure how Moshe Vardi will view this analogy with
-respect to unethical computing. However, I view it in backdrop of holocaust that happened in 1945. US president Roosevelt who ordered dropping of
-nuclear bomb was most popular President of US who was elected four times and probably would have rule US five times had he been a little younger and did 
-die 2 years into his 4th term. Interestingly, US constitution was amended precisely due to Roosevelt episode. My view is that scientific research
-should not be shackled, it should be left to personal ethics of researchers how they conduct themselves in steering their research. 
-. 
+Coming back to question of crisis of ethics in computing, let us draw the parallel from unethical nuclear research. While nuclear power reactors led to 
+energy sufficiency and reduction of carbon footprint and cancer treatment, nuclear explosion was responsible for unimaginable holocausts like Nagasaki and
+Hiroshima. About nine countries including India now possess nuclear weapon capabilities. Yet there has not been a single use of nuclear weapon after 1945. 
+Many commentators argue that nuclear capabilities act more a deterrent than destruction. I am not sure how Moshe Vardi will view this analogy with
+respect to unethical computing.  US president Roosevelt who ordered the dropping of nuclear bomb in 1945, was the most popular US President. He was elected 
+four times and probably would have ruled US 20 years had he been a little younger and did not die 2 years into his fourth term. Interestingly, US 
+constitution was amended after Roosevelt.  The quest is: why do US citizens think Roosevelt was so good? Does it mean a majority US citizens suffer from
+crisis of ethics? 
+
+My view is that scientific research should not be shackled. Almost all will agree that the religious establishments like Church strongly support practice 
+of ethics in all speheres human society including scientific research. Conflicts between Galileo and Copernicus with Church is well documented. However,
+Though Cathilic Church banned Copernicus theory and warned Galileo, it could not stop the direction of scientific research. 
+According to a [pew research document](https://www.pewresearch.org/science/2020/08/26/on-the-intersection-of-science-and-religion/) conflict between
+science and religion is mostly hyped. Religious practices generally do not influence science. So 
+
