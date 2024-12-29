@@ -66,10 +66,13 @@ the responsibility of ethical computing should be on the salaried workers of Big
 
 The crisis of ethics in computing has not attained its defining proportion yet. It will show up in much larger proportions in use of automated tools
 with applications of AI research. These tools may ultimately control the entire ecosystem around human society and civilization. It is difficult to 
-foresee the kind of intervention that AI applications may have in the future. However, as every research study has pros and cons, many researchers will work on 
-counter strategies to preserve ethics. For example, we once thought Wintel would dictate computing, but open source ensured computing was not
-overwhelmed by Microsoft and Intel. 
-
+foresee the kind of intervention that AI applications may have in the future. However, as every research study has pros and cons, many researchers may also
+work on counter strategies to preserve ethics. However, I agree with Moshe that counter strategies are often foisted by vested interests for 
+ulterior purposes. For example, take the case of Elon Musk one of the six co-founders of OpenAI. His AI ambitions were overshadowed by his numerous 
+interests like spacex, tesla, starlinks. He resigned from openAI board in 2018. However, Musk brought a law suit accuding Sam Altman of abandoning 
+avowed humanitarian goal of OpenAI. Sam was ousted for four days from CEO's post in late 2023. As impartial observer in the sideline we can neither be
+accept nor reject the accusition of Musk's law suit. It only reinforces our thesis that free market dynamics of free market is beyond control of
+ordinary citizens. 
 
 I believe crisis of ethics in computing has not attained its defining proporation yet. It will show up in much more larger proportions in applications of 
 AI research in building automated tools that may affect entire ecosystem around human society and civilization. It is difficult to foresee the kind of
