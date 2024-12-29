@@ -1,4 +1,4 @@
-# Ethical Computing
+# Crisis of Ethics in Computing
 
 [Blog Index](../index.md)
 
