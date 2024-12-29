@@ -36,8 +36,9 @@ Both Cambridge Analytica and Uber stories about unethical computing were driven 
 Moshe's article quotes [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith), a scotish philosopher and economist of 18th century who pioneered thinking 
 in political economy who said "They are led by an invisible hand ...and thus without intending it, without knowing it, advance the interest of the society."
 Vardi opines that Adam Smith's theory of "free market always serves public good" has no theoretical basis. According to him "Climate crisis has demonstrated 
-failure of free market." Similarly, Big Tobacco companies are surely not for public good. Basically, Moshe Vardi's article clearly identifies "ethical
-practices" as the thin dividing line between free market and public good. 
+failure of free market." Similarly, Big Tobacco companies are surely not working for public good. Moshe Vardi's article identifies that "ethical
+practices" as the thin line between free market and public good. Crisis of ethics can be devastating if one choose to extend the theory of free 
+market or unfettered business models on the top of AI/ML and big data analytics in guise of public good.
 
 Coming back to question of crisis of ethics in computing, let us draw the parallel from unethical nuclear research. While nuclear power reactors led to 
 energy sufficiency and reduction of carbon footprint and cancer treatment, nuclear explosion was responsible for unimaginable holocausts like Nagasaki and
@@ -48,9 +49,11 @@ four times and probably would have ruled US 20 years had he been a little younge
 constitution was amended after Roosevelt.  The quest is: why do US citizens think Roosevelt was so good? Does it mean a majority US citizens suffer from
 crisis of ethics? 
 
-My view is that scientific research should not be shackled. Almost all will agree that the religious establishments like Church strongly support practice 
-of ethics in all speheres human society including scientific research. Conflicts between Galileo and Copernicus with Church is well documented. However,
-Though Cathilic Church banned Copernicus theory and warned Galileo, it could not stop the direction of scientific research. 
+My view is that scientific research should not be shackled. Almost all will agree that all religions strongly support practice of ethics in all speheres
+human society including scientific research. Science and theology has coexisted often in harmony. Though the conflicts between Galileo and Copernicus with
+Church is well documented. Cathilic Church banned Copernicus's theory and warned Galileo, but it could not stop the direction of scientific research.
 According to a [pew research document](https://www.pewresearch.org/science/2020/08/26/on-the-intersection-of-science-and-religion/) conflict between
-science and religion is mostly hyped. Religious practices generally do not influence science. So 
+science and religion is mostly hyped. While Hindus think science and theology are complementary spheres, Buddhists isolate the two spheres. However, 
+Buddhists cannot identify any scientific research that come in they way of their relgious scriptures. Muslims say that science and Islam are generally 
+compatible though some areas in science like evolutionary theory is in conflict with their relgious beliefs.  
 
