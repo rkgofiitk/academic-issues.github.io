@@ -34,12 +34,12 @@ shrugged off safety issues, and presided over a workplace rife with sexual haras
 124,000 company files to the Guardian. 
 
 Both Cambridge Analytica and Uber's stories about unethical computing were driven by profit motivation. Is profit motivation against public good? 
-Moshe's article quotes [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith), a Scottish philosopher and economist of 18th century who said, "They are led
-by an invisible hand ...and thus without intending it, without knowing it, advance the interest of the society."
-Vardi opines that Adam Smith's "free market always serves public good" theory has no theoretical basis. He said, "Climate crisis has demonstrated 
-the failure of the free market." Similarly, big tobacco companies are not working for the public good. Moshe Vardi's article identifies "ethical
-practices" as the thin line between the free market and the public good. A crisis of ethics can be devastating if one chooses to extend the theory of the free 
-market or unfettered business models on top of AI/ML and big data analytics in the guise of public good.
+Moshe's article quotes [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith), a Scottish philosopher and economist of 18th century who pioneered 
+thinking in political economy and said that "They are led by an invisible hand ...and thus without intending it, without knowing it, advance the interest 
+of the society." Vardi opines that Adam Smith's "free market always serves public good" theory has no theoretical basis. 
+He said, "Climate crisis has demonstrated the failure of the free market." Similarly, big tobacco companies are not working for the public good.
+Moshe Vardi's article presents "ethical practices" as the thin line between the free market and the public good. A crisis of ethics can be devastating 
+if one chooses to extend the theory of the free market or unfettered business models on top of AI/ML and big data analytics in the guise of public good.
 
 Returning to the crisis of ethics in computing, let us draw a parallel from unethical nuclear research. While nuclear power reactors led to 
 energy sufficiency, reduction of carbon footprint, and cancer treatment, the atomic explosion was responsible for unimaginable holocausts like Nagasaki and
