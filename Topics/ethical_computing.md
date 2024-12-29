@@ -26,18 +26,25 @@ The research data was later shared with Cambridge Analytica. It is not clear, in
 clearly opened avenues for large scale unethical computing which can influence a country's political power structure and make them permanently 
 unstable due to business models of big tech companies.
 
-Vardi's aricle narrates the story of Uber centered around it founder Tarvis Kalanick's unethical computing practices.  In 2023, Kalanick lauded
-as a person who made services oriented to serve humanity.  Vardi quotes a report of a popular magazine which says "Travis Kalanick, had built
+Vardi's aricle further narrates the story of Uber centered around it founder Tarvis Kalanick's unethical computing practices.  In 2023, Kalanick lauded
+as a person who made services oriented to serve humanity.  According to a report of a popular magazine "... Travis Kalanick, had built
 an enormous, enthusiastic user base by subsidizing rides with the company’s vast reservoir of VC funding. Under Kalanick, Uber skirted regulations, 
-shrugged off safety issues, and presided over a workplace rife with sexual harassment."  Unethical misdeeds of Kalanick was exposed by a whitle blower
-who leaked more than 124,000 company files to the Guardian.
+shrugged off safety issues, and presided over a workplace rife with sexual harassment."  The misdeeds of Kalanick were exposed by a whitle blower
+who leaked more than 124,000 company files to the Guardian. 
 
-We can draw parallel from unethical neuclear research. While neuclear power reactors led to 
-energy sufficiency and reduction of carbon footprint and cancer treatment it also is responsible forwhich created holocausts like Nagasaki and
-Hiroshima. About nine countries including India have nuclear weapon capabilities. Yet there has not been a single use of nuclear weapon after 1945. 
-People may also argue that nuclear capabilities act more a deterrents than destruction. I am not sure how Mose Vardi will view this analogy with
+Both Cambridge Analytica and Uber stories about unethical computing were driven by profit motivation. Is profit motivation against public good? 
+Moshe's article quotes [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith), a scotish philosopher and economist of 18th century who pioneered thinking 
+in political economy who said "They are led by an invisible hand ...and thus without intending it, without knowing it, advance the interest of the society."
+Vardi opines that Adam Smith's theory of "free market always serves public good" has no theoretical basis. According to him "Climate crisis has demonstrated 
+failure of free market." Similarly, Big Tobacco companies are surely not for public good. Basically, Moshe Vardi's article clearly identifies "ethical
+practices" as the thin dividing line between free market and public good. 
+
+Coming back to question of crisis of ethics in computing, we can draw a parallel from unethical neuclear research. While neuclear power reactors led to 
+energy sufficiency and reduction of carbon footprint and cancer treatment it also is responsible for creating holocausts like Nagasaki and
+Hiroshima. About nine countries including India now have nuclear weapon capabilities. Yet there has not been a single use of nuclear weapon after 1945. 
+People may also argue that nuclear capabilities act more a deterrent than destruction. I am not sure how Moshe Vardi will view this analogy with
 respect to unethical computing. However, I view it in backdrop of holocaust that happened in 1945. US president Roosevelt who ordered dropping of
-nuclear bomb was most popular President of US who was elected 4 times and probably would have rule US 5 times had been a little younger and did 
-die 2 years into his 4th term. Interestingly, US constitution was amended after Roosevelt. 
-
+nuclear bomb was most popular President of US who was elected four times and probably would have rule US five times had he been a little younger and did 
+die 2 years into his 4th term. Interestingly, US constitution was amended precisely due to Roosevelt episode. My view is that scientific research
+should not be shackled, it should be left to personal ethics of researchers how they conduct themselves in steering their research. 
 . 
