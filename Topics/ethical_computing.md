@@ -11,7 +11,7 @@ a Hoover Institution historian described cyberspace as "Cyberia (parody of Syber
 The outrages of the two commentators were in the context of Cambridge Analytica's successful business model built on the harvested demographic
 data in elections of the US, India, and other countries by large-scale hacking of Facebook.
 
-Cambridge Analytica is a British political consulting company that was established in 2013. It could micro-target people on Facebook from 2010 and roll out an
+Cambridge Analytica is a British political consulting company that was established in 2013. It could micro-target people on Facebook from 2010 and rolled out an
 open graph with the associated APIs that can access data and features from one application to another. Cambridge Analytica's model was developed using
 90 million Facebook users. The developer can see the connection between people, social groups, activities, interests, demographic attributes, etc., using their 
 API. In 2014, employees and contractors of Cambridge Analytica were trying to sell psychological profiles of American voters to political campaigns.
