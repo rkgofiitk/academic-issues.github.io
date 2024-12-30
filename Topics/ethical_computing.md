@@ -30,8 +30,8 @@ unstable. Big Tech companies could effectively exert political influence in gove
 Vardi's article further narrates the story of Uber founder Tarvis Kalanick. Kalanick was lauded
 for making affordable services available to a large user base. In 2023, according to a report from a popular magazine, "... Travis Kalanick had built
 an enormous, enthusiastic user base by subsidizing rides with the company's vast reservoir of VC funding. Under Kalanick, Uber skirted regulations, 
-shrugged off safety issues, and presided over a workplace rife with sexual harassment."  A whistleblower exposed kalanick's misdeeds, who leaked over 
-124,000 company files to the Guardian. 
+shrugged off safety issues, and presided over a workplace rife with sexual harassment."  A whistleblower, who leaked over 124,000 company files to
+the Guardian exposed Kalanick's misdeeds. 
 
 Both Cambridge Analytica and Uber's stories about unethical computing were driven by profit motivation. Is profit motivation unethical? 
 Moshe's article quotes [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith), a Scottish philosopher and economist of the 18th century who pioneered 
