@@ -15,14 +15,14 @@ Cambridge Analytica is a British political consulting company that was establish
 open graph along with the associated APIs that can access data and features from one application to another. Cambridge Analytica's model was developed using
 90 million Facebook users. The developer can see the connection between people, social groups, activities, interests, demographic attributes, etc., using their 
 API. In 2014, employees and contractors of Cambridge Analytica were reportedly trying to sell psychological profiles of American voters to political campaigns.
-In a companion report, it was claimed that Cambridge Analytica and its British affiliate SCI group were in touch with executives of Lukoil,
+In a companion report, it was claimed that Cambridge Analytica and its British affiliate SCL group were in touch with executives of Lukoil,
 a Russian oil giant. Lukoil was interested in the way Americans may vote. Obama's campaign reportedly developed an application that connected 
 Obama's supporters to his potential supporters. Cambridge Analytica also meddled with the Indian election. On 27th March 2018, the Times of India 
 reported that the company worked extensively with the Congress Party for the Indian Election, quoting the whistleblower 
 Christopher Wylie's [testimony](https://timesofindia.indiatimes.com/india/whistleblower-names-congress-as-client-of-cambridge-analytica/articleshow/63491689.cmsin) 
 in the British Parliament. 
 
-A Cambridge University researcher, Aleksandar Kogan, used the Cambridge Analytica API tool to determine what may affect the behavior of Facebook users. 
+A Cambridge University researcher, [Aleksandar Kogan](https://www.theguardian.com/news/2018/apr/24/aleksandr-kogan-cambridge-analytica-facebook-data-business-ventures), used the Cambridge Analytica API tool to determine what may affect the behavior of Facebook users. 
 Kogan shared his research data with Cambridge Analytica. It is unclear how Cambridge Analytica benefitted from Kogan's research. But I suspect
 it might have opened avenues for large-scale unethical computing, which can influence a country's political power structure and make it permanently 
 unstable. Big Tech companies could effectively exert political influence in governance through unethical computing techniques and the associated business models.
