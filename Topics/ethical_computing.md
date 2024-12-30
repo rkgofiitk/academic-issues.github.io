@@ -44,7 +44,7 @@ This intense urge for profit motivation by big Tech companies has indeed lead us
 
 Crisis of ethics also effects exploitation of scientific discoveries for public good. Let us draw a parallel from unethical nuclear research. Nuclear power reactors led to 
 energy sufficiency, reduction of carbon footprint, and cancer treatment. At the same time the atomic explosion was responsible for unimaginable holocausts like Nagasaki and
-Hiroshima which resulted in death of over a million and hald. About nine countries, including India, now possess nuclear weapon capabilities. Yet, there 
+Hiroshima which resulted in death of over a million and half. About nine countries, including India, now possess nuclear weapon capabilities. Yet, there 
 has not been a single use of nuclear weapons after 1945. Many commentators argue that nuclear capabilities act more as a deterrent than destruction. I don't 
 know how Moshe Vardi will view this analogy concerning unethical computing. US President Roosevelt, who ordered the dropping of atom bombs in 1945, was the most 
 popular US President. He was elected four times and probably would have ruled the US for 20 years had he been a little younger and did not die 2 years 
