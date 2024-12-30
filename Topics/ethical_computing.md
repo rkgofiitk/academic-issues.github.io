@@ -19,7 +19,7 @@ In a companion report, it was claimed that Cambridge Analytica and its British a
 a Russian oil giant. Lukoil was interested in the way Americans may vote. Obama's campaign reportedly developed an application that connected 
 Obama's supporters to his potential supporters. Cambridge Analytica also meddled with the Indian election. On 27th March 2018, the Times of India 
 reported that the company worked extensively with the Congress Party for the Indian Election, quoting the whistleblower 
-[Christopher Wylie's testimony](https://timesofindia.indiatimes.com/india/whistleblower-names-congress-as-client-of-cambridge-analytica/articleshow/63491689.cmsin) 
+Christopher Wylie's [testimony](https://timesofindia.indiatimes.com/india/whistleblower-names-congress-as-client-of-cambridge-analytica/articleshow/63491689.cmsin) 
 in the British Parliament. 
 
 A Cambridge University researcher, Aleksandar Kogan, used the Cambridge Analytica API tool to determine what may affect the behavior of Facebook users. 
