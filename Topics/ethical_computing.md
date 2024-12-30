@@ -39,7 +39,7 @@ thinking in political economy and said that "They are led by an invisible hand .
 of the society." Vardi opines that Adam Smith's "free market always serves public good" theory has no theoretical basis. 
 He said, "Climate crisis has demonstrated the failure of the free market." Similarly, big tobacco companies are not working for the public good.
 Moshe Vardi's article presents "ethical practices" as the thin line between the free market and the public good. If we choose to extend the theory of the free
-market or unfettered business models on top of AI/ML techniques and big data analytics in the guise of public good, which can lead to devastating consequences.
+market or unfettered business models on top of AI/ML techniques and big data analytics in the guise of public good, it can lead to devastating consequences.
 This intense urge for profit motivation by big Tech companies has indeed led us to a "crisis of ethics" in computing. 
 
 The crisis of ethics also affects the exploitation of scientific discoveries for the public good. Let us draw a parallel from unethical nuclear research. Nuclear power reactors led to 
