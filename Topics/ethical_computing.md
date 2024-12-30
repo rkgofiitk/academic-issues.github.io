@@ -56,8 +56,7 @@ of human society, including scientific research. Science and theology have often
 However, the conflicts between Galileo and Copernicus with the church is well documented. Catholic Church banned Copernicus's theory and warned Galileo, 
 but it could or did not stop the direction of scientific research. According to a [pew research document](https://www.pewresearch.org/science/2020/08/26/on-the-intersection-of-science-and-religion/), 
 the conflict between science and religion is mainly hyped. The report was based on interviewing volunteers from Hindu, Muslim, and Budhisist. While Hindus 
-think science and theology are overlapping spheres. Hindu scriptures include elements of science and identified concepts now being validated by science.  
-Buddhists isolate the two spheres. However, Buddhist interviewees did not identify any scientific research that comes in the way of their religious scriptures. 
+think science and theology are overlapping spheres. Hindu scriptures include elements of science and identified concepts now being validated by science.  Buddhists isolate the two spheres. However, Buddhist interviewees did not identify any scientific research that comes in the way of their religious scriptures. 
 Muslim interviewees thought that science and Islam are generally compatible, though some areas of science, like evolutionary theory, conflict with their religious beliefs.  
 
 Moshe Vardi quotes political activist Upton Sinclair. Sinclair states, "It is difficult for a person to understand something when their salary depends on
