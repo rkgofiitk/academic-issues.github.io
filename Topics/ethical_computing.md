@@ -3,7 +3,7 @@
 [Blog Index](../index.md)
 
 
-CACM January 2025 issue carries an insightful discussion on the "Crisis of Ethics" in computing by Moshe Vardi. Vardi candidly expresses the significant
+[CACM January 2025](https://cacm.acm.org/issue/january-2025/) issue carries an insightful discussion on the "Crisis of Ethics" in computing by Moshe Vardi. Vardi candidly expresses the significant
 change in his view on the "crisis of ethics" in computing. The article begins with a quote from Wall Street columnist Peggy Noonan
 after the Guardian and the New York Times broke the story of the breaching of Facebook data engineered by Cambridge Analytica. Noonan quipped that the
 Silicon Valley executives consider themselves "moral Martians who operate on some weird new postmodern ethical wavelength." Niall Ferguson,
