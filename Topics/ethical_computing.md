@@ -48,8 +48,8 @@ Hiroshima which resulted in death of over a million and half. About nine countri
 has not been a single use of nuclear weapons after 1945. Many commentators argue that nuclear capabilities act more as a deterrent than destruction. I don't 
 know how Moshe Vardi will view this analogy concerning unethical computing. US President Roosevelt, who ordered the dropping of atom bombs in 1945, was the most 
 popular US President. He was elected four times and probably would have ruled the US for 20 years had he been a little younger and did not die 2 years 
-into his fourth term. Interestingly, the US Constitution was amended after Roosevelt. The question is: why do US citizens think Roosevelt was so good? 
-Does it mean most US citizens suffer from a crisis of ethics? 
+into his fourth term. Interestingly, the US Constitution was amended after Roosevelt to restrict the US Presidency to two terms. The question is: why do 
+US citizens think Roosevelt was so good? Does it mean most US citizens suffer from a crisis of ethics? 
 
 Scientific research should not be shackled. Almost all will agree that all religions strongly support the practice of ethics and morality in all spheres
 of human society, including scientific research. Science and theology have often coexisted in harmony. Church is known to have collaborated and sponsored science.
