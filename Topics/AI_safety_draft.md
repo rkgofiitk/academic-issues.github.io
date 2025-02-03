@@ -2,10 +2,6 @@
 
 [Blog Index](../index.md)
 
-# AI Safety Draft Released
-
-[Blog Index](../index.md)
-
 AI Action Summit released the International [AI safety Report](https://www.gov.uk/government/publications/international-ai-safety-report-2025) 
 in January before the Paris AI Action Summit. The report is a culmination of the Bletchley Declaration, which called for international 
 cooperation for the controlled design, development, and deployment of AI to preserve human safety. The Bletchley Declaration raises concerns about
