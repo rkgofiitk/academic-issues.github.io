@@ -10,6 +10,7 @@ time govt comes up with an intervention to course correct the educators to suppo
 certain policies from a neutral viewpoint.
 
 
+- [AI Action Summit Releases AI Safety Report](Topics/AI_safety_draft.md)
 - [Crisis of Ethics in Computing](Topics/ethical_computing.md)
 - [Raising the Quality of PhDs](Topics/Improving_PHD_quality.md)
 - [Virtual Assistants in Research](Topics/intelligent_assistants.md)
