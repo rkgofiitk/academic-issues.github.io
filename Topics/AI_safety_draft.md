@@ -78,7 +78,8 @@ the following few societal aspects, such as:
 - Risk to copyright infringement
 
 The point is that AI tools can perform better than an average person in control and reasoning. Therefore, we find
-large-scale deployment of AI-controlled equipment in construction and manufacturing. It has led to the elimination of labor-intensive components everywhere. However, there may be many unforeseen risks, especially in soft-core
+large-scale deployment of AI-controlled equipment in construction and manufacturing. It has led to the elimination of
+labor-intensive components everywhere. However, there may be many unforeseen risks, especially in soft-core
 jobs. For example, AI-generated codes may allow us to develop and deploy software quickly. However, engineers may 
 find it challenging to maintain AI-generated codes and systems. If one does not understand the code or has not developed it, 
 then maintaining it is not easy. Training AI generators to fully understand legacy issues may not be a cakewalk.
@@ -100,9 +101,8 @@ the scope of personal safety will now be less of a concern. An individual or a s
 few resources can inflict severe damage and pose much more aggravated risks to even large and powerful nations. Covert
 or overt political activities could bring in a new dimension of demagoguery. It is happening already.
 The entire world will have to embrace a heightened level of instability. Some may view it as God's way of restoring the
-balance between individuals and organized systems like the state and big 
-enterprises. However, the bottom line is that the AI safety issues require a whole new reevaluation compared to the report
-prepared by Yoshua BengiO and his team of international experts. However, the bottom line is that the  
-safety issues of AI require reevaluation.
+balance between individuals and organized systems like the state and big enterprises. However, the bottom line is that 
+the AI safety issues require a whole new reevaluation compared to the report prepared by Yoshua BengiO and his team of 
+international experts. However, the bottom line is that the safety issues of AI require reevaluation.
 
 [Back to Index](../index.md)
