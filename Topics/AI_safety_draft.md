@@ -97,12 +97,12 @@ The US imposed tariffs by onshoring manufacturing entities in Mexico.
 The release of DeepSeek has created an altogether different situation. It has led to panic in big tech companies
 that have invested heavily in AI. In a single day, reacting to DeepSeek's shock, Nvidia shares lost 279 billion USD. As 
 someone commented, "You do not need to drive a Tesla to pick up a pint of milk from a neighborhood store." Joke aside,
-the scope of personal safety will now be less of a concern. An individual or a small group with  
-few resources can inflict severe damage and pose much more aggravated risks to even large and powerful nations. Covert
-or overt political activities could bring in a new dimension of demagoguery. It is happening already.
-The entire world will have to embrace a heightened level of instability. Some may view it as God's way of restoring the
-balance between individuals and organized systems like the state and big enterprises. However, the bottom line is that 
-the AI safety issues require a whole new reevaluation compared to the report prepared by Yoshua BengiO and his team of 
-international experts. However, the bottom line is that the safety issues of AI require reevaluation.
+the scope of personal safety will now be less of a concern. An individual or a small group with few resources can inflict
+severe damage and pose much more aggravated risks to even large and powerful nations. Covert or overt political 
+activities could bring in a new dimension of demagoguery. It is happening already. The entire world will have to embrace
+a heightened level of instability. Some may view it as God's way of restoring the balance between individuals and 
+organized systems like the state and big enterprises. However, the bottom line is that the AI safety issues require
+a whole new reevaluation compared to the report prepared by Yoshua BengiO and his team of international experts. However,
+the bottom line is that the safety issues of AI require reevaluation.
 
 [Back to Index](../index.md)
