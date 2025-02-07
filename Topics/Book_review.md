@@ -113,7 +113,7 @@ of real numbers in which the coefficient of the imaginary part is 0. Then, it in
 fundamental theorem of algebra, the Rieman hypothesis, and fractals. 
 
 
-
+## Reference:
 [^1]: Asok Mallik, Sankhyar Gulpo, 2020, Paschim Bango Ganit Parishad, Gobardanga, PO Khantura, District North 24 Parganas 743273, care of Dr Abhishek Dan Mob 9064757684.
 
 [Back to Index](../index.md)
