@@ -5,7 +5,7 @@ is about an arid subject like mathematics. The author of the book Prof Asok Mall
 Department of Mechanical Engineering. At IIT Kanpur, we had minimal interactions beyond occasional official meetings. However,
 we had a chance to catch up on lost time during a small social gathering in Kolkata. Prof Mallik shared his wealth of experience
 authoring books on Bengali mathematics. Since Prof Mallik is an outstanding teacher, I was curious to have a glimpse of his book 
-on  Sankhyar Gulpo ("The Story of Numbers"). He was kind enough to send it as a gift. I also procured a copy of his other 
+on  Sankhyar Gulpo [^1] ("The Story of Numbers"). He was kind enough to send it as a gift. I also procured a copy of his other 
 book "Geometry Beyond School Texts." Three of his mathematics books are in English and published by IISc Press.
 
 The book I am reading now is a storehouse of knowledge on numbers. Starting with the origin of numbers, the book deals with 
@@ -93,3 +93,6 @@ In a short review, I can't describe the way Prof Mallik narrated the story of nu
 pushback taxing on a runway and then to a final takeoff. For example, the book deals with complex numbers as a generalization 
 of real numbers in which the coefficient of the imaginary part is 0. Then, it introduces Euler's exponential function, the 
 fundamental theorem of algebra, the Rieman hypothesis, and fractals. 
+
+[^1] Asok Mallik, Sankhyar Gulpo, 2020, Paschim Bango Ganit Parishad, Gobardanga, PO Khantura, District North 24 Parganas 743273,
+C/o Dr. Abhishek Dan Mob 9064757684.
