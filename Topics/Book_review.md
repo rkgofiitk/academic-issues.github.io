@@ -48,7 +48,7 @@ multiplied by an irrational number. Ancient Greek mathematicians refused to reco
 backed by geometric constructions. Greek mathematicians not only successfully classified the numbers but were able to 
 establish algebraic identities like: 
 <p style="text-align:center;">
-  <umg src="../Pictures/book_eqn.png">
+  <img src="../Pictures/book_eqn.png" alt="eqn" width="100"> 
 </p>
 
 The set of Integers is countably infinite. Integers are written using two different positional notations: (i) decimal or 
