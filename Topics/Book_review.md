@@ -1,3 +1,7 @@
+
+# "Sankhyar Gulpo" (The Story of Numbers) 
+
+[Blog Index](../index.md)
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
@@ -7,11 +11,6 @@
     });
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
-
-# "Sankhyar Gulpo" (The Story of Numbers) 
-
-[Blog Index](../index.md)
-
 Recently, I received an interesting piece of work as a gift. It is  a unique book in any vernacular language in India and 
 is about an arid subject like mathematics. The author of the book [Prof Asok Mallik](https://fellows.ias.ac.in/profile/v/FL1997013)  was my colleague at IIT Kanpur in the 
 Department of Mechanical Engineering. At IIT Kanpur, we had minimal interactions beyond occasional official meetings. However,
