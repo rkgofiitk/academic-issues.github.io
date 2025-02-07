@@ -92,9 +92,7 @@ by formulating tricky problems and asking him for solutions. One such problem is
 Four special numbers, namely, hyperreal numbers, quaternions, dual numbers, and p-Adic numbers, are discussed in Chapter 5. 
 Differential calculus starts infinitesimal (denoted by $\Delta$). It represents a classic case of many things mathematicians did 
 right without inventing the basis—the concept of infinitesimal 300 years after the invention of differential calculus. Abraham
-Robinson used hyperreal numbers to establish the intuitive notion of infinitesimal. Hamilton tried to fix a point's position by 
-extending complex numbers from tuples of dublets to triplets. But he failed to create mathematical operations on triplets. However, 
-in 1843, he succeeded in creating rules for the application of quaternions. 
+Robinson used hyperreal numbers to establish the intuitive notion of infinitesimal. 
 
 In a short review, I can't describe the way Prof Mallik narrated the story of numbers. It is like experiencing an aircraft 
 pushback taxing on a runway and then to a final takeoff. For example, the book deals with complex numbers as a generalization 
