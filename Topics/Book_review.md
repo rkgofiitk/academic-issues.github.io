@@ -47,9 +47,9 @@ the hypotenuse of a regular unit pentagon is $\sqrt{5} + 1)/2$ The area of a cir
 multiplied by an irrational number. Ancient Greek mathematicians refused to recognize any mathematical process without being
 backed by geometric constructions. Greek mathematicians not only successfully classified the numbers but were able to 
 establish algebraic identities like: 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+
   $$\frac{n(n+1)}{2} + \frac{(n+1)(n+2)}{2} = (n+1)^2$$
-</script>
 
 
 The set of Integers is countably infinite. Integers are written using two different positional notations: (i) decimal or 
