@@ -74,8 +74,8 @@ remotely close to what Prof Mallik's book offers.
 Chapter 3 of the book is on real numbers. This chapter is a treasure trove for people who want to study the behavior of real
 numbers, sequences, and series of real numbers and functions. More precisely, such an understanding of real numbers would be 
 very critical for precision in computations. Real numbers include rational, irrational, and transcendental numbers. The 
-representation of rational numbers in terms of continued fraction has an Egyptian origin, where each fraction's numerator is 
-1. Many simple patterns are detected expressing the constants like $\Pi$ and Neperian base $e$ in terms of continued fractions. 
+representation of rational numbers in terms of continued fraction has an Egyptian origin, where each fraction's numerator is 1.
+Many simple patterns are detected expressing the constants like $\Pi$ and Neperian base $e$ in terms of continued fractions. 
 Of particular interest to computing and computer science students is the method of iteration in real numbers. Iteration is
 one of the important mainstays for branches of mathematics like Calculus and Topology. Two different methods of finding the
 positive square root of a number have been discussed. The book includes examples of flowers and fruit to establish
