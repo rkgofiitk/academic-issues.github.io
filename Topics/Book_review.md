@@ -16,9 +16,9 @@ Recently, I received an interesting piece of work as a gift. It is  a unique boo
 is about an arid subject like mathematics. The author of the book [Prof Asok Mallik](https://fellows.ias.ac.in/profile/v/FL1997013)  was my colleague at IIT Kanpur in the 
 Department of Mechanical Engineering. At IIT Kanpur, we had minimal interactions beyond occasional official meetings. However,
 we had a chance to catch up on lost time during a small social gathering in Kolkata. Prof Mallik shared his wealth of experience
-authoring books on Bengali mathematics. Since Prof Mallik is an outstanding teacher, I was curious to have a glimpse of his book 
-on  Sankhyar Gulpo [^1] ("The Story of Numbers"). He was kind enough to send it as a gift. I also procured a copy of his other 
-book "Geometry Beyond School Texts." Three of his mathematics books are in English and published by IISc Press.
+authoring books on mathematics written in Bengali. Since Prof Mallik is an outstanding teacher, I was curious to have a glimpse
+of his book on  Sankhyar Gulpo [^1] ("The Story of Numbers"). He was kind enough to send it as a gift. I also procured a copy
+of his other book "Geometry Beyond School Texts." Three of his mathematics books are in English and published by IISc Press.
 
 The book I am reading now is a storehouse of knowledge on numbers. Starting with the origin of numbers, the book deals with 
 Integers, Real Numbers, Complex Numbers and Special Numbers. As I said, I have yet to come across a comparable book in other
@@ -48,7 +48,7 @@ numbers. They represented the numerical values of whole numbers by geometric for
 We may visualize the placements of pebbles by drawing filled bubbles on paper. The Greek origin of numbers is based on geometry. 
 There are two tools: (i) an unmarked straight edge (made most likely from wood) and (ii) a compass.Both the tools start with
 the dimensionless concept of "point." Interestingly, despite having developed geometry around the idea of a point, the Greek
-mathematician had no clue about zero. Straight edge and compass are the tools that connect two points. For example, the first 
+mathematicians had no clue about zero. Straight edge and compass are the tools that connect two points. For example, the first 
 tool joins two points on a plane, and the second tool joins one fixed point $c$ to all possible points at a fixed radial 
 distance from $c$ defining a circle. Each point on a circle perimeter measures a radial length from the center point where 
 one of the legs of the compass is fixed to produce the circle. So, the two ancient Greek tools measure length or represent 
