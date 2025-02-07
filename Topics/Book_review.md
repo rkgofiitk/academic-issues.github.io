@@ -112,5 +112,4 @@ fundamental theorem of algebra, the Rieman hypothesis, and fractals.
 
 
 
-[^1]: Asok Mallik, Sankhyar Gulpo, 2020, Paschim Bango Ganit Parishad, Gobardanga, PO Khantura, District North 24 Parganas 743273,
-care Dr Abhishek Dan Mob 9064757684.
+[^1]: Asok Mallik, Sankhyar Gulpo, 2020, Paschim Bango Ganit Parishad, Gobardanga, PO Khantura, District North 24 Parganas 743273, care Dr Abhishek Dan Mob 9064757684.
