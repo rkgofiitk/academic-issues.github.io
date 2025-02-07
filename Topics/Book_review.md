@@ -89,10 +89,19 @@ We were upset that our mathematics teacher was transferred close to the school b
 place was also our principal, responsible for teaching us mathematics. A group of friends decided to put the principal in a spot
 by formulating tricky problems and asking him for solutions. One such problem is where the discriminant was negative. 
 
+Four special numbers, namely, hyperreal numbers, quaternions, dual numbers, and p-Adic numbers, are discussed in Chapter 5. 
+Differential calculus starts infinitesimal (denoted by $\Delta$). It represents a classic case of many things mathematicians did 
+right without inventing the basis—the concept of infinitesimal 300 years after the invention of differential calculus. Abraham
+Robinson used hyperreal numbers to establish the intuitive notion of infinitesimal. Hamilton tried to fix a point's position by 
+extending complex numbers from tuples of dublets to triplets. But he failed to create mathematical operations on triplets. However, 
+in 1843, he succeeded in creating rules for the application of quaternions. 
+
 In a short review, I can't describe the way Prof Mallik narrated the story of numbers. It is like experiencing an aircraft 
 pushback taxing on a runway and then to a final takeoff. For example, the book deals with complex numbers as a generalization 
 of real numbers in which the coefficient of the imaginary part is 0. Then, it introduces Euler's exponential function, the 
 fundamental theorem of algebra, the Rieman hypothesis, and fractals. 
+
+
 
 [^1]: Asok Mallik, Sankhyar Gulpo, 2020, Paschim Bango Ganit Parishad, Gobardanga, PO Khantura, District North 24 Parganas 743273,
 C/o Dr. Abhishek Dan Mob 9064757684.
