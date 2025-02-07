@@ -102,7 +102,6 @@ severe damage and pose much more aggravated risks to even large and powerful nat
 activities could bring in a new dimension of demagoguery. It is happening already. The entire world will have to embrace
 a heightened level of instability. Some may view it as God's way of restoring the balance between individuals and 
 organized systems like the state and big enterprises. However, the bottom line is that the AI safety issues require
-a whole new reevaluation compared to the report prepared by Yoshua BengiO and his team of international experts. However,
-the bottom line is that the safety issues of AI require reevaluation.
+a whole new reevaluation compared to the report prepared by Yoshua BengiO and his team of international experts. 
 
 [Back to Index](../index.md)
