@@ -1,7 +1,7 @@
 # Sankhyar Gulpo: The Story of Numbers
 
 Recently, I received an interesting piece of work as a gift. It is  a unique book in any vernacular language in India and 
-is about an arid subject like mathematics. The author of the book Prof Asok Mallik was my colleague at IIT Kanpur in the 
+is about an arid subject like mathematics. The author of the book [Prof Asok Mallik](https://fellows.ias.ac.in/profile/v/FL1997013)  was my colleague at IIT Kanpur in the 
 Department of Mechanical Engineering. At IIT Kanpur, we had minimal interactions beyond occasional official meetings. However,
 we had a chance to catch up on lost time during a small social gathering in Kolkata. Prof Mallik shared his wealth of experience
 authoring books on Bengali mathematics. Since Prof Mallik is an outstanding teacher, I was curious to have a glimpse of his book 
