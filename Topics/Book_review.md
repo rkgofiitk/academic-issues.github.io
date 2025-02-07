@@ -10,6 +10,8 @@
 
 # Sankhyar Gulpo: The Story of Numbers
 
+[Blog Index](../index.md)
+
 Recently, I received an interesting piece of work as a gift. It is  a unique book in any vernacular language in India and 
 is about an arid subject like mathematics. The author of the book [Prof Asok Mallik](https://fellows.ias.ac.in/profile/v/FL1997013)  was my colleague at IIT Kanpur in the 
 Department of Mechanical Engineering. At IIT Kanpur, we had minimal interactions beyond occasional official meetings. However,
@@ -113,3 +115,5 @@ fundamental theorem of algebra, the Rieman hypothesis, and fractals.
 
 
 [^1]: Asok Mallik, Sankhyar Gulpo, 2020, Paschim Bango Ganit Parishad, Gobardanga, PO Khantura, District North 24 Parganas 743273, care of Dr Abhishek Dan Mob 9064757684.
+
+[Back to Index](../index.md)
