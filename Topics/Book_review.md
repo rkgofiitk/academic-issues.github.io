@@ -29,7 +29,7 @@ geometry. The Hindu-Arab numeral system is augmented by the discovery of zero. S
 contributed significantly by creating rules for computation involving zero. Who discovered zero, however, remains a mystery. 
 The realization that the integral numbers system has no end led to the concept of $\infty$. The symbol $\infty$ is known as
 lazy eight because it is not straight like the numeric symbol eight. It also represents a curve that one can traverse endlessly.
-Cantor chose to represent $\infty$ as aleph zero ($\aleph_0$). 
+Cantor chose to represent $\infty$ as aleph zero (<img src="../Pictures/aleph_0.png">). 
 
 The book's description of the geometric origin of numbers is particularly fascinating. Greeks did not have symbols for
 numbers. They represented the numerical values of whole numbers by geometric formations of pebbles placed on the plane ground. 
@@ -43,7 +43,7 @@ one of the legs of the compass is fixed to produce the circle. So, the two ancie
 a number. Varying the relative placement of points, Greek mathematicians conceptualized the existence of numbers. Rational
 numbers are included in the Greek number system since any rational number can represent a measurable length. The existence 
 of irrational numbers is also established by geometry when it is found that the hypotenuse of unit square if $\sqrt{2}$, and 
-the hypotenuse of a regular unit pentagon is $(\sqrt{5} + 1)/2$. The area of a circle is also a square of a number 
+the hypotenuse of a regular unit pentagon is <img src="../Pictures/golden_ration.png"> The area of a circle is also a square of a number 
 multiplied by an irrational number. Ancient Greek mathematicians refused to recognize any mathematical process without being
 backed by geometric constructions. Greek mathematicians not only successfully classified the numbers but were able to 
 establish algebraic identities like: 
@@ -75,7 +75,7 @@ Chapter 3 of the book is on real numbers. This chapter is a treasure trove for p
 numbers, sequences, and series of real numbers and functions. More precisely, such an understanding of real numbers would be 
 very critical for precision in computations. Real numbers include rational, irrational, and transcendental numbers. The 
 representation of rational numbers in terms of continued fraction has an Egyptian origin, where each fraction's numerator is 1.
-Many simple patterns are detected expressing the constants like $\Pi$ and Neperian base $e$ in terms of continued fractions. 
+Many simple patterns are detected expressing the constants like $\Pi$ and Neperian base <i>e</i> in terms of continued fractions. 
 Of particular interest to computing and computer science students is the method of iteration in real numbers. Iteration is
 one of the important mainstays for branches of mathematics like Calculus and Topology. Two different methods of finding the
 positive square root of a number have been discussed. The book includes examples of flowers and fruit to establish
@@ -84,7 +84,7 @@ inspirational anecdotes from nature to the concept of the golden section.
 Leibniz describes imaginary numbers as "A wonderful refuge of the divine spirit as an amphibian between being and non-being." 
 Chapter 4 of the book traces our earliest encounter with imaginary numbers in school algebra when solving quadratic equations. At
 school, we only focused on solutions that produced real roots. The exercises are designed to avoid the possibility of discriminant
-$b^2-4ac < 0$ carefully. However, the teachers did not tell us why. Let me share an anecdotal reference to negative discriminants.
+<img src="../Pictures/discriminant.png"> carefully. However, the teachers did not tell us why. Let me share an anecdotal reference to negative discriminants.
 We were upset that our mathematics teacher was transferred close to the school board examination. The new person who joined his 
 place was also our principal, responsible for teaching us mathematics. A group of friends decided to put the principal in a spot
 by formulating tricky problems and asking him for solutions. One such problem is where the discriminant was negative. 
