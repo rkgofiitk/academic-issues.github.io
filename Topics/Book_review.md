@@ -16,7 +16,7 @@ Recently, I received an interesting piece of work as a gift. It is  a unique boo
 is about an arid subject like mathematics. The author of the book [Prof Asok Mallik](https://fellows.ias.ac.in/profile/v/FL1997013)  was my colleague at IIT Kanpur in the 
 Department of Mechanical Engineering. At IIT Kanpur, we had minimal interactions beyond occasional official meetings. However,
 we had a chance to catch up on lost time during a small social gathering in Kolkata. Prof Mallik shared his wealth of experience
-authoring books on mathematics written in Bengali. Since Prof Mallik is an outstanding teacher, I was curious to have a glimpse
+authoring mathematics books written in Bengali. Since Prof Mallik is an outstanding teacher, I was curious to have a glimpse
 of his book on  Sankhyar Gulpo [^1] ("The Story of Numbers"). He was kind enough to send it as a gift. I also procured a copy
 of his other book "Geometry Beyond School Texts." Three of his mathematics books are in English and published by IISc Press.
 
