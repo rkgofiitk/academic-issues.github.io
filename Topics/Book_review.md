@@ -83,7 +83,7 @@ inspirational anecdotes from nature to the concept of the golden section.
 Leibniz describes imaginary numbers as "A wonderful refuge of the divine spirit as an amphibian between being and non-being." 
 Chapter 4 of the book traces our earliest encounter with imaginary numbers in school algebra when solving quadratic equations. At
 school, we only focused on solutions that produced real roots. The exercises are designed to carefully avoid the possibility of 
-discriminant $\sqrt{b^2 - 4ac} < 0$ . However, the teachers did not tell us why. Let me share an anecdotal reference to negative discriminants.
+discriminant $b^2 - 4ac < 0$ . However, the teachers did not tell us why. Let me share an anecdotal reference to negative discriminants.
 We were upset that our mathematics teacher was transferred close to the school board examination. The new person who joined his 
 place was also our principal, responsible for teaching us mathematics. A group of friends decided to put the principal in a spot
 by formulating tricky problems and asking him for solutions. One such problem is where the discriminant was negative. 
