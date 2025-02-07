@@ -8,7 +8,7 @@
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 
-# Sankhyar Gulpo: The Story of Numbers
+# Sankhyar Gulpo (The Story of Numbers) 
 
 [Blog Index](../index.md)
 
