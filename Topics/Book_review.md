@@ -1,5 +1,7 @@
-
-# "Sankhyar Gulpo" (The Story of Numbers) 
+---
+title: "Sankhyar Gulpo" (The Story of Numbers) 
+subtitle: A review
+---
 
 [Blog Index](../index.md)
   <script type="text/x-mathjax-config">
@@ -104,7 +106,10 @@ by formulating tricky problems and asking him for solutions. One such problem is
 Four special numbers, namely, hyperreal numbers, quaternions, dual numbers, and p-Adic numbers, are discussed in Chapter 5. 
 Differential calculus starts infinitesimal (denoted by $\Delta$). It represents a classic case of many things mathematicians did 
 right without inventing the basis. Abraham Robinson used hyperreal numbers to establish the exact theory of infinitesimal 300
-years after its intuitive notion was used to develop differential calculus. 
+years after its intuitive notion was used to develop differential calculus. The mathematical interplay of dimensions (extension or
+conversion) has been a challenging problem. However, mathematical principles behind three-dimensional rotations involving
+computer graphics, computer vision, robotics, MRI, and X-ray crystallography use quaternions. Similarly, dual numbers are used to 
+calculate derivatives of complex numbers, and p-Adic numbers are used for approximations.
 
 In a short review, I can't describe the way Prof Mallik narrated the story of numbers. It is like experiencing an aircraft 
 pushback taxing on a runway and then to a final takeoff. For example, the book deals with complex numbers as a generalization 
@@ -112,7 +117,6 @@ of real numbers in which the coefficient of the imaginary part is 0. Then, it in
 fundamental theorem of algebra, the Rieman hypothesis, and fractals. 
 
 
-## Reference:
 [^1]: Asok Mallik, Sankhyar Gulpo (second edition), 2020, Paschim Bango Ganit Parishad, Gobardanga, PO Khantura, District North 24 Parganas 743273, care of Dr Abhishek Dan Mob 9064757684.
 
 [Back to Index](../index.md)
