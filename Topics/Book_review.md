@@ -1,8 +1,7 @@
+# "Sankhyar Gulpo" (The Story of Numbers) 
+### A review
 ---
-title: "Sankhyar Gulpo" (The Story of Numbers) 
-subtitle: A review
----
-
+{% if page.subtitle %}{{ page.subtitle }}{% endif %}
 [Blog Index](../index.md)
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
