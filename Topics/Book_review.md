@@ -43,7 +43,7 @@ geometry. The Hindu-Arab numeral system is augmented by the discovery of zero. S
 contributed significantly by creating rules for computation involving zero. Who discovered zero, however, remains a mystery. 
 The realization that the integral numbers system has no end led to the concept of $\infty$. The symbol $\infty$ is known as
 lazy eight because it is not straight like the numeric symbol eight. It also represents a curve that one can traverse endlessly.
-Cantor chose to represent $\infty$ as aleph zero ($\alep0$). 
+Cantor chose to represent $\infty$ as aleph zero ($\aleph0$). 
 
 The book's description of the geometric origin of numbers is particularly fascinating. Greeks did not have symbols for
 numbers. They represented the numerical values of whole numbers by geometric formations of pebbles placed on the plane ground. 
