@@ -37,3 +37,5 @@ resources to retrain software engineers in AGI. However, given the current finan
 tech companies, a judicious balance between retraining and curriculum change is the big takeaway from ongoing experiments
 to deploy AGI to manage skilled professionals. How government advisors and policymakers invent strategies will be under 
 microscopic scrutiny. Job loss in every sector will significantly increase competition's entropy in unorganized sectors.
+
+[Back to Index](../index.md)
