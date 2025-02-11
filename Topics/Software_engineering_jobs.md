@@ -35,6 +35,5 @@ context of a transformative computer science and engineering curriculum for a tr
 for computer science and engineering degrees. AGI does not appear to be a buzzword anymore. Companies should recalibrate 
 resources to retrain software engineers in AGI. However, given the current financial state of AI
 tech companies, a judicious balance between retraining and curriculum change is the big takeaway from ongoing experiments
-to deploy AGI to manage skilled professionals. How government advisors and policymakers invent strategies  
-will be under microscopic scrutiny. Job loss in every sector will significantly increase competition's entropy in unorganized 
-sectors.
+to deploy AGI to manage skilled professionals. How government advisors and policymakers invent strategies will be under 
+microscopic scrutiny. Job loss in every sector will significantly increase competition's entropy in unorganized sectors.
