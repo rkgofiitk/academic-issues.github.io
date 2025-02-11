@@ -33,7 +33,7 @@ Meta's firing of 31k employees and Altman's warning about the redundancy of Soft
 context of requirements for a transformational assessment of the curriculum for computer science and engineering degrees. The empahsis on coding and knowledge of full stack development are probably not essential. Training design innovations
 and the interaction between Human and AGI agents will be critical for students seeking software jobs. A product innovation 
 engineer's job will be more important than ever. AGI does not appear to be a buzzword anymore. Companies should recalibrate 
-resources to retrain software engineers in AGI. However, given the current financial state of AI
+spending and allocation of resources to retrain software engineers in AGI. However, given the current financial state of AI
 tech companies, a judicious balance between retraining and curriculum change is the big takeaway from ongoing experiments
 to deploy AGI to manage skilled professionals. How government advisors and policymakers invent strategies will be under 
 microscopic scrutiny. Job loss in every sector will significantly increase competition's entropy in unorganized sectors.
