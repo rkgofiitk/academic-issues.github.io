@@ -18,5 +18,11 @@ should be seen as yet another tool that human made. However, if we viewing AI as
 factor and its impact on automated sharpening of the tool. Deep Seek model of distilled AI applying reasoning may tranform the
 landscape of LLM-based approach and elevate it by adding a whole new dimension. Sam Altman observes that the cost of adding 
 a given level of intelligence lowers by 10x every 12 months. The cost of a token fell by 150x in the period from GPT-4 to GPT-4o.
-Deep Seek announced that its development cost is 500 million USD against 394 billion USD of Chat-GPT. Deep Seek requires 
-only a 
+Deep Seek announced that its development cost is 6 million USD against 394 billion USD of Chat-GPT. However, a 
+[new research](https://www.yahoo.com/news/research-exposes-deepseek-ai-training-165025904.html) exposes that the company only 
+revealed its training cost. The development cost is estimated to be as high as 1.3 billion USD. Furthermore, Deep Seek has access
+not only to 50000 H100 GPUs but a mix of H100, H800 and country specific H20 by Nvidia. Splitting hairs on Deep Seek's 
+cost effiency against that of Chat-GPT 4o is not quite the end of story of the AGI's impactful effects on human community 
+benefits. Sam Altman's blog and Meta's firing of 31k employees should be seen as in the context of a 
+for a transformative computer scince and engineering curriculum for a transformative assessment of the curriculum for computer 
+scince and engineering degrees.
