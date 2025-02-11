@@ -8,8 +8,8 @@ has reportedly firing 31000 employees and is pushing for hiring machine learning
 L & T, Tech Mahindra, and TCS, who rely on body shopping low-quality software engineers, will have to rethink their strategy of 
 inducting everybody and anybody with a computer science degree. Shareholders should go for a strategic reallocation of stakes in
 these companies. It is time that the government's advisors on Nitiyug's board and economic affairs panel
-become aware of the implications of AI. Prime Minister Narendra Modi is co-chairing the AI Summit in Paris with French President 
-Imanuel Macron. PM is mindful of the implication of AI applications in diverse fields such as manufacturing, healthcare, 
+become aware of the implications of AI. Prime Minister Narendra Modi is co-chairing the AI Action Summit in Paris with French 
+President Emmanuel Macron. PM is mindful of the implication of AI applications in diverse fields such as manufacturing, healthcare, 
 transportation, and construction, on which nation-building depends. 
 
 An AI agent's performance is limited to the log of resources used to train them. Sam Altman compares it to the history of human
