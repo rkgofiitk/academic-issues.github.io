@@ -1,4 +1,4 @@
-# Tranformative Impacts of AI on Software Engineer's Jobs
+# Transformative Impacts of AI on Software Engineer's Jobs
 
 [Blog Index](../index.md)
 
