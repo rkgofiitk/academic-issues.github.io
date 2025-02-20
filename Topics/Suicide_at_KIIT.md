@@ -15,7 +15,7 @@ grant IoE status remains a mystery to me, as well as to scores of others. Howeve
 of discussion here. The only point of the institution's IoE status is to expect it to maintain the highest level of accountability
 for its acts of omissions and commissions. We are concerned with the management of private institutions. All the private 
 institutions come under the respective states where they are located. KIIT, being in Odisha, comes under the state of Odisha and, 
-therefore, under the administrative control of the Odisha Government. India's education ministry is also currently headed by Mr. 
+therefore, under the administrative control of the Odisha Government. India's education ministry is currently headed by Mr. 
 Dharmendra Pradhan, who hails from Odisha too. An independent observer will naturally draw a connection between KIIT and the Ministry 
 of Education. Asking rhetorically, one would say: Mr. Minister, do you even know what is happening in your state?
 
