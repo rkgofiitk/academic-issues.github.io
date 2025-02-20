@@ -39,7 +39,7 @@ It is a botched job by KIIT and the government of Odisha. I wonder how the minis
 happenings, more so as he hails from the same state. It shows either rank incompetence or utter disregard for the rule of law. 
 
 The other serious issue is the investigation of suicide. Many reports say that the victim had lodged numerous complaints of 
-harassment to the International Relations Office of the institution. It becomes obligatory for the IRO to report the matter to the 
+harassment to the International Relations Office of the institution. It becomes obligatory for the IRO to report such matters to the 
 Internal Complaints Committee (ICC). I am not sure if KIIT even has an ICC. If that is the case, the entire Institute is guilty 
 of abetments to suicide along with the involved persons. 
 
