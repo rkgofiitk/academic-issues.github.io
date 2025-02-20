@@ -25,8 +25,8 @@ should be worried and straighten things once and for all. The most disconcerting
 - Two lady teachers are abusing students
 - Security staff along with hired criminals are attacking protesting students.
 
-One of the lady teachers is seen threatening the female students that if they don't leave the KIIT campus, they will be evicted by the
-police. That may imply that KIIT authorities are confident that the state will bail them out of protests without attracting
+One of the lady teachers is seen threatening the female students that if they don't leave the KIIT campus, or they will be evicted 
+by the police. That may imply that KIIT authorities are confident that the state will bail them out of protests without attracting
 punitive consequences. The other lady teacher declared that Nepal's year budget could not match KIIT's annual 
 budget. The arrogance and low threshold of knowledge are on full display in public. The two teachers have tendered scripted 
 apologies as the incident snowballed into a diplomatic row after the PM of Nepal posted on X and decided to despatch two officers 
