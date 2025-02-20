@@ -1,6 +1,6 @@
 # Transformative Impacts of AGI in CS Part II
 
-Continuing from the previous post on transformative impacts of AGI, let us explore a bit on suggested modification of undergraduate
+Continuing from the previous post on [transformative impacts of AGI](./AI_), let us explore a bit on suggested modification of undergraduate
 syllabus in computer science and engineering. Many institutions are already offering UG programme in three different specialization
 in computer science and engineering, 
 - AI/ML
