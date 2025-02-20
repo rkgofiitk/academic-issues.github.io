@@ -47,7 +47,7 @@ The victim's body was removed from the room, and the police reportedly did not r
 prejudging anything at the moment. However, as we know, investigating agencies act according to the government's wishes. The 
 other important angle is the public display of racial abuse in the aftermath of the unfortunate suicide. Press and television
 in India pick up every incident of racial violations against Indians in the US, Europe, Australia, and China. However, I did 
-not understand why they did not raise much noise about the racial abuse of young Nepalese citizens in Odisha. Normalizing 
+not understand why they did not make evenly balanced noise about the racial abuse of young Nepalese citizens in Odisha. Normalizing 
 racial abuses in India at Educational institutions is equally distasteful as it is elsewhere. It is time for the government of 
 Odisha and the Federal Ministry of Education to enforce the legal framework of control over private institutions strictly.
 
