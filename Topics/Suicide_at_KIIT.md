@@ -28,13 +28,15 @@ should be worried and straighten things once and for all. The most disconcerting
 One of the lady teachers is seen threatening the female students that if they don't leave the KIIT campus, they will be evicted by the
 police. That may imply that KIIT authorities are confident that the state will bail them out of protests without attracting
 punitive consequences. The other lady teacher declared that Nepal's year budget could not match KIIT's annual 
-budget. The arrogance is on full display in public. The two teachers have tendered scripted apologies as the incident snowballed
-into a diplomatic row after the PM of Nepal posted on X and decided to despatch two officers from the New Delhi Embassy. 
+budget. The arrogance and low threshold of knowledge are on full display in public. The two teachers have tendered scripted 
+apologies as the incident snowballed into a diplomatic row after the PM of Nepal posted on X and decided to despatch two officers 
+from the New Delhi's Nepal Embassy. 
 
 It is pathetic and even surprising to know that the incidents of beating students, forcibly herding them into buses, and dumping them 
-at railway stations at Cuttack, Bhubaneswar, and Puri did not attract the Odisha government's attention. It is a botched job by
-KIIT and the government of Odisha. I wonder how the minister of education remains unaware of the happenings, more so as he
-hails from the same state. It shows either rank incompetence or utter disregard for the rule of law. 
+at railway stations at Cuttack, Bhubaneswar, and Puri did not attract the Odisha government's attention. It is hard to believe that
+such a mass operation of deporting students can happen without the knowledge of the office of the city police commissioner. 
+It is a botched job by KIIT and the government of Odisha. I wonder how the minister of education remains unaware of the 
+happenings, more so as he hails from the same state. It shows either rank incompetence or utter disregard for the rule of law. 
 
 The other serious issue is the investigation of suicide. Many reports say that the victim had lodged numerous complaints of 
 harassment to the International Relations Office of the institution. It becomes obligatory for the IRO to report the matter to the 
