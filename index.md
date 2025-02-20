@@ -10,6 +10,7 @@ time govt comes up with an intervention to course correct the educators to suppo
 certain policies from a neutral viewpoint.
 
 
+- [Suicides in Private Educational Institutions](Topica/Suide_at_KIIT.md)
 - [Transformative Impacts of AGI on Software Engineer's Jobs](Topics/Software_engineering_jobs.md)
 - [Sankhyar Gulpo (The Story of Numbers)](Topics/Book_review.md)
 - [AI Action Summit Releases AI Safety Report](Topics/AI_safety_draft.md)
