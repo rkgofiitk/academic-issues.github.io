@@ -33,7 +33,7 @@ into a diplomatic row after the PM of Nepal posted on X and decided to despatch 
 It is pathetic and even surprising to know that the incidents of beating students, forcibly herding them into buses, and dumping them 
 at railway stations at Cuttack, Bhubaneswar, and Puri did not attract the Odisha government's attention. It is a botched job by
 KIIT and the government of Odisha. I wonder how the minister of education remains unaware of the happenings, more so as he
-hails from the same state. It shows either incompetence or total disregard for the rule of law. 
+hails from the same state. It shows either rank incompetence or utter disregard for the rule of law. 
 
 The other serious issue is the investigation of suicide. Many reports say that the victim had lodged numerous complaints of 
 harassment to the International Relations Office of the institution. It becomes obligatory for the IRO to report the matter to the 
