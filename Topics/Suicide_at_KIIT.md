@@ -1,4 +1,4 @@
-# # Suicides in Private Educational Institutions 
+#  Suicides in Private Educational Institutions 
 
 [Blog Index](../index.md)
 
