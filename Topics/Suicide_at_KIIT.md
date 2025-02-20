@@ -23,7 +23,7 @@ I won't say that I am fully aware of the case of suicide at KIIT except for the 
 events on mass and social media. Even if 30% of the reports are correct, I think both the governments at the center and the state 
 should be worried and straighten things once and for all. The most disconcerting facts are two widely circulated videos where
 - Two lady teachers are abusing students
-- Criminal attacks on students by both security and hired criminals.
+- Security staff along with hired criminals are attacking protesting students.
 
 One of the lady teachers is seen threatening the female students that if they don't leave the KIIT campus, they will be evicted by the
 police. That may imply that KIIT authorities are confident that the state will bail them out of protests without attracting
