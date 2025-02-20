@@ -5,8 +5,8 @@
 Many of us are concerned about the suicides of students due to academic pressures at top institutions in India. The spate of suicides 
 in Kota dismayed us at the loss of talented young lives earlier last year. Recently, a suicide at one of the IoEs in the Private
 sector raised a diplomatic row between India and Nepal. At first instance, it appears like an unfortunate case of abetment to suicide 
-of a young student. It may have been prevented if the Institute's International Students Relations Unit had handled it quickly and 
-sensibly. 
+of a young student. The sad event could have been prevented if the Institute's International  Relations Office handled the complaint 
+quickly and sensibly. 
 
 Initially, I  misread KIIT as IITK. However, I soon realized it was not IITK but an institution of eminence (IoE) called KIIT. The 
 institution is situated in Bhubaneswar, a picturesque small city in the eastern part of India in Odisha. The institution was 
