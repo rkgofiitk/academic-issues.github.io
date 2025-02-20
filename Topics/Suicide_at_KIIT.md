@@ -5,18 +5,19 @@
 Many of us are concerned about the suicides of students due to academic pressures at top institutions in India. The spate of suicides 
 in Kota dismayed us at the loss of talented young lives earlier last year. Recently, a suicide at one of the IoEs in the Private
 sector raised a diplomatic row between India and Nepal. At first instance, it appears like an unfortunate case of abetment to suicide 
-of a young student. The sad event could have been prevented if the Institute's International  Relations Office handled the complaint 
-quickly and sensibly. 
+of a young student from Nepal. The sad event could have been prevented if the Institute's International  Relations Office (IRO) 
+handled the complaint quickly and sensibly. 
 
 Initially, I  misread KIIT as IITK. However, I soon realized it was not IITK but an institution of eminence (IoE) called KIIT. The 
 institution is situated in Bhubaneswar, a picturesque small city in the eastern part of India in Odisha. The institution was 
 accorded IoE status in September 2017. Interestingly, IITK is still not an IoE. The criteria that the Ministry of Education uses to 
-grant IoE status remains a mystery to me, as well as scores of others. However, the IoE status of an institution is not the subject 
-of discussion here.  We are concerned with the management of private institutions. All the private institutions come under the 
-respective states where they are located. KIIT, being in Odisha, comes under the state of Odisha and, therefore, under the 
-administrative control of the Odisha Government. India's education ministry is also currently headed by Mr. Dharmendra Pradhan, 
-who hails from Odisha too. An independent observer will naturally draw a connection between KIIT and the Ministry of Education. 
-Asking rhetorically, one would like to say: Mr. Minister, do you even know what is happening in your state?
+grant IoE status remains a mystery to me, as well as to scores of others. However, the IoE status of an institution is not the subject 
+of discussion here. The only point of the institution's IoE status is to expect it to maintain the highest level of accountability
+for its acts of omissions and commissions. We are concerned with the management of private institutions. All the private 
+institutions come under the respective states where they are located. KIIT, being in Odisha, comes under the state of Odisha and, 
+therefore, under the administrative control of the Odisha Government. India's education ministry is also currently headed by Mr. 
+Dharmendra Pradhan, who hails from Odisha too. An independent observer will naturally draw a connection between KIIT and the Ministry 
+of Education. Asking rhetorically, one would say: Mr. Minister, do you even know what is happening in your state?
 
 I won't say that I am fully aware of the case of suicide at KIIT except for the reportage of the incident and the subsequent related
 events on mass and social media. Even if 30% of the reports are correct, I think both the governments at the center and the state 
