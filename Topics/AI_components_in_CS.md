@@ -40,3 +40,28 @@ member of IT and Communication Department at JKLU,Jaipur. He was one of our stud
 law degree in IPR. A RAG kind of tool on IPR related laws could be a game changer in legal profession.But I am not sure if
 Indian Legal Professionals are still ready for the use of AI powered tools.   
 
+The September 2024 issue of CACM carries an article by Esther Shein on "(Impacts of AI in Computer Science Education)[https://dx.doi.org/10.1145/3673428]." 
+Shein declare that "you still need the founcation to be effective computer sceintists or software engineers." The paper 
+tells about an experiment conducted by [Eric Klopfer](https://education.mit.edu/person/eric_klopfer/) with Under Graduate
+students in Computer Science at MIT. He divided the class into three groups. The students did not know about FORTRAN. I guess
+that is true of current generation of students in CS in India. Eric Klopfer asked the students to solve a programming task in 
+FORTRAN. He allowed one group of students to use ChatGPT and the other group to use Meta’s Code Llama large language model (LLM),
+and the remaining group to use only Google search engine. The first group was quickest to solve the problem, the second group 
+took more time, and the third group took the longest time. The second part of Klopfer's experiment was to test the students for
+solving the same task from memnory. The first group which used chatGPT, remembered nothing at all and failed. Half the students
+of the second group passed the tests and every students of the third group passed the test. The experiment estblishes the fact
+that if you need a one time programming task, ChatGPT is probably is the best route. T
+
+Except for the purpose of submitting a home assignment, using ChatGPT won't fetch a job as most programming task require 
+regular maintenance to cater for changing customer requirements. One may wonder "Is there a role for GenAI tools in teaching 
+beyond solving home assignments?" The tool could make the teaching suddenly more alive than it is now. For example, ChatGPT
+may be suited best for tutoring students. I see the tool as creating similar disruption in teaching when calculators were 
+introduced. Job of calculations were eliminiated, but teaching methods evolved to take care of the disruption. Similarly,
+the best use of Generative AI tool would be to use it for learn programming skills, fundamentals of data structure
+and so on, clarify doubts, etc. I am suggesting the adaptation of ChatGPT as Retrieval Augmented Generation (RAG) tool 
+for virtual teaching assistants. However, we should be aware of the downside of the suggestion. It may
+perhaps encourage  cuts in university funding for teaching assistants that in turn could severly affect the research and 
+developement. 
+
+
+
