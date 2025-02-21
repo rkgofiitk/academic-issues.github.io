@@ -17,7 +17,7 @@ level of accountability for its acts of omissions and commissions. We are concer
 All the private institutions come under the respective states where they are located. KIIT, being in Odisha, comes under the state 
 of Odisha and, therefore, under the administrative control of the Odisha Government. India's education ministry is currently headed 
 by Mr. Dharmendra Pradhan, who hails from Odisha too. An independent observer will naturally draw a connection between KIIT and 
-the Ministry of Education. Asking rhetorically, one would say: Mr. Minister, do you even know what is happening in your state?
+the Ministry of Education. Asking rhetorically, one would say: "Mr. Minister, do you even know what is happening in your state?"
 
 I won't say that I am fully aware of the case of suicide at KIIT except for the reportage of the incident and the subsequent related
 events on mass and social media. Even if 30% of the reports are correct, I think both the governments at the center and the state 
