@@ -72,10 +72,11 @@ We can summarize major concentration threads in UG programmes in computer scienc
 - Natural Language Processing/Computational Linguistic
 - Statistical Learning and Inferences/Automated Reasoning
 
-One of the toughest course in computer science is ompiler design. NLP can enhance compiler design particularly in source code 
-analysis and understanding the intent of codes.Similarly NLP can be used in code generation.While NLP cannot entirely replace
-aspects of traditional compiler design course, it will be possible reduce load with respect to compiler design as capabilities
-of NLP improves. Database, Datamining and Graphmining are all necessary for acquiring expertise AI/ML. Query handling in AI,
-clustering results and finding patterns in results all depend on data.  
+One of the toughest course in computer science is compiler design. NLP can enhance compiler design particularly in source code 
+analysis, understanding the code intent, and in code generation. While NLP cannot entirely replace
+aspects of traditional compiler design course, it will be possible reduce the load of compiler design course as capabilities
+of NLP improves. Database, Datamining and Graphmining are necessary for acquiring expertise AI/ML. A crucial part of Generative
+AI is query handling, clustering results and finding patterns in the intermedial results to draw inferences. Everything has
+to do with data. Therefore, learning database techniques is important for AI/ML.    
 
 
