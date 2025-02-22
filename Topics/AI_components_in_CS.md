@@ -1,102 +1,106 @@
 # Transformative Impacts of AGI in CS Part II
 
 Continuing from the previous post on [transformative impacts of AGI](./Software_engineering_jobs.md), I wish to explore a bit on 
-suggested modification of undergraduate syllabus in computer science and engineering. Many institutions are already offering UG
-programme in three different specializations in computer science and engineering, 
+suggested modification of the undergraduate syllabus in computer science and engineering. Many institutions are already offering UG
+program in three different specializations in computer science and engineering, 
 - AI/ML
-- Data science
+- Data Science
 - Fintech
 
-Of course Fintech has yet to stablize as a specialization like AI/ML or Data Science. The main focus of Fintech is to 
-train students in management and forecasting of investment banking, finace, insurance and stock market. A Fintech trained 
-professional is also expected to have some fundamental knowledge of following technology and related tools:
+Of course, Fintech has yet to stabilize as a specialization like AI/ML or Data Science. The main focus of Fintech is to 
+train students in management and forecasting of investment banking, Finance, insurance, and stock market. A Fintech trained 
+professional is also expected to have some fundamental knowledge of the following technology and related tools:
 - Cloud computing
 - Blockchain, smart agreements, and related algorithms
-- Internet of things for monitoring, data gathering, and mining
+- Internet of Things for monitoring, data gathering, and mining
 - Smart logistics and robotics
 - AI for detection and forecasting
   
-Apart from general understanding of technology, Fintech specialists need to advise investors in risk managment, compliance of
-financial ethics and governance, cyber security, detection of frauds, and digital payment systems. Fintech courses are offered by IIMs
-and other management schools like ISB in India. BIT Pilani and a few IITs like IIT Kanpur, IIT Jodhpur also offer fintech courses.
-Older IITs like IIT Kharagpur and Kanpur have Industrial Management Departments which typically handle courses in management
-and Finance. The target audience for most Fintech courses are working or experienced professionals. Therefore, Fintech courses
-are offered either in online or intensive offline short certification modes. I think most institutions are watching to understand the
+Apart from a general understanding of technology, Fintech specialists must advise investors in risk management, compliance with
+financial ethics and governance, cyber security, detection of fraud, and digital payment systems. IIMs and other management schools like ISB in India offer fintech courses. BIT Pilani and a few IITs like IIT Kanpur and IIT Jodhpur also offer fintech courses.
+Older IITs like IIT Kharagpur and Kanpur have industrial management departments that typically handle management
+and finance courses. The target audience for most Fintech courses are working or experienced professionals. Therefore, Fintech courses
+are offered online or intensive offline short certification modes. Most institutions are watching to understand 
 if Fintech could emerge as a discipline with specialized requirements. 
 
-Data science specialists are trained to handle volumes of data that far exceed the capacity of any large data base. The collection
-of world-wide data is estimated to be around [149 ZB in 2024](https://rivery.io/blog/big-data-statistics-how-much-data-is-there-in-the-world/).
-A zeta byte (ZB) is $10^{21}$ bytes that can fully populate 250 million DVDs. Handling of Big data requires training in 
+Data science specialists are trained to handle volumes of data that far exceed the capacity of any large database. The collection
+Worldwide data is estimated at around [149 ZB in 2024](https://rivery.io/blog/big-data-statistics-how-much-data-is-there-in-the-world/).
+A zeta byte (ZB) is $10^{21}$ bytes that can fully populate 250 million DVDs. Handling Big data requires training in 
 Datamining, Statistical methods, Data visualization, Machine Learning AI techniques. Conventional techniques like indexing 
-won't work. IIT Madras offers Masters program in Data Sceince. IIT Delhi, IIT Guwahati, IIT Bombay, IIT Gandhinagar, IIT 
-Kharagpur, IIT Roorkee offer different Data Science and AI/ML courses. These courses include AI/ML, Computer Vision, LLM, 
-Deep Learning, Financial Forensic, Business Analytics and familiarization in Industry relevant software tools like full stack 
-python develepment framework for handling and visualization of data. 
+won't work. IIT Madras offers a Masters program in Data science. IIT Delhi, IIT Guwahati, IIT Bombay, IIT Gandhinagar, IIT 
+Kharagpur, IIT Roorkee offers different Data Science and AI/ML courses. These courses include AI/ML, Computer Vision, LLM, 
+Deep Learning, Financial Forensics, Business Analytics, and familiarization with relevant software tools like full-stack 
+Python development framework for handling and visualization of data. 
 
 All top institutions in India have already started offering AI/ML courses. IIT Madras, IIT Kharagpur and IIT Guwahati are offering 
-Bachelors' degree program in AI/ML. IIT Kanpur is offering M.Tech programme in AI/M while IIT Bombay offers CS minor in AI/ML 
-at UG levelL Most IITs offer AI/ML specialization to computer science and engineering B. Techs. Dr. Kshitiz Verma runs a
-[peronal Youtube channel](https://www.youtube.com/user/vkshitiz) for his class lectures in AI and LLM. Dr. Verma is a faculty 
-member of IT and Communication Department at JKLU,Jaipur. JKLU is a private university funded and run by JK group. Dr Verma
-was one of our students at IIT Kanpur. He also has a law degree in IPR. A RAG kind of tool on IPR related laws could be a game
-changer in legal profession.But I am not sure if Indian Legal Professionals are still ready for the use of AI powered tools.   
+Bachelor's degree program in AI/ML. IIT Kanpur offers an M.Tech program in AI/M, while IIT Bombay offers a CS minor in AI/ML 
+at the UG level. Most IITs offer AI/ML specialization in computer science and engineering. B. Techs. Dr. Kshitiz Verma runs a
+[personal YouTube channel](https://www.youtube.com/user/vkshitiz) for his class lectures in AI and LLM. Dr. Verma is a faculty 
+member of the IT and Communication Department at JKLU, Jaipur. JKLU is a private university funded and run by the JK group. Dr Verma
+was one of our students at IIT Kanpur. He also has a law degree in IPR. A RAG tool on IPR-related laws could be a game
+changer in the legal profession. However, I am unsure if Indian legal professionals will accept AI-powered tools.   
 
 The September 2024 issue of CACM carries an article by Esther Shein on "(Impacts of AI in Computer Science Education)[https://dx.doi.org/10.1145/3673428]." 
-Shein declares that "you still need the founcation to be effective computer sceintists or software engineers." The paper 
-tells about an experiment conducted by [Eric Klopfer](https://education.mit.edu/person/eric_klopfer/) with Under Graduate
-students in Computer Science at MIT. He divided the class into three groups. The students did not know about FORTRAN. I guess
-that is true of current generation of students in CS in India too. Eric Klopfer asked the students to solve a programming task in 
-FORTRAN. He allowed one group of students to use ChatGPT and the other group to use Meta’s Code Llama large language model (LLM),
-and the remaining group to use only Google search engine. The first group was quickest to solve the problem, the second group 
-took more time, and the third group took the longest time. The second part of Klopfer's experiment was to test the students for
-solving the same task from memnory. The first group which used chatGPT, remembered nothing at all and failed. Half the students
-of the second group passed the tests and every students of the third group passed the test. The experiment estblishes the fact
-that if you need a one time programming task, ChatGPT or any GenAI tool is the best route to accomplish the same. There is
-nothing very startling about the findings. Unless one really goes deeper into a problem the knowledge retention is understandably
-low.
+Shein declares, "You still need the foundation to be effective computer scientists or software engineers." The paper 
+tells about an experiment conducted by [Eric Klopfer](https://education.mit.edu/person/eric_klopfer/) with undergraduate
+students in Computer Science at MIT. He divided the class into three groups. The students did not know about FORTRAN.
+Eric Klopfer asked the students to solve a programming task in 
+FORTRAN. He allowed one group of students to use ChatGPT, the other group to use Meta's Code Llama large language model (LLM),
+and the remaining group to use only the Google search engine. The first group solved the problem quickly, the second group 
+took more time, and the third group took the longest time. The second part of Klopfer's experiment tested the student's ability to
+solve the same task from memory. The first group that used chatGPT remembered nothing at all and failed. Half the students
+in the second group passed the tests, and every student in the third group passed the test. The experiment establishes 
+that ChatGPT or any GenAI tool is the best route if you need a one-time programming task. There is
+nothing very startling about the findings. Knowledge retention is understandably low unless one goes deeper into a problem.
 
-Except for the purpose of submitting a home assignment, using ChatGPT won't fetch a job as most programming task require 
-regular maintenance to cater for changing customer requirements. One may wonder "Is there a role for GenAI tools in teaching 
+ChatGPT won't fetch a job except for submitting a home assignment, as most programming tasks require 
+regular maintenance to cater to changing customer requirements. One may wonder, "Is there a role for GenAI tools in teaching 
 beyond solving home assignments?" The tool could make the teaching suddenly more alive than it is now. For example, ChatGPT
-may be suited best for tutoring students. I see the tool as creating much more amplified but similar disruption in teaching
-when calculators were introduced. Job of calculations were eliminiated, but teaching methods evolved to take care of the
-disruption. Similarly, the best use of Generative AI tool would be to use it for learn programming skills, fundamentals 
-of data structure and so on, clarify doubts, etc. I am suggesting the adaptation of ChatGPT as a Retrieval Augmented 
+may be best suited for tutoring students. The tool has created much more amplified but similar disruption in teaching
+when calculators were introduced. It eliminated the steps for manual calculations, but teaching methods evolved to address the
+disruption. Similarly, the best use of a Generative AI tool would be to learn programming skills, data structure fundamentals, clarify doubts, etc. Adapt ChatGPT as a Retrieval Augmented 
 Generation (RAG) tool for virtual teaching assistants. However, we should be aware of the downside of the suggestion. It may
-perhaps encourage  cuts in university funding for teaching assistants that in turn could severly affect the research and 
-developement. 
+encourage cuts in university funding for teaching assistants, which could severely affect research and 
+development. 
 
-We can summarize major concentration threads in UG programmes in computer science and engineering as follows:
+We can summarize major concentration threads in UG programs in computer science and engineering as follows:
 - Deep learning/Neural Network
-- Datamining/Graphmining
-- Large Language Model/Genereative AI 
+- Data mining/Graph mining
+- Large Language Model/Generative AI 
 - Natural Language Processing/Computational Linguistic
 - Statistical Learning and Inferences/Automated Reasoning
 
-One of the toughest course in computer science is compiler design. NLP can enhance compiler design particularly in source code 
-analysis, understanding the code intent, and in code generation. While NLP cannot entirely replace
-aspects of traditional compiler design course, it will be possible reduce the load of compiler design course as capabilities
-of NLP improves. Database, data mining and graph mining are necessary for acquiring expertise AI/ML. They help in extracting
-meaningful patterns from large datasets. Machine learning algorithms are trained to make predictions based on the these patterns.
-A crucial part of Generative AI is query handling, clustering results and finding patterns in the intermedial results to draw 
-inferences. Everything has to do with data. Therefore, learning database techniques is important for AI/ML. Statistical learning
-play a critical role in computer vision, speech recognition and bioinformatics. 
+One of the most challenging courses in computer science is compiler design. NLP can enhance compiler design, particularly in source code 
+analysis, understanding the code intent, and code generation. While NLP cannot entirely replace
+aspects of a traditional compiler design course, it will likely reduce the load of a compiler design course as the capabilities
+of NLP improve. Database, data mining, and graph mining are necessary for acquiring expertise in AI/ML. They help in extracting
+meaningful patterns from large datasets. Machine learning algorithms are trained to make predictions based on these patterns.
+A crucial part of Generative AI is query handling, clustering results, and finding patterns in the intermedial results to draw 
+inferences. Everything has to do with data. Therefore, learning database techniques is essential for AI/ML. Statistical learning
+is critical in computer vision, speech recognition, and bioinformatics. 
 
-Now let us understand how the AI/ML concentration can be integrated to a B. Tech CS curriculum. Let me add a disclaimer before
-continuing further. It is not my intention to propose a full structure for B. Tech curriculu. The focus is only to emphasize 
-that we can easily integrate AI/ML concentration into a B. Tech CS syllabus while retaining the core intact. It also leaves
-enough room for adding other specialization like distributed system/advanced OS, Computer Architecture, 
-Cryptography, Cyber security, HPC, Theory of Computation, etc. Typically, the duration of 
-one semester is 15 weeks consisting of roughly 450 contact hours (@ 6 hours per day, i.e., 30 hours a week). Therefore, each
-semester's credit requirement is 30 (assuming 1 credit unit is equivalent to 15 contact hours). So, a  student is required
-to log between 150-165 credit units for a UG degree in a discipline, that is equivalent to roughly in the neighborhood of
-30-35 courses including projects/practicals. Normally, B. Tech core in CS consists eight to nine courses. It includes
-Fundamentals Programming, Computer Organization, Data Structures, Algorithms, ToC, OS, Networks, Databases. There are 
-some schools which use bucketing of courses and allow students to opt for one or two from the bucket. For example, 
-of OS, Computer Networks, Architecture could be placed in one bucket. Similarly, another bucket may consists of
-Compiler Design, Software Engineering and PoPL. The idea is to limit the core credits to 32-35 units and ensure that 
-students may fulfil their own interest in 
-units. That leaves at least 120 credit units for integrating AI/ML concentration into B. Tech CS curriculum. Therefore,
-all the 5 streams mentioned earlier can be covered easily. 
+Now, let us understand how the AI/ML concentration can be integrated into a B. Tech CS curriculum. Before continuing further,
+let me add a disclaimer. I do not intend to propose a complete structure for the B. Tech curriculum. I will leave it to
+stakeholders and experts in AI/ML. My focus is only to emphasize that integrating AI/ML concentration into a B. Tech CS 
+syllabus is possible while retaining the core intact. It also leaves enough room for adding other specializations like
+distributed system/advanced OS, Computer Architecture, Cryptography, Cyber security, HPC, Software architecture, etc. 
+Typically, the duration of one semester is 15 weeks, consisting of roughly 450 contact hours (@ 6 hours per day, i.e., 
+30 hours a week). Therefore, each semester's credit requirement is 30 (assuming one credit unit is equivalent to 15 contact
+hours). So, a  student would log in between 150-165 credit units for a UG degree in a discipline that is equivalent to
+roughly in the neighborhood of 30-35 courses, including projects/practicals. Typically, B. Tech core in CS consists of eight 
+to nine courses. It includes 
+- Fundamentals Programming,
+- Computer Organization,
+- Data Structures, Algorithms,
+- Theory of Computation,
+-  Operating Systems,
+- Computer Networks,
+- Databases.
+
+Some schools use course bucketing to allow students to choose one or two from a bucket. For example, OS, Computer Networks,
+The database may belong to one bucket. Similarly, another bucket may include Compiler Design, Software Engineering, and PoPL. 
+The idea is to limit the core credits to 32-35 units and ensure students can fulfill their interest in them. That
+leaves at least 120 credit units for integrating AI/ML concentration into B. Tech CS curriculum. Therefore, all the five streams 
+mentioned earlier can be covered easily. 
 
 
