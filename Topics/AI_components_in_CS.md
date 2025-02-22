@@ -56,14 +56,16 @@ that ChatGPT or any GenAI tool is the best route if you need a one-time programm
 nothing very startling about the findings. Knowledge retention is understandably low unless one goes deeper into a problem.
 
 ChatGPT won't fetch a job except for submitting a home assignment, as most programming tasks require 
-regular maintenance to cater to changing customer requirements. One may wonder, "Is there a role for GenAI tools in teaching 
-beyond solving home assignments?" The tool could make the teaching suddenly more alive than it is now. For example, ChatGPT
+regular maintenance to cater to changing customer requirements. Without extensive documentation, engineers find software 
+maintenance always challenging. Reprogramming is often easier than patching software that one has not been part of
+the development team. So, in the real world, one wonders, "Is there a role for a GenAI tool in teaching beyond solving home 
+assignments?" However, the tool could make the teaching suddenly more alive than it is now. For example, ChatGPT
 may be best suited for tutoring students. The tool has created much more amplified but similar disruption in teaching
 when calculators were introduced. It eliminated the steps for manual calculations, but teaching methods evolved to address the
-disruption. Similarly, the best use of a Generative AI tool would be to learn programming skills, data structure fundamentals, clarify doubts, etc. Adapt ChatGPT as a Retrieval Augmented 
-Generation (RAG) tool for virtual teaching assistants. However, we should be aware of the downside of the suggestion. It may
-encourage cuts in university funding for teaching assistants, which could severely affect research and 
-development. 
+disruption. Similarly, the best use of a Generative AI tool would be to learn programming skills, data structure fundamentals, 
+clarify doubts, etc. Adapt ChatGPT as a Retrieval Augmented Generation (RAG) tool for virtual teaching assistants. However, we 
+should be aware of the downside of the suggestion. It may encourage cuts in university funding for teaching assistants, which 
+could severely affect research and development. 
 
 We can summarize major concentration threads in UG programs in computer science and engineering as follows:
 - Deep learning/Neural Network
@@ -72,12 +74,12 @@ We can summarize major concentration threads in UG programs in computer science 
 - Natural Language Processing/Computational Linguistic
 - Statistical Learning and Inferences/Automated Reasoning
 
-One of the most challenging courses in computer science is compiler design. NLP can enhance compiler design, particularly in source code 
-analysis, understanding the code intent, and code generation. While NLP cannot entirely replace
+One of the most challenging courses in computer science is compiler design. NLP can enhance compiler design, particularly in 
+source code analysis, understanding the code intent, and code generation. While NLP cannot entirely replace
 aspects of a traditional compiler design course, it will likely reduce the load of a compiler design course as the capabilities
 of NLP improve. Database, data mining, and graph mining are necessary for acquiring expertise in AI/ML. They help in extracting
 meaningful patterns from large datasets. Machine learning algorithms are trained to make predictions based on these patterns.
-A crucial part of Generative AI is query handling, clustering results, and finding patterns in the intermedial results to draw 
+A crucial part of Generative AI is query handling, clustering results, and finding patterns in the intermediate results to draw 
 inferences. Everything has to do with data. Therefore, learning database techniques is essential for AI/ML. Statistical learning
 is critical in computer vision, speech recognition, and bioinformatics. 
 
