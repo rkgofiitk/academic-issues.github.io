@@ -1,5 +1,15 @@
 # Transformative Impacts of AGI in CS Education (Part II)
 
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
+  
 [Blog Index](../index)
 
 Continuing from the previous post on [transformative impacts of AGI](./Software_engineering_jobs.md), I wish to explore a bit on 
