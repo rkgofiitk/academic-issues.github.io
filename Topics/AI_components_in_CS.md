@@ -82,13 +82,20 @@ A crucial part of Generative AI is query handling, clustering results and findin
 inferences. Everything has to do with data. Therefore, learning database techniques is important for AI/ML. Statistical learning
 play a critical role in computer vision, speech recognition and bioinformatics. 
 
-Now let us understand how the AI/ML concentration can be integrated to a B. Tech CS curriculum. Typically, the duration of 
+Now let us understand how the AI/ML concentration can be integrated to a B. Tech CS curriculum. Let me add a disclaimer before
+continuing further. It is not my intention to propose a full structure for B. Tech curriculu. The focus is only to emphasize 
+that we can easily integrate AI/ML concentration into a B. Tech CS syllabus while retaining the core intact. It also leaves
+enough room for adding other specialization like distributed system/advanced OS, Computer Architecture, 
+Cryptography, Cyber security, HPC, Theory of Computation, etc. Typically, the duration of 
 one semester is 15 weeks consisting of roughly 450 contact hours (@ 6 hours per day, i.e., 30 hours a week). Therefore, each
 semester's credit requirement is 30 (assuming 1 credit unit is equivalent to 15 contact hours). So, a  student is required
 to log between 150-165 credit units for a UG degree in a discipline, that is equivalent to roughly in the neighborhood of
-30-35 courses including projects/practicals. Normally, B. Tech core in CS consists of Fundamentals Programming, Computer
-Organization, Data Structures, Algorithms, OS, Networks, Databases, Principles of Programming Languages. Sometimes Compiler
-Design, or Computer Architecture or Software Engineering may be included in place of PoPL. The core accounts for 32-35 credit
+30-35 courses including projects/practicals. Normally, B. Tech core in CS consists eight to nine courses. It includes
+Fundamentals Programming, Computer Organization, Data Structures, Algorithms, ToC, OS, Networks, Databases. There are 
+some schools which use bucketing of courses and allow students to opt for one or two from the bucket. For example, 
+of OS, Computer Networks, Architecture could be placed in one bucket. Similarly, another bucket may consists of
+Compiler Design, Software Engineering and PoPL. The idea is to limit the core credits to 32-35 units and ensure that 
+students may fulfil their own interest in 
 units. That leaves at least 120 credit units for integrating AI/ML concentration into B. Tech CS curriculum. Therefore,
 all the 5 streams mentioned earlier can be covered easily. 
 
