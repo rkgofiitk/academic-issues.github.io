@@ -1,5 +1,7 @@
 # Transformative Impacts of AGI in CS Education (Part II)
 
+[Blog Index](../index)
+
 Continuing from the previous post on [transformative impacts of AGI](./Software_engineering_jobs.md), I wish to explore a bit on 
 suggested modification of the undergraduate syllabus in computer science and engineering. Many institutions are already offering UG
 program in three different specializations in computer science and engineering, 
@@ -8,7 +10,7 @@ program in three different specializations in computer science and engineering,
 - Fintech
 
 Of course, Fintech has yet to stabilize as a specialization like AI/ML or Data Science. The main focus of Fintech is to 
-train students in management and forecasting of investment banking, Finance, insurance, and stock market. A Fintech trained 
+train students in management and forecasting of investment banking, finance, insurance, and stock market. A Fintech trained 
 professional is also expected to have some fundamental knowledge of the following technology and related tools:
 - Cloud computing
 - Blockchain, smart agreements, and related algorithms
@@ -17,17 +19,17 @@ professional is also expected to have some fundamental knowledge of the followin
 - AI for detection and forecasting
   
 Apart from a general understanding of technology, Fintech specialists must advise investors in risk management, compliance with
-financial ethics and governance, cyber security, detection of fraud, and digital payment systems. IIMs and other management schools like ISB in India offer fintech courses. BIT Pilani and a few IITs like IIT Kanpur and IIT Jodhpur also offer fintech courses.
+financial ethics and governance, cyber security, detection of fraud, and digital payment systems. IIMs and other management schools like ISB in India offer Fintech courses. BIT Pilani and a few IITs like IIT Kanpur and IIT Jodhpur also offer Fintech courses.
 Older IITs like IIT Kharagpur and Kanpur have industrial management departments that typically handle management
 and finance courses. The target audience for most Fintech courses are working or experienced professionals. Therefore, Fintech courses
 are offered online or intensive offline short certification modes. Most institutions are watching to understand 
 if Fintech could emerge as a discipline with specialized requirements. 
 
-Data science specialists are trained to handle volumes of data that far exceed the capacity of any large database. The collection
+Data Science specialists are trained to handle volumes of data that far exceed the capacity of any large database. The collection
 Worldwide data is estimated at around [149 ZB in 2024](https://rivery.io/blog/big-data-statistics-how-much-data-is-there-in-the-world/).
 A zeta byte (ZB) is $10^{21}$ bytes that can fully populate 250 million DVDs. Handling Big data requires training in 
 Datamining, Statistical methods, Data visualization, Machine Learning AI techniques. Conventional techniques like indexing 
-won't work. IIT Madras offers a Masters program in Data science. IIT Delhi, IIT Guwahati, IIT Bombay, IIT Gandhinagar, IIT 
+won't work. IIT Madras offers a Masters program in Data Science. IIT Delhi, IIT Guwahati, IIT Bombay, IIT Gandhinagar, IIT 
 Kharagpur, IIT Roorkee offers different Data Science and AI/ML courses. These courses include AI/ML, Computer Vision, LLM, 
 Deep Learning, Financial Forensics, Business Analytics, and familiarization with relevant software tools like full-stack 
 Python development framework for handling and visualization of data. 
@@ -100,7 +102,7 @@ to nine courses. It includes
 Some schools use course bucketing to allow students to choose one or two from a bucket. For example, OS, Computer Networks,
 The database may belong to one bucket. Similarly, another bucket may include Compiler Design, Software Engineering, and PoPL. 
 The idea is to limit the core credits to 32-35 units and ensure students can fulfill their interest in them. That
-leaves at least 120 credit units for integrating AI/ML concentration into B. Tech CS curriculum. Therefore, all the five streams 
-mentioned earlier can be covered easily. 
+leaves at least 120 credit units for integrating AI/ML concentration into B. Tech CS curriculum. Therefore, all the five AI/ML
+topics mentioned earlier can be covered easily. 
 
-
+[Bacnk to Index](../index.md)
