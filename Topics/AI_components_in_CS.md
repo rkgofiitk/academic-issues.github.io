@@ -87,7 +87,7 @@ stakeholders and experts in AI/ML. My focus is only to emphasize that integratin
 syllabus is possible while retaining the core intact. It also leaves enough room for adding other specializations like
 distributed system/advanced OS, Computer Architecture, Cryptography, Cyber security, HPC, Software architecture, etc. 
 Typically, the duration of one semester is 15 weeks, consisting of roughly 450 contact hours (@ 6 hours per day, i.e., 
-30 hours a week). Therefore, each semester's credit requirement is 30 (assuming one credit unit is equivalent to 15 contact
+@30 hours a week). Therefore, each semester's credit requirement is 30 (assuming one credit unit is equivalent to 15 contact
 hours). So, a  student would log in between 150-165 credit units for a UG degree in a discipline that is equivalent to
 roughly in the neighborhood of 30-35 courses, including projects/practicals. Typically, B. Tech core in CS consists of eight 
 to nine courses. It includes 
