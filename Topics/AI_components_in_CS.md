@@ -52,7 +52,7 @@ member of the IT and Communication Department at JKLU, Jaipur. JKLU is a private
 was one of our students at IIT Kanpur. He also has a law degree in IPR. A RAG tool on IPR-related laws could be a game
 changer in the legal profession. However, I am unsure if Indian legal professionals will accept AI-powered tools.   
 
-The September 2024 issue of CACM carries an article by Esther Shein on "(Impacts of AI in Computer Science Education)[https://dx.doi.org/10.1145/3673428]." 
+The September 2024 issue of CACM carries an article by Esther Shein on "[Impacts of AI in Computer Science Education](https://dx.doi.org/10.1145/3673428)." 
 Shein declares, "You still need the foundation to be effective computer scientists or software engineers." The paper 
 tells about an experiment conducted by [Eric Klopfer](https://education.mit.edu/person/eric_klopfer/) with undergraduate
 students in Computer Science at MIT. He divided the class into three groups. The students did not know about FORTRAN.
