@@ -15,6 +15,7 @@ professional is also expected to have some fundamental knowledge of following te
 - Internet of things for monitoring, data gathering, and mining
 - Smart logistics and robotics
 - AI for detection and forecasting
+  
 Apart from general understanding of technology, Fintech specialists need to advise investors in risk managment, compliance of
 financial ethics and governance, cyber security, detection of frauds, and digital payment systems. Fintech courses are offered by IIMs
 and other management schools like ISB in India. BIT Pilani and a few IITs like IIT Kanpur, IIT Jodhpur also offer fintech courses.
