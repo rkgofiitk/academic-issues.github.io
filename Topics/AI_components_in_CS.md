@@ -76,8 +76,20 @@ We can summarize major concentration threads in UG programmes in computer scienc
 One of the toughest course in computer science is compiler design. NLP can enhance compiler design particularly in source code 
 analysis, understanding the code intent, and in code generation. While NLP cannot entirely replace
 aspects of traditional compiler design course, it will be possible reduce the load of compiler design course as capabilities
-of NLP improves. Database, Datamining and Graphmining are necessary for acquiring expertise AI/ML. A crucial part of Generative
-AI is query handling, clustering results and finding patterns in the intermedial results to draw inferences. Everything has
-to do with data. Therefore, learning database techniques is important for AI/ML.    
+of NLP improves. Database, data mining and graph mining are necessary for acquiring expertise AI/ML. They help in extracting
+meaningful patterns from large datasets. Machine learning algorithms are trained to make predictions based on the these patterns.
+A crucial part of Generative AI is query handling, clustering results and finding patterns in the intermedial results to draw 
+inferences. Everything has to do with data. Therefore, learning database techniques is important for AI/ML. Statistical learning
+play a critical role in computer vision, speech recognition and bioinformatics. 
+
+Now let us understand how the AI/ML concentration can be integrated to a B. Tech CS curriculum. Typically, the duration of 
+one semester is 15 weeks consisting of roughly 450 contact hours (@ 6 hours per day, i.e., 30 hours a week). Therefore, each
+semester's credit requirement is 30 (assuming 1 credit unit is equivalent to 15 contact hours). So, a  student is required
+to log between 150-165 credit units for a UG degree in a discipline, that is equivalent to roughly in the neighborhood of
+30-35 courses including projects/practicals. Normally, B. Tech core in CS consists of Fundamentals Programming, Computer
+Organization, Data Structures, Algorithms, OS, Networks, Databases, Principles of Programming Languages. Sometimes Compiler
+Design, or Computer Architecture or Software Engineering may be included in place of PoPL. The core accounts for 32-35 credit
+units. That leaves at least 120 credit units for integrating AI/ML concentration into B. Tech CS curriculum. Therefore,
+all the 5 streams mentioned earlier can be covered easily. 
 
 
