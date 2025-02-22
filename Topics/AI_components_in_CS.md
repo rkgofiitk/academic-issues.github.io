@@ -74,7 +74,7 @@ assignments?" However, the tool could make the teaching suddenly more alive than
 may be best suited for tutoring students. The tool has created much more amplified but similar disruption in teaching
 when calculators were introduced. It eliminated the steps for manual calculations, but teaching methods evolved to address the
 disruption. Similarly, the best use of a Generative AI tool would be to learn programming skills, data structure fundamentals, 
-clarify doubts, etc. Adapt ChatGPT as a Retrieval Augmented Generation (RAG) tool for virtual teaching assistants. However, we 
+clarify doubts, etc. Adapt ChatGPT as a Retrieval Augmented Generation (RAG) tool for [virtual teaching assistants](https://www.youtube.com/watch?v=IvXZCocyU_M&pp=ygUTY2hhdGdwdCBpbiB0dXRvcmluZw%3D%3D). However, we 
 should be aware of the downside of the suggestion. It may encourage cuts in university funding for teaching assistants, which 
 could severely affect research and development. 
 
