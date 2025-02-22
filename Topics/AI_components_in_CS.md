@@ -1,4 +1,4 @@
-# Transformative Impacts of AGI in CS Part II
+# Transformative Impacts of AGI in CS Education (Part II)
 
 Continuing from the previous post on [transformative impacts of AGI](./Software_engineering_jobs.md), I wish to explore a bit on 
 suggested modification of the undergraduate syllabus in computer science and engineering. Many institutions are already offering UG
