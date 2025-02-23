@@ -13,15 +13,15 @@
 [Blog Index](../index)
 
 Continuing from the previous post on [transformative impacts of AGI](./Software_engineering_jobs.md), the current post explores
-a bit on modifications of the undergraduate syllabus in computer science and engineering integrating AI-ML concentration. 
-Many institutions are offering UG program in three relatively new specializations in computer science and engineering, 
+a bit on modifications of the computer science and engineering undergraduate syllabus integrating AI-ML concentration. 
+Many institutions are offering UG programs in three relatively new specializations in computer science and engineering, 
 - AI-ML
 - Data Science
 - Fintech
 
 Of course, Fintech has yet to stabilize as a specialization like AI/ML or Data Science. The main focus of Fintech is to 
-train students in management and forecasting of investment banking, finance, insurance, and stock market. So, Fintech is 
-not really a stream of computer science and engineering. However, a Fintech trained professional is expected to have some 
+train students in management and forecasting of investment banking, finance, insurance, and stock markets. So, Fintech is 
+not a stream of computer science and engineering. However, a Fintech-trained professional is expected to have some 
 fundamental knowledge of the following technology and related tools:
 - Cloud computing
 - Blockchain, smart agreements, and related algorithms
@@ -31,10 +31,10 @@ fundamental knowledge of the following technology and related tools:
   
 Apart from a general understanding of technology, Fintech specialists must advise investors in risk management, compliance with
 financial ethics and governance, cyber security, detection of fraud, and digital payment systems. Therefore, the area has to
-upgraded with assemiliation of contemporary software tools. IIMs and other management schools like ISB in India offer Fintech 
+be upgraded to accommodate contemporary software tools. IIMs and other management schools like ISB in India offer Fintech 
 courses. BIT Pilani and a few IITs like IIT Kanpur and IIT Jodhpur also offer Fintech courses. Older IITs like IIT Kharagpur
 and Kanpur have industrial management departments that typically handle management and finance courses. The target audience
-for most Fintech courses are working or experienced professionals. Therefore, Fintech courses are offered either in online 
+for most Fintech courses are working or experienced professionals. Therefore, Fintech courses are offered online 
 or intensive offline short certification modes. Most institutions are watching to understand if Fintech could emerge as a
 discipline with specialized requirements. 
 
@@ -45,8 +45,8 @@ Datamining, Statistical methods, Data visualization, Machine Learning AI techniq
 won't work. IIT Madras offers a Masters program in Data Science. IIT Delhi, IIT Guwahati, IIT Bombay, IIT Gandhinagar, IIT 
 Kharagpur, IIT Roorkee offers different Data Science and AI/ML courses. These courses include AI/ML, Computer Vision, LLM, 
 Deep Learning, Financial Forensics, Business Analytics, and familiarization with relevant software tools like full-stack 
-Python development framework for extraction, summarization and visualization of data. Therefore, Data Science has become an
-integrated accessory to development of digital products for Fintech companies.
+Python development framework for extraction, summarization, and visualization of data. Therefore, Data Science has become an
+integrated accessory for Fintech companies' development of digital products.
 
 All top institutions in India have already started offering AI/ML courses. IIT Madras, IIT Kharagpur and IIT Guwahati are offering 
 Bachelor's degree program in AI/ML. IIT Kanpur offers an M.Tech program in AI/M, while IIT Bombay offers a CS minor in AI/ML 
@@ -54,7 +54,7 @@ at the UG level. Most IITs offer AI/ML specialization in computer science and en
 [personal YouTube channel](https://www.youtube.com/user/vkshitiz) for his class lectures in AI and LLM. Dr. Verma is a faculty 
 member of the IT and Communication Department at JKLU, Jaipur. JKLU is a private university funded and run by the JK group. Dr Verma
 was one of our students at IIT Kanpur. He also has a law degree in IPR. A RAG tool on IPR-related laws could be a game
-changer in the legal profession. However, I am unsure if India courts ready yet to accept assistance of AI-powered tools 
+changer in the legal profession. However, I am unsure if Indian courts are ready yet to accept the assistance of AI-powered tools 
 in resolving legal disputes.   
 
 The September 2024 issue of CACM carries an article by Esther Shein on "[Impacts of AI in Computer Science Education](https://dx.doi.org/10.1145/3673428)." 
@@ -119,7 +119,7 @@ to nine courses. It includes
 Some schools use course bucketing to allow students to choose one or two from a bucket. For example, OS, Computer Networks,
 The database may belong to one bucket. Similarly, another bucket may include Compiler Design, Software Engineering, and PoPL. 
 The idea is to limit the core credits to 32-35 units and ensure students can fulfill their interest in them. That
-leaves at least 120 credit units for integrating AI/ML concentration into B. Tech CS curriculum. Therefore, all the five AI/ML
-topics mentioned earlier can be covered easily. 
+leaves at least 120 credit units for integrating AI/ML concentration into B. Tech CS curriculum. Therefore, the five AI/ML
+topics mentioned can be easily covered. 
 
 [Bacnk to Index](../index.md)
