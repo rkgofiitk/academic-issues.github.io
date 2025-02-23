@@ -12,16 +12,17 @@
   
 [Blog Index](../index)
 
-Continuing from the previous post on [transformative impacts of AGI](./Software_engineering_jobs.md), I wish to explore a bit on 
-suggested modification of the undergraduate syllabus in computer science and engineering. Many institutions are already offering UG
-program in three different specializations in computer science and engineering, 
-- AI/ML
+Continuing from the previous post on [transformative impacts of AGI](./Software_engineering_jobs.md), the current post explores
+a bit on modifications of the undergraduate syllabus in computer science and engineering integrating AI-ML concentration. 
+Many institutions are offering UG program in three relatively new specializations in computer science and engineering, 
+- AI-ML
 - Data Science
 - Fintech
 
 Of course, Fintech has yet to stabilize as a specialization like AI/ML or Data Science. The main focus of Fintech is to 
-train students in management and forecasting of investment banking, finance, insurance, and stock market. A Fintech trained 
-professional is also expected to have some fundamental knowledge of the following technology and related tools:
+train students in management and forecasting of investment banking, finance, insurance, and stock market. So, Fintech is 
+not really a stream of computer science and engineering. However, a Fintech trained professional is expected to have some 
+fundamental knowledge of the following technology and related tools:
 - Cloud computing
 - Blockchain, smart agreements, and related algorithms
 - Internet of Things for monitoring, data gathering, and mining
@@ -29,11 +30,13 @@ professional is also expected to have some fundamental knowledge of the followin
 - AI for detection and forecasting
   
 Apart from a general understanding of technology, Fintech specialists must advise investors in risk management, compliance with
-financial ethics and governance, cyber security, detection of fraud, and digital payment systems. IIMs and other management schools like ISB in India offer Fintech courses. BIT Pilani and a few IITs like IIT Kanpur and IIT Jodhpur also offer Fintech courses.
-Older IITs like IIT Kharagpur and Kanpur have industrial management departments that typically handle management
-and finance courses. The target audience for most Fintech courses are working or experienced professionals. Therefore, Fintech courses
-are offered online or intensive offline short certification modes. Most institutions are watching to understand 
-if Fintech could emerge as a discipline with specialized requirements. 
+financial ethics and governance, cyber security, detection of fraud, and digital payment systems. Therefore, the area has to
+upgraded with assemiliation of contemporary software tools. IIMs and other management schools like ISB in India offer Fintech 
+courses. BIT Pilani and a few IITs like IIT Kanpur and IIT Jodhpur also offer Fintech courses. Older IITs like IIT Kharagpur
+and Kanpur have industrial management departments that typically handle management and finance courses. The target audience
+for most Fintech courses are working or experienced professionals. Therefore, Fintech courses are offered either in online 
+or intensive offline short certification modes. Most institutions are watching to understand if Fintech could emerge as a
+discipline with specialized requirements. 
 
 Data Science specialists are trained to handle volumes of data that far exceed the capacity of any large database. The collection
 Worldwide data is estimated at around [149 ZB in 2024](https://rivery.io/blog/big-data-statistics-how-much-data-is-there-in-the-world/).
@@ -42,7 +45,8 @@ Datamining, Statistical methods, Data visualization, Machine Learning AI techniq
 won't work. IIT Madras offers a Masters program in Data Science. IIT Delhi, IIT Guwahati, IIT Bombay, IIT Gandhinagar, IIT 
 Kharagpur, IIT Roorkee offers different Data Science and AI/ML courses. These courses include AI/ML, Computer Vision, LLM, 
 Deep Learning, Financial Forensics, Business Analytics, and familiarization with relevant software tools like full-stack 
-Python development framework for handling and visualization of data. 
+Python development framework for extraction, summarization and visualization of data. Therefore, Data Science has become an
+integrated accessory to development of digital products for Fintech companies.
 
 All top institutions in India have already started offering AI/ML courses. IIT Madras, IIT Kharagpur and IIT Guwahati are offering 
 Bachelor's degree program in AI/ML. IIT Kanpur offers an M.Tech program in AI/M, while IIT Bombay offers a CS minor in AI/ML 
