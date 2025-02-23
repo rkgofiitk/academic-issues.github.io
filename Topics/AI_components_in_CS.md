@@ -53,9 +53,10 @@ Bachelor's degree program in AI/ML. IIT Kanpur offers an M.Tech program in AI/M,
 at the UG level. Most IITs offer AI/ML specialization in computer science and engineering. B. Techs. Dr. Kshitiz Verma runs a
 [personal YouTube channel](https://www.youtube.com/user/vkshitiz) for his class lectures in AI and LLM. Dr. Verma is a faculty 
 member of the IT and Communication Department at JKLU, Jaipur. JKLU is a private university funded and run by the JK group. Dr Verma
-was one of our students at IIT Kanpur. He also has a law degree in IPR. A RAG tool on IPR-related laws could be a game
-changer in the legal profession. However, I am unsure if Indian courts are ready yet to accept the assistance of AI-powered tools 
-in resolving legal disputes.   
+was one of our former students at IIT Kanpur. He also has a law degree in IPR, a rare combination. A RAG tool on IPR-related 
+laws could be a game changer in the legal profession. Though AI is being used increasingly in [legal research and secretarial
+management](https://indiaai.gov.in/article/from-backlogs-to-breakthroughs-the-integration-of-ai-in-india-s-judiciary), I am
+unsure if Indian courts are ready yet to accept the assistance of AI-powered tools in resolving legal disputes.   
 
 The September 2024 issue of CACM carries an article by Esther Shein on "[Impacts of AI in Computer Science Education](https://dx.doi.org/10.1145/3673428)." 
 Shein declares, "You still need the foundation to be effective computer scientists or software engineers." The paper 
