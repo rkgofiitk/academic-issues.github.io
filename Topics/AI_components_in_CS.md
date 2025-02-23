@@ -31,11 +31,11 @@ fundamental knowledge of the following technology and related tools:
   
 Apart from a general understanding of technology, Fintech specialists must advise investors in risk management, compliance with
 financial ethics and governance, cyber security, detection of fraud, and digital payment systems. Therefore, the area has to
-be upgraded to accommodate contemporary software tools. IIMs and other management schools like ISB in India offer Fintech 
+be upgraded to accommodate contemporary software tools. In India, IIMs and other management schools like ISB offer Fintech 
 courses. BIT Pilani and a few IITs like IIT Kanpur and IIT Jodhpur also offer Fintech courses. Older IITs like IIT Kharagpur
-and Kanpur have industrial management departments that typically handle management and finance courses. The target audience
+and Kanpur have industrial management departments that typically run management and finance courses. The target audience
 for most Fintech courses are working or experienced professionals. Therefore, Fintech courses are offered online 
-or intensive offline short certification modes. Most institutions are watching to understand if Fintech could emerge as a
+or intensive offline short certification mode. Most institutions are watching to understand if Fintech could emerge as a
 discipline with specialized requirements. 
 
 Data Science specialists are trained to handle volumes of data that far exceed the capacity of any large database. The collection
@@ -46,7 +46,7 @@ won't work. IIT Madras offers a Masters program in Data Science. IIT Delhi, IIT 
 Kharagpur, IIT Roorkee offers different Data Science and AI/ML courses. These courses include AI/ML, Computer Vision, LLM, 
 Deep Learning, Financial Forensics, Business Analytics, and familiarization with relevant software tools like full-stack 
 Python development framework for extraction, summarization, and visualization of data. Therefore, Data Science has become an
-integrated accessory for Fintech companies' development of digital products.
+integrated accessory for Fintech companies for development of digital products.
 
 All top institutions in India have already started offering AI/ML courses. IIT Madras, IIT Kharagpur and IIT Guwahati are offering 
 Bachelor's degree program in AI/ML. IIT Kanpur offers an M.Tech program in AI/M, while IIT Bombay offers a CS minor in AI/ML 
