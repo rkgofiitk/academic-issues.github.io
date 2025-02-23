@@ -10,6 +10,7 @@ Information flow is a major contributor to mass-based upheavals in the governanc
 is crucial for any system of governance. From time to time, the government comes up with an intervention to correct the educators and 
 support those in power. Therefore, it is essential to analyze the implications of specific policies from a neutral viewpoint.
 
+- [Transformative Impacts of AGI in CS Education (Part II)](Topics/AI_components_in_CS.md)
 - [Suicides in Private Educational Institutions](Topics/Suicide_at_KIIT.md)
 - [Transformative Impacts of AGI on Software Engineer's Jobs](Topics/Software_engineering_jobs.md)
 - [Sankhyar Gulpo (The Story of Numbers)](Topics/Book_review.md)
