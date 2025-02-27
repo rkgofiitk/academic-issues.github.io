@@ -26,14 +26,14 @@ that India should not invest on foundational AI research. Manish thinks foundati
 many out-of-the-box ideas to formulate use cases. He cites Aadhar as an example to prove the point that Nelikani himself created bases for
 Aadhar rather than creating any associated tool as a test case. I gathered the following information about the contribution of
 Manish Gupta's team in AI research from [Perplexity chatbot](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research).
-- [Matryoshka representation learning inspired by Russian nesting dolls](https://doi.org/10.48550/arXiv.2205.13147)
+- Matryoshka representation learning inspired by Russian nesting dolls
 - In making AI more affordable and accessible to rural masses in India
 - Working for developing multimodal AI representation models over 100 indic languages,
 - Working with AI startups to leverage insight from Google Deepmind
 - Want researchers to develop breakthrough methods for advancing fusion energy leveraging AI
 - Piloting IndicGenBench and supporting researchers as a leader
    
-Manish Gupta is not one of the authors of either Matryoksha or [IndicGenBench](https://arxiv.org/pdf/2404.16816) paper. 
+Manish Gupta is not one of the authors of either [Matryoksha](https://doi.org/10.48550/arXiv.2205.13147) or [IndicGenBench](https://arxiv.org/pdf/2404.16816) paper. 
 The first paper's authors are drawn from Harvard University, Google Research, and the University of Washington. Four of them are from 
 Google Research, who may belong to Manish Gupta's team. The authors of the second paper are from Google India Research. I am stating the 
 facts I found different from the Perplexity search engine. The research inspired by the Russian Nesting Doll is an overstatement. The 
