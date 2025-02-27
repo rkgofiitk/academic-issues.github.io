@@ -2,20 +2,22 @@
 
 Earlier, late last year, Nandan Nelikani said that [Indian IT companies should not invest time and money in building LLM tools like ChatGPT
 or Deep Seek](https://timesofindia.indiatimes.com/business/india-business/india-shouldnt-build-another-llm-nandan-nilekani/articleshow/116269605.cms).
-Building a foundational model like ChatGPT is prohibitively expensive, requiring upwards of 500 million USD. Nilekani argued if 
-Indian Companies have 500 million USD to invest; they should instead use it for building computing infrastructure and AI cloud.
-These are material for AI growth engines. The real challenge lies in making the tool scalable 
-and affordable. With the release of Deep Seek and the cost of building AI tools falling, [Nelikani revised his stand in 
-February 2025](https://economictimes.indiatimes.com/news/new-updates/why-infosys-co-founder-nandan-nilekani-feels-india-dont-need-a-china-type-deepseek-ai/articleshow/118528515.cms?from=mdr). 
-Both Nilekani and Narayanmurthy Infosys co-founders agree that Indian tech companies have the expertise to build a foundational
-LLM tools like ChatGPT as the cost has come down. However, going through a realistic estimate, it does not add up to back
-Deep Seek's official story is that its development cost is just 5.6 million USD. The amount, in all fairness, represents only
-training costs. In 2019, Deep Seek founders spent 27.8 million USD to buy 1100 GPUs; they invested approximately 138 million 
-USD in 2021 for developing their supercomputer cluster named Fire-Fly-2. So, the estimated infrastructure support cost alone 
-could be more than 200 million USD. That may imply a total estimated cost anywhere in the range of 500 million to 1 billion USD. Usually,
-the cost of research, human resources, maintenance, electricity, cooling system, and extensive experiments for building such a 
-product are many times more than pure infrastructure cost. Both the captains of IT industries in India may want to 
-review their stance more cautiously than over-enthusiastically. 
+Building a foundational model like ChatGPT is prohibitively expensive. Nilekani argued if Indian Companies have 50 billion USD to 
+invest; they should instead use it to build computing infrastructure and an AI cloud.
+These are resources for AI growth engines. The real challenge lies in making a tool scalable and affordable. With the release of
+Deep Seek and the cost of building AI tools falling, Nelikani revised his stand a bit in 
+[February 2025](https://economictimes.indiatimes.com/news/new-updates/why-infosys-co-founder-nandan-nilekani-feels-india-dont-need-a-china-type-deepseek-ai/articleshow/118528515.cms?from=mdr). 
+"Foundation models like the ones that OpenAI and Meta are building often cost billions of dollars because they are being trained
+on a vast amount of data requiring costly infrastructure." Both Nilekani and Narayan Murthy, Infosys co-founders, agree that Indian
+tech companies have the expertise to build a foundational LLM tools like ChatGPT as the cost has come down. 
+
+Going through a realistic estimate, it does not add up to back Deep Seek's official story is that its development cost is just 5.6 
+million USD. The amount, in all fairness, represents only training costs. In 2019, Deep Seek founders spent 27.8 million USD to buy
+1100 GPUs; they invested approximately 138 million USD in 2021 to develop their supercomputer cluster named Fire-Fly-2. So, the 
+estimated infrastructure support cost alone could be more than 200 million USD. That may imply an estimated cost of anywhere from 500 
+million to 1 billion USD. Usually, the cost of research, human resources, maintenance, electricity, cooling system,
+and extensive experiments for building such a product are many times more than pure infrastructure cost. So, Nilekani revised his
+stance nuancedly to accept that efforts to construct a foundational AI model may go hand-in-hand with use case AI application tools. 
 
 [Manish Gupta, the head of Google research group in India](https://economictimes.indiatimes.com/tech/technology/google-research-india-head-disagrees-with-nandan-nilekani-says-india-must-build-llms/articleshow/115627015.cms) has been critical of Nandal Nelikani's view 
 that India should not invest on foundational AI research. Manish thinks foundational research is more critical, generating
@@ -45,8 +47,7 @@ in discussing Manish's background in the blog comes from having the experience a
 contrary to Nilekani's. 
 
 I think the Indian Government AI Initiative aims to create an AI ecosystem. It is up to individual research groups and startups to 
-use the infrastructure as they wish. In other words, the government's approach is more in line with the "Sky is the limit"  for the 
-pursuit of ideas in the development of AGI tools and foundational research in LLM. Let me discuss what was behind Nilekan's original 
+use the infrastructure as they wish. In other words, the government's approach is more in line with the "Sky is the limit"  for pursuing ideas in developing AGI tools and foundational research in LLM. Let me discuss what was behind Nilekan's original 
 opinion against pursuing Foundational Research on AI or Generative AI tools.
 
 Many commentators have painted bleak scenarios about job losses due to the increasing use of AI-enabled tools. We have not yet seen 
@@ -57,8 +58,7 @@ Working from home and relying on contract-based jobs reduced costs for companies
 home is acceptable. It allowed many employees to moonshine and engage in simultaneous jobs on contract for competing enterprises. At 
 the individual level, managers and team leaders found that the employees ran into time management issues that affected productivity. 
 Only the service industry grew during COVID-19, while the manufacturing sector suffered heavy losses. Government efforts to keep the 
-economy afloat through extensive use of telecommunication and digital infrastructure led to the invasion of even bedrooms and restrooms of 
-employees, creating an added schism in conflict in employee-employer relationship. Companies saw the opportunities in downsizing the 
+economy afloat through extensive telecommunication and digital infrastructure led to the invasion of even employees' bedrooms and restrooms, creating an added schism in conflict in the employee-employer relationship. Companies saw the opportunities in downsizing the 
 workforce, eliminating deadwood, and preventing employees from moonshining. On the other hand, the employees were upset due to the 
 employers' rampant unchecked invasion of personal space. With the introduction of AGI tools, we are about to witness another level of 
 downsizing in the workforce and an increase in productivity.
@@ -70,5 +70,5 @@ efforts are directed to accept the reality and work towards a win-win scenario. 
 average happiness quotient for better economic growth. Let us analyze whether the strategy is well thought out or an attempt
 to protect the stranglehold of Artificial General Intelligence (AGI) restricted only to a few big Tech companies. Incidentally,
 Google Research Director Manish Gupta also concurs with Nelikani that Indian IT companies should invest in
-building their AI tools.Nilekani's opinion has changed a bit from his original stance. Realizing that the government of India is 
+building their AI tools. Nilekani's opinion has changed a bit from his original stance. Realizing that the government of India is 
 seriously taking responsibility for creating computing infrastructure might have forced him to nuance his opinion. 
