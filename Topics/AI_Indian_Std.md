@@ -38,10 +38,11 @@ Learning paper uses the Nesting Russian Dolls as a metaphor to explain the model
 degree of granularity. It is a generic paradigm of gradual refinement of granularity of information and independent of Russian 
 Nesting Dolls. On the basis of Manish Gupta's contributions and his position as a Senior Research Director in Google Deepmind project
 in India, I think his opinion carries waight and has to be taken seriously. I concur with Manish that any foundational research
-trains student with capabilities to independently evelove usecases without the limits of example based framework. No doubt 
-Nilekani and Narayanmurthy as successful IT founders have established themselves as key voices in the area. In comparison Manish
-is not only younger but has not ventured as an independent enterpreneaur. So, the intent in discussing Manishes background in the blog 
-comes from the fact that he has exeperience and knowledge to proffer an opinion contrary to Nilekani. 
+trains student with capabilities to independently evelove usecases without the limits of example based framework. No doubt both
+Nilekani and Narayanmurthy as successful founders of IT business in India have established themselves as key voices among policy
+makers in the area. In comparison Manish is not only younger but has not ventured as an independent enterpreneaur. So, the intent
+in discussing Manishes background in the blog comes from the fact that he has exeperience and knowledge to proffer an opinion 
+contrary to Nilekani. 
 
 I think Indian Government AI Initiative aims to create an AI-echosystem. It is upto individual research groups, and startups to 
 use the infrastructure as they wish. In other words, the government has set "Sky is limit" model in pursuits of ideas in developing
