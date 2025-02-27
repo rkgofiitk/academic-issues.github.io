@@ -6,7 +6,7 @@ Building a foundational model like ChatGPT is prohibitively expesive requiring u
 Indian Companies have 500 million USD to invest, they should rather use it for building computing infrastructure, and AI cloud.
 These are material for AI growth engines. The real challenge lies in making the tool scalable 
 and affordable. With release of Deep Seek and the cost of builiding AI tools falling, [Nelikani revised his stand in 
-February 2025 in a conversion with Nalin Mehta](https://www.financialexpress.com/life/technology/llms-are-now-commodities-nilekani/3756745/](https://economictimes.indiatimes.com/news/new-updates/why-infosys-co-founder-nandan-nilekani-feels-india-dont-need-a-china-type-deepseek-ai/articleshow/118528515.cms?from=mdr). 
+February 2025](https://economictimes.indiatimes.com/news/new-updates/why-infosys-co-founder-nandan-nilekani-feels-india-dont-need-a-china-type-deepseek-ai/articleshow/118528515.cms?from=mdr). 
 Both Nilekani and Narayanmurthy Infosys co-founders agree that Indian tech companies have expertise to build a foundational
 LLM tool like ChatGPT as the cost has come down. However, going through a realistic estimate, it does not add up to  basck
 the Deep Seek's official story that its development cost is just 5.6 million USD. The amount in all fairness represents only
