@@ -1,4 +1,4 @@
-# Role of Indian IT Companies in the Development of AGI Tools
+# Are Indian IT Companies Ready to Develop Foundational AGI Tools?
 
 Earlier, late last year, Nandan Nelikani said that [Indian IT companies should not invest time and money in building LLM tools like ChatGPT
 or Deep Seek](https://timesofindia.indiatimes.com/business/india-business/india-shouldnt-build-another-llm-nandan-nilekani/articleshow/116269605.cms).
