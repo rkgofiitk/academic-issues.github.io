@@ -21,7 +21,7 @@ review their stance more cautiously than over-enthusiastically.
 that India should not invest on foundational AI research. Manish thinks foundational research is more important, as it generates
 host of ideas to formulate use cases. He cites Aadhar as an example to proof the point that Nelikani himself created bases for
 Aadhar rather than creating any associated tool as a test case. I gathered the following information about contribution of
-[Manish Gupta's team in AI research from Perplexity chatbot](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research).
+Manish Gupta's team in AI research from [Perplexity chatbot](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research).
 - [Matryoshka representation learning inspired by Russian nesting dolls](https://doi.org/10.48550/arXiv.2205.13147)
 - In making AI more affordable accessible to rural mass in India
 - Working for developing multimodal AI representation models over 100 indic languages,
