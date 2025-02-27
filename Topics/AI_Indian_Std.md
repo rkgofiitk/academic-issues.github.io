@@ -79,6 +79,6 @@ average happiness quotient for better economic growth. Let us analyze whether th
 to protect the stranglehold of Artificial General Intelligence (AGI) restricted only to a few big Tech companies. Incidentally,
 Google Research Director Manish Gupta also concurs with Nelikani that Indian IT companies should invest in
 building their AI tools. Nilekani's opinion has changed a bit from his original stance. Realizing that the government of India is 
-seriously taking responsibility for creating computing infrastructure might have forced him to nuance his opinion. 
+seriously taking responsibility for creating computing infrastructure might have forced Nandan Nilekani to nuance his opinion. 
 
 [Back to Index](../index.md)
