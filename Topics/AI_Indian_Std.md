@@ -47,18 +47,22 @@ in discussing Manish's background in the blog comes from having the experience a
 contrary to Nilekani's. 
 
 I think the Indian Government AI Initiative aims to create an AI ecosystem. It is up to individual research groups and startups to 
-use the infrastructure as they wish. In other words, the government's approach is more in line with the "Sky is the limit"  for pursuing ideas in developing AGI tools and foundational research in LLM. Let me discuss what was behind Nilekan's original 
-opinion against pursuing Foundational Research on AI or Generative AI tools.
+use the infrastructure as they wish. In other words, the government's approach is more in line with the "Sky is the limit"  for pursuing 
+ideas in developing AGI tools and foundational research in LLM. 
 
+Let me discuss the reasoning behind Nilekan's original opinion against pursuing Foundational Research on AI or Generative AI tools.
 Many commentators have painted bleak scenarios about job losses due to the increasing use of AI-enabled tools. We have not yet seen 
 much of its impact in the Indian context. Until now, AI's impacts have been restricted to secretarial assistance, education, healthcare,
-and investment marketing, which involves human hand-holding. The assistance of AI tools has improved the capabilities of the average
-human worker. The Indian government has been spending heavily on digital infrastructure since 2020 after the Covid-19 outbreak. 
-Working from home and relying on contract-based jobs reduced costs for companies. However, many companies do not think working from 
-home is acceptable. It allowed many employees to moonshine and engage in simultaneous jobs on contract for competing enterprises. At 
-the individual level, managers and team leaders found that the employees ran into time management issues that affected productivity. 
+and investment banking, stock predictions or tasks that involve human hand-holding at the end of the chain. The assistance of AI tools
+has enhanced the capabilities of the average human worker. The Indian government started spending heavily on digital infrastructure 
+since 2020 after the Covid-19 outbreak. Working from home and relying on contract-based jobs reduced costs for companies. However, 
+many companies do not think working from home is acceptable. It allowed many employees to moonshine and engage in simultaneous jobs 
+on contract for competing enterprises. At the individual level, managers and team leaders found that the employees ran into time 
+management issues that affected productivity. 
+
 Only the service industry grew during COVID-19, while the manufacturing sector suffered heavy losses. Government efforts to keep the 
-economy afloat through extensive telecommunication and digital infrastructure led to the invasion of even employees' bedrooms and restrooms, creating an added schism in conflict in the employee-employer relationship. Companies saw the opportunities in downsizing the 
+economy afloat through extensive telecommunication and digital infrastructure led to the invasion of even employees' bedrooms and 
+restrooms, creating an added schism in conflict in the employee-employer relationship. Companies saw the opportunities in downsizing the 
 workforce, eliminating deadwood, and preventing employees from moonshining. On the other hand, the employees were upset due to the 
 employers' rampant unchecked invasion of personal space. With the introduction of AGI tools, we are about to witness another level of 
 downsizing in the workforce and an increase in productivity.
