@@ -2,7 +2,7 @@
 
 Earlier, late last year Nandan Nelikani said that [Indian IT companies should not invest time and money on building LLM tools like ChatGPT
 or Deep Seek](https://timesofindia.indiatimes.com/business/india-business/india-shouldnt-build-another-llm-nandan-nilekani/articleshow/116269605.cms).
-Building a foundational model like ChatGPT is prohibitively expesive requiring upwards 50 million USD. Nilekani argued if 
+Building a foundational model like ChatGPT is prohibitively expesive requiring upwards 500 million USD. Nilekani argued if 
 Indian Companies have 500 million USD to invest, they should rather use it for building computing infrastructure, and AI cloud.
 These are material for AI growth engines. The real challenge lies in making the tool scalable 
 and affordable. With release of Deep Seek and the cost of builiding AI tools falling, [Nelikani revised his stand in 
