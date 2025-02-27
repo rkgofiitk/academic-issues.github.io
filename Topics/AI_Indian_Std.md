@@ -1,4 +1,4 @@
-# Propsect of Foundational AGI Tools from India
+# Foundational AGI Tools from India: ## Reality vs Myth
 
 Earlier, late last year, Nandan Nelikani said that [Indian IT companies should not invest time and money in building LLM tools like ChatGPT
 or Deep Seek](https://timesofindia.indiatimes.com/business/india-business/india-shouldnt-build-another-llm-nandan-nilekani/articleshow/116269605.cms).
