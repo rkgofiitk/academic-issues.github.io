@@ -70,5 +70,5 @@ efforts are directed to accept the reality and work towards a win-win scenario. 
 average happiness quotient for better economic growth. Let us analyze whether the strategy is well thought out or an attempt
 to protect the stranglehold of Artificial General Intelligence (AGI) restricted only to a few big Tech companies. Incidentally,
 Google Research Director Manish Gupta also concurs with Nelikani that Indian IT companies should invest in
-building their AI tools.Nilekani's opinion has changed a bit from his original stance. I think he may have nuanced his 
-opinion, realizing that the government of India seriously taking the responsibilities of creating computing infrastructure, 
+building their AI tools.Nilekani's opinion has changed a bit from his original stance. Realizing that the government of India is 
+seriously taking responsibility for creating computing infrastructure might have forced him to nuance his opinion. 
