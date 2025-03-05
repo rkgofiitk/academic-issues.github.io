@@ -43,21 +43,20 @@ information about the contribution of Manish Gupta's team in AI research from [P
 - Want researchers to develop breakthrough methods for advancing fusion energy leveraging AI
 - Piloting IndicGenBench and supporting researchers as a leader
    
-My intention in using an AI search engine was to understand its flexibilities and limitations.  Manish Gupta's credentials as a senior Google 
-India Research Director are well-known. He supported many research initiatives in Google India, though he is not one of the authors 
-of either of the papers [Matryoksha](https://doi.org/10.48550/arXiv.2205.13147) or [IndicGenBench](https://arxiv.org/pdf/2404.16816). 
-The first paper's authors are drawn from Harvard University, Google Research, 
-and the University of Washington. Four are from Google Research and belong to Manish Gupta's team. The authors of the 
-second paper are from Google India Research. The perplexity search engine says that the Russian Nesting Doll inspired the Matryoksha 
-Representation. The paper uses the Nesting Russian Dolls only as a metaphor to explain the model. Nesting 
-is a technique to represent varying degrees of granularity. It is a generic paradigm of gradual refinement of information 
-granularity. Manish  Gupta's opinion carries a lot of weight, considering his indirect contributions as a Senior Research Director of 
-the Google Deepmind project in India. I concur with Manish that any foundational research
-trains students with the capabilities to develop cases without the limits of an example-based framework independently. No doubt, both 
-Nilekani and Narayanmurthy, as successful founders of IT businesses in India, have established themselves as key voices
-in shaping IT research in the country. In comparison, Manish is younger and has not sweated as an independent entrepreneur. 
-Therefore, the intent in discussing Manish's background in the blog comes from having the experience and knowledge to proffer 
-an opinion contrary to Nilekani's. 
+My intention in using an AI search engine was to understand its flexibilities and limitations.  Manish Gupta's credentials as a 
+senior Google India Research Director are well-known. He supported many research initiatives in Google India, though he is not one
+of the authors of either of the papers [Matryoksha](https://doi.org/10.48550/arXiv.2205.13147) or [IndicGenBench](https://arxiv.org/pdf/2404.16816). 
+However, most authors are from  Google Research and belong to Manish Gupta's team. Incidentally, the perplexity search engine says 
+that the Russian Nesting Doll inspired the Matryoksha Representation. The paper uses the Nesting Russian Dolls only as a metaphor 
+to explain the model. Nesting is a technique to represent varying degrees of granularity. It is a generic paradigm of gradual 
+refinement of information granularity. 
+
+Manish  Gupta's opinion carries a lot of weight, considering his indirect contributions as a Senior Research Director of 
+the Google Deepmind project in India. I concur with Manish that any foundational research trains students with the capabilities
+to develop cases without the limits of an example-based framework independently. No doubt, both Nandan Nilekani and Narayanmurthy,
+as successful founders of IT businesses in India, have established themselves as key voices in shaping IT research in the country.
+In comparison, Manish is younger and has not sweated as an independent entrepreneur. Therefore, the intent in discussing Manish's 
+background in the blog comes from having the experience and knowledge to proffer an opinion contrary to Nilekani's. 
 
 I think the Indian Government AI Initiative aims to create an AI ecosystem. It is up to individual research groups and startups to 
 use the infrastructure as they wish. In other words, the government's approach aligns more with the "Sky is the limit"  for 
