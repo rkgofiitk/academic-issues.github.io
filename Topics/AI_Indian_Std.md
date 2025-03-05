@@ -1,4 +1,4 @@
-# Any Indian Competitor for Deep Seek?
+# Any Indian Competitor of Deep Seek?
 
 ##  Myth vs Reality
 
