@@ -1,4 +1,4 @@
-# Foundational AGI Tools from India: 
+# A Deep Seek Competitor from India: 
 
 ##  Myth vs Reality
 
