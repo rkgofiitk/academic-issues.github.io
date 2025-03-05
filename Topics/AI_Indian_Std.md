@@ -76,21 +76,20 @@ restrooms, creating a fresh schism in conflict in the employee-employer relation
 the workforce, eliminating deadwood, and ploys to prevent employees from moonshining. On the other hand, the employees were upset 
 due to rampant unchecked invasion of personal space by supervisors or team leaders. With the introduction of AGI tools, we are 
 about to witness another level of downsizing in the workforce and an increase in productivity. Probably the idea behind Nilekani's 
-opinion on concentrating research on AGI tools is to reduce system-inefficiency in India. However, I believe it is a misplaced 
-idea. The employers will leverage AGI applications for eliminating workforce from different sectors and lead to large-scale 
-unemployment. The competence level is not limited human capabilities but to the inherent laziness in human characteristics. In a 
-sense Nilekani's opinion reflects the opinion of [Raghuram Rajan who wanted India to only focus in service sector](https://uwm.edu/business/reimagining-development-possible-lessons-from-india/).
-
+opinion on concentrating research on AGI tools is to reduce system-inefficiency in India. Manish Gupta also concurs with Nelikani
+that Indian IT companies should invest in building their AI tools. However, I believe it is a misplaced idea. The employers 
+will leverage AGI applications for eliminating workforce from different sectors and lead to large-scale unemployment.  The 
+competence level is not limited human capabilities but to the inherent laziness in human characteristics. In a sense Nilekani's
+opinion reflects the opinion of Raghuram Rajan who wanted India to only focus in [service sector](https://uwm.edu/business/reimagining-development-possible-lessons-from-india/).
 
 Nelikani believes that the government is well aware of this fact and is trying to guide AI research and development in 
 retrieval augmented generation (RAG), which combines the strength of LLM with context-sensitive, precise knowledge. It will help
-struggling employees meet the job requirements and, at the same time, make the employers happy with the workforce. The government's 
-efforts are to accept the reality and work towards a win-win scenario. The focus of a good governance will be to raise the 
-average happiness quotient for better economic growth. So, a government should act as an enabler rather than an enforcer.
- strategy is well thought out or an attempt
-to protect the stranglehold of Artificial General Intelligence (AGI) restricted only to a few big Tech companies. Incidentally,
-Google Research Director Manish Gupta also concurs with Nelikani that Indian IT companies should invest in
-building their AI tools. Nilekani's opinion has changed a bit from his original stance. Realizing that the government of India is 
-seriously taking responsibility for creating computing infrastructure might have forced Nandan Nilekani to nuance his opinion. 
+struggling employees meet the job requirements and, at the same time, make the employers happy with the workforce. So, AGI
+is seen as tool to raise service efficiency. The government, however, understood its role as an enabler or facilitator. 
+It has decided to spend 10k crorers on establishing AI infrastructure. The focus of a good governance will be to raise the 
+average happiness quotient for better economic growth. However, knowing how the access to any well-intentioned government 
+facility works, I can foresee that bureaucracy will dictate a policy to access the facility that may eventually protect the
+stranglehold of a few big Tech companies. Therefore, it is essential for independent research groups to keep 
+research on foundational AI models. 
 
 [Back to Index](../index.md)
