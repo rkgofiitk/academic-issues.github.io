@@ -4,7 +4,7 @@
 
 [Blog Index](../index.md)
 
-Earlier, late last year, Nandan Nelikani said that [Indian IT companies should not invest time and money in building generic
+Earlier, late last year, Nandan Nelikani said that Indian IT companies should not invest time and money in [building generic
 LLM tools like ChatGPT or Deep Seek](https://timesofindia.indiatimes.com/business/india-business/india-shouldnt-build-another-llm-nandan-nilekani/articleshow/116269605.cms).
 Nilekani argued that building a foundational model like ChatGPT is prohibitively expensive. If Indian Companies have 50 billion
 USD to invest; they should instead use it to build computing infrastructure and an AI cloud. The computing infrastructure and tools
@@ -31,7 +31,7 @@ and extensive experiments, which would be many times more than the infrastructur
 competing products, the cost of the training component is around 20 million USD. Therefore, Deep Seek is 50% cheaper than its other competitors. With costs decreasing drastically, Nilekani nuanced his earlier stance to accept that efforts to 
 construct a foundational AI model may go hand-in-hand with use case application tools. 
 
-[Manish Gupta, the head of Google research group in India](https://economictimes.indiatimes.com/tech/technology/google-research-india-head-disagrees-with-nandan-nilekani-says-india-must-build-llms/articleshow/115627015.cms) has been critical of Nandan Nelikani's view. 
+Manish Gupta, the head of Google research group in India has been [critical of Nandan Nelikani's view](https://economictimes.indiatimes.com/tech/technology/google-research-india-head-disagrees-with-nandan-nilekani-says-india-must-build-llms/articleshow/115627015.cms). 
 Manish thinks that the foundational research is more critical. Insight learned from research in building foundational AI models
 helps generate many out-of-the-box ideas to formulate use cases. He cites Aadhar as an example to prove the point that 
 Nelikani created bases for Aadhar rather than creating any associated tool as a test case. I gathered the following 
