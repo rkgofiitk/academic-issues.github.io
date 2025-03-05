@@ -71,9 +71,9 @@ healthcare, investment banking, stock predictions, or tasks that involve human h
 assistance of AI tools has enhanced the capabilities of the average human worker. The Indian government started spending heavily 
 on digital infrastructure in 2020 after the COVID-19 outbreak. Working from home and relying on contract-based jobs reduced
 costs for companies. However, many companies do not think working from home is acceptable. Wipro, Cognizant, Infosys, and L&T 
-have strictly advised staff to report physically. They strongly suspect that working from home allows productive employees to moonshine 
-and engage in simultaneous jobs on contract for competing enterprises. At the individual level, managers and team leaders found 
-that the employees ran into time management issues that affected productivity. 
+have strictly advised staff to report physically. They strongly suspect that working from home allows productive employees to
+moonshine and engage in simultaneous jobs on contract for competing enterprises. At the individual level, managers and team 
+leaders found that the employees ran into time management issues that affected productivity. 
 
 Only the service industry grew during COVID-19, while the manufacturing sector suffered heavy losses. Government efforts to keep the 
 economy afloat through extensive telecommunication and digital infrastructure led to invading employees' bedrooms and even 
@@ -85,7 +85,7 @@ opinion on concentrating research on AGI tools is to improve system efficiency i
 that Indian IT companies should invest in building their AI tools. However, it is a misplaced idea. Employers 
 will leverage AGI applications to eliminate the workforce from different sectors, leading to large-scale unemployment. The 
 competence level is not limited to human capabilities but to the inherent laziness in human characteristics. In a sense, Nilekani's
-opinion reflects the opinion of Raghuram Rajan, who wanted India to focus only on [service sector](https://uwm.edu/business/reimagining-development-possible-lessons-from-india/).
+opinion reflects the opinion of Raghuram Rajan, who wants India to focus only on [service sector](https://uwm.edu/business/reimagining-development-possible-lessons-from-india/).
 
 Nelikani believes that the government is well aware of this fact and is trying to guide AI research and development in 
 retrieval augmented generation (RAG), which combines the strength of LLM with context-sensitive, precise knowledge. It will help
