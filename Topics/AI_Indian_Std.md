@@ -34,7 +34,8 @@ Manish Gupta, the head of the Google research group in India, has been [critical
 Manish thinks that the foundational research is more critical. Insight learned from research in building foundational AI models
 helps generate many out-of-the-box ideas to formulate use cases. He cites Aadhar as an example to prove the point that 
 Nelikani created bases for Aadhar rather than creating any associated tool as a test case. I gathered the following 
-information about the contribution of Manish Gupta's team in AI research from [Perplexity chatbot](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research).
+information about the contribution of Manish Gupta's team in AI research from [Perplexity chatbot](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research). 
+(I thank [Preplexity](https://www.perplexity.ai/) team for extending a free pro-subscription.)
 - Matryoshka representation of learning inspired by Russian nesting dolls
 - In making AI more affordable and accessible to rural masses in India
 - Working for developing multimodal AI representation models over 100 indic languages,
@@ -42,8 +43,7 @@ information about the contribution of Manish Gupta's team in AI research from [P
 - Want researchers to develop breakthrough methods for advancing fusion energy leveraging AI
 - Piloting IndicGenBench and supporting researchers as a leader
    
-My intention in using an AI search engine was to understand its flexibilities and limitations. I thank 
-[Preplexity](https://www.perplexity.ai/) team for extending a free pro-subscription. Manish Gupta's credentials as a senior Google 
+My intention in using an AI search engine was to understand its flexibilities and limitations.  Manish Gupta's credentials as a senior Google 
 India Research Director are well-known. He supported many research initiatives in Google India, though he is not one of the authors 
 of either of the papers [Matryoksha](https://doi.org/10.48550/arXiv.2205.13147) or [IndicGenBench](https://arxiv.org/pdf/2404.16816). 
 The first paper's authors are drawn from Harvard University, Google Research, 
