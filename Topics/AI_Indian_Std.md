@@ -1,4 +1,4 @@
-# Building a Competitor of Deep Seek in India
+# Building an Indian Competitor of Deep Seek
 
 ##  Myth vs Reality
 
