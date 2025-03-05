@@ -4,13 +4,12 @@
 
 [Blog Index](../index.md)
 
-Earlier, late last year, Nandan Nelikani said that Indian IT companies should not invest time and money in [building generic
-LLM tools like ChatGPT or Deep Seek](https://timesofindia.indiatimes.com/business/india-business/india-shouldnt-build-another-llm-nandan-nilekani/articleshow/116269605.cms).
-Nilekani argued that building a foundational model like ChatGPT is prohibitively expensive. If Indian Companies have 50 billion
-USD to invest; they should instead use it to build computing infrastructure and an AI cloud. The computing infrastructure and tools
-are resources for AI growth engines. The real challenge lies in making a scalable and affordable AGI (Artificial General Intelligence) 
-tool. With the release of Deep Seek and the cost of building AI tools falling, Nelikani revised his stand a bit in 
-[February 2025](https://economictimes.indiatimes.com/news/new-updates/why-infosys-co-founder-nandan-nilekani-feels-india-dont-need-a-china-type-deepseek-ai/articleshow/118528515.cms?from=mdr). 
+Earlier, late last year, Nandan Nelikani said that Indian IT companies should not invest time and money in building generic
+LLM tools like ChatGPT or Deep Seek.Nilekani argued that building a foundational model like [ChatGPT is prohibitively expensive](https://timesofindia.indiatimes.com/business/india-business/india-shouldnt-build-another-llm-nandan-nilekani/articleshow/116269605.cms). 
+If Indian Companies have 50 billion USD to invest; they should instead use it to build computing infrastructure and an AI cloud.
+The computing infrastructure and tools are resources for AI growth engines. The real challenge lies in making a scalable and 
+affordable AGI (Artificial General Intelligence) tool. With the release of Deep Seek and the cost of building AI tools falling, 
+Nelikani revised his stand a bit in [February 2025](https://economictimes.indiatimes.com/news/new-updates/why-infosys-co-founder-nandan-nilekani-feels-india-dont-need-a-china-type-deepseek-ai/articleshow/118528515.cms?from=mdr). 
 Foundation models like the ones that OpenAI and Meta are building often cost billions of dollars because they require extensive
 training on vast data that can be handled only by costly computing infrastructure. Nilekani and Narayan Murthy, Infosys
 co-founders, assert that Indian tech companies have the expertise to build foundational LLM tools like ChatGPT as the cost has
