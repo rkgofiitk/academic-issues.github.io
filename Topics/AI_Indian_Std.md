@@ -4,9 +4,9 @@
 
 [Blog Index](../index.md)
 
-Earlier, late last year, Nandan Nelikani said that Indian IT companies should not invest time and money in building generic
-LLM tools like ChatGPT or Deep Seek.Nilekani argued that building a foundational model like [ChatGPT is prohibitively expensive](https://timesofindia.indiatimes.com/business/india-business/india-shouldnt-build-another-llm-nandan-nilekani/articleshow/116269605.cms). 
-If Indian Companies have 50 billion USD to invest; they should instead use it to build computing infrastructure and an AI cloud.
+Earlier, late last year, Nandan Nelikani said that Indian IT companies should not invest time and money in building a generic
+LLM tools like ChatGPT or Deep Seek. Nilekani argued that building a foundational model like [ChatGPT is prohibitively expensive](https://timesofindia.indiatimes.com/business/india-business/india-shouldnt-build-another-llm-nandan-nilekani/articleshow/116269605.cms). 
+If Indian companies have 50 billion USD in investment, they should instead use it to build computing infrastructure and an AI cloud.
 The computing infrastructure and tools are resources for AI growth engines. The real challenge lies in making a scalable and 
 affordable AGI (Artificial General Intelligence) tool. With the release of Deep Seek and the cost of building AI tools falling, 
 Nelikani revised his stand a bit in [February 2025](https://economictimes.indiatimes.com/news/new-updates/why-infosys-co-founder-nandan-nilekani-feels-india-dont-need-a-china-type-deepseek-ai/articleshow/118528515.cms?from=mdr). 
@@ -15,8 +15,8 @@ training on vast data that can be handled only by costly computing infrastructur
 co-founders, assert that Indian tech companies have the expertise to build foundational LLM tools like ChatGPT as the cost has
 come down. 
 
-What exactly is the cost of building Deep Seek? Going through a realistic estimate, it does not add up to back Deep Seek's 
-official story, which is that its development cost is just 5.6 million USD. In all fairness, experts believe that the reported 
+Before elaborating further, let us get a realistic estimate of the cost of building Deep Seek. Deep Seek's 
+official disclosure is that its development cost is just 5.6 million USD. In all fairness, experts believe that the reported 
 cost represents only the execution of model training runs. The typical cost factors are:
 - Research and development for generating synthetic data needed for training the model 
 - Executing multiple training runs with diverse data sets to validate results
@@ -30,7 +30,7 @@ and extensive experiments, which would be many times more than the infrastructur
 competing products, the cost of the training component is around 20 million USD. Therefore, Deep Seek is 50% cheaper than its other competitors. With costs decreasing drastically, Nilekani nuanced his earlier stance to accept that efforts to 
 construct a foundational AI model may go hand-in-hand with use case application tools. 
 
-Manish Gupta, the head of Google research group in India has been [critical of Nandan Nelikani's view](https://economictimes.indiatimes.com/tech/technology/google-research-india-head-disagrees-with-nandan-nilekani-says-india-must-build-llms/articleshow/115627015.cms). 
+Manish Gupta, the head of the Google research group in India, has been [critical of Nandan Nelikani's view](https://economictimes.indiatimes.com/tech/technology/google-research-india-head-disagrees-with-nandan-nilekani-says-india-must-build-llms/articleshow/115627015.cms). 
 Manish thinks that the foundational research is more critical. Insight learned from research in building foundational AI models
 helps generate many out-of-the-box ideas to formulate use cases. He cites Aadhar as an example to prove the point that 
 Nelikani created bases for Aadhar rather than creating any associated tool as a test case. I gathered the following 
@@ -90,7 +90,7 @@ struggling employees meet the job requirements and, at the same time, make the e
 is seen as a tool to raise service efficiency. The government, however, understood its role as an enabler or facilitator. 
 It has decided to spend 10k crores on establishing AI infrastructure. Good governance will focus on raising the 
 average happiness quotient for better economic growth. However, knowing how access to any well-intentioned government 
-facility works, I foresee that bureaucracy will dictate a policy to access the facility that may eventually protect the
+facility works, bureaucracy will dictate a policy to access the facility that may eventually protect the
 stranglehold of a few big Tech companies. Therefore, independent research groups need to keep 
 research on foundational AI models. 
 
