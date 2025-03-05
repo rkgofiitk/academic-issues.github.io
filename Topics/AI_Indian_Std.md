@@ -44,9 +44,9 @@ information about the contribution of Manish Gupta's team in AI research from [P
    
 My intention in using an AI search engine was to understand its flexibilities and limitations. I thank 
 [Preplexity](https://www.perplexity.ai/) team for extending a free pro-subscription. Manish Gupta's credentials as a senior Google 
-India Research Director are well-known. He supported many research initiatives in Google India, though he  
-is not one of the authors of either of the papers [Matryoksha](https://doi.org/10.48550/arXiv.2205.13147) or 
-[IndicGenBench](https://arxiv.org/pdf/2404.16816). The first paper's authors are drawn from Harvard University, Google Research, 
+India Research Director are well-known. He supported many research initiatives in Google India, though he is not one of the authors 
+of either of the papers [Matryoksha](https://doi.org/10.48550/arXiv.2205.13147) or [IndicGenBench](https://arxiv.org/pdf/2404.16816). 
+The first paper's authors are drawn from Harvard University, Google Research, 
 and the University of Washington. Four are from Google Research and belong to Manish Gupta's team. The authors of the 
 second paper are from Google India Research. The perplexity search engine says that the Russian Nesting Doll inspired the Matryoksha 
 Representation. The paper uses the Nesting Russian Dolls only as a metaphor to explain the model. Nesting 
