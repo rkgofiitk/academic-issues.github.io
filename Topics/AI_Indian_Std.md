@@ -1,8 +1,9 @@
-# Building an Indian Competitor of Deep Seek
+# Indian Competitors of ChatGPT/Deep Seek
 
 ##  Myth vs Reality
 
 [Blog Index](../index.md)
+
 
 Earlier, late last year, Nandan Nelikani said that Indian IT companies should not invest time and money in building a generic
 LLM tools like ChatGPT or Deep Seek. Nilekani argued that building a foundational model like [ChatGPT is prohibitively expensive](https://timesofindia.indiatimes.com/business/india-business/india-shouldnt-build-another-llm-nandan-nilekani/articleshow/116269605.cms). 
@@ -43,7 +44,7 @@ information about the contribution of Manish Gupta's team in AI research from [P
 - Want researchers to develop breakthrough methods for advancing fusion energy leveraging AI
 - Piloting IndicGenBench and supporting researchers as a leader
    
-My intention in using an AI search engine was to understand its flexibilities and limitations.  Manish Gupta's credentials as a 
+My intention in using an AI search engine was to understand its flexibilities and limitations. Manish Gupta's credentials as a 
 senior Google India Research Director are well-known. He supported many research initiatives in Google India, though he is not one
 of the authors of either of the papers [Matryoksha](https://doi.org/10.48550/arXiv.2205.13147) or [IndicGenBench](https://arxiv.org/pdf/2404.16816). 
 However, most authors are from  Google Research and belong to Manish Gupta's team. Incidentally, the perplexity search engine says 
@@ -95,5 +96,15 @@ average happiness quotient for better economic growth. However, knowing how acce
 facility works, bureaucracy will dictate a policy to access the facility that may eventually protect the
 stranglehold of a few big Tech companies. Therefore, independent research groups need to keep 
 research on foundational AI models. 
+
+While there is still an ongoing debate on whether Indian companies should or should not be working on Foundational Research in LLM,  
+Reliance, in collaboration with IIT Bombay, is already in the game. It launched an Indian language innovation in LLM called BharatGPT. It 
+claims to be a digitally inclusive Large Language Model offering solutions in 22 Indian languages. It aims to bring in nuances of Indian 
+dialects with idiomatic phrases together with cultural expressions specific to Indian contexts for a better understanding of the results. 
+BharatGPT also aims to provide sector-specific solutions for healthcare,  governance, etc. The Department of Science and Technology, 
+Government of India, has also launched an initiative called [BharatGen](https://dst.gov.in/launch-bharatgen-first-government-supported-multimodal-large-language-model-initiative). It is [multi-institutional collaboration project] (https://tihiitb.org/bharatgen/) mainly 
+involving IITs led by Professor Ganesh Ramakrishnan of IIT Bombay. However, I did not get any reference to the launch dates of any 
+outcome from these projects. Typically, DST projects run for three years or more. So, we won't see any GenAI tool from India too soon. 
+
 
 [Back to Index](../index.md)
