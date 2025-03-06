@@ -1,4 +1,4 @@
-# Indian Competitors of ChatGPT/Deep Seek
+# ChatGPT/Deep Seek Competitors from India
 
 ##  Myth vs Reality
 
