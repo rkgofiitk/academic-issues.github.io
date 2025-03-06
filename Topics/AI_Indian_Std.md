@@ -102,7 +102,7 @@ Reliance, in collaboration with IIT Bombay, is already in the game. It launched 
 claims to be a digitally inclusive Large Language Model offering solutions in 22 Indian languages. It aims to bring in nuances of Indian 
 dialects with idiomatic phrases together with cultural expressions specific to Indian contexts for a better understanding of the results. 
 BharatGPT also aims to provide sector-specific solutions for healthcare,  governance, etc. The Department of Science and Technology, 
-Government of India, has also launched an initiative called [BharatGen](https://dst.gov.in/launch-bharatgen-first-government-supported-multimodal-large-language-model-initiative). It is [multi-institutional collaboration project] (https://tihiitb.org/bharatgen/) mainly 
+Government of India, has also launched an initiative called [BharatGen](https://dst.gov.in/launch-bharatgen-first-government-supported-multimodal-large-language-model-initiative). It is [multi-institutional collaboration project](https://tihiitb.org/bharatgen/) mainly 
 involving IITs led by Professor Ganesh Ramakrishnan of IIT Bombay. However, I did not get any reference to the launch dates of any 
 outcome from these projects. Typically, DST projects run for three years or more. So, we won't see any GenAI tool from India too soon. 
 
