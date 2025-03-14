@@ -26,8 +26,21 @@ There are many others who are in other side of asile. For example, Linux creator
 dismisses the claim as marketing gimmic. Infosys Co-founder Narayan Murthy agrees with Torvalds. Speaking at TiE Con Mumbai 
 2025, Murthy claims much of AI is "silly old programs" repackaged to ride on AI hype due to its popularity. 
 Indeed, both Infosys and TCS have their in-house specialists on machine learning and data analytics. 
-LLM is higlly resource-intensive. OpenAI, Meta, Google, Deep Seek have invested a lot on resources that allowed them 
+Since LLM is higlly resource-intensive, OpenAI, Meta, Google, Deep Seek have invested a lot on resources that allowed them 
 liberty to work on LLM. Until the time, we build up comparable resources creating LLM models for vernacular 
-languages will have to wait. 
+languages will have to wait. In another post last week, we talked about Nanandan Nilekani's view about foundational
+research on building LLM tools. In a way his holds the view that Indian tech companies should not invest time and
+money for developing ChatGPT or Deep Seek type generative LLM tools. Nilekani's opinion is purely seen from an
+economic angle. However, it may as well be possible Nilekani being involved in creating Aadhar foundational model
+has had sufficient insignt to anticipate won't be a sound economic decision for any of the Indian  
+IT companies given the resource intesive nature of creatubg an LLM model from scratch. 
 
+Returning back to Amdoei's prediction, we need to evaluate how an undergraduate program in CS would be redesigned to
+reduce emphasis on code writing. Sometime back in 2010, we often heard from IT companies that students are ill-trained
+for writing codes. Most IT companies wanted the freshmen to know Java, C++, C and web technologies. On the other hand,
+CS educators believed having a sound understanding of the theoretical foundations of programming is more important.
+Understanding of theory enables students to develop the logic quickly, and code writing is merely an extension of
+logic into syntatical framework of a programming language. Therefore, a sound understanding theoretical basis
+of programming gains more prominence considering Amodei's prediction and Nvidia CEO Huang's opinion about the coding 
+as a career option is no longer a priority. 
 
