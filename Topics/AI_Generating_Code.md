@@ -9,7 +9,7 @@ University and did a stint of Post Doctoral Research in Stanford School of Medic
 year and later joined Google and moved to OpenAI 2016. In 2021 he and his sister co-founded Anthropic AI. He
 was named one of the Times most influential people in September 2023. Most illustrious part of his career was
 in November 2023, when OpenAI board approached him with a proposal to merge Anthropic and OpenAI, and take the
-place of Sam Altman at OpenAI  when latter quit OpenAI for a brief period. In one of most popular essay 
+place of Sam Altman at OpenAI  when latter quit OpenAI for a brief period. In one of the most popular essay 
 [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace), Amodei declares that he is 
 "fundamentally positive" about AI though most watchers of AGI and Generative AI believe him as one of 
 pessimistic, doomsayer working on AGI space. Amodei says that his idea is to make people aware of risks
