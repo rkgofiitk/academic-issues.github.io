@@ -39,8 +39,8 @@ Returning back to Amdoei's prediction, we need to evaluate how an undergraduate 
 reduce emphasis on code writing. Sometime back in 2010, we often heard from IT companies that students are ill-trained
 for writing codes. Most IT companies wanted the freshmen to know Java, C++, C and web technologies. On the other hand,
 CS educators believed having a sound understanding of the theoretical foundations of programming is more important.
-Understanding of theory enables students to develop the logic quickly, and code writing is merely an extension of
-logic into syntatical framework of a programming language. Therefore, a sound understanding theoretical basis
-of programming gains more prominence considering Amodei's prediction and Nvidia CEO Huang's opinion about the coding 
-as a career option is no longer a priority. 
+Understanding of theory enables students to develop the logic quickly, and code writing is merely turning the 
+logic into the syntatical framework of a programming language. Therefore, a sound understanding theoretical basis
+of programming gains much more prominence than coding. Nvidia has created a [free AI course catalogue](https://resources.nvidia.com/en-us-event-slides/free-courses) for self-spaced
+learning. 
 
