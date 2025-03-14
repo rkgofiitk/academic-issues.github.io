@@ -32,8 +32,8 @@ languages will have to wait. In another post last week, we talked about Nanandan
 research on building LLM tools. In a way his holds the view that Indian tech companies should not invest time and
 money for developing ChatGPT or Deep Seek type generative LLM tools. Nilekani's opinion is purely seen from an
 economic angle. However, it may as well be possible Nilekani being involved in creating Aadhar foundational model
-has had sufficient insignt to anticipate won't be a sound economic decision for any of the Indian  
-IT companies given the resource intesive nature of creatubg an LLM model from scratch. 
+has had sufficient insignt to anticipate won't be a sound economic decision for any of the Indian  IT companies given 
+the resource intesive nature of creatubg an LLM model from scratch. 
 
 Returning back to Amdoei's prediction, we need to evaluate how an undergraduate program in CS would be redesigned to
 reduce emphasis on code writing. Sometime back in 2010, we often heard from IT companies that students are ill-trained
