@@ -12,20 +12,22 @@ in November 2023, when OpenAI board approached him with a proposal to merge Anth
 place of Sam Altman at OpenAI  when latter quit OpenAI for a brief period. In one of the most popular essay 
 [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace), Amodei declares that he is 
 "fundamentally positive" about AI though most watchers of AGI and Generative AI believe him as one of 
-pessimistic, doomsayer working on AGI space. Amodei says that his idea is to make people aware of risks
-and he is actively working for reducing these risks. So, when he says 90% of the software codes will be
-AI generated in near future, we should take him seriously. 
+pessimistic, doomsayer working on AGI space. Incidentally Amodei hates the term AGI and prefers to call it
+AI. He says that people should be aware of AI risks, and he is actively working for reducing these risks. 
+So, when he says 90% of the software codes will be AI generated in near future, we should take him seriously. 
 
-Linux creator [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) dismisses the claim as marketing
-gimmic. Infosys Co-founder Narayan Murthy agrees with Torvalds. Speaking at TiE Con Mumbai 
+However, Amdoei is not alone in predicting AI assistance in code development, Nvidia CEO Jensen Huang echos
+[similar view](https://www.windowscentral.com/software-apps/nvidia-ceo-says-the-future-of-coding-as-a-career-might-already-be-dead).
+Huang consider coding as a career is in "dead water." Learning to code should not be considered as a priority
+in moving forward into tech. Huang attributes it to massive and rapid adoption of ChatGPT, github and meta co-pilots, 
+in coding assignments. Apparently, someone generated a free windows key within 7 minutes using ChatGPT. 
+
+There are many others who are in other side of asile. For example, Linux creator [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) 
+dismisses the claim as marketing gimmic. Infosys Co-founder Narayan Murthy agrees with Torvalds. Speaking at TiE Con Mumbai 
 2025, Murthy claims much of AI is "silly old programs" repackaged to ride on AI hype due to its popularity. 
 Indeed, both Infosys and TCS have their in-house specialists on machine learning and data analytics. 
 LLM is higlly resource-intensive. OpenAI, Meta, Google, Deep Seek have invested a lot on resources that allowed them 
 liberty to work on LLM. Until the time, we build up comparable resources creating LLM models for vernacular 
 languages will have to wait. 
 
-However, Amdoei is not alone in predicting AI assistance in code development, Nvidia CEO Jensen Huang echos
-[similar view](https://www.windowscentral.com/software-apps/nvidia-ceo-says-the-future-of-coding-as-a-career-might-already-be-dead).
-Huang consider coding as a career is in "dead water." Learning to code should not be considered as a priority
-in moving forward into tech. Huang attributes it to massive and rapid adoption of ChatGPT, github and meta co-pilots, 
-in coding assignments.  
+
