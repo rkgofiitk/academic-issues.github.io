@@ -2,7 +2,7 @@
 
 CEO of Anthropic, Dr. Dario Amodei predicts be that 
 [AI can generate 90% of software codes in six months](https://www.windowscentral.com/software-apps/work-productivity/anthropic-ceo-dario-amodei-says-ai-will-write-90-percent-of-code-in-6-months).
-Before taking his comments seriously we need to know about Dario Amodei. According to Wikipedia, 
+Before taking his prediction seriously we need to know about Dario Amodei. According to Wikipedia, 
 [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei) is an Italian-American AI 
 researcher who is co-founder and CEO of Anthropic. Mr Amodei earned his Ph. D in Physics from Princeton 
 University and did a stint of Post Doctoral Research in Stanford School of Medicine. He worked in Baidu for a
