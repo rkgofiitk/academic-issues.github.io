@@ -48,3 +48,11 @@ increasingly clear that code development is really easy with github co-pilot, re
 However, it is hard to believe that coding assistants will replace good programmer anytime soon. The problem lies in
 code management. 
 
+Most product managers including those at Anthropic would not enthusiastically subscribe to the view of Dr Amodei that 
+managing code developed by one programmer will be easy for another programmer. Under the given scenario, will it be
+possible for an AI coding assistant to update the existing code? Surely, much of the managment job will depend on
+asking right question to the AI assistant. However, the questions will depend on the specific problem domain. The 
+specification of the management problem will assume much greater significance in interaction with a coding assistant
+than a human programmer. In this context, I believe our students who have a sound theoretical foundation would 
+have advantage over those who were trained for writing code.
+
