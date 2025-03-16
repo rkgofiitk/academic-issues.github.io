@@ -36,11 +36,15 @@ has had sufficient insignt to anticipate won't be a sound economic decision for 
 the resource intesive nature of creatubg an LLM model from scratch. 
 
 Returning back to Amdoei's prediction, we need to evaluate how an undergraduate program in CS would be redesigned to
-reduce emphasis on code writing. Sometime back in 2010, we often heard from IT companies that students are ill-trained
+reduce emphasis on code writing. Back in 2010, we received feedbacks from recruiters that students are ill-trained
 for writing codes. Most IT companies wanted the freshmen to know Java, C++, C and web technologies. On the other hand,
-CS educators believed having a sound understanding of the theoretical foundations of programming is more important.
+as CS educators we believed that a sound understanding of the theoretical foundations of programming is more important.
 Understanding of theory enables students to develop the logic quickly, and code writing is merely turning the 
 logic into the syntatical framework of a programming language. Therefore, a sound understanding theoretical basis
-of programming gains much more prominence than coding. Nvidia has created a [free AI course catalogue](https://resources.nvidia.com/en-us-event-slides/free-courses) for self-spaced
-learning. 
+of programming gains much more prominence than coding. Nvidia has created a [free AI course catalogue](https://resources.nvidia.com/en-us-event-slides/free-courses) for self-spaced learning. 
+Until 2023, placement scenario remained much the same with a majority of recruiters unable to appreciate the 
+amount of theoretical underpinning in CS undergraduate edcution at IITs. Only towards the end of 2024, it become
+increasingly clear that code development is really easy with github co-pilot, replit and many freely available code-assistants.
+However, it is hard to believe that coding assistants will replace good programmer anytime soon. The problem lies in
+code management. 
 
