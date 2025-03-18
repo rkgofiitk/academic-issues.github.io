@@ -24,16 +24,16 @@ in coding assignments. Apparently, someone generated a free Windows key within 7
 
 Many others are on the other side of the aisle. For example, Linux creator [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) 
 dismisses the claim as a marketing gimmick. Infosys Co-founder Narayan Murthy agrees with Torvalds. Speaking at TiE Con Mumbai 
-2025, Murthy claims much of AI is "silly old programs" repackaged to ride on AI hype due to its popularity. 
+2025, Murthy claims much of AI is "silly old programs" repackaged to ride on AI hype. 
 Indeed, both Infosys and TCS have in-house machine learning and data analytics specialists. 
-Since LLM is highly resource-intensive, OpenAI, Meta, Google, and Deep Seek have invested a lot in resources that allowed them 
-to work on it. Until we build up comparable resources, creating LLM models for vernacular 
-languages will have to wait. In another post  a few days back, we discussed Nanandan Nilekani's view on foundational
-research on building LLM tools. In a way, he believes that Indian tech companies should not invest time and
-money in developing ChatGPT or Deep Seek-type generative LLM tools. Nilekani's opinion is purely seen from an
-economic angle. However, it may as well be possible Nilekani, being involved in creating the Aadhar foundational model,
-has had sufficient insight to anticipate that it won't be a sound economic decision for any of the Indian  IT companies given 
-the resource-intensive nature of creating an LLM model from scratch. 
+LLM is highly resource-intensive. OpenAI, Meta, Google, and Deep Seek have invested a lot in human and computing resources that 
+allowed them to work on it. Until we build up comparable resources, creating LLM models for vernacular 
+languages will have to wait. In [another post]() a few days back, we discussed Nanandan Nilekani's view on foundational
+research on building LLM tools. Nilekani believes that Indian tech companies should not invest time and
+money in developing ChatGPT or Deep Seek-type generative LLM tools. The focus of Nilekani's opinion is purely
+economic. However, it may as well be possible that being involved in creating the Aadhar foundational model, he
+has had sufficient insight to anticipate that it won't be a sound economic decision for any of the Indian IT companies to
+invest in creating an LLM model from scratch. 
 
 Returning to Amdoei's prediction, we need to evaluate whether the universities and teaching institutions would redesign undergraduate programs in CS  to
 reduce the emphasis on code writing. Back in 2010, we received feedback from recruiters that students were ill-trained
