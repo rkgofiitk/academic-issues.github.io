@@ -1,4 +1,4 @@
-# Can AI Programming Assistant Generate 90% of Code?
+# Can AI Assistant Generate 90% of Code?
 
 [Blog Index](../index.md)
 
