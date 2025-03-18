@@ -28,7 +28,7 @@ dismisses the claim as a marketing gimmick. Infosys Co-founder Narayan Murthy ag
 Indeed, both Infosys and TCS have in-house machine learning and data analytics specialists. 
 LLM is highly resource-intensive. OpenAI, Meta, Google, and Deep Seek have invested a lot in human and computing resources that 
 allowed them to work on it. Until we build up comparable resources, creating LLM models for vernacular 
-languages will have to wait. In [another post]() a few days back, we discussed Nanandan Nilekani's view on foundational
+languages will have to wait. In [another post](AI_Indian_Std.md) a few days back, we discussed Nanandan Nilekani's view on foundational
 research on building LLM tools. Nilekani believes that Indian tech companies should not invest time and
 money in developing ChatGPT or Deep Seek-type generative LLM tools. The focus of Nilekani's opinion is purely
 economic. However, it may as well be possible that being involved in creating the Aadhar foundational model, he
