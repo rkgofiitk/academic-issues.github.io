@@ -46,8 +46,8 @@ of programming gains much more prominence than coding. Nvidia has created a [fre
 Until 2023, the placement scenario remained much the same, with most recruiters unable to appreciate the 
 amount of theoretical underpinning in CS undergraduate education at IITs. Towards the end of 2024, it becomes
 increasingly clear that code development is straightforward with GitHub co-pilot, Replit, and many freely available code-assistants.
-However, it is hard to believe that coding assistants will soon replace good programmers. The problem lies in
-code management. 
+However, it is hard to believe that coding assistants will soon replace good programmers with a sound theoretical foundation. 
+The problem lies in code management. 
 
 Most product managers, including those at Anthropic, would not enthusiastically subscribe to the view of Dr Amodei that 
 managing code developed by one programmer will be easy for another programmer. Under the given scenario, can an AI coding assistant update the existing code be possible? Indeed, much of the management job will depend on
