@@ -36,11 +36,12 @@ supporting entrepreneurial ventures. Ashok Misra, one of the ex-directors of IIT
 [Intellectual Ventures](https://www.intellectualventures.com/) for some time after demiting his office. He was also on the board 
 of Directors of Reliance Ltd while he was holding the office of the IITB director. Prof Mishra was the Director for two terms. It 
 had some influence in networking with IIT Bombay alumni. However, this alone may not affect building an echo system for startups. 
-IIT Madras has consciously created an ambiance for startup culture with its industrial park. Satyam operated  
-inside the IIT Madras campus before Ramlinga Raju's massive financial embezzlement destroyed the company. IIT Kanpur or IIT Kharagpur
+IIT Madras has consciously created an ambiance for startup culture with its industrial park. Satyam operated inside the IIT Madras
+campus before Ramlinga Raju's massive financial embezzlement destroyed the company. IIT Kanpur or IIT Kharagpur
 has not proactively encouraged entrepreneurial activities until recently. The reason IIT Kharagpur has similar success
 as IIT Delhi is that it has the largest student intake among the older IITs and has a lot more engineering
-disciplines that are not found in other IITs. The culture of startups in the country was primarily a recent phenomenon when the government-backed a movement for make in India following Covid-19 related economic depression. I remember at least a few students who wanted to 
+disciplines that are not found in other IITs. The culture of startups in the country was primarily a recent phenomenon when the government-
+backed a movement for make in India following Covid-19 related economic depression. I remember at least a few students who wanted to 
 work on their dual degree thesis with me because they consciously decided to work on ideas for startups. Almost 70-75% of the 
 professors in the department worked in theory-related areas. So, deciding to go for a startup was difficult for the students
 unless one is obsessively fixated.
