@@ -1,11 +1,21 @@
 # YC Founders 
 
 There is a linkedIn post showing a comparison of the number of [YC Founders from IITs](https://www.linkedin.com/posts/abhilashchowdhary_which-iit-in-india-graduates-the-most-of-activity-7307347481678204928-2pD4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgrDmUBOuaY0LX4rtbMWEALhfFNE0L9gcc). 
-Before continuing with the post let me revisit a bit about YC Founders List. It reminded me of [Schinder's List](https://www.imdb.com/title/tt0108052/) a famous 1993 historical movie 
+Before continuing with the post let me revisit a bit about YC Founders List. It reminds me of [Schinder's List](https://www.imdb.com/title/tt0108052/) a famous 1993 historical movie 
 by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) adopted from the novel
 [Schindler's Ark](https://www.goodreads.com/book/show/1394875.Schindler_s_Ark) authored by Thomas Keneally. 
-The novel is based on a German Industrialist [Oskar Schindler](https://www.britannica.com/biography/Oskar-Schindler) who saved thousands of 
-Polish-Jews from Hitler's Holocaust by employing them in his factories.
+The novel is based on a German Industrialist [Oskar Schindler](https://www.britannica.com/biography/Oskar-Schindler) who saved 
+thousands of Polish-Jews from Hitler's Holocaust by employing them in his factories. Hopefully, the startup culture that is now 
+shaping up among India's technological institutions will give much needed Industry 4.0 revolution powered by AI, IoT, Robotics,
+and Computer technologies in the country. The reader may wonder the association with Schindler List. Until late 2010,  
+Indian industries has beem dependent on borrowed technologies. Early industrialization of India relied on Agri-based products, such as,
+Sugar, Rubber, Cotton, Jute, Textile, and Paper. According  Statistical abstracts for British India, Calcutta [Jute and Collon Mills
+constituted about 20%](https://academic.oup.com/book/7358/chapter/152152209) of factories in India. The death of aging Jute industry 
+was hastened by Trade Union activites before it could be phased out. Metallurgy (mainly steel and aluminium), Chemicals followed later. 
+TISCO was established in 1907. India produces about 80000 chemical products and contributes 7% of GDP as of 2022 with Gujrat being 
+contributing lion's share.The other segments of Indian industrial products include Machnine Tools, Electrical Components and 
+Automobile. However, until 2000 significant part of industrial output was dominated by small-scale and cottage industries.
+
 
 [Y Combinator](https://www.ycombinator.com/) invests about USD 500,000 in every company founded by each YC founder. It runs an 
 interesting unique model to propel YC founders in their endeavour. YC is basically an American startup accelerator founded in 2005 by 
