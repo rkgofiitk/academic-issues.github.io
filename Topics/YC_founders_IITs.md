@@ -1,7 +1,7 @@
 # YC Founders 
 
 There is a [linkedIn post](https://www.linkedin.com/posts/abhilashchowdhary_which-iit-in-india-graduates-the-most-of-activity-7307347481678204928-2pD4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgrDmUBOuaY0LX4rtbMWEALhfFNE0L9gcc) showing a 
-comparison of the number of [YC Founders from IITs](../images/yc_founders_barchart.png). Before continuing with the post let 
+comparison of the number of YC Founders from IITs. Before continuing with the post let 
 me revisit a bit about YC Founders List. It reminds me of [Schinder's List](https://www.imdb.com/title/tt0108052/) a famous 1993 
 historical movie by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) adopted from the novel
 [Schindler's Ark](https://www.goodreads.com/book/show/1394875.Schindler_s_Ark) authored by Thomas Keneally. 
@@ -18,8 +18,8 @@ contributing lion's share.The other segments of Indian industrial products inclu
 Automobile. However, until 2000 a significant part of industrial output was dominated by [small-scale and cottage industries](https://academic.oup.com/book/7358/chapter/152152209). It is a general trend in capital growth-based economy is that with the
 increasing share of industry and manufacturing output in GDP, the share of agriculture declines. However, Indian economy 
 exhibits a different trend. India's GDP growth is led by service sector. The reason could be attributed to low level of education
-among workers. Service sector employs a large number of workers having basic and secondary school education. Therefore, YC founder
-list appears like Schindler's List.
+among workers. Service sector employs a large number of workers having basic and secondary school education. Therefore, YC founders
+list from IITs appears like Schindler's List.
 
 [Y Combinator](https://www.ycombinator.com/) invests about USD 500,000 in every company founded by each YC founder. It runs an 
 interesting unique model to propel YC founders in their endeavour. YC is basically an American startup accelerator founded in 2005 by 
@@ -28,18 +28,20 @@ So, what we are talking of is how many of IIT graduates sought help from YC to e
 of these companies have an Indian subsidiary or plans to have one in future. They do have an outreach program in 11 countries 
 including India. However, it is not clear from the the linkedIn post. I find six Indian companies, namely, Razorpay, Zepto, Meesho, 
 Groww, RedCarpetUp, DripCapital are listed in YC directory. Four of these are working in fintech area except for Zepto and Meesho which
-work in m-commerce area. Therefore, YC founders in India are not contributing much to wealth generation per se. 
+work in m-commerce area. Therefore, YC founders in India are not contributing much to capital generation per se. 
 
-The LinkedIn comparative barchart post on YC founders from IITs seem to suggest IIT Bombay has a better enterpreneaurial echo-system than
-other IITs. It may possibly be true that IIT Bombay alumni network is much stronger in supporting enterpreneaurial venture. Ashok Misra
-one of the ex-Director of IIT Bombay was the chairman of [Intellectual Venture](https://www.intellectualventures.com/) for sometime 
-after demiting the office of the IITB Director. He as also in the board of Reliance while he was holding the office of the IITB
-director. So, it might have had some influence in networking IIT Bonbay alumni. However, this alone may not have much affect 
-in building an echo system for startups. I believe IIT Madras have the ambiance and conciously created startup culture with its
-industrial part. Satyam was operating from IIT Madras compus before Ramlinga Raju's antics desctroyed it. IIT Kanpur or IIT Kharagpur
+The [comparative barchart](../images/yc_founders_iits.png) post on YC founders from IITs seem to suggest IIT Bombay has a better 
+enterpreneaurial echo-system than other IITs. It may possibly be true that IIT Bombay alumni network is much stronger in 
+supporting enterpreneaurial venture. Ashok Misra, one of the ex-Directors of IIT Bombay, was the chairman of 
+[Intellectual Ventures](https://www.intellectualventures.com/) for sometime after demiting his office. He as also in the board of
+Reliance while he was holding the office of the IITB director. Prof Mishra was Director for two terms. it might have had some influence
+in networking IIT Bonbay alumni. However, this alone may not have much affect in building an echo system for startups. 
+I believe IIT Madras have conciously created an ambiance for startup culture with its industrial park. Satyam was operating from 
+inside IIT Madras compus before Ramlinga Raju's massive financial embezzlement desctroyed the company. IIT Kanpur or IIT Kharagpur
 did not proactively encourage Enterpreneaurial activities until recently. I think reason for IIT Kharagpur having similar success
-as IIT Delhi is due to the reason that it has a largest intake among the older IITs and have disciplines which are not found 
-in other IITs. The culture of startups is primarily a recent phenomenon. I remember at least a few students who wanted to 
+as IIT Delhi is due to the reason that it has a largest student intake among the older IITs and have a lot more engineering
+disciplines which are not found in other IITs. The culture of startups is primarily a recent phenomenon when the government
+backed a movement for make in India following Covid-19 related economic depression. I remember at least a few students who wanted to 
 work for their dual degree thesis with me because they conciously decided to work for ideas for startups, almost 70-75% of the 
 professors in the department worked on theory related areas. So, the decision to go for a startup was difficult for the students
 unless one is obsessively fixtated.
