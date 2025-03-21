@@ -9,8 +9,8 @@ historical movie by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spie
 [Schindler's Ark](https://www.goodreads.com/book/show/1394875.Schindler_s_Ark) authored by Thomas Keneally. 
 The novel is based on a German Industrialist [Oskar Schindler](https://www.britannica.com/biography/Oskar-Schindler), who saved 
 thousands of Polish Jews from Hitler's Holocaust by employing them in his factories. Hopefully, the startup culture now 
-shaping up among India's technological institutions will give much-needed Industry 4.0 revolution powered by AI, IoT, Robotics,
-and Computer technologies. The reader may wonder about the association with Schindler's List. Until late 2010,  
+shaping up among India's technological institutions will give much-needed Industry 4.0 revolution powered by AI, IoT, Robotics, and 
+Computer technologies. The reader may wonder about the association with Schindler's List. Until late 2010,  
 Indian industries have been dependent on borrowed technologies. Early industrialization of India relied on Agri-based products, such as,
 Sugar, Rubber, Cotton, Jute, Textile, and Paper. According to Statistical abstracts for British India, Calcutta [Jute and Collon Mills
 constituted about 20%](https://academic.oup.com/book/7358/chapter/152152209) of factories in India. Trade Union activities hastened the death of the aging Jute industry before it could be phased out. Metallurgy (mainly steel and aluminum) and chemicals followed later. 
