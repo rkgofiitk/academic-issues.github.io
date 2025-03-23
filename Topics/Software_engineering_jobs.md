@@ -7,7 +7,7 @@ of coding like a software engineer of a top company with a few years of experien
 has reportedly firing 31000 employees and is pushing for hiring machine learning engineers. Indian tech giants like Infosys, 
 L & T, Tech Mahindra, and TCS, who rely on body shopping low-quality software engineers, will have to rethink their strategy of 
 inducting everybody and anybody with a computer science degree. Shareholders should go for a strategic reallocation of stakes in
-these companies. It is time that the government's advisors on Nitiyug's board and economic affairs panel
+these companies. It is time that the government's advisors on Nitiyog's board and economic affairs panel
 become aware of the implications of AI. Prime Minister Narendra Modi is co-chairing the AI Action Summit in Paris with French 
 President Emmanuel Macron. PM is mindful of the implication of AI applications in diverse fields such as manufacturing, healthcare, 
 transportation, and construction, on which nation-building depends. 
@@ -30,7 +30,8 @@ splitting hairs on Deep Seek's cost efficiency against that of Chat-GPT 4o is no
 impactful effects on human community benefits. 
 
 Meta's firing of 31k employees and Altman's warning about the redundancy of Software engineers should be seen together in the 
-context of requirements for a transformational assessment of the curriculum for computer science and engineering degrees. The empahsis on coding and knowledge of full stack development are probably not essential. Training design innovations
+context of requirements for a transformational assessment of the curriculum for computer science and engineering degrees. The empahsis 
+on coding and knowledge of full stack development are probably not essential. Training design innovations
 and the interaction between Human and AGI agents will be critical for students seeking software jobs. A product innovation 
 engineer's job will be more important than ever. AGI does not appear to be a buzzword anymore. Companies should recalibrate 
 spending and allocation of resources to retrain software engineers in AGI. However, given the current financial state of AI
