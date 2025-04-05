@@ -2,8 +2,8 @@
 
 [Blog Index](../index.md)
 
-Sometime back there was a comparative bar chart in a [linkedIn post](https://www.linkedin.com/posts/abhilashchowdhary_which-iit-in-india-graduates-the-most-of-activity-7307347481678204928-2pD4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgrDmUBOuaY0LX4rtbMWEALhfFNE0L9gcc)  
-for the number of YC Founders from IITs. I became curious about what it means to become a YC founder. 
+Sometime back there was a comparative bar chart in a [linkedIn post](https://www.linkedin.com/posts/abhilashchowdhary_which-iit-in-india-graduates-the-most-of-activity-7307347481678204928-2pD4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgrDmUBOuaY0LX4rtbMWEALhfFNE0L9gcc) for the number of YC Founders from IITs.
+I became curious about what it means to become a YC founder. 
 To be honest, the existence of such a list immediately reminded me of [Schinder's List](https://www.imdb.com/title/tt0108052/), a 
 famous 1993 historical movie by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) adapted from the novel
 [Schindler's Ark](https://www.goodreads.com/book/show/1394875.Schindler_s_Ark) authored by Thomas Keneally. 
