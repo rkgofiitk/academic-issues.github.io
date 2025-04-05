@@ -13,18 +13,29 @@ wanted to help. Hopefully, the startup culture now shaping up among India's tech
 Industry 4.0 revolution powered by AI, IoT, Robotics, and Computer technologies. The reader may wonder about the association 
 with Schindler's List. 
 
-Early industrialization of India relied on Agri-based products, such as Sugar, Rubber, Cotton, Jute, Textile, and Paper. According 
-to Statistical abstracts related to industrialization in British India, Calcutta [Jute and Collon Mills constituted about 20%](https://academic.oup.com/book/7358/chapter/152152209) of factories in India.
-[Pushing drug](https://en.wikipedia.org/wiki/Smoke_and_Ashes) was central to the economy of British East India. By nature,
-agri-based industries are labor-intensive. So, they worked as long as the ecosystem of managers, contractors, dealers, or distributors 
-worked like a well-oiled machine ( everyone is happy in getting expected cuts). One such example is the Bengal Jute industry. 
-Indiscriminate trade Union activities in West Bengal hastened the death of the Jute industry even before it could be modernized or
-phased out. Metallurgy (mainly steel and aluminum) and chemicals followed later. TISCO was established in 1907. India produces about 
-Eighty thousand chemical products contribute 7% of GDP as of 2022, with a significant contribution from Gujrat. The other segments of 
-Indian industrial products include Machine Tools, Electrical Components, and automobiles. A substantial part of industrial output was 
-dominated by [cottage and small-scale industries](https://academic.oup.com/book/7358/chapter/152152209) till 2000. High-end products
-from Indian industries have been primarily dependent on borrowed technologies. Apart from the flight of capital outside the country, the 
-supply chain was neither stable nor robust. As a result, the initial phase of India's industrialization was excruciatingly slow.
+Early industrialization of India relied on Agri-based products, such as Sugar, Rubber, Cotton, Jute, Textile, and Paper.
+[Pushing drug](https://en.wikipedia.org/wiki/Smoke_and_Ashes) was central to the economy of British East India. Opium was cultivated
+extensively in India's eastern part (Bihar and eastern UP). Jute and cotton are other cash crops. Jute was mainly grown in 
+Bengal. By nature, agri-based industries are labor-intensive. According to Statistical abstracts related to industrialization in
+British India, Calcutta [Jute and Collon Mills constituted about 20%](https://academic.oup.com/book/7358/chapter/152152209) of 
+factories in India. Metallurgy (mainly steel and aluminum) and chemicals followed later. TISCO was established in 1907. India 
+produces about eighty thousand chemical products, contributing 7% of GDP as of 2022, with a significant contribution from Gujrat. 
+The other segments of Indian industrial products include Machine Tools, Electrical Components, and automobiles. A substantial part 
+of industrial output was dominated by [cottage and small-scale industries](https://academic.oup.com/book/7358/chapter/152152209) till 
+2000. High-end products from Indian industries have primarily depended on borrowed technologies. Apart from the flight of 
+capital outside the country, the supply chain was neither stable nor robust. As a result, the initial phase of India's 
+industrialization was excruciatingly slow.
+
+After independence, India declared itself a republic and established a multi-party rule through a universal adult franchise. Suddenly,
+power brokers found themselves orphaned by the system they worked for. It led to a chaotic existential crisis for these elements.
+The power brokers quickly organized or latched onto big political parties. Every political party requires a steady funding source to
+fight elections and stay in power. Large industrial sectors became a prime target for generating resources. The party in power
+could extract funds by leveraging licensing mechanisms. However, the opposition is handicapped by their inability to arm-twist industry
+owners. They created chaos through indiscriminate trade Union activities in the grab of safeguarding the rights of workers. West Bengal contributed 37% of India's annual revenue at that time. So, much of trade unionism sprouted from Kolkata. It hastened the
+death of the Jute industry even before it could be modernized or phased out. Besides the Jute industry, Kolkata had many other
+sectors, such as manufacturing electrical components, auto parts, and machine tools. However, every industry was affected by trade union
+activities. Investors were pissed off and decided to bring the shutters down. Wide-spread factory lockdowns and worker retrenchments 
+followed. 
 
 A general trend in economic growth is that the share of industrial output to GDP increases with a gradual decline in the share of agricultural output. However, the Indian economy exhibits a different trend. The service sector leads India's GDP growth. As a starter, 
 I wanted to educate myself on the Indian startup ecosystem. Many commentators have lauded the way it is building up. Almost all 
