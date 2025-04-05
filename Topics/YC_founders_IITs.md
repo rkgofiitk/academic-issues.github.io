@@ -77,7 +77,14 @@ us make an honest, judgemental call on the topic. There is a space for every ser
 has changed hands (Walmart bought it), and many others have. No investors (including the infamous Soros) would like to lose unless  
 it was unavoidable. So, an exit plan is an integral part of any new investment. Therefore, there is nothing wrong with having an exit plan 
 before starting a venture. However, there is a need for a well-founded, technically sound matrix to evaluate a startup idea
-rather than viewing it like a reality show on TV. 
+rather than viewing it like a reality show on TV. Well-established Indian companies do not invest much in R&D. They can access CSR routes to fund R&D. However, they use CSR funds to establish a self-controlled educational institution. It serves multiple purposes: 
+They can use tax concession to account for loss, Use the institute to accommodate requests from bureaucrats and politician
+Showcase the efforts in building educational institutes for social influences and publicity.
+I wondered why industrial houses are spending a lot on buying IPL teams. I am told a small logo on the bat of a well-known player could be 
+as expensive as 12 corers. You can build a lot of infrastructure at a government school with that money. Around the IPL ecosystem, gaming 
+apps selling merchandise and many other businesses rely on it. So, individual profitability is at the center stage rather than in 
+institution building.
+
 
 
 [Back to Index](../index.md)
