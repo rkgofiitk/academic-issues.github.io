@@ -2,25 +2,26 @@
 
 [Blog Index](../index.md)
 
-Sometime back there was a comparative bar chart in a [linkedIn post](https://www.linkedin.com/posts/abhilashchowdhary_which-iit-in-india-graduates-the-most-of-activity-7307347481678204928-2pD4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgrDmUBOuaY0LX4rtbMWEALhfFNE0L9gcc) for the number of YC Founders from IITs.
-I became curious to know the implication of being a YC founder. 
-To be honest, the existence of such a list immediately reminded me of [Schinder's List](https://www.imdb.com/title/tt0108052/), a 
+Sometime back, there was a comparative bar chart in a [linkedIn post](https://www.linkedin.com/posts/abhilashchowdhary_which-iit-in-india-graduates-the-most-of-activity-7307347481678204928-2pD4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgrDmUBOuaY0LX4rtbMWEALhfFNE0L9gcc) for the number of YC Founders from IITs.
+I became curious to know the implications of being a YC founder. 
+To be honest, the existence of such a list reminded me of [Schinder's List](https://www.imdb.com/title/tt0108052/), a 
 famous 1993 historical movie by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) adapted from the novel
 [Schindler's Ark](https://www.goodreads.com/book/show/1394875.Schindler_s_Ark) authored by Thomas Keneally. 
 The novel is based on a German Industrialist [Oskar Schindler](https://www.britannica.com/biography/Oskar-Schindler), who saved 
 thousands of Polish Jews from Hitler's Holocaust by employing them in his factories. Schindler maintained a list of people he 
-wanted to help. Hopefully, the startup culture now shaping up among India's technological institutions will give 
-much-needed Industry 4.0 revolution powered by AI, IoT, Robotics, and Computer technologies. The reader may wonder about the association 
-with Schindler's List. Early industrialization of India relied on Agri-based products, such as,
-Sugar, Rubber, Cotton, Jute, Textile, and Paper. According to Statistical abstracts related to industrialization in British India, 
-Calcutta [Jute and Collon Mills constituted about 20%](https://academic.oup.com/book/7358/chapter/152152209) of factories in India.
-[Pushing drug](https://en.wikipedia.org/wiki/Smoke_and_Ashes) was central to British East India's economy. By nature,
+wanted to help. Hopefully, the startup culture now shaping up among India's technological institutions will give much-needed 
+Industry 4.0 revolution powered by AI, IoT, Robotics, and Computer technologies. The reader may wonder about the association 
+with Schindler's List. 
+
+Early industrialization of India relied on Agri-based products, such as Sugar, Rubber, Cotton, Jute, Textile, and Paper. According 
+to Statistical abstracts related to industrialization in British India, Calcutta [Jute and Collon Mills constituted about 20%](https://academic.oup.com/book/7358/chapter/152152209) of factories in India.
+[Pushing drug](https://en.wikipedia.org/wiki/Smoke_and_Ashes) was central to the economy of British East India. By nature,
 agri-based industries are labor-intensive. So, they worked as long as the ecosystem of managers, contractors, dealers, or distributors 
 worked like a well-oiled machine ( everyone is happy in getting expected cuts). One such example is the Bengal Jute industry. 
 Indiscriminate trade Union activities in West Bengal hastened the death of the Jute industry even before it could be modernized or
 phased out. Metallurgy (mainly steel and aluminum) and chemicals followed later. TISCO was established in 1907. India produces about 
-Eighty thousand chemical products contribute 7% of GDP as of 2022, with a significant contribution from Gujrat. The other segments of Indian 
-industrial products include Machine Tools, Electrical Components, and automobiles. A substantial part of industrial output was 
+Eighty thousand chemical products contribute 7% of GDP as of 2022, with a significant contribution from Gujrat. The other segments of 
+Indian industrial products include Machine Tools, Electrical Components, and automobiles. A substantial part of industrial output was 
 dominated by [cottage and small-scale industries](https://academic.oup.com/book/7358/chapter/152152209) till 2000. High-end products
 from Indian industries have been primarily dependent on borrowed technologies. Apart from the flight of capital outside the country, the 
 supply chain was neither stable nor robust. As a result, the initial phase of India's industrialization was excruciatingly slow.
