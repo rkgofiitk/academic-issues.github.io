@@ -30,8 +30,9 @@ After independence, India declared itself a republic and established a multi-par
 power brokers found themselves orphaned by the system they worked for. It led to a chaotic existential crisis for these elements.
 The power brokers quickly organized or latched onto big political parties. Every political party requires a steady funding source to
 fight elections and stay in power. Large industrial sectors became a prime target for generating resources. The party in power
-could extract funds by leveraging licensing mechanisms. However, the opposition is handicapped by their inability to arm-twist industry
-owners. They created chaos through indiscriminate trade Union activities in the grab of safeguarding the rights of workers. West Bengal contributed 37% of India's annual revenue at that time. So, much of trade unionism sprouted from Kolkata. It hastened the
+could extract funds by leveraging licensing mechanisms. However, the opposition is handicapped by inability to arm-twist industry
+owners. They created chaos through indiscriminate trade Union activities in the grab of safeguarding the rights of workers. West Bengal 
+contributed 37% of India's annual revenue at that time. So, much of trade unionism sprouted from Kolkata. It hastened the
 death of the Jute industry even before it could be modernized or phased out. Besides the Jute industry, Kolkata had many other
 sectors, such as manufacturing electrical components, auto parts, and machine tools. However, every industry was affected by trade union
 activities. Investors were pissed off and decided to bring the shutters down. Wide-spread factory lockdowns and worker retrenchments 
