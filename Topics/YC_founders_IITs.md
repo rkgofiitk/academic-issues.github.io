@@ -1,4 +1,4 @@
-# YC Founders 
+#  Indian Startups and YC Founders List
 
 [Blog Index](../index.md)
 
