@@ -31,7 +31,7 @@ power brokers found themselves orphaned by the colonial system they worked for. 
 elements. The power brokers quickly organized or latched onto big political parties. Every political party requires a steady funding 
 source to fight elections and stay in power. Large industrial sectors became a prime target for generating resources. The party in power
 could extract funds by leveraging new post-colonial licensing mechanisms. However, the opposition is handicapped by the inability to 
-arm-twist industry owners and investors. They created chaos through indiscriminate trade Union activities in the grab of safeguarding 
+arm-twist industry owners and investors. They created chaos through indiscriminate trade union activities in the grab of safeguarding 
 the rights of workers. It hastened the death of the Jute industry even before it could be modernized or phased out. Besides the Jute 
 industry, Kolkata, Howrah, Asansol, and Durgapur industrial belt had many other sectors, such as manufacturing electrical components,
 auto parts, and machine tools. However, every industry was affected by trade union activities. Investors were pissed off and decided to 
