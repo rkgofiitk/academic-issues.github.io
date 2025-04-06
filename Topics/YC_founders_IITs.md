@@ -28,7 +28,7 @@ industrialization was excruciatingly slow.
 
 After independence, India declared itself a republic and established a multi-party rule through a universal adult franchise. Suddenly,
 power brokers found themselves orphaned by the colonial system they worked for. It led to a chaotic existential crisis for these 
-elements. The power brokers quickly organized or latched onto big political parties. Every political party requires a steady funding 
+elements. The power brokers quickly organized or latched onto political parties. Every political party requires a steady funding 
 source to fight elections and stay in power. Large industrial sectors became a prime target for generating resources. The party in power
 could extract funds by leveraging new post-colonial licensing mechanisms. However, the opposition is handicapped by the inability to 
 arm-twist industry owners and investors. They created chaos through indiscriminate trade union activities in the grab of safeguarding 
