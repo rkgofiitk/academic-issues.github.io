@@ -15,14 +15,14 @@ us dwell on the contributions of startups in ushering in the 2nd industrial revo
 Early industrialization of India relied on Agri-based products, such as Sugar, Rubber, Cotton, Jute, Textile, and Paper. Manufacturing
 has never been a strength of Indian Indian industrial sectors. It has a legacy mainly rooted in colonial rule. 
 [Pushing drug](https://en.wikipedia.org/wiki/Smoke_and_Ashes) was central to the economy of the British East India Company (EIC). Opium 
-was cultivated extensively in India's eastern part (Bihar and eastern UP) under the direct control and supervision of the Opium Department of 
-EIC. Jute, cotton, and sugarcane were other cash crops. By nature, agri-based industries are labor-intensive. According to 
+was cultivated extensively in India's eastern part (Bihar and eastern UP) under the direct control and supervision of the Opium 
+Department of EIC. Jute, cotton, and sugarcane were other cash crops. By nature, agri-based industries are labor-intensive. According to 
 Statistical abstracts related to industrialization in British India, Jute Mills, and Textile Mills [constituted about 20%](https://academic.oup.com/book/7358/chapter/152152209) 
 of factories in India. Metallurgy (mainly steel and aluminum) and chemicals followed later. TISCO was established in 1907. India 
 produced about eighty thousand chemical products, contributing 7% of GDP as of 2022, with a significant contribution from Gujrat. 
 The other segments of Indian industrial products include Machine Tools, Electrical Components, and automobiles. A substantial part 
-of industrial output was dominated by [cottage and small-scale industries](https://academic.oup.com/book/7358/chapter/152152209) till 
-2000. High-end products from Indian industries have primarily depended on borrowed technologies. Apart from the flight of 
+of industrial output was dominated by [cottage and small-scale industries](https://academic.oup.com/book/7358/chapter/152152209)
+till 2000. High-end products from Indian industries have primarily depended on borrowed technologies. Apart from the flight of 
 capital outside the country, the supply chain was neither stable nor robust. As a result, the initial phase of India's 
 industrialization was excruciatingly slow.
 
