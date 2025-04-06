@@ -46,11 +46,11 @@ There are two main reasons for this trend:
 - The low level of education and nonavailability of technically skilled personnel
 - Most investors are interested in India's huge market, not in developing technical capabilities
 
-Almost all technical institutes of repute have an incubation center that allows the hosting and seeding of startups. Everyone hoped that the 
-startup culture now shaping up among India's technological institutions would give much-needed Industry 4.0 revolution powered by AI, 
-IoT, Robotics, and Computer technologies. However, the ground reality is that only the service sector can employ the workforce with only 
-basic and secondary school education. Therefore, the YC founders from IITs are like a Schindler's List of technical capabilities. 
-I took time to come to the above conclusion. Recently, I watched a [podcast](https://www.youtube.com/watch?v=yFyIBKK361E) hosted by [Nikhi Kamath](https://en.wikipedia.org/wiki/Nikhil_Kamath) of Zeroadha. 
+Almost all technical institutes of repute have an incubation center that allows the hosting and seeding of startups. Everyone hoped 
+that the startup culture now shaping up among India's technological institutions would give much-needed Industry 4.0 revolution 
+powered by AI, IoT, Robotics, and Computer technologies. However, the ground reality is that only the service sector can employ the 
+workforce with only basic and secondary school education. Therefore, the YC founders from IITs are like a Schindler's List of technical 
+capabilities. I took time to come to the above conclusion. Recently, I watched a [podcast](https://www.youtube.com/watch?v=yFyIBKK361E) hosted by [Nikhi Kamath](https://en.wikipedia.org/wiki/Nikhil_Kamath) of Zeroadha. 
 India's startup capabilities are focused on making or branding soft drinks, restaurant business, and aggregation
 services for anything ranging from hotel and airline bookings to betting and gaming services. Only a few hard-core tech-based startups
 work in healthcare and assistive living. One or two may be in the financial security and audit system. 
@@ -99,8 +99,8 @@ itself from its colonial legacy in policy making.
 - The "bureaucratic muscle is still strong" (euphemism intended)
 
 We Indians love to talk a lot. My post is also "one more addition." However, let us make an honest and non-judgemental call on the topic. 
-There was a space for every service startup that has succeeded. Flipkart and many others may have changed hands (Walmart bought 
-Flipkart). Yet some entrepreneurs like Sridhar Vembu could successfully build a 5000cr enterprise, Zoho, from scratch. No investors 
+There was a space for every service startup that has succeeded. Flipkart (sold to Walmart) and many others may have changed hands. 
+Yet some entrepreneurs like Sridhar Vembu could successfully build a 5000cr tech enterprise, Zoho, from scratch. No investors 
 (including the infamous Soros) would like to lose unless it was unavoidable. So, an exit plan is an integral part of any new 
 investment. Therefore, there is nothing wrong with having an exit plan before starting a venture. However, there is a need for well-
 founded, technically sound metrics to evaluate a startup idea rather than viewing it like a reality show on TV. Well-established 
