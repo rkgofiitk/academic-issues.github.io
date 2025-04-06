@@ -9,17 +9,17 @@ famous 1993 historical movie by [Steven Spielberg](https://en.wikipedia.org/wiki
 [Schindler's Ark](https://www.goodreads.com/book/show/1394875.Schindler_s_Ark) authored by Thomas Keneally. 
 The novel is based on a German Industrialist [Oskar Schindler](https://www.britannica.com/biography/Oskar-Schindler), who saved 
 thousands of Polish Jews from Hitler's Holocaust by employing them in his factories. Schindler maintained a list of people he 
-wanted to help. Hopefully, the startup culture now shaping up among India's technological institutions will give much-needed 
-Industry 4.0 revolution powered by AI, IoT, Robotics, and Computer technologies. The reader may wonder about the association 
-with Schindler's List. 
+wanted to help. The reader may wonder about the association with Schindler's List. We will make the connection later. Let
+us dwell on the contributions of startups in ushering in the 2nd industrial revolution in India.
 
-Early industrialization of India relied on Agri-based products, such as Sugar, Rubber, Cotton, Jute, Textile, and Paper.
+Early industrialization of India relied on Agri-based products, such as Sugar, Rubber, Cotton, Jute, Textile, and Paper. Manufacturing
+has never been a strength of Indian Indian industrial sectors. It has a legacy mainly rooted in colonial rule. 
 [Pushing drug](https://en.wikipedia.org/wiki/Smoke_and_Ashes) was central to the economy of British East India. Opium was cultivated
-extensively in India's eastern part (Bihar and eastern UP). Jute and cotton are other cash crops. Jute was mainly grown in 
+extensively in India's eastern part (Bihar and eastern UP). Jute, cotton, and sugarcane were other cash crops. Jute was mainly grown in 
 Bengal. By nature, agri-based industries are labor-intensive. According to Statistical abstracts related to industrialization in
-British India, Calcutta [Jute and Collon Mills constituted about 20%](https://academic.oup.com/book/7358/chapter/152152209) of 
+British India, Jute Mills, and Textile Mills [constituted about 20%](https://academic.oup.com/book/7358/chapter/152152209) of 
 factories in India. Metallurgy (mainly steel and aluminum) and chemicals followed later. TISCO was established in 1907. India 
-produces about eighty thousand chemical products, contributing 7% of GDP as of 2022, with a significant contribution from Gujrat. 
+produced about eighty thousand chemical products, contributing 7% of GDP as of 2022, with a significant contribution from Gujrat. 
 The other segments of Indian industrial products include Machine Tools, Electrical Components, and automobiles. A substantial part 
 of industrial output was dominated by [cottage and small-scale industries](https://academic.oup.com/book/7358/chapter/152152209) till 
 2000. High-end products from Indian industries have primarily depended on borrowed technologies. Apart from the flight of 
@@ -27,18 +27,18 @@ capital outside the country, the supply chain was neither stable nor robust. As 
 industrialization was excruciatingly slow.
 
 After independence, India declared itself a republic and established a multi-party rule through a universal adult franchise. Suddenly,
-power brokers found themselves orphaned by the system they worked for. It led to a chaotic existential crisis for these elements.
-The power brokers quickly organized or latched onto big political parties. Every political party requires a steady funding source to
-fight elections and stay in power. Large industrial sectors became a prime target for generating resources. The party in power
-could extract funds by leveraging licensing mechanisms. However, the opposition is handicapped by inability to arm-twist industry
-owners. They created chaos through indiscriminate trade Union activities in the grab of safeguarding the rights of workers. West Bengal 
-contributed 37% of India's annual revenue at that time. So, much of trade unionism sprouted from Kolkata. It hastened the
-death of the Jute industry even before it could be modernized or phased out. Besides the Jute industry, Kolkata had many other
-sectors, such as manufacturing electrical components, auto parts, and machine tools. However, every industry was affected by trade union
-activities. Investors were pissed off and decided to bring the shutters down. Wide-spread factory lockdowns and worker retrenchments 
-followed. 
+power brokers found themselves orphaned by the colonial system they worked for. It led to a chaotic existential crisis for these 
+elements. The power brokers quickly organized or latched onto big political parties. Every political party requires a steady funding 
+source to fight elections and stay in power. Large industrial sectors became a prime target for generating resources. The party in power
+could extract funds by leveraging new post-colonial licensing mechanisms. However, the opposition is handicapped by the inability to 
+arm-twist industry owners and investors. They created chaos through indiscriminate trade Union activities in the grab of safeguarding 
+the rights of workers. It hastened the death of the Jute industry even before it could be modernized or phased out. Besides the Jute 
+industry, Kolkata, Howrah, Asansol, and Durgapur industrial belt had many other sectors, such as manufacturing electrical components,
+auto parts, and machine tools. However, every industry was affected by trade union activities. Investors were pissed off and decided to 
+bring the shutters down. Wide-spread factory lockdowns and worker retrenchments followed. 
 
-A general trend in economic growth is that the share of industrial output to GDP increases with a gradual decline in the share of agricultural output. However, the Indian economy exhibits a different trend. The service sector leads India's GDP growth. As a starter, 
+A general trend in economic growth is that the share of industrial output to GDP increases with a gradual decline in the share of 
+agricultural output. However, the Indian economy exhibits a different trend. The service sector leads India's GDP growth. As a starter, 
 I wanted to educate myself on the Indian startup ecosystem. Many commentators have lauded the way it is building up. Almost all 
 technical institutes of repute have an incubation center and allow seeding startups. The startup ecosystem in India is mainly building 
 up around the service sector. Flipkart, Zepto, Zomato, Oyo, Ola, etc., are not adding much to India's manufacturing capabilities. There 
@@ -46,11 +46,13 @@ are two main reasons for this trend:
 - The low level of education and nonavailability of technically skilled personnel
 - Most investors are interested in India's huge market, not in developing technical capabilities
 
-The service sector employs many workers with basic and secondary school education. Therefore, the list of YC founders from
-IITs are like a Schindler's List of technical capabilities. I took time to come to the above conclusion. Recently, I watched a [podcast](https://www.youtube.com/watch?v=yFyIBKK361E) hosted by [Nikhi Kamath](https://en.wikipedia.org/wiki/Nikhil_Kamath) of Zeroadha. India's 
-startup capabilities are focused on making or branding soft drinks, restaurant business, and aggregation
+Everyone hoped that the startup culture now shaping up among India's technological institutions would give much-needed Industry 4.0 
+revolution powered by AI, IoT, Robotics, and Computer technologies. However, the ground reality is that only the service sector can employ the workforce with only basic and secondary school education. Therefore, the list of YC founders from
+IITs are like a Schindler's List of technical capabilities. I took time to come to the above conclusion. Recently, I watched a 
+[podcast](https://www.youtube.com/watch?v=yFyIBKK361E) hosted by [Nikhi Kamath](https://en.wikipedia.org/wiki/Nikhil_Kamath) of Zeroadha. 
+India's startup capabilities are focused on making or branding soft drinks, restaurant business, and aggregation
 services for anything ranging from hotel and airline bookings to betting and gaming services. Only a few hard-core tech-based startups
-work in healthcare and assistive living. One or two may be in the financial security and audit system.  
+work in healthcare and assistive living. One or two may be in the financial security and audit system. 
 
 Returning to the original discussion thread about YC founders, I noticed [Y Combinator](https://www.ycombinator.com/) invests 
 about USD 500,000 in every company founded by each YC founder. It runs an interesting and unique model that propels YC founders in 
@@ -63,11 +65,12 @@ for this:
 - The technology developed by the startup is based on a potentially earth-shattering idea or
 - It can quickly generate capital inflow for the work YC is doing in the US.
 
-Ultimately, a business model has no philanthropic angle unless the generative part of wealth is missing. One thing I found missing in a 
-LinkedIn post is the number of resident founders in India. YC directory lists six India-based companies: Razorpay, Zepto, Meesho,
-Groww, RedCarpetUp, and DripCapital. Four work in the fintech service, and two (Meesho and Zepto)in the e-commerce area. Therefore,
-YC founders in India are contributing nothing to building technical capabilities in the manufacturing sector. Let me expand a bit on the 
-list before discussing its impacts to influence serious watchers interested in the potential of India's manufacturing capabilities. 
+Ultimately, a business model cannot survive with a philanthropic model unless the wealth generation is missing. One thing I found 
+missing in a LinkedIn post is the number of resident founders in India. YC directory lists six India-based companies: Razorpay, 
+Zepto, Meesho, Groww, RedCarpetUp, and DripCapital. Four work in the fintech service, and two (Meesho and Zepto)in the e-commerce 
+area. Therefore, YC founders in India contribute hardly anything to building technical capabilities. 
+Let me expand a bit on the list before discussing its impacts to influence serious watchers interested in the potential of 
+India's manufacturing capabilities. 
 
 The [comparative barchart](../images/yc_founders_iits.png) post on YC founders from IITs suggests IIT Bombay has a better 
 entrepreneurial ecosystem than others. Is that the case? The IIT Bombay alum network is as strong as the networks of
@@ -87,22 +90,26 @@ students unless one is obsessively fixated.
 
 Before wrapping up this post on YC founder, I'd like to make a few points about leveraging the startup ecosystem to build the country's
 push toward 2nd industrialization. The commerce minister stirred a hornet's nest in his recent comment on Indian startups. Mohandas
-Pie immediately defended the startups and said that many government policy decisions are not helping. Instead of criticizing, the 
-minister should make a policy introspection. We Indians love to talk a lot. My post is also "one more addition." However, let
-us make an honest, non-judgemental call on the topic. There was a space for every service startup that has succeeded. Though Flipkart 
-has changed hands (Walmart bought it), and many others may have, there are entrepreneurs like Sridhar Vemu of Zoho. No investors 
-(including the infamous Soros) would like to lose unless it was unavoidable. So, an exit plan is an integral part of any new 
-investment. Therefore, there is nothing wrong with having an exit plan before starting a venture. However, there is a need for  
-well-founded, technically sound metrics to evaluate a startup idea rather than viewing it like a reality show on TV. Well-established 
-Indian companies do not invest much in R&D. They can access CSR routes to fund R&D. However, they use CSR funds to establish a self-
-controlled educational institution. It serves multiple purposes: 
+Pie immediately jumped on to defend the startups. However, both sides justify certain aspects of criticism. I think
+- Many government policy decisions are not helping.
+- Instead of criticizing, the minister should make a policy introspection.
+- Complex web of tax laws, GST, and other clearances to run an enterprise.
+- The "bureaucratic muscle is still strong" (euphemism intended)
+
+We Indians love to talk a lot. My post is also "one more addition." However, let us make an honest and non-judgemental call on the topic. 
+There was a space for every service startup that has succeeded. Though Flipkart has changed hands (Walmart bought it), and many others 
+may have. Yet some entrepreneurs like Sridhar Vembu of Zoho built a 5000cr enterprise from scratch. No investors (including the infamous Soros) would like to lose unless 
+it was unavoidable. So, an exit plan is an integral part of any new investment. Therefore, there is nothing wrong with having an exit 
+plan before starting a venture. However, there is a need for well-founded, technically sound metrics to evaluate a startup idea rather 
+than viewing it like a reality show on TV. Well-established Indian companies do not invest much in R&D. They can access CSR routes to 
+fund R&D. However, they use CSR funds to establish a self-controlled educational institution. It serves multiple purposes: 
 - They can use tax concession to account for loss,
 - Use the institute to accommodate requests from bureaucrats and politicians
 - Showcase the efforts in building educational institutes for social influences and publicity.
 
 Why do industrial houses spend a lot on buying IPL teams? I am told a small logo on the bat of a well-known player could be as expensive
-as 12.5 corers. You can build a lot of infrastructure at a government school with that money. Around the IPL ecosystem, gaming apps 
-sell merchandise and many other businesses. So, individual profitability is at the center stage rather than in institution building.
+as 12.5 corers. With that money, we can build a lot of infrastructure at a government school. Around the IPL ecosystem, gaming apps 
+sell merchandise and many other businesses. So, individual profitability is at the center stage rather than in institution building. 
 
 
 
