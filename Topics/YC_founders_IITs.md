@@ -98,7 +98,7 @@ from its colonial legacy in policy making.
 - The "bureaucratic muscle is still strong" (euphemism intended)
 
 We Indians love to talk a lot. My post is also "one more addition." However, let us make an honest and non-judgemental call on the topic. 
-There was a space for every service startup that has succeeded. Though Flipkart has changed hands (Walmart bought it), and many others 
+There was a space for every service startup that has succeeded. Flipkart has changed hands (Walmart bought it), and many others 
 may have. Yet some entrepreneurs like Sridhar Vembu of Zoho built a 5000cr enterprise from scratch. No investors (including the infamous Soros) would like to lose unless 
 it was unavoidable. So, an exit plan is an integral part of any new investment. Therefore, there is nothing wrong with having an exit 
 plan before starting a venture. However, there is a need for well-founded, technically sound metrics to evaluate a startup idea rather 
