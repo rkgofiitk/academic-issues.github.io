@@ -14,9 +14,9 @@ us dwell on the contributions of startups in ushering in the 2nd industrial revo
 
 Early industrialization of India relied on Agri-based products, such as Sugar, Rubber, Cotton, Jute, Textile, and Paper. Manufacturing
 has never been a strength of Indian Indian industrial sectors. It has a legacy mainly rooted in colonial rule. 
-[Pushing drug](https://en.wikipedia.org/wiki/Smoke_and_Ashes) was central to the economy of British East India Company (EIC). Opium 
-was cultivated extensively in India's eastern part (Bihar and eastern UP) under direct control and supervision of Opium Department of 
-EIC. Jute, cotton, and sugarcane were other cash crops.  By nature, agri-based industries are labor-intensive. According to 
+[Pushing drug](https://en.wikipedia.org/wiki/Smoke_and_Ashes) was central to the economy of the British East India Company (EIC). Opium 
+was cultivated extensively in India's eastern part (Bihar and eastern UP) under the direct control and supervision of the Opium Department of 
+EIC. Jute, cotton, and sugarcane were other cash crops. By nature, agri-based industries are labor-intensive. According to 
 Statistical abstracts related to industrialization in British India, Jute Mills, and Textile Mills [constituted about 20%](https://academic.oup.com/book/7358/chapter/152152209) 
 of factories in India. Metallurgy (mainly steel and aluminum) and chemicals followed later. TISCO was established in 1907. India 
 produced about eighty thousand chemical products, contributing 7% of GDP as of 2022, with a significant contribution from Gujrat. 
@@ -32,24 +32,25 @@ elements. The power brokers quickly organized or latched onto political parties.
 source to fight elections and stay in power. Large industrial sectors became a prime target for generating resources. The party in power
 could extract funds by leveraging new post-colonial licensing mechanisms. However, the opposition is handicapped by the inability to 
 arm-twist industry owners and investors. They created chaos through indiscriminate trade union activities in the grab of safeguarding 
-the rights of workers. It hastened the death of the Jute industry even before it could be modernized or phased out. Besides the Jute 
-industry, Kolkata, Howrah, Asansol, and Durgapur industrial belt had many other sectors, such as manufacturing electrical components,
+the rights of workers. It hastened the death of the Jute industry even before it could be modernized or phased out. Besides the Jute, 
+the factories in the industrial belt of eastern India (Kolkata, Howrah, Asansol, and Durgapur) manufactured electrical components,
 auto parts, and machine tools. However, every industry was affected by trade union activities. Investors were pissed off and decided to 
 bring the shutters down. Wide-spread factory lockdowns and worker retrenchments followed. 
 
 A general trend in economic growth is that the share of industrial output to GDP increases with a gradual decline in the share of 
-agricultural output. However, the Indian economy exhibits a different trend. The service sector leads India's GDP growth. As a starter, 
-I wanted to educate myself on the Indian startup ecosystem. Many commentators have lauded the way it is building up. Almost all 
-technical institutes of repute have an incubation center and allow seeding startups. The startup ecosystem in India is mainly building 
-up around the service sector. Flipkart, Zepto, Zomato, Oyo, Ola, etc., are not adding much to India's manufacturing capabilities. There 
-are two main reasons for this trend:
+agricultural output. However, the Indian economy exhibits a different trend. The service sector leads India's GDP growth. 
+The startup ecosystem in India is mainly building up around the service sector. Flipkart, Zepto, Zomato, Oyo, Ola, etc., are not 
+adding much to India's manufacturing capabilities. However, many commentators think service sector-led growth is the way forward
+for the Indian economy. Raghuram Rajan was critical of government efforts to focus on manufacturing. He says that India's growth should be led by [the service sector](https://www.moneycontrol.com/news/india/raghuram-rajan-advocates-service-led-growth-human-capital-development-to-secure-indias-economic-future-12799976.html).
+There are two main reasons for this trend:
 - The low level of education and nonavailability of technically skilled personnel
 - Most investors are interested in India's huge market, not in developing technical capabilities
 
-Everyone hoped that the startup culture now shaping up among India's technological institutions would give much-needed Industry 4.0 
-revolution powered by AI, IoT, Robotics, and Computer technologies. However, the ground reality is that only the service sector can employ the workforce with only basic and secondary school education. Therefore, the list of YC founders from
-IITs are like a Schindler's List of technical capabilities. I took time to come to the above conclusion. Recently, I watched a 
-[podcast](https://www.youtube.com/watch?v=yFyIBKK361E) hosted by [Nikhi Kamath](https://en.wikipedia.org/wiki/Nikhil_Kamath) of Zeroadha. 
+Almost all technical institutes of repute have an incubation center that allows the hosting and seeding of startups. Everyone hoped that the 
+startup culture now shaping up among India's technological institutions would give much-needed Industry 4.0 revolution powered by AI, 
+IoT, Robotics, and Computer technologies. However, the ground reality is that only the service sector can employ the workforce with only 
+basic and secondary school education. Therefore, the YC founders from IITs are like a Schindler's List of technical capabilities. 
+I took time to come to the above conclusion. Recently, I watched a [podcast](https://www.youtube.com/watch?v=yFyIBKK361E) hosted by [Nikhi Kamath](https://en.wikipedia.org/wiki/Nikhil_Kamath) of Zeroadha. 
 India's startup capabilities are focused on making or branding soft drinks, restaurant business, and aggregation
 services for anything ranging from hotel and airline bookings to betting and gaming services. Only a few hard-core tech-based startups
 work in healthcare and assistive living. One or two may be in the financial security and audit system. 
@@ -98,8 +99,8 @@ itself from its colonial legacy in policy making.
 - The "bureaucratic muscle is still strong" (euphemism intended)
 
 We Indians love to talk a lot. My post is also "one more addition." However, let us make an honest and non-judgemental call on the topic. 
-There was a space for every service startup that has succeeded. Flipkart has changed hands (Walmart bought it), and many others 
-may have. Yet some entrepreneurs like Sridhar Vembu could successfully build a 5000cr enterprise Zoho from scratch. No investors 
+There was a space for every service startup that has succeeded. Flipkart and many others may have changed hands (Walmart bought 
+Flipkart). Yet some entrepreneurs like Sridhar Vembu could successfully build a 5000cr enterprise, Zoho, from scratch. No investors 
 (including the infamous Soros) would like to lose unless it was unavoidable. So, an exit plan is an integral part of any new 
 investment. Therefore, there is nothing wrong with having an exit plan before starting a venture. However, there is a need for well-
 founded, technically sound metrics to evaluate a startup idea rather than viewing it like a reality show on TV. Well-established 
