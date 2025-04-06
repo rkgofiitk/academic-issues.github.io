@@ -89,9 +89,9 @@ are "mathematicians masquerading as computer scientists." So, deciding to go for
 students unless one is obsessively fixated. 
 
 Before wrapping up this post on YC founder, I'd like to make a few points about leveraging the startup ecosystem to build the country's
-push toward Industry 4.0. The commerce minister stirred a hornet's nest in his recent comment on Indian startups. Mohandas
-Pie immediately jumped on to defend the startups. Both sides have some valid points. However, the government has yet to redeem itself 
-from its colonial legacy in policy making. 
+push toward Industry 4.0. The commerce minister stirred a hornet's nest in his recent comment on Indian startups. [Mohandas
+Pai](https://www.financialexpress.com/trending/where-is-the-capital-mohandas-pai-fires-back-after-goyals-critique-of-food-grocery-apps-at-mahakumbh/3798448/) immediately jumped on to defend the startups. Both sides have some valid points. The government has yet to redeem 
+itself from its colonial legacy in policy making. 
 - Many government policy decisions are not helping.
 - Instead of criticizing, the minister should make a policy introspection.
 - Complex web of tax laws, GST, and other clearances to run an enterprise.
