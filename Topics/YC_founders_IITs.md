@@ -85,7 +85,7 @@ as IIT Delhi is that it has the largest student intake among the older IITs and 
 found in other IITs. The culture of startups in the country was primarily a recent phenomenon when the government-
 backed a movement for make in India following COVID-19-related economic depression. Almost 70-75% of the 
 professors in the CSE department at IIT Kanpur worked in theory. One often repeated quote about the department is that these professors
-are mathematicians masquerading as computer scientists. So, deciding to go for a startup for IIT Kanpur was difficult for the CSE
+are "mathematicians masquerading as computer scientists." So, deciding to go for a startup for IIT Kanpur was difficult for the CSE
 students unless one is obsessively fixated. 
 
 Before wrapping up this post on YC founder, I'd like to make a few points about leveraging the startup ecosystem to build the country's
