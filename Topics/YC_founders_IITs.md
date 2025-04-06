@@ -2,7 +2,7 @@
 
 [Blog Index](../index.md)
 
-Sometime back, there was a comparative bar chart in a [linkedIn post](https://www.linkedin.com/posts/abhilashchowdhary_which-iit-in-india-graduates-the-most-of-activity-7307347481678204928-2pD4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgrDmUBOuaY0LX4rtbMWEALhfFNE0L9gcc) for the number of YC Founders from IITs.
+Two weeks back, I came across a comparative bar chart in a [linkedIn post](https://www.linkedin.com/posts/abhilashchowdhary_which-iit-in-india-graduates-the-most-of-activity-7307347481678204928-2pD4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgrDmUBOuaY0LX4rtbMWEALhfFNE0L9gcc) for the number of YC Founders from IITs.
 I became curious to know the implications of being a YC founder. 
 To be honest, the existence of such a list reminded me of [Schinder's List](https://www.imdb.com/title/tt0108052/), a 
 famous 1993 historical movie by [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) adapted from the novel
