@@ -57,7 +57,7 @@ work in healthcare and assistive living. One or two may be in the financial secu
 
 Returning to the original discussion thread about YC founders, I noticed [Y Combinator](https://www.ycombinator.com/) invests 
 about USD 500,000 in every company founded by each YC founder. It runs an interesting and unique model that propels YC founders in 
-their endeavors. YC is an American startup accelerator founded in 2005 by the trio Paul Graham, Jessica Livingston, Robert Tappan 
+their endeavors. YC is an American startup accelerator founded in 2005 by the quartet Paul Graham, Jessica Livingston, Robert Tappan 
 Morris, and Trevor Blackwell. It has over 9000 founders in its alum directory. So, we are talking about how many IIT graduates sought
 help from YC to establish their companies in the USA. I am not sure if any of these companies have an Indian subsidiary or plans to
 have one in the future. They have an outreach program in 11 countries, including India. However, I found it hard to convince myself 
