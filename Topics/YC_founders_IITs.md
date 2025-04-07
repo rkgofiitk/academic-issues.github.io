@@ -68,7 +68,7 @@ for this:
 
 Ultimately, a business model cannot survive with a philanthropic model unless the wealth generation is missing. One thing I found 
 missing in a LinkedIn post is the number of resident founders in India. YC directory lists six India-based companies: Razorpay, 
-Zepto, Meesho, Groww, RedCarpetUp, and DripCapital. Four work in the fintech service, and two (Meesho and Zepto)in the e-commerce 
+Zepto, Meesho, Groww, RedCarpetUp, and DripCapital. Four work in the fintech service, and two (Meesho and Zepto) in the e-commerce 
 area. Therefore, YC founders in India contribute hardly anything to building technical capabilities. 
 Let me expand a bit on the list before discussing its impacts to influence serious watchers interested in the potential of 
 India's manufacturing capabilities. 
