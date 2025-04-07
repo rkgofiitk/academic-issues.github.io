@@ -50,7 +50,7 @@ Almost all technical institutes of repute have an incubation center that allows 
 that the startup culture now shaping up among India's technological institutions would give much-needed Industry 4.0 revolution 
 powered by AI, IoT, Robotics, and Computer technologies. However, the ground reality is that only the service sector can employ the 
 workforce with only basic and secondary school education. Therefore, the YC founders from IITs are like a Schindler's List of technical 
-capabilities. I took time to come to the above conclusion. Recently, I watched a [podcast](https://www.youtube.com/watch?v=yFyIBKK361E) hosted by [Nikhi Kamath](https://en.wikipedia.org/wiki/Nikhil_Kamath) of Zerodha. 
+capabilities. I took time to come to the above conclusion. Recently, I watched a [podcast](https://www.youtube.com/watch?v=yFyIBKK361E) hosted by [Nikhil Kamath](https://en.wikipedia.org/wiki/Nikhil_Kamath) of Zerodha. 
 India's startup capabilities are focused on making or branding soft drinks, restaurant business, and aggregation
 services for anything ranging from hotel and airline bookings to betting and gaming services. Only a few hard-core tech-based startups
 work in healthcare and assistive living. One or two may be in the financial security and audit system. 
