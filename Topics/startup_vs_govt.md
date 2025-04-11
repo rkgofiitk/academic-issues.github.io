@@ -13,9 +13,14 @@ with Indian system. The Indian bureaucratic system which is supposed to provide 
 framework often exert checks more than balance. If one reads Pai's remark between the lines, it becomes
 clear that he wanted to point out the official "extortion scheme" in the name of check and licensing.
 The "Jijjia" mindset of Indian rulers has not quite died. The legacy of terror that East India Company
-unbriddled "extortion scheme" over Indian Indigo farmers, textile artisan, opium farmers were passed on 
-in a refined form as "license raj" in post-colonial congress-led government. The strangle-hold of 
-"extortion scheme" remained in place through reformed form of "British Administrative Service" which
+unbriddled "extortion scheme" over Indian opium, indigo, cotton farmers and textile artisan were passed on 
+in a refined form as "license raj" in post-colonial congress-led government. Congress party ruled India
+for about six decades and BJP nearing almost 3 decades. However, the strangle-hold of colonial
+"extortion scheme" remained in place through apartus like "India Administrative Service" and many
+investigative agencies. Of course, checks are extremely important so are the balances. Indian bureaucratic
+structure has significance more as a "Licensed Bouncer" for running extortion schemes. 
+
+
 we know as Indian "Administrative Service." For last 78 years, the political establishment did not
 take the bitter pill of reforming IAS and Police Service. As a result the affable, suave looking
 "bureaucratic bouncers" 
