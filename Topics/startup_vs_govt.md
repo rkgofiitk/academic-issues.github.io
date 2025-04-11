@@ -1,16 +1,20 @@
 # Startup versus Government
 
-A week back in another post, I made a reference to Commerce Minister Piyus Goyal's address to a government
-sponsored event called "Startup Mahakumbh." Goyal said the government wants startup to build precision and
-high-level technical capabilities in manufacturing sectors with AI and robotics. Unfortunately, his 
-address included a controversial remark saying that a majority of Indian startups appear to focus on 
-non-technical service-oriented ventures. His refernce to kids of rich people taking advantage of startup
-focus to make money though online grocery or food-delivery, branding soft-drinks, etc. Once such startups
-reach a substantial valuation the founders look for exit options. 
+A week back in [another post](./YC_founders_IITs.md), I made a reference to Commerce Minister Piyus Goyal's 
+address to a government sponsored event called "[Startup Mahakumbh](https://startupmahakumbh.org)." Goyal 
+said while they (meaning China) are focusing on EV battery technology, building next generation factories 
+using machine learning, AI and Robotics, our startups are focused on [consumerism](https://www.indiatoday.in/business/story/piyush-goyal-india-startups-grocery-delivery-comparison-china-ai-zepto-ceo-mohandas-pai-2703750-2025-04-04).
+Unfortunately, Goyal's address included a dig at Indian startup ecosystem by making a rhetorical remark
+"Dukandari karna hai kya?" In plain English it means "Open a grocery store instead a startup."  He went 
+on to say that a majority of Indian startups are promoted by kids of rich people with spare money. Most
+startups turning umemployed cheap labor into delivery boys and girls. Once such startups reach a substantial 
+valuation the founders look for an exit. He urged startups to focus on innovations like semi-conductor, 
+chip making, EV technology.
 
-Mohandas Pai was quick to criticize Goyal. According to him starting a startup in India is a not a joke
-with Indian system. The Indian bureaucratic system which is supposed to provide a check and balance 
-framework often exert checks more than balance. If one reads Pai's remark between the lines, it becomes
+Mohandas Pai was quick to [criticize Goyal](https://www.moneycontrol.com/news/india/mohandas-pai-counters-piyush-goyals-attack-what-has-he-done-to-help-deep-tech-startups-in-india-12984274.html). 
+Pai bashed up Piyush Goyal with some home truth about government policies. Starting any new venture in India 
+is a not a joke with Indian system. The Indian bureaucratic system which is supposed to provide a "checks and balances" 
+framework often exert only checks without any balance. If one reads Pai's remark between the lines, it becomes
 clear that he wanted to point out the official "extortion scheme" in the name of check and licensing.
 The "Jijjia" mindset of Indian rulers has not quite died. The legacy of terror that East India Company
 unbriddled "extortion scheme" over Indian opium, indigo, cotton farmers and textile artisan were passed on 
