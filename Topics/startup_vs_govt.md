@@ -15,7 +15,7 @@ Lamberghini. He urged startups to focus on innovations like semi-conductor, chip
 
   <div class="container">
   <img src="../images/startup_controversy.png" style="width:200px;height:200px;align:center">
-   <div class="overlay">ChatCPT's Ghibli image generator</div>
+   <div class="overlay">OpenAI Ghibli style image creation</div>
   </div>
 
 
