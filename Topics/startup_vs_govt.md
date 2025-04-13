@@ -82,20 +82,22 @@ The breakup of Chinese GDP is:
 Service sector contributes 54% to India's GDP. So, the corresponding GDP statistics are comparable. Our 
 Industry contributes 30% which is slightly low, but agriculture output is 16%. Obviously the agriculture 
 cannot sustain its GDP contribution the rate at 16% when economy expands. The only way it can happen is 
-substantially absolute increase in output from Industry and Services. So, in terms absolute value, there 
-is still a lot of space for GDP growth led by services. The constituents that make up GDP output are 
-dynamic in nature. Chinese high-tech innovation contributes approximately 14%. Therefore, I think it is unfair 
-to say rich kids with startups turning poor unemployed youth to delivery boys and girls. Though I have 
-no comparable data from China, but I believe about 25% of Chinese workforce are engaged in delivery of
-food, medicines, grocery, etc. In India the employment in logistic and supply chain is increasing. However,
-I believe it won't be more than 80 million. Therefore, I am baffled by the minister's comment that 
-startups are turning poor unemployed youths to "delivery boys and girls." The question that naturally
-comes up is does the government has a better offer for the unemployed youth?
+the output from Industry and Services increase both percentage-wise and in absolute value. So, there 
+is still a lot of space for GDP growth led by services on absolute value. The constituents that make up 
+GDP output are dynamic in nature. Chinese high-tech innovation contributes approximately 14%. Therefore, 
+I think it is unfair to say rich kids with startups turning poor unemployed youth to delivery boys and girls. 
+Though I have no comparable data from China, but believe about 25% of Chinese workforce are engaged in 
+delivery of e-commerce, food, and mobility activities related to logistic and supply chain. As far as  
+India is concerned the estimated workforce in service delivery sector will be much less than 100 million. 
+Therefore, it is a bit surprising to hear the minister's remark that startups are turning poor unemployed 
+youths to "delivery boys and girls." The question that naturally arises is: does the government has a 
+better offer for the unemployed youth?
 
 However, I think 10mts delivery promise is exploitative. Zomata, Swiggy, Blinkit, Big Basket, Zepto are 
-indulging in such exploitative labour practices. In urban ares it puts pressure on delivery boys and girls
-who carry a 35-40kg load and move in unstable 2-wheelers. I doubt if these company provide insurance 
-cover to their employees. 
+indulging in such exploitative labour practices. In urban areas it puts immense pressure on delivery boys 
+and girls who carry a 35-40kg load and move in unstable 2-wheelers. I doubt if any of these companies
+provide insurance cover. They usually oursource the delivery to smaller courier companies or even subsidiaries. 
+The responsibilities of any fatalities are only vicarious and the courts will not interfere even if one chooses to drag them.  
 
 One needs to study how Chinese culture of startups has evolved over the years from the time of Deng Xiao Peng.
 China is now home to approximately 10k startups with about 250 unicorns. In Chinese system of governance 
