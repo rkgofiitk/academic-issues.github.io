@@ -103,7 +103,7 @@ One needs to study how Chinese culture of startups has evolved over the years fr
 China is now home to approximately 10k startups with about 250 unicorns. There are major differences in two systems:
 - In Chinese system, corruption, leakage and extortion are limited only to CCP
 - India runs a multi-party democratic system with a fedral structure
-- States and center have different set of tax law, licensing and permit to operate business and industries.
+- States and center have different set of tax laws, licensing and permits requirements.
 - Chinese startup are government supported with emphasis on deep-tech innovations.
 - Indian startups grew organically with government support restricted to tax concessions and speedy clearances.
 - Indian startups focused on "jugad" paradigm with a frugal survival kit.
