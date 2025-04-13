@@ -14,7 +14,7 @@ a substantial market valuation the founders look for an exit. Founders are inter
 Lamberghini. He urged startups to focus on innovations like semi-conductor, chip making, EV technology.
 
   <div class="container">
-  <img src="../images/startup_controversy.png" style="width:200px;height:200px;">
+  <img src="../images/startup_controversy.png" style="width:200px;height:200px;align:center">
    <div class="overlay">Ghibli image by ChatGPT Image creation</div>
   </div>
 
