@@ -15,10 +15,11 @@ Lamberghini. He urged startups to focus on innovations like semi-conductor, chip
 
 Mohandas Pai was quick to [criticize Goyal](https://www.moneycontrol.com/news/india/mohandas-pai-counters-piyush-goyals-attack-what-has-he-done-to-help-deep-tech-startups-in-india-12984274.html). Pai slammed Piyush 
 Goyal with some hard hitting home truth about government bureaucracy. Starting any
-new venture in India is a not easy. Successive Indian governments have carefully preserved the  
-"obnoxious colonial bureaucratic framework" without dismantling or much reforms.  Instead of ensuring
-"checks and balances", the framework exert only checks without any balance. If one reads Pai's remarks carefully between the lines, it becomes clear that the bureaucracy is running an official "extortion scheme" in 
-the grab of "licensing and permits." The "Jijjia" mindset of both mughal and colonial rulers is kicking 
+new venture in India is a not easy. Successive Indian governments have carefully preserved the "obnoxious 
+colonial bureaucratic framework" without dismantling or much reforms.  Instead of ensuring
+"checks and balances", the framework exert only checks without any balance. If one reads Pai's remarks 
+carefully between the lines, it becomes clear that the bureaucracy is running an official "extortion scheme" 
+in the grab of "licensing and permits." The "Jijjia" mindset of both mughal and colonial rulers is kicking 
 well and alive. The legacy of "unbriddled extortion" and terror that East India Company uleashed over 
 Indian opium, indigo, cotton farmers and textile artisan by the British East India Company were passed 
 on in a refined form as "license and permit raj" in post-colonial congress-led governments. The congress 
