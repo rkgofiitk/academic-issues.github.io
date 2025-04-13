@@ -1,4 +1,4 @@
-``# Startup versus Government
+# Startup versus Government
 
 [Blog Index](../index.md)
 
