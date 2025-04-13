@@ -101,7 +101,7 @@ The responsibilities of any fatalities are only vicarious and the courts will no
 
 One needs to study how Chinese culture of startups has evolved over the years from the time of Deng Xiao Peng.
 China is now home to approximately 10k startups with about 250 unicorns. There are major differences in two systems:
-- In Chinese system, corruption, leakage and extortion are limited to one political establishment, i.e., CCP
+- In Chinese system, corruption, leakage and extortion are limited only to CCP
 - India runs a multi-party democratic system with a fedral structure
 - States and center have different set of tax law, licensing and permit to operate business and industries.
 - Chinese startup are government supported with emphasis on deep-tech innovations.
