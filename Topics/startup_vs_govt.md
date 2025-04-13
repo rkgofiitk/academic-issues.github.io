@@ -1,4 +1,4 @@
-# Startup versus Government
+``# Startup versus Government
 
 [Blog Index](../index.md)
 
@@ -96,7 +96,7 @@ better offer for the unemployed youth?
 However, I think 10mts delivery promise is exploitative. Zomata, Swiggy, Blinkit, Big Basket, Zepto are 
 indulging in such exploitative labour practices. In urban areas it puts immense pressure on delivery boys 
 and girls who carry a 35-40kg load and move in unstable 2-wheelers. I doubt if any of these companies
-provide insurance cover to the delivery persons. They usually oursource the delivery to smaller courier companies or even subsidiaries. 
+provide insurance cover to the delivery persons. They usually outsource the delivery to smaller courier companies or even subsidiaries. 
 The responsibilities of any fatalities are only vicarious and the courts will not interfere even if one chooses to drag them.  
 
 One needs to study how Chinese culture of startups has evolved over the years from the time of Deng Xiao Peng.
