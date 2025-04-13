@@ -1,5 +1,7 @@
 # Startup versus Government
 
+[Blog Index](../index.md)
+
 A week back in [another post](./YC_founders_IITs.md), I made a reference to Commerce Minister Piyus Goyal's 
 address to a government sponsored event called "[Startup Mahakumbh](https://startupmahakumbh.org)." Goyal 
 said while "they (meaning China) are focusing on EV battery technology, building next generation factories 
@@ -14,72 +16,94 @@ Lamberghini. He urged startups to focus on innovations like semi-conductor, chip
 Mohandas Pai was quick to [criticize Goyal](https://www.moneycontrol.com/news/india/mohandas-pai-counters-piyush-goyals-attack-what-has-he-done-to-help-deep-tech-startups-in-india-12984274.html). 
 Pai slammed Piyush Goyal with some hard hitting home truth about government bureaucracy. Starting any
 new venture in India is a not easy. Successive Indian governments have carefully preserved the  
-"obnoxious colonial bureaucratic framework" without dismantling or much reforms.  Instead of ensuring "checks and balances", 
-the framework exert only checks without any balance. If one reads Pai's remarks carefully between the lines, 
-it becomes clear that the bureaucracy is running an official "extortion scheme" in the grab of licensing
-and permits. The "Jijjia" mindset of pre-colonial and colonial rulers is kicking well and alive. 
-The legacy of "unbriddled extortion" and terror that East India Company uleashed over Indian opium, indigo, 
-cotton farmers and textile artisan were passed on in a refined form as "license and permit raj" in post-
-colonial congress-led government. Congress party ruled India for nearly six decades and BJP is about to complete
-almost three decades. However, the strangle-hold of colonial "extortion scheme" remained unshaken through the state
-appartus called "India Administrative Service",  Police and investigative agencies. Of course, checks are extremely 
+"obnoxious colonial bureaucratic framework" without dismantling or much reforms.  Instead of ensuring
+"checks and balances", the framework exert only checks without any balance. If one reads Pai's remarks carefully between the lines, it becomes clear that the bureaucracy is running an official "extortion scheme" in 
+the grab of "licensing and permits." The "Jijjia" mindset of both mughal and colonial rulers is kicking 
+well and alive. The legacy of "unbriddled extortion" and terror that East India Company uleashed over 
+Indian opium, indigo, cotton farmers and textile artisan by the British East India Company were passed 
+on in a refined form as "license and permit raj" in post-colonial congress-led governments. The congress 
+party ruled India for nearly six decades and BJP is about to complete almost three decades. However, the 
+strangle-hold of colonial "extortion scheme" remained unshaken by the state appartus called India 
+Administrative Service,  Police and investigative agencies. Of course, checks are extremely 
 important so are the balances. Bhopal tragedy and the 360-degree failure of the Indian government to book the
-culprits is a burning example. The bureaucrats have significance control and act as "Licensed Bouncers" 
-for "exclusive extortion club" with members from both the government and the opposition.
+culprits is a burning example of extortion racket. It allowed the real culprit to appear in and disappear
+from India at will. The bureaucrats have significance control and act as "Licensed Bouncers" for "exclusive 
+extortion club" consisting of members from both the government and the opposition.
 
-Zoho CEO Sridhar Vembu's comments are more measured in pointing out the lack of logical thinking behind the
-commerce minister's startup mahakumbh comment "fiasco." His main point is around extremely unequal distribution
-of wealth that has made India a basically a country of impoverished population and a miniscule group of 
-obsceanely wealthy persons. His X tweet says that there are five choices in a system like this.  First two 
-are: 
+Zoho CEO Sridhar Vembu's comments were more measured and couched in a interesting sugar coat that may
+seem mildly critical of Goyal's startup Mahakumbh address. Vembu uncovers the lack of logical thinking 
+behind the commerce minister's comment "fiasco." His main point of criticism centers around the 
+extortion racket in the grab of tax, GST, license and permits. He prefaces his remark on X in a sophisticated
+sugar-coat. Let us unpeel it to understand the real implication.
+
+According to Vembu the unequal distribution of wealth has made India a basically a country of
+impoverished population with a miniscule group of obsceanely wealthy persons.  He  says there are five
+choices in a system  like this. The first two choices dicted by "Dharma" are: 
 - The people with wealth create employment and develop skills in the broader population.
 - The people with wealth donate to causes that indirectly create employment.
 
-dictated by "Dharma." The political establishment is obliged to redistribute the wealth by taxing wealthy
-for perpetuating its existence. It breeds corruption or leakage leading extensive extortion networks. As a 
-logical corollary, the wealthy protect themselves against the extortion networks by investing in security forces.
+The other three are consequential of the above two choices. Let me give an abstract of these three choices
+without explicitly mentioning them. Third is a consequential choice by the political establishment who
+is obliged to "redistribute the wealth" by taxing wealthy to perpetuate its existence. It breeds
+corruption or leakage in the system leading extensive "extortion networks" as the fourth consequential 
+byproduct. The last one is a logical corollary that the wealthy protect themselves against the
+extortion networks by investing in security forces.
 
-Many western societies have picked tax and redistribute and Indian political establishment copied it
-without much of thinking. The internecine conflicts between exortion networks and security forces lead
-to eventual collapse. So, concept of redistribution of wealth through tax avenues can only provide an 
-"unstable economic equilibrium."
+Many western societies have picked tax and wealth redistribution, our political establishment copied it
+without much of a thinking. The internecine conflicts between exortion networks and security forces of
+the wealthy will lead to eventual collapse of the state. So, concept of redistribution of wealth through
+tax avenues provides an "unstable economic equilibrium" unless state sponsored extortion racket stops. 
+Let me add a caveat here that though Sridhar Vembu did not elaborate it the way I have did it here.
 
 Vembu's remarks may seem a bit of off-track, because tax has been the way how governments or administrations
-world over function. World after all is an unequal system with "preys and predators." The predators cannot
-survive by wiping out preys. So, while tax is a necessity, extortion networks are evils requiring elimination.
-So, I believe both Mohandas Pai and Sridhar Vembu are in agreement by pointing out Peyush Goyal that 
-the government must act to eliminate extortion networks. 
+world over function. Admittedly, the World is an unequal system with "preys and predators." The predators 
+cannot survive by wiping out preys. While tax is a necessity, extortion networks are evils.  Elimination 
+of evils is government's responsibility. So, I believe both Mohandas Pai and Sridhar Vembu are more or
+less in agreement by pointing out Peyush Goyal that there is requirement for deep introspection of
+the policies and their execution at government level. 
 
 I watched a debate on a popular TV channel where the anchor seem to support the minister's remark about
-startup. One of the commentator [Suhel Seth was unsparing in his attack](https://www.youtube.com/watch?v=GmE2w4ZA1Gk) 
-on Indian startup ecosystem. Suhel reserved his choicest "adjectives" to mount a severe attack an opposing
-views supporting startups. He remarked 80% of startups are nothing but a racket. However, I think Suhel 
-Seth is either got carried away by commerce minister's comment or did not do due deligence on the subject.
+startup. One of the commentators [Suhel Seth was unsparing in his attack](https://www.youtube.com/watch?v=GmE2w4ZA1Gk) 
+on Indian startup ecosystem. Suhel used his choicest "adjectives" to mount a severe attack an opposing
+views supporting startups. He estimates that 80% of startups are nothing but a racket. However, I think 
+Suhel Seth is either got carried away by commerce minister's comment or did not do due deligence on 
+the subject. 
 
 Let us examine the context of comparison between China and India. China's economy valued at 19.53 trillion USD.
-WHen adjusted with purchasing power parity (PPP) it is 39.44 trillion USD. India reached 3.7 trillion USD and
+When adjusted with purchasing power parity (PPP) it is 39.44 trillion USD. India reached 3.7 trillion USD and
 PPP value at 17.37 trillion USD. So comparing India with a country that is 5.25 times wealthy is unfair. The
-percapita GDP of China is nearly 14k USD, whereas India's perapita GDP is under 3k USD.
+per capita GDP of China is nearly 14k USD, whereas India's per capita GDP is under 3k USD.
 The breakup of Chinese GDP is:
 - 6.8% from Agriculture
 - 36.5% from Industry
 - 56.8% from Services.on his views
 
-Service sector contributes 54% to India's GDP. SO the values are comparable. Our Industry contributes 30% which
-is slightly low, but agriculture output is 16%. Obviously the agriculture can sustain the rate at 16% when
-economy expands. The only way it can happen is substantially absolute increase in output from Industry and Services. 
-So, there is still a lot of space for GDP growth led by services in absolute terms. The dynamics of GDP output
-change over time. Chinese high-tech innovation contributes approximately 14%. Therefore, I think it is unfair 
-to say rich kids with startups turning poor unemployed youth to delivery boys and girls. However, I think 
-10mts delivery promise is exploitative. Zomata, Swiggy, Blinkit, Big Basket, Zepto are indulging in such
-exploitative labour practices. In urban ares it puts pressure on delivery boys and girls who carry a 35-40kg
-load and move in unstable 2-wheelers. 
+Service sector contributes 54% to India's GDP. So, the corresponding GDP statistics are comparable. Our 
+Industry contributes 30% which is slightly low, but agriculture output is 16%. Obviously the agriculture 
+cannot sustain its GDP contribution the rate at 16% when economy expands. The only way it can happen is 
+substantially absolute increase in output from Industry and Services. So, in terms absolute value, there 
+is still a lot of space for GDP growth led by services. The constituents that make up GDP output are 
+dynamic in nature. Chinese high-tech innovation contributes approximately 14%. Therefore, I think it is unfair 
+to say rich kids with startups turning poor unemployed youth to delivery boys and girls. Though I have 
+no comparable data from China, but I believe about 25% of Chinese workforce are engaged in delivery of
+food, medicines, grocery, etc. In India the employment in logistic and supply chain is increasing. However,
+I believe it won't be more than 80 million. Therefore, I am baffled by the minister's comment that 
+startups are turning poor unemployed youths to "delivery boys and girls." The question that naturally
+comes up is does the government has a better offer for the unemployed youth?
 
-One needs to study how Chinese culture of startups was built from the time of Deng Xiao Peng.
-China is home to approximately 10k startups with about 250 unicorns. In Chinese system of governance only one
-party can extort. Corruption and leakage is limited to one political establishment, i.e., CCP. Political and
-religious diversity in India are reasons for infinite spread of extortion networks. Bringing out a mob in
-street with vast unemployed people is only a two minutes job in India. Any group of people with little
-resource can run an extortion racket.  
+However, I think 10mts delivery promise is exploitative. Zomata, Swiggy, Blinkit, Big Basket, Zepto are 
+indulging in such exploitative labour practices. In urban ares it puts pressure on delivery boys and girls
+who carry a 35-40kg load and move in unstable 2-wheelers. I doubt if these company provide insurance 
+cover to their employees. 
 
+One needs to study how Chinese culture of startups has evolved over the years from the time of Deng Xiao Peng.
+China is now home to approximately 10k startups with about 250 unicorns. In Chinese system of governance 
+only one political party can extort. Corruption and leakage is limited to one political establishment,
+i.e., CCP.  Non-unform practices are is suppressed with iron hand. In India the situation is 
+contra-opposite. I suspect the reason for balkanization of India is raising its hydra-heads due to
+extreme diversities. Every group in its quest for survivability resort to some form of tax or extortion
+racket. Bringing out a flash mob in street with vast unemployed people is only about diseeminating a
+group whatsapp message in India. Any group of people with little resource can run a successful 
+extortion racket.
 
+[Back to Index](../index.md)
