@@ -14,7 +14,7 @@ a substantial market valuation the founders look for an exit. Founders are inter
 Lamberghini. He urged startups to focus on innovations like semi-conductor, chip making, EV technology.
 
 <center>
-  <img src="../images/startup_controversy.png" style="width:500px;height:600px;">
+  <img src="../images/startup_controversy.png" style="width:200px;height:200px;">
 </center>
 
 Mohandas Pai was quick to [criticize Goyal](https://www.moneycontrol.com/news/india/mohandas-pai-counters-piyush-goyals-attack-what-has-he-done-to-help-deep-tech-startups-in-india-12984274.html). Pai slammed Piyush 
