@@ -87,8 +87,8 @@ is still a lot of space for GDP growth led by services on absolute value. The co
 GDP output are dynamic in nature. Chinese high-tech innovation contributes approximately 14%. Therefore, 
 I think it is unfair to say rich kids with startups turning poor unemployed youth to delivery boys and girls. 
 Though I have no comparable data from China, but believe about 25% of Chinese workforce are engaged in 
-delivery of e-commerce, food, and mobility activities related to logistic and supply chain. As far as  
-India is concerned the estimated workforce in service delivery sector will be much less than 100 million. 
+delivery of e-commerce, food, and mobility activities related to logistic and supply chain. As far as India is concerned
+the estimated workforce in service delivery sector will be much less than 100 million. 
 Therefore, it is a bit surprising to hear the minister's remark that startups are turning poor unemployed 
 youths to "delivery boys and girls." The question that naturally arises is: does the government has a 
 better offer for the unemployed youth?
