@@ -67,7 +67,7 @@ I watched a debate on a popular TV channel where the anchor seem to support the 
 startup. One of the commentators [Suhel Seth was unsparing in his attack](https://www.youtube.com/watch?v=GmE2w4ZA1Gk) 
 on Indian startup ecosystem. Suhel used his choicest "adjectives" to mount a severe attack an opposing
 views supporting startups. He estimates that 80% of startups are nothing but a racket. However, I think 
-Suhel Seth is either got carried away by commerce minister's comment or did not do due deligence on 
+Suhel Seth either got carried away by commerce minister's comment or did not do due deligence on 
 the subject. 
 
 Let us examine the context of comparison between China and India. China's economy valued at 19.53 trillion USD.
