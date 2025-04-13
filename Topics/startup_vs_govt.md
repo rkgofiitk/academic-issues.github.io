@@ -15,6 +15,7 @@ Lamberghini. He urged startups to focus on innovations like semi-conductor, chip
 
 <center>
   <img src="../images/startup_controversy.png" style="width:200px;height:200px;">
+   <div class="overlay">Ghibli image by ChatGPT Image creation</div>
 </center>
 
 Mohandas Pai was quick to [criticize Goyal](https://www.moneycontrol.com/news/india/mohandas-pai-counters-piyush-goyals-attack-what-has-he-done-to-help-deep-tech-startups-in-india-12984274.html). Pai slammed Piyush 
