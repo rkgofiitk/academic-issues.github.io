@@ -13,12 +13,6 @@ money. Most startups turning umemployed cheap labor into "delivery boys and girl
 a substantial market valuation the founders look for an exit. Founders are interested for buying a 
 Lamberghini. He urged startups to focus on innovations like semi-conductor, chip making, EV technology.
 
-  <div class="container">
-  <img src="../images/startup_controversy.png" style="width:200px;height:200px;align:center">
-   <div class="overlay">OpenAI Ghibli style image creation</div>
-  </div>
-
-
 Mohandas Pai was quick to [criticize Goyal](https://www.moneycontrol.com/news/india/mohandas-pai-counters-piyush-goyals-attack-what-has-he-done-to-help-deep-tech-startups-in-india-12984274.html). Pai slammed Piyush 
 Goyal with some hard hitting home truth about government bureaucracy. Starting any
 new venture in India is a not easy. Successive Indian governments have carefully preserved the "obnoxious 
@@ -102,17 +96,25 @@ better offer for the unemployed youth?
 However, I think 10mts delivery promise is exploitative. Zomata, Swiggy, Blinkit, Big Basket, Zepto are 
 indulging in such exploitative labour practices. In urban areas it puts immense pressure on delivery boys 
 and girls who carry a 35-40kg load and move in unstable 2-wheelers. I doubt if any of these companies
-provide insurance cover. They usually oursource the delivery to smaller courier companies or even subsidiaries. 
+provide insurance cover to the delivery persons. They usually oursource the delivery to smaller courier companies or even subsidiaries. 
 The responsibilities of any fatalities are only vicarious and the courts will not interfere even if one chooses to drag them.  
 
 One needs to study how Chinese culture of startups has evolved over the years from the time of Deng Xiao Peng.
-China is now home to approximately 10k startups with about 250 unicorns. In Chinese system of governance 
-only one political party can extort. Corruption and leakage is limited to one political establishment,
-i.e., CCP.  Non-unform practices are is suppressed with iron hand. In India the situation is 
-contra-opposite. I suspect the reason for balkanization of India is raising its hydra-heads due to
-extreme diversities. Every group in its quest for survivability resort to some form of tax or extortion
-racket. Bringing out a flash mob in street with vast unemployed people is only about diseeminating a
-group whatsapp message in India. Any group of people with little resource can run a successful 
-extortion racket.
+China is now home to approximately 10k startups with about 250 unicorns. There are major differences in two systems:
+- In Chinese system, corruption, leakage and extortion are limited to one political establishment, i.e., CCP
+- India runs a multi-party democratic system with a fedral structure
+- States and center have different set of tax law, licensing and permit to operate business and industries.
+- Chinese startup are government supported with emphasis on deep-tech innovations.
+- Indian startups grew organically with government support restricted to tax concessions and speedy clearances.
+- Indian startups focused on "jugad" paradigm with a frugal survival kit.
+- The innovation trajectory of Indian startups is are different from that of Chinese. 
+- Indian startups innovations are service-led and focus on digital finance and software solutions.
+
+Poltical stability in India is a major challenge for survival of business and industries. The multiple parties
+exploit ethnic, cultural, linguistic, economic and societal diversities for election gains. It vitiates atmosphere and
+mob disturbances occur in regular intervals throughout the year. Maintaining supply chain for startup is not easy
+in such environments. So, there is a requirement for major agreement in highest legistative bodies like parliament
+and state assemblies to remove the impediments if India were to nurture organically evolving startup revolution. 
+
 
 [Back to Index](../index.md)
