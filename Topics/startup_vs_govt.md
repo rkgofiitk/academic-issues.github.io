@@ -26,13 +26,12 @@ agencies often with overlapping jurisdictions. Of course, checks are essential, 
 360-degree failure of the government to book the culprits is a burning example of corruption and extortion racket. It allowed the 
 real culprit to "appear and disappear at will." 
 
-Zoho CEO [Sridhar Vembu's comments](https://x.com/svembu/status/1910168841776177275?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1910168841776177275%7Ctwgr%5E7d00dd5764e4578f759eecd45b0de2e67e8da4dc%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fnew-updates%2Fmaking-money-on-money-not-progress-zohos-sridhar-vembu-fires-a-dharma-missile-after-piyush-goyals-wake-up-call-to-startups%2Farticleshow%2F120146315.cms) were more measured and couched in a interesting sugar 
+Zoho CEO [Sridhar Vembu prefaces his comments](https://x.com/svembu/status/1910168841776177275?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1910168841776177275%7Ctwgr%5E7d00dd5764e4578f759eecd45b0de2e67e8da4dc%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fnew-updates%2Fmaking-money-on-money-not-progress-zohos-sridhar-vembu-fires-a-dharma-missile-after-piyush-goyals-wake-up-call-to-startups%2Farticleshow%2F120146315.cms) in a more measured and an interesting sugar 
 coat that may seem mildly critical of Goyal's startup Mahakumbh address. Vembu uncovers the lack of logical thinking 
 behind the commerce minister's comment "fiasco." His main point of criticism centers around the extortion racket in the grab of tax, GST, 
-license, and permits. He prefaces his remark on X in a sophisticated sugar-coat. Let us unpeel it to understand the real implications.
-
-According to Vembu, the unequal wealth distribution has made India a country with an impoverished population and a minuscule group of 
-obscenely wealthy persons. He says there are five choices in a system like this. The first two choices dictated by "Dharma" are: 
+license, and permits. According to Vembu, the unequal wealth distribution has made India a country with an impoverished population and a 
+minuscule group of obscenely wealthy persons. He says there are five choices in a system like this. The first two choices dictated by 
+"Dharma" are: 
 - The people with wealth create employment and develop skills in the broader population.
 - The people with wealth donate to causes that indirectly create employment.
 
