@@ -18,13 +18,13 @@ governments have carefully preserved the "obnoxious colonial bureaucratic framew
 ensuring "checks and balances," the framework is interested in performing only checks. Reading Pai's remarks carefully between the lines 
 tells us that India's bureaucracy is a licensed "extortion system" in the grab of "licensing and permits." 
 The "Jijjia" mindset of both Mughals and colonial rulers is kicking well and alive. The legacy of "unbridled extortion" and terror that 
-The British East India Company (EIC) unleashed over Indian opium, indigo, cotton farmers, and textile artisans by the British EIC 
+The British East India Company (EIC) unleashed over Indian opium, indigo, cotton farmers, and textile artisans
 were passed on in a refined form as "license and permit raj" in post-colonial congress-led governments. The Congress party ruled 
 India for nearly six decades, and BJP is about to complete almost three decades. However, the stranglehold of the colonial "extortion 
 scheme" remained an unshaken state apparatus. It consists of India Administrative Services,  Police, and innumerable investigative 
 agencies, often with overlapping jurisdictions. Of course, checks are essential, and so are the balances. Bhopal tragedy and the 
-360-degree failure of the government to book the culprits is a burning example of corruption and extortion racket. It allowed the 
-real culprit to "appear and disappear at will." 
+360-degree failure of the government to book the culprits is a burning example of the results of corruption and extortion racket. It 
+allowed the real culprit to "appear and disappear at will." 
 
 Zoho CEO [Sridhar Vembu prefaces his comments](https://x.com/svembu/status/1910168841776177275?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1910168841776177275%7Ctwgr%5E7d00dd5764e4578f759eecd45b0de2e67e8da4dc%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fnew-updates%2Fmaking-money-on-money-not-progress-zohos-sridhar-vembu-fires-a-dharma-missile-after-piyush-goyals-wake-up-call-to-startups%2Farticleshow%2F120146315.cms) in a measured tone, but with an interesting sugar 
 coat. Vembu uncovers the lack of logical thinking behind the commerce minister's comment "fiasco." His main point of criticism centers 
