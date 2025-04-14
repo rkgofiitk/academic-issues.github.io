@@ -10,7 +10,7 @@ Goyal's address also included an unfortunate dig at the Indian startup ecosystem
 plain English, it means, "Are you interested only in selling?"  He further elaborated that kids of rich people with spare money promote 
 most Indian startups. Most startups are turning unemployed cheap labor into "delivery boys and girls." The founders seek an exit once 
 a startup reaches a substantial market valuation. Many of the founders are interested in buying a Lamborghini. He urged startups to 
-bootstrap semiconductors, chip-making, and EV technology innovations.
+bootstrap making semiconductors, chip-making, and EV technology innovations.
 
 Mohandas Pai was quick to [criticize Goyal](https://www.moneycontrol.com/news/india/mohandas-pai-counters-piyush-goyals-attack-what-has-he-done-to-help-deep-tech-startups-in-india-12984274.html). Pai slammed Piyush 
 Goyal with some hard-hitting home truths about government bureaucracy. Starting a new venture in India is not easy. Successive Indian 
