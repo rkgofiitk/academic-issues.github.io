@@ -53,8 +53,9 @@ levels.
 
 I watched a debate on a popular TV channel where the anchor supported the minister's remark about startups. One of the commentators 
 [Suhel Seth, was unsparing in his attack](https://www.youtube.com/watch?v=GmE2w4ZA1Gk) on the Indian startup ecosystem. Suhel used 
-his choicest "adjectives" to mount a severe attack on opposing views supporting startups. He estimates that 80% of startups are nothing 
-but a racket. However, I think Suhel Seth either got carried away by the commerce minister's comment or did not do due diligence. 
+his choicest "adjectives" to mount a severe attack on the opposing views that supports the startups. He estimates that 80% of 
+startups are nothing but a racket. However, I think Suhel Seth either got carried away by the commerce minister's comment or did not
+do due diligence. 
 
 Let us examine the context of a comparison between China and India. China's economy is valued at 19.53 trillion USD.When adjusted with 
 purchasing power parity (PPP), it is 39.44 trillion USD. India reached 3.7 trillion USD and PPP value at 17.37 trillion USD. So, 
