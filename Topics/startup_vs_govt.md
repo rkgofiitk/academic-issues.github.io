@@ -103,8 +103,8 @@ Let me narrate instances of apathy in India's political establishment and bureau
 trains]( https://en.wikipedia.org/wiki/Rajdhani_Express) were introduced in 1969. It was the second fastest train on tracks in Asia after Japan. [Bande Bharat trains](https://en.wikipedia.org/wiki/Vande_Bharat_Express) were introduced in 
 2018 for the first time. It looks inferior to Chinese trains. The politicians and bureaucrats were only interested in importing 
 technology from outside. NCMRWF was sanctioned to replace their old Cray machine with a faster machine in the mid-1990s. The then
-DST secretary and a few researchers attended a meeting probably around the mid-1990s in Mausam Bhawan. CDAC, BARC, DRDP, and NAL c
-ould not convince bureaucrats and government scientists of NCMRWF to rely on Indian innovations like PARAM, Flosolver, ANUPAM, and 
+DST secretary and a few researchers attended a meeting probably around the mid-1990s in Mausam Bhawan. CDAC, BARC, DRDO, and NAL
+could not convince bureaucrats and government scientists of NCMRWF to rely on Indian innovations like PARAM, Flosolver, ANUPAM, and 
 ANURAG. They were only interested in importing newer and faster CRAY machines. The meeting was a sideshow to justify that capabilities 
 are unavailable locally. Many engineers from CDAC left the country due to the government's lack of interest in innovations.
 
