@@ -108,7 +108,7 @@ could not convince bureaucrats and government scientists of NCMRWF to rely on In
 ANURAG. They were only interested in importing newer and faster CRAY machines. The meeting was a sideshow to justify that capabilities 
 are unavailable locally. Many engineers from CDAC left the country due to the government's lack of interest in innovations.
 
-Political stability in India is another major challenge for the survival of businesses and industries. The multiple parties
+Political instability in India is another major challenge for the survival of businesses and industries. The multiple parties
 exploit ethnic, cultural, linguistic, economic, and societal diversities for election gains. It vitiates the atmosphere. Mob disturbances
 led by political parties occur regularly throughout the year in many states across India. Maintaining the supply chain for startups 
 is not easy in such environments. So, there is a requirement for a major agreement in the highest legislative bodies like parliament
