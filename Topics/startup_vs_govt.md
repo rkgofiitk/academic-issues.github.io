@@ -100,12 +100,13 @@ from China to India and Europe.
 
 Let me narrate instances of apathy in India's political establishment and bureaucracy, which let the country down. Rajdhani Express 
 trains were introduced in 1969. It was the second fastest train on tracks in Asia after Japan. Bande Bharat trains were introduced in 
-2018 for the first time. It looks inferior to Chinese trains. The politicians and bureaucrats were only interested in importing 
-technology from outside. NCMRWF was sanctioned to replace their old Cray machine with a faster machine in the mid-1990s. The then
-DST secretary and a few researchers attended a meeting probably around the mid-1990s in Mausam Bhawan. CDAC, BARC, and NAL could not 
-convince bureaucrats and government scientists of NCMRWF to rely on Indian innovations like PARAM, FlowSolver, and ANURAG. They were 
-only interested in importing newer and faster CRAY machines. The meeting was a sideshow to justify that capabilities are 
-unavailable locally. Many engineers from CDAC left the country due to the government's lack of interest in innovations.
+2018 for the first time after 50 years. However, it looks inferior to Chinese trains. The politicians and bureaucrats were only 
+interested in importing technology from outside. NCMRWF was sanctioned to replace their old Cray machine with a faster machine in 
+the early-1990s. The then DST secretary and a few researchers attended a meeting probably around the mid-1990s in Mausam Bhawan. 
+CDAC, BARC, and NAL could not convince bureaucrats and government scientists of NCMRWF to rely on Indian innovations like PARAM, 
+FlowSolver, and ANURAG. They were only interested in importing newer and faster CRAY machines. The meeting was a sideshow to justify
+that capabilities are unavailable locally. Many engineers from CDAC left the country due to the government's lack of interest in 
+innovations.
 
 Political stability in India is another major challenge for the survival of businesses and industries. The multiple parties
 exploit ethnic, cultural, linguistic, economic, and societal diversities for election gains. It vitiates the atmosphere. Mob disturbances
