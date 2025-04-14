@@ -57,7 +57,7 @@ his choicest "adjectives" to mount a severe attack on the opposing views that su
 startups are nothing but a racket. However, I think Suhel Seth either got carried away by the commerce minister's comment or did not
 do due diligence. 
 
-Let us examine the context of a comparison between China and India. China's economy is valued at 19.53 trillion USD.When adjusted with 
+Let us examine the context of a comparison between China and India. China's economy is valued at 19.53 trillion USD. When adjusted with 
 purchasing power parity (PPP), it is 39.44 trillion USD. India reached 3.7 trillion USD and PPP value at 17.37 trillion USD. So, 
 comparing India with a country that is 5.25 times wealthy is unfair. The per capita GDP of China is nearly 14k USD, whereas India's per 
 capita GDP is under 3k USD. The breakup of Chinese GDP is:
