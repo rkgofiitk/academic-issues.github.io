@@ -73,8 +73,8 @@ Chinese high-tech innovation contributes approximately 14%. Therefore, It is unf
 unemployed youth into delivery boys and girls. Though I have no comparable data from China, about 25% of the Chinese workforce delivers e-
 commerce, food, and mobility activities related to logistics and supply chains. As far as India is concerned,the estimated workforce in 
 the service delivery sector will be much less than 100 million. Therefore, it is surprising to hear the minister's remark that startups 
-are turning poor, unemployed youths into "delivery boys and girls." The question that naturally arises is: does the government have a 
-better offer for the unemployed youth?
+are "turning unemployed cheap labor into delivery boys and girls." The question that arises is: does the government have a better offer
+for the unemployed youth?
 
 However, the 10mts delivery promise is exploitative. Zomata, Swiggy, Blinkit, Big Basket, and Zepto indulge in exploitative labor 
 practices. In urban areas, it puts immense pressure on delivery boys and girls who carry a 35-40kg load and move in unstable 2-wheelers. 
@@ -82,8 +82,8 @@ I doubt if any of these companies provide insurance coverage to the delivery per
 courier companies or even subsidiaries. The responsibility for fatalities is only vicarious, and the courts will not interfere even if 
 one chooses to drag them.  
 
-One needs to study how the Chinese culture of startups has evolved since Deng Xiao Peng.
-China is now home to approximately 10k startups with about 250 unicorns. There are significant differences between the two systems:
+One needs to study how the Chinese culture of startups has evolved since Deng Xiao Peng. China is now home to approximately 10k startups 
+with about 250 unicorns. There are significant differences between the two systems:
 - In the Chinese system, corruption, leakage, and extortion are limited only to the CCP
 - India runs a multi-party democratic system with a federal structure
 - States and centers have different tax laws, licensing, and permit requirements.
@@ -97,16 +97,17 @@ Historically, the work of Chinese artisans was more innovative, whereas Indian a
 Paper, the compass, gunpowder, and printing are four important Chinese inventions apart from ceramic technology and potteries.
 [Amitabh Ghosh](https://en.wikipedia.org/wiki/Smoke_and_Ashes) narrates the story of the Chinese hand behind the "Tanchoi" variety of
 Banerasi silk sarees. The technique was introduced in India by two Surat-based weavers who learned it from the Chinese master weaver. 
-Choi. Even the methods for creating flowerbeds with clay pots were imported from Guangzhao. The British imported gardening techniques from China to India and Europe.
+Choi. Even the method of creating flowerbeds with clay pots was imported from Guangzhao. The British EIC imported gardening techniques 
+from China to India and Europe.
 
-Let me narrate instances of apathy in India's political establishment and bureaucracy, which let the country down. 
-Rajdhani Express trains were introduced in 1969. It was the second fastest train on tracks in Asia after Japan.
-Bande Bharat trains were introduced in 2018 for the first time. It looks inferior to Chinese trains. The politicians and bureaucrats 
-were only interested in importing technology from outside. The then DST secretary and a few researchers attended a meeting probably 
-around the mid-1990s in Mausam Bhawan. NCMRWF was sanctioned to replace their old Cray machine with a faster machine. CDAC, BARC, and NAL 
-could not convince bureaucrats and scientists of NCMRWF to rely on Indian innovations like PARAM, FlowSolver, and ANURAG. 
-They were only interested in importing newer and faster CRAY machines. The meeting appeared to be a sideshow to justify 
-that capabilities are unavailable locally. Many engineers from CDAC left the country due to a lack of interest in innovation.
+Let me narrate instances of apathy in India's political establishment and bureaucracy, which let the country down. Rajdhani Express 
+trains were introduced in 1969. It was the second fastest train on tracks in Asia after Japan. Bande Bharat trains were introduced in 
+2018 for the first time. It looks inferior to Chinese trains. The politicians and bureaucrats were only interested in importing 
+technology from outside. The then DST secretary and a few researchers attended a meeting probably around the mid-1990s in Mausam Bhawan. 
+NCMRWF was sanctioned to replace their old Cray machine with a faster machine. CDAC, BARC, and NAL could not convince bureaucrats and 
+scientists of NCMRWF to rely on Indian innovations like PARAM, FlowSolver, and ANURAG. They were only interested in importing newer and 
+faster CRAY machines. The meeting appeared to be a sideshow to justify that capabilities are unavailable locally. Many engineers from 
+CDAC left the country due to the government's lack of interest in innovations.
 
 Political stability in India is another major challenge for the survival of businesses and industries. The multiple parties
 exploit ethnic, cultural, linguistic, economic, and societal diversities for election gains. It vitiates the atmosphere, and
