@@ -6,11 +6,11 @@ A week back in [another post](./YC_founders_IITs.md), I referred to Commerce Min
 address to a government-sponsored event called "[Startup Mahakumbh](https://startupmahakumbh.org)." Goyal 
 said while "they (meaning China) are focusing on EV battery technology, building next generation factories 
 using machine learning, AI and Robotics, our startups focus on [consumerism](https://www.indiatoday.in/business/story/piyush-goyal-india-startups-grocery-delivery-comparison-china-ai-zepto-ceo-mohandas-pai-2703750-2025-04-04)."
-Goyal's address also included an unfortunate dig at the Indian startup ecosystem by making a rhetorical remark
-"Dukandari karna hai kya?" In plain English, it means, "Are you interested only in selling?"  He further elaborated that kids of rich 
-people with spare money promote most Indian startups. Most startups are turning unemployed cheap labor into "delivery boys and girls." 
-The founders look for an exit once a startup reaches a substantial market valuation. Many of the founders are interested in buying a 
-Lamborghini. He urged startups to bootstrap innovations on semiconductors, chip-making, and EV technology.
+Goyal's address also included an unfortunate dig at the Indian startup ecosystem with a rhetorical remark "Dukandari karna hai kya?" In 
+plain English, it means, "Are you interested only in selling?"  He further elaborated that kids of rich people with spare money promote 
+most Indian startups. Most startups are turning unemployed cheap labor into "delivery boys and girls." The founders look for an exit once 
+a startup reaches a substantial market valuation. Many of the founders are interested in buying a Lamborghini. He urged startups to 
+bootstrap innovations on semiconductors, chip-making, and EV technology.
 
 Mohandas Pai was quick to [criticize Goyal](https://www.moneycontrol.com/news/india/mohandas-pai-counters-piyush-goyals-attack-what-has-he-done-to-help-deep-tech-startups-in-india-12984274.html). Pai slammed Piyush 
 Goyal with some hard-hitting home truths about government bureaucracy. Starting a new venture in India is not easy. Successive Indian 
