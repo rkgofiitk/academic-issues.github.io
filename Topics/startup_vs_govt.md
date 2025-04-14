@@ -7,71 +7,61 @@ address to a government-sponsored event called "[Startup Mahakumbh](https://star
 said while "they (meaning China) are focusing on EV battery technology, building next generation factories 
 using machine learning, AI and Robotics, our startups focus on [consumerism](https://www.indiatoday.in/business/story/piyush-goyal-india-startups-grocery-delivery-comparison-china-ai-zepto-ceo-mohandas-pai-2703750-2025-04-04)."
 Goyal's address also included an unfortunate dig at the Indian startup ecosystem by making a rhetorical remark
-"Dukandari karna hai kya?" In plain English, it means, "Are you interested only in selling?"  He further elaborated that kids of rich people with spare 
-money promote most Indian startups. Most startups are turning unemployed cheap labor into "delivery boys and girls." The founders look for an exit once a startup reaches
-a substantial market valuation. Founders are interested in buying a 
-Lamborghini. He urged startups to focus on innovations in semiconductors, chip-making, and EV technology.
+"Dukandari karna hai kya?" In plain English, it means, "Are you interested only in selling?"  He further elaborated that kids of rich 
+people with spare money promote most Indian startups. Most startups are turning unemployed cheap labor into "delivery boys and girls." 
+The founders look for an exit once a startup reaches a substantial market valuation. Many of the founders are interested in buying a 
+Lamborghini. He urged startups to bootstrap innovations on semiconductors, chip-making, and EV technology.
 
 Mohandas Pai was quick to [criticize Goyal](https://www.moneycontrol.com/news/india/mohandas-pai-counters-piyush-goyals-attack-what-has-he-done-to-help-deep-tech-startups-in-india-12984274.html). Pai slammed Piyush 
-Goyal has some hard-hitting home truths about government bureaucracy. Starting any
-new venture in India is not easy. Successive Indian governments have carefully preserved the "obnoxious 
-colonial bureaucratic framework" without dismantling or many reforms. Instead of ensuring
-"checks and balances," the framework only performs checks without balance. Reading Pai's remarks 
-carefully between the lines makes it clear that the bureaucracy is running an official "extortion scheme." 
-in the grab of "licensing and permits." The "Jijjia" mindset of both Mughal and colonial rulers is kicking 
-well and alive. The legacy of "unbridled extortion" and terror that East India Company unleashed over 
-Indian opium, indigo, cotton farmers, and textile artisans by the British East India Company were passed 
-on in a refined form as "license and permit raj" in post-colonial congress-led governments. The Congress 
-party ruled India for nearly six decades, and BJP is about to complete almost three decades. However, the 
-stranglehold of the colonial "extortion scheme" remained unshaken by the state apparatus called India 
-Administrative Service,  Police, and investigative agencies. Of course, checks are essential, and so are the balances. Bhopal tragedy and the 360-degree failure of the Indian government to book the
-culprits is a burning example of an extortion racket. It allowed the real culprit to appear and disappear
-from India at will. The bureaucrats have significant control and act as "Licensed Bouncers" for the "exclusive 
-extortion club" consisting of the government and opposition members.
+Goyal with some hard-hitting home truths about government bureaucracy. Starting a new venture in India is not easy. Successive Indian 
+governments have carefully preserved the "obnoxious colonial bureaucratic framework" without dismantling or many reforms. Instead of 
+ensuring "checks and balances," the framework interested in performing only checks. Reading Pai's remarks carefully between the lines 
+makes one realizes that the bureaucracy is actually a liscensed "extortion system." in the grab of "licensing and permits." 
+The "Jijjia" mindset of both Mughal and colonial rulers is kicking well and alive. The legacy of "unbridled extortion" and terror that 
+East India Company (EIC) unleashed over Indian opium, indigo, cotton farmers, and textile artisans by the British EIC were passed 
+on in a refined form as "license and permit raj" in post-colonial congress-led governments. The Congress party ruled India for nearly
+six decades, and BJP is about to complete almost three decades. However, the stranglehold of the colonial "extortion scheme" remained 
+an unshaken state apparatus: India Administrative Services,  Police, and investigative agencies. Of course, checks are essential, and
+so are the balances. Bhopal tragedy and the 360-degree failure of the Indian government to book the culprits is a burning example of 
+an extortion racket. It allowed the real culprit to "appear and disappear at will." The bureaucrats have significant control and act
+as "Licensed Bouncers" for the "exclusive extortion club" consisting of political parties both from the government and opposition.
 
-Zoho CEO [Sridhar Vembu's comments](https://x.com/svembu/status/1910168841776177275?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1910168841776177275%7Ctwgr%5E7d00dd5764e4578f759eecd45b0de2e67e8da4dc%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fnew-updates%2Fmaking-money-on-money-not-progress-zohos-sridhar-vembu-fires-a-dharma-missile-after-piyush-goyals-wake-up-call-to-startups%2Farticleshow%2F120146315.cms) were more measured and couched in a interesting sugar coat that may
-seem mildly critical of Goyal's startup Mahakumbh address. Vembu uncovers the lack of logical thinking 
-behind the commerce minister's comment "fiasco." His main point of criticism centers around the 
-extortion racket in the grab of tax, GST, license, and permits. He prefaces his remark on X in a sophisticated
-sugar-coat. Let us unpeel it to understand the real implications.
+Zoho CEO [Sridhar Vembu's comments](https://x.com/svembu/status/1910168841776177275?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1910168841776177275%7Ctwgr%5E7d00dd5764e4578f759eecd45b0de2e67e8da4dc%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fm.economictimes.com%2Fnews%2Fnew-updates%2Fmaking-money-on-money-not-progress-zohos-sridhar-vembu-fires-a-dharma-missile-after-piyush-goyals-wake-up-call-to-startups%2Farticleshow%2F120146315.cms) were more measured and couched in a interesting sugar 
+coat that may seem mildly critical of Goyal's startup Mahakumbh address. Vembu uncovers the lack of logical thinking 
+behind the commerce minister's comment "fiasco." His main point of criticism centers around the extortion racket in the grab of tax, GST, 
+license, and permits. He prefaces his remark on X in a sophisticated sugar-coat. Let us unpeel it to understand the real implications.
 
-According to Vembu, the unequal wealth distribution has made India a country with
-an impoverished population and a minuscule group of obscenely wealthy persons. He says there are five
-choices in a system like this. The first two choices dictated by "Dharma" are: 
+According to Vembu, the unequal wealth distribution has made India a country with an impoverished population and a minuscule group of 
+obscenely wealthy persons. He says there are five choices in a system like this. The first two choices dictated by "Dharma" are: 
 - The people with wealth create employment and develop skills in the broader population.
 - The people with wealth donate to causes that indirectly create employment.
 
-The other three are consequential of the above two choices. Let me give an abstract of these three choices
-without explicitly mentioning them. Third is a consequential choice by the political establishment, which
-is obliged to "redistribute the wealth" by taxing the wealthy to perpetuate its existence. It breeds
-corruption or leakage in the system, leading to extensive "extortion networks" as the fourth consequential 
-byproduct. The last is a logical corollary that the wealthy protect themselves against 
-extortion networks by investing in security forces.
+The other three are consequential of the above two choices. Let me give an abstract of these three choices without explicitly mentioning 
+them. Third is a consequential choice by the political establishment, which is obliged to "redistribute the wealth" by taxing the wealthy 
+to perpetuate its existence. It breeds corruption or leakage in the system, leading to extensive "extortion networks" as the fourth 
+consequential byproduct. The last is a logical corollary that the wealthy protect themselves against extortion networks by investing in 
+security forces.
 
-Many Western societies have picked tax and wealth redistribution, and our political establishment copied it
-without much thought. The internecine conflicts between extortion networks and the security forces of
-the wealthy will eventually collapse the state. So, redistributing wealth through
-tax avenues provides an "unstable economic equilibrium" unless state-sponsored extortion racket stops. 
+Many Western societies have picked tax and wealth redistribution, and our political establishment copied it without much thought. The 
+internecine conflicts between extortion networks and the security forces of the wealthy will eventually collapse the state. So, 
+redistributing wealth through tax avenues provides an "unstable economic equilibrium" unless state-sponsored extortion racket stops. 
 Let me add a caveat: Sridhar Vembu did not elaborate as I did here.
 
-Vembu's remarks may seem off-track because tax has been how governments and administrations
-function worldwide. Admittedly, the World is an unequal system with "prey and predators." The predators 
-cannot survive by wiping out prey. While tax is a necessity, extortion networks are evils. Elimination 
-of evils is the government's responsibility. So, both Mohandas Pai and Sridhar Vembu are more or
-less in agreement by pointing out Peyush Goyal that there is a requirement for deep introspection of
-the policies and their execution at the government level. 
+Vembu's remarks may seem off-track because tax has been how governments and administrations function worldwide. Admittedly, the World is 
+an unequal system with "prey and predators." The predators cannot survive by wiping out prey. While tax is a necessity, extortion 
+networks are evils. Elimination of evils is the government's responsibility. So, both Mohandas Pai and Sridhar Vembu are more or less in 
+agreement by pointing out Peyush Goyal that there is a requirement for deep introspection of the policies and their execution at the 
+government level. 
 
-I watched a debate on a popular TV channel where the anchor supported the minister's remark about
-startups. One of the commentators [Suhel Seth, was unsparing in his attack](https://www.youtube.com/watch?v=GmE2w4ZA1Gk) 
-on the Indian startup ecosystem. Suhel used his choice of "adjectives" to mount a severe attack on opposing
-views supporting startups. He estimates that 80% of startups are nothing but a racket. However, I think 
-Suhel Seth either got carried away by the commerce minister's comment or did not do due diligence. 
+I watched a debate on a popular TV channel where the anchor supported the minister's remark about startups. One of the commentators 
+[Suhel Seth, was unsparing in his attack](https://www.youtube.com/watch?v=GmE2w4ZA1Gk) on the Indian startup ecosystem. Suhel used 
+his choicest "adjectives" to mount a severe attack on opposing views supporting startups. He estimates that 80% of startups are nothing 
+but a racket. However, I think Suhel Seth either got carried away by the commerce minister's comment or did not do due diligence. 
 
-Let us examine the context of a comparison between China and India. China's economy is valued at 19.53 trillion USD.
-When adjusted with purchasing power parity (PPP), it is 39.44 trillion USD. India reached 3.7 trillion USD and
-PPP value at 17.37 trillion USD. So, comparing India with a country that is 5.25 times wealthy is unfair. The
-per capita GDP of China is nearly 14k USD, whereas India's per capita GDP is under 3k USD.
-The breakup of Chinese GDP is:
+Let us examine the context of a comparison between China and India. China's economy is valued at 19.53 trillion USD.When adjusted with 
+purchasing power parity (PPP), it is 39.44 trillion USD. India reached 3.7 trillion USD and PPP value at 17.37 trillion USD. So, 
+comparing India with a country that is 5.25 times wealthy is unfair. The per capita GDP of China is nearly 14k USD, whereas India's per 
+capita GDP is under 3k USD. The breakup of Chinese GDP is:
 - 6.8% from Agriculture
 - 36.5% from Industry
 - 56.8% from Services.on his views
