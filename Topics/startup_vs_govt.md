@@ -70,11 +70,9 @@ which is slightly low, but agriculture output is 16%. The agriculture cannot sus
 expands. The only way it can happen is for the output from Industry and Services to increase both percentage-wise and in absolute value. 
 So, there is still a lot of space for GDP growth led by services on absolute value. The constituents that make up GDP output is dynamic. 
 Chinese high-tech innovation contributes approximately 14%. Therefore, It is unfair to say rich kids with startups are turning poor, 
-unemployed youth into delivery boys and girls. Though I have no comparable data from China, about 25% of the Chinese workforce delivers e-
-commerce, food, and mobility activities related to logistics and supply chains. As far as India is concerned,the estimated workforce in 
-the service delivery sector will be much less than 100 million. Therefore, it is surprising to hear the minister's remark that startups 
-are "turning unemployed cheap labor into delivery boys and girls." The question that arises is: does the government have a better offer
-for the unemployed youth?
+unemployed cheap labor into delivery boys and girls. Though I have no comparable data from China, about 25% of the Chinese workforce 
+delivers e-commerce, food, and mobility activities related to logistics and supply chains. As far as India is concerned,the estimated workforce in the service delivery sector will be much less than 100 million. The question that arises is: does the government have a 
+better offer for the unemployed youths?
 
 However, the 10mts delivery promise is exploitative. Zomata, Swiggy, Blinkit, Big Basket, and Zepto indulge in exploitative labor 
 practices. In urban areas, it puts immense pressure on delivery boys and girls who carry a 35-40kg load and move in unstable 2-wheelers. 
