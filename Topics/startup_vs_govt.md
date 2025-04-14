@@ -35,10 +35,10 @@ are five choices in a system like this. The first two choices dictated by "Dharm
 - The people with wealth donate to causes that indirectly create employment.
 
 The other three are consequential of the above two choices. Let me give an abstract of these three choices without explicitly mentioning 
-them. Third is a consequential choice by the political establishment, which is obliged to "redistribute the wealth" by taxing the wealthy 
-to perpetuate its existence. It breeds corruption or leakage in the system, leading to extensive "extortion networks" as the fourth 
-consequential byproduct. The last is a logical corollary that the wealthy protect themselves against extortion networks by investing in 
-security forces.
+them. The third is a consequential choice by the government or the political establishment. It is obliged to "redistribute the wealth" by 
+taxing the wealthy to perpetuate its existence. It breeds corruption or leakage in the system, leading to extensive "extortion networks" 
+as the fourth consequential byproduct. The last is a logical corollary that the wealthy protect themselves against extortion networks by 
+investing in security forces.
 
 Many Western societies have picked tax and wealth redistribution, and our political establishment copied it without much thought. The 
 internecine conflicts between extortion networks and the security forces of the wealthy will eventually collapse the state. So, 
@@ -48,8 +48,8 @@ Let me add a caveat: Sridhar Vembu did not elaborate as I did here.
 Vembu's remarks may seem off-track because tax has been how governments and administrations function worldwide. Admittedly, the World is 
 an unequal system with "prey and predators." The predators cannot survive by wiping out prey. While tax is a necessity, extortion 
 networks are evils. Elimination of evils is the government's responsibility. So, both Mohandas Pai and Sridhar Vembu are more or less in 
-agreement by pointing out Peyush Goyal that there is a requirement for deep introspection of the policies and their execution at the 
-government level. 
+agreement by pointing out Peyush Goyal that there is a requirement for serious introspection of the policies and their execution at all
+levels. 
 
 I watched a debate on a popular TV channel where the anchor supported the minister's remark about startups. One of the commentators 
 [Suhel Seth, was unsparing in his attack](https://www.youtube.com/watch?v=GmE2w4ZA1Gk) on the Indian startup ecosystem. Suhel used 
