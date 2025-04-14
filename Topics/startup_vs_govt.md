@@ -14,7 +14,7 @@ bootstrap innovations on semiconductors, chip-making, and EV technology.
 
 Mohandas Pai was quick to [criticize Goyal](https://www.moneycontrol.com/news/india/mohandas-pai-counters-piyush-goyals-attack-what-has-he-done-to-help-deep-tech-startups-in-india-12984274.html). Pai slammed Piyush 
 Goyal with some hard-hitting home truths about government bureaucracy. Starting a new venture in India is not easy. Successive Indian 
-governments have carefully preserved the "obnoxious colonial bureaucratic framework" without dismantling or many reforms. Instead of 
+governments have carefully preserved the "obnoxious colonial bureaucratic framework" without dismantling or reforms. Instead of 
 ensuring "checks and balances," the framework interested in performing only checks. Reading Pai's remarks carefully between the lines 
 makes one realizes that the bureaucracy is actually a liscensed "extortion system." in the grab of "licensing and permits." 
 The "Jijjia" mindset of both Mughal and colonial rulers is kicking well and alive. The legacy of "unbridled extortion" and terror that 
