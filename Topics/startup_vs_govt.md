@@ -16,8 +16,8 @@ Goyal with some hard-hitting home truths about government bureaucracy. Starting 
 governments have carefully preserved the "obnoxious colonial bureaucratic framework" without dismantling or reforming it. Instead of 
 ensuring "checks and balances," the framework is interested in performing only checks. Reading Pai's remarks carefully between the lines 
 tells us that India's bureaucracy is a licensed "extortion system" in the grab of "licensing and permits." 
-The "Jijjia" mindset of both Mughals and colonial rulers is kicking well and alive. The legacy of "unbridled extortion" and terror that 
-The British East India Company (EIC) unleashed over Indian opium, indigo, cotton farmers, and textile artisans were passed on in a 
+The "Jijjia" mindset of both mughals and colonial rulers is kicking well and alive. The legacy of "unbridled extortion" and terror that 
+the British East India Company (EIC) unleashed over Indian opium, indigo, cotton farmers, and textile artisans were passed on in a 
 refined form as "license and permit raj" in post-colonial congress-led governments. The Congress party ruled 
 India for nearly six decades, and BJP is about to complete almost three decades. However, the stranglehold of the colonial "extortion 
 scheme" remained an unshaken state apparatus. It consists of India Administrative Services,  Police, and innumerable investigative 
