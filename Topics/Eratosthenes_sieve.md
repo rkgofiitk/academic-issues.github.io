@@ -1,16 +1,27 @@
 # Speaking of Erastosthenes Sieve in Bangla
 
-AICTE has  taken an initiative for "Technical Book Writing and Translation" to create engineering text books in twelve Indian languages.  
-I learned also that Anna University has used tamil as the medium of instructions for 10 years now. However, the uptick of students
-electing local language in tehcnical course is very low. National Education Policy (NEP) states that "wherever possible the medium of 
-instruction until at least class 5, but preferably till class 8 and beyond, will behome language/ mother-tongue/ local language/ regional 
-language." NEP does not talk about medium of instruction beyond plus two stage. 
+AICTE has  undertaken an initiative for "Technical Book Writing and Translation" to create engineering text books in twelve 
+Indian languages. In August 2024, I was a guest speaker in a [three day workshop at BITS Mesra](./teaching_in_mother_tongue.md). The 
+workshop was sponsored under [VAANI scheme](https://aicte-india.org/press-realeases/aicte-launched-aicte-vaani-scheme-promote-indian-languages) to promote use of
+Indian language for technical education. Anna University claims to have successfully experimented using tamil as the medium of 
+instructions for 10 years now. However, the uptick of students electing local language in tehcnical course is very low. National 
+Education Policy (NEP) states that "wherever possible the medium of instruction until at least class 5, but preferably till class
+8 and beyond, will behome language/ mother-tongue/ local language/ regional language." The language policy in NEP document is 
+carefully worded avoiding any reference to the medium of instruction beyond plus two stage.  However, there is a concious effort
+from regulatory bodies to make technical literature accessible in Indian languages. 
 
 Having set the context of discussion, let me reveal the intent behind this post. I received a copy of bangla article on 
-"Erastosthenes Sieve" from Prof Ashok Mallick on the eve of "bangla navabarsha." As usual Prof Mallick's article reveals his deep 
+"Erastosthenes Sieve" from Prof Ashok Mallick on the eve of "bangla navabarsha." As usual Prof Mallick's article underscores his deep 
 knowledge and interest in popularizing mathematics among vernacular readers. Some may have read the review of his book "The story of 
-numbers" ([Shankhyar Gulpo]{./Book_Review.md}) which I posted sometime back. It is debatable how many of bengali readers really read 
-technical articles in bangla. However, keeping an open mind about technical contents written in local language is a good idea. 
+numbers" ([Shankhyar Gulpo]{./Book_review.md}) which I posted sometime back. However, it is debatable how many of bengali readers
+will actually like to read a purely technical article in bangla. I can think of many reasons for it, but obious ones are:
+- Non-availability of good technical liteature in Bangla,
+- The Bangla terminology for equivalent English technical terms sound unfamiliar and obscure,
+- English has been a link language for interaction in technical space and elsewhere outside the state
+
+However, if we go further down in history to pre-moghal times, India has been the citadel of world knowledge. Astronomy, Ayurveda,
+Chikitsashastra, Ganita text were developed in Sanskrit. Classical literature and religious texts were in prakrit. were used for the medium of instructions
+Keeping an open mind about technical contents written in local language is a good idea. 
 I doubt if there are many technical literature in English written by Indian authors that compares with the eurdite exposition of
 Prof. Mallick's writings, specially on mathmatics. Let me add a caveat here. I have now knowledge if Prof Mallick is a 
 participating author in AICTE initiative for technical book writing project.
