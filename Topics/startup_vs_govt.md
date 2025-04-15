@@ -17,8 +17,8 @@ governments have carefully preserved the "obnoxious colonial bureaucratic framew
 ensuring "checks and balances," the framework is interested in performing only checks. Reading Pai's remarks carefully between the lines 
 tells us that India's bureaucracy is a licensed "extortion system" in the grab of "licensing and permits." 
 The "Jijjia" mindset of both Mughals and colonial rulers is kicking well and alive. The legacy of "unbridled extortion" and terror that 
-The British East India Company (EIC) unleashed over Indian opium, indigo, cotton farmers, and textile artisans by the British EIC 
-were passed on in a refined form as "license and permit raj" in post-colonial congress-led governments. The Congress party ruled 
+The British East India Company (EIC) unleashed over Indian opium, indigo, cotton farmers, and textile artisans were passed on in a 
+refined form as "license and permit raj" in post-colonial congress-led governments. The Congress party ruled 
 India for nearly six decades, and BJP is about to complete almost three decades. However, the stranglehold of the colonial "extortion 
 scheme" remained an unshaken state apparatus. It consists of India Administrative Services,  Police, and innumerable investigative 
 agencies, often with overlapping jurisdictions. Of course, checks are essential, and so are the balances. Bhopal tragedy and the 
