@@ -1,9 +1,10 @@
-# Erastosthenese Sieve
+# Speaking of Erastosthenes Sieve in Bangla
 
-I learned there is an AICTE initiative "AICTE Technical Book Writing and Translation" to create engineering text in twelve 
-Indian languages.  Anna University has used tamil as medium of instructions for 10 years now. However, the uptick of students
-electing local language for tehcnical course is very low. National Education Policy (NEP) states that "wherever possible the medium of 
-instruction until at least class 5, but preferably till class 8 and beyond, will behome language/ mother-tongue/ local language/ regional language."
+AICTE has  taken an initiative for "Technical Book Writing and Translation" to create engineering text books in twelve Indian languages.  
+I learned also that Anna University has used tamil as the medium of instructions for 10 years now. However, the uptick of students
+electing local language in tehcnical course is very low. National Education Policy (NEP) states that "wherever possible the medium of 
+instruction until at least class 5, but preferably till class 8 and beyond, will behome language/ mother-tongue/ local language/ regional 
+language." NEP does not talk about medium of instruction beyond plus two stage. 
 
 Having set the context of discussion, let me reveal the intent behind this post. I received a copy of bangla article on 
 "Erastosthenes Sieve" from Prof Ashok Mallick on the eve of "bangla navabarsha." As usual Prof Mallick's article reveals his deep 
