@@ -37,4 +37,6 @@ Eratosthenes, a native of Cryene, lived in Alexandria from 245 BC until his deat
 
 Building on Euclid's work, Eratosthenes designed a simple algorithm for finding prime numbers in a defined range. The algorithm involves iteratively removing multiples of each prime number starting from 2. The article includes illustrative figures that simplify the concept for Bangla readers, making it accessible and engaging.
 
-The article goes beyond Erastosthenes sieve and deals with Euler's introduces harmonic series 
+The article deals with Euler's work on the importance Erastosthenes sieve that stiched infiniteness of both natural and prime numbers is 
+known as Golden key for research in many areas of mathmatics. Euler's work had great impact on number theory in general and prime nunbers in particular. The article familiarizes the readers with Reimann zeta function and explains how Euler could arrive at a correct estimation
+of value of zeta(2).
