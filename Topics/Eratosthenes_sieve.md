@@ -1,42 +1,40 @@
 # Speaking of Eratosthenes' Sieve in Bangla
 
 
-AICTE has undertaken an initiative for "Technical Book Writing and Translation" to create engineering texts in twelve Indian languages. Anna University claims to have successfully experimented with Tamil as the medium of instruction for 10 years now. However, it was not mentioned anywhere the percentage or the absolute number of students who actually opted for local-language instructions. 
+AICTE has undertaken an initiative for "Technical Book Writing and Translation" to create engineering texts in twelve Indian languages. Anna University claims to have successfully experimented with Tamil translations of technical content, showcasing the potential of regional languages in technical education.
 
-In August 2024, I was a guest speaker at a [three-day workshop at BITS Mesra](./teaching_in_mother_tongue.md). The workshop was sponsored under the [VAANI scheme](https://aicte-india.org/press-realeases/aicte-launched-aicte-vaani-scheme-promote-indian-languages) to promote the use of Indian languages for technical education. The effort is laudable, but we are woefully ill-equipped with equivalent terms for many modern technical concepts in English. Understandably, the number of students opting for local languages in technical courses remains very low.
+In August 2024, I was a guest speaker at a three-day workshop at BITS Mesra. The workshop, sponsored under the VAANI scheme, explored the challenges and opportunities of teaching technical subjects in regional languages.
 
-The National Education Policy (NEP) tacitly acknowledges this inadequacy. Its language policy states that "wherever possible the medium of instruction until at least class 5, but preferably till class 8 and beyond, will be home language/mother-tongue/local language/regional language." However, the NEP document avoids any reference to the medium of instruction beyond schools. Despite this, regulatory bodies are making efforts to make technical literature accessible in Indian languages. The major hurdle is the lack of homogeneity in adopting a national language in India.
+The National Education Policy (NEP) acknowledges the inadequacy of technical resources in regional languages. Its language policy states that "wherever possible, the medium of instruction until at least class 5, but preferably till class 8, should be in the home language or mother tongue." However, implementing this policy in higher education remains a challenge.
 
+Having set the context, let me reveal the intent behind this post. I recently received a copy of a Bangla article on "Eratosthenes' Sieve" from Prof. Ashok Mallick on the eve of "Bangla Nababarsha" (Bengali New Year). The article highlights the potential of regional languages in disseminating technical knowledge.
 
-Having set the context of discussion, let me reveal the intent behind this post. I received a copy of a Bangla article on "Eratosthenes' Sieve" from Prof. Ashok Mallick on the eve of "Bangla Nababarsha." As usual, Prof. Mallick's article underscores his deep knowledge and interest in popularizing mathematics among vernacular readers. Some of you may have read my review of his book "The Story of Numbers" ([Shankhyar Gulpo](./Book_review.md)) posted earlier and subsequently stitched the connection between natural number and prime numbers.
+However, it is debatable how many Bengali readers would prefer to read a purely technical article in Bangla. Some challenges include:
 
-However, it is debatable how many Bengali readers will actually prefer to read a purely technical article in Bangla. Some reasons for this include:
-- The non-availability of quality technical literature in Bangla.
-- Unfamiliar and obscure transliterations of English technical terms.
-- The use of English as a link language for technical communications both inside and outside the state.
+The lack of quality technical literature in Bangla.
+Unfamiliar and obscure transliterations of English technical terms.
+The widespread use of English as a link language for technical communication both within and outside the state.
+Historically, India was a global center of knowledge in fields such as astronomy, Ayurveda, mathematics, and medicine. These texts were predominantly written in Sanskrit. However, in the modern era, the availability of technical literature in Indian languages is sparse.
 
-If we go back to pre-Mughal times, India was a citadel of world knowledge. Astronomy, Ayurveda, Chikitsashastra, and Ganita texts were developed in Sanskrit. Classical literature and religious texts were written in Prakrit, which was also used in everyday communication. 
-
-Having an open mind about technical content in local languages is essential. However, beyond literature and history, not many original texts or articles are available in Indian languages. Even in English, there are few technical works by Indian authors that compare to the erudite exposition of Prof. Mallick's writings on mathematics in Bangla. 
-
+Having an open mind about technical content in local languages is essential. Beyond literature and history, original texts in Indian languages are rare. Even in English, India has struggled to produce globally recognized technical literature.
 
 There is an urgent need to create outstanding technical texts in vernacular languages. English, though widely used, has proven to be a non-sustainable option as a link language. Reasons for this include:
-- Language is a contentious issue in post-independence India, exacerbated by a manufactured north-south divide.
-- Mobility is hampered as many people lack adequate proficiency in English.
 
-However, the necessity of a link language for mobility, technical, cultural, and societal integration cannot be ignored. Since this post is not about the language debate, I will not delve deeper into that topic here.
+Language remains a contentious issue in post-independence India, exacerbated by a perceived north-south divide.
+Mobility is hindered as many people lack adequate proficiency in English.
+That said, the necessity of a link language for mobility, technical, cultural, and societal integration cannot be ignored. Since this post is not about the language debate, I will not delve deeper into this topic.
 
-India is at the forefront of a computer-assisted, AI- and robotics-led industrial revolution. The country cannot progress without a knowledgeable workforce. The "Make in India" movement and startup culture are severely affected by the lack of a workforce with adequate technical knowledge. Many students, even in elite institutions like IITs and NITs, struggle in their first semester due to language barriers. The non-availability of adequate technical literature in native languages exacerbates the problem. While YouTube videos have alleviated this issue to some extent, the availability of technical literature would be a significant help.
+India is at the forefront of a computer-assisted, AI- and robotics-led industrial revolution. The country cannot progress without a knowledgeable workforce. The "Make in India" movement and startup culture require a strong foundation of technical education, accessible to all.
 
-Prof. Mallick's article begins with a short background on ancient Greek mathematicians. [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes), who was the first person to:
-- Calculate the Earth's circumference with less than 1% error.
-- Determine the Earth's axial tilt with similar accuracy.
-- Develop a projection of the Earth using the concepts of parallels and meridians.
+Prof. Mallick's article begins with a short background on ancient Greek mathematicians. Eratosthenes was the first person to:
 
-Eratosthenes, a native of Cryene, lived in Alexandria from 245 BC until his death. He studied in Athens under the Greek philosopher [Aristo of Chios](https://en.wikipedia.org/wiki/Aristo_of_Chios). Another celebrated Greek mathematician, [Euclid](https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/), authored the seminal work *Elements* around 300 BC. In Book IX of *Elements*, Euclid proved the existence of infinitely many prime numbers and proved the result about prime factorization.
+Calculate the Earth's circumference with less than 1% error.
+Determine the Earth's axial tilt with similar accuracy.
+Develop a projection of the Earth using the concepts of parallels and meridians.
+Eratosthenes, a native of Cyrene, lived in Alexandria from 245 BC until his death. He studied in Athens under the Greek philosopher Aristo of Chios. Building on Euclid's work, Eratosthenes designed a simple algorithm for finding prime numbers in a defined range. This algorithm involves iteratively removing multiples of each prime number starting from 2, leaving only the prime numbers.
 
-Building on Euclid's work, Eratosthenes designed a simple algorithm for finding prime numbers in a defined range. The algorithm involves iteratively removing multiples of each prime number starting from 2. The article includes illustrative figures that simplify the concept for Bangla readers, making it accessible and engaging.
+The article also explores Euler's work on the significance of Eratosthenes' sieve. Euler demonstrated how the sieve connected the infiniteness of both natural and prime numbers, a concept often referred to as the "golden key" for mathematical research. Euler's contributions had a profound impact on number theory, particularly in understanding prime numbers.
 
-The article deals with Euler's work on the importance Erastosthenes sieve that stiched infiniteness of both natural and prime numbers is 
-known as Golden key for research in many areas of mathmatics. Euler's work had great impact on number theory in general and prime nunbers in particular. The article familiarizes the readers with Reimann zeta function and explains how Euler could arrive at a correct estimation
-of value of zeta(2). Starting with seemingly simple Erastosthenes sieve algorithm, the reader gets an interesting peek into Harmonic series, Euler's golden key, Reimann's zeta function and some of the celebrated results connectiong infiniteness of natural numbers and prime numbers
+The article introduces readers to the value of ζ(2) through the seemingly simple Eratosthenes' sieve algorithm. It provides an engaging exploration of topics such as the harmonic series, Euler's golden key, Riemann's zeta function, and other foundational concepts in mathematics.
+
+
