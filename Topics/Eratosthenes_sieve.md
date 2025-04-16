@@ -1,61 +1,45 @@
-# Speaking of Erastosthenes Sieve in Bangla
+# Speaking of Eratosthenes' Sieve in Bangla
 
-AICTE has  undertaken an initiative for "Technical Book Writing and Translation" to create engineering texts in twelve 
-Indian languages. Anna University claims to have successfully experimented using tamil as the medium of instructions for 10 years now. 
-However, it was not mentioned anywhere the percentage or the absolute number of students who actually opted for local language 
-instructions. In August 2024, I was a guest speaker in a [three day workshop at BITS Mesra](./teaching_in_mother_tongue.md). The 
-workshop was sponsored under [VAANI scheme](https://aicte-india.org/press-realeases/aicte-launched-aicte-vaani-scheme-promote-indian-languages) to promote use of
-Indian language for technical education. The effort is laudable, but I found we are woefully ill-equipped with equivalent terms for
-many modern technical terms in English. Understandably the uptick of students electing local language in tehcnical course is very low. 
-National Education Policy (NEP) tacitly acknowledges the inadequacy. NEP's language policy states that "wherever possible the medium of
-instruction until at least class 5, but preferably till class 8 and beyond, will behome language/ mother-tongue/ local language/ regional 
-language." The NEP document avoids any reference to the medium of instruction beyond schools.  However, there is a concious effort
-from regulatory bodies to make technical literature accessible in Indian languages. The major problem in India is lack of homogeneity 
-in adopting a national language.
+## Context: Local Language in Technical Education
 
-Having set the context of discussion, let me reveal the intent behind this post. I received a copy of bangla article on 
-"Erastosthenes Sieve" from Prof Ashok Mallick on the eve of "bangla navabarsha." As usual Prof Mallick's article underscores his deep 
-knowledge and interest in popularizing mathematics among the vernacular readers. Some may have read the review of his book "The story of 
-numbers" ([Shankhyar Gulpo]{./Book_review.md}) which I posted sometime back. However, it is debatable how many of bengali readers
-will actually like to read a purely technical article in bangla. I can think of many reasons for it, but obious ones are:
-- Non-availability of good technical liteature in Bangla,
-- Unfamilar, obscure angla terms for equivalent English technical terms sound,
-- English has been a link language for interaction in technical space and outside the state
+AICTE has undertaken an initiative for "Technical Book Writing and Translation" to create engineering texts in twelve Indian languages. Anna University claims to have successfully experimented with Tamil as the medium of instruction for 10 years now. However, it was not mentioned anywhere the percentage or the absolute number of students who actually opted for local-language instructions. 
 
-However, if we go further down in history to pre-moghal times, India has been the citadel of world knowledge. Astronomy, Ayurveda,
-Chikitsashastra, Ganita texts were developed in Sanskrit. Classical literature and religious texts were in prakrit which is also used in 
-everyday communication. Having an open mind about technical contents written in local language is a good idea. However, beyond literature 
-and history not many original texts or articles are available in Indian languages. More specifically, I doubt if there are many 
-technical literature even in English written by Indian authors that are comparable with the eurdite exposition of Prof. Mallick's
-writings on mathmatics in Bangla. Let me add a caveat here. I don't have much knowledge of the authors of technical writings in
-other Indian languages. I wish the readers collectively will help bring it out in public. 
+In August 2024, I was a guest speaker at a [three-day workshop at BITS Mesra](./teaching_in_mother_tongue.md). The workshop was sponsored under the [VAANI scheme](https://aicte-india.org/press-realeases/aicte-launched-aicte-vaani-scheme-promote-indian-languages) to promote the use of Indian languages for technical education. The effort is laudable, but we are woefully ill-equipped with equivalent terms for many modern technical concepts in English. Understandably, the number of students opting for local languages in technical courses remains very low.
 
-There is a necessity of creating outstanding technical texts in vernacular language as English has become a non-sustainable option as
-a link language. Although our edcuation system is built on adaptation of British system of education, there are enough reasons for 
-inadquacy of English to serve as a link language. The obvious ones among these reasons are:
-- Language is a contentious issue in post-independence India due to a manufactured north-south divide
-- Mobility is hampered as the people in streets are horribly ill-equipped to communicate in English
-  
-However, the necessity of a link language cannot be ignored for the reasons of mobility, tecnical, cultural, and societal integration. 
-Since, the post is not about the language debate, I won't expand it further. Let me return back to the topic of this post. India is 
-theoros of computer assisted, AI and robotics-led industrial revolution. The country cannot progress without a knowledgeable workforce. 
-The makein India movement and startup culture are severly affected due to lack of a workforce with adequate technical knowledge. Many 
-students even in high-end elite institutions like IITs and NITs face problem in the first semester because of their language handicap. 
-Non-availability of adequate technical literature in navtice language excerbate their woes. Of course, Youtube videos have alleviated the 
-problem quite a bit. However, availability of technical literature will be great assistance. In this context, let me take a bit of time 
-to discuss Prof Mallick's Bangla articles in mathematics.
+The National Education Policy (NEP) tacitly acknowledges this inadequacy. Its language policy states that "wherever possible the medium of instruction until at least class 5, but preferably till class 8 and beyond, will be home language/mother-tongue/local language/regional language." However, the NEP document avoids any reference to the medium of instruction beyond schools. Despite this, regulatory bodies are making efforts to make technical literature accessible in Indian languages. The major hurdle is the lack of homogeneity in adopting a national language in India.
 
-The article begins with a short background on ancient Greek mathematicians. [Erastosthenes of Cyrene](https://en.wikipedia.org/wiki/Eratosthenes) lived third century BC. Academicians of the time were philosophers beyond specialization who shaped public discourses. Erastosthenes had varied interests that range from mathematics, geography, astronomy, to music and poetry. He 
-was the first person to have calculated
-- The Earth's circumference with less than 1% error
-- The Earth's "axial tilt" with similar accuracy.
-- The Earth's projection using the concept of parallels and Merdians.
+## The Intent Behind This Post
 
-Speaking technically he was a Lybian by birth and lived in Alexandria from 245 BC till his death. However, he studied in Athenes under the 
-Greek philosopher [Aristo of Chios](https://en.wikipedia.org/wiki/Aristo_of_Chios). Another celebrated ancient Greek mathematician 
-[Euclid](https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/) work <i>Elements</i> appeared about 300 BC. In book IX of Elements, 
-Euclid proved that infinitely many prime numbers exists. Another important result that Euclid proved is about prime factorization. There 
-was gap of nearly 50 year after Euclid's work on prime numbers until Erastosthenes designed a simple algorithm for finding prime numbers
-with a defined range. The basic operation of the algorithm is to remove multiple of numbers starting with 2 from existing set of numbers 
-in the range. The one-line description may not be quite easy to understand. The article includes illustrative figures for the purpose. I 
-think it gives access and a simple idea of prime numbers to bangla readers.  
+Having set the context of discussion, let me reveal the intent behind this post. I received a copy of a Bangla article on "Eratosthenes' Sieve" from Prof. Ashok Mallick on the eve of "Bangla Nababarsha." As usual, Prof. Mallick's article underscores his deep knowledge and interest in popularizing mathematics among vernacular readers. Some of you may have read my review of his book "The Story of Numbers" ([Shankhyar Gulpo](./Book_review.md)) posted earlier.
+
+However, it is debatable how many Bengali readers will actually prefer to read a purely technical article in Bangla. Some reasons for this include:
+- The non-availability of quality technical literature in Bangla.
+- Unfamiliar and obscure transliterations of English technical terms.
+- The use of English as a link language for technical communications both inside and outside the state.
+
+## Historical Perspective on Knowledge and Local Languages
+
+If we go back to pre-Mughal times, India was a citadel of world knowledge. Astronomy, Ayurveda, Chikitsashastra, and Ganita texts were developed in Sanskrit. Classical literature and religious texts were written in Prakrit, which was also used in everyday communication. 
+
+Having an open mind about technical content in local languages is essential. However, beyond literature and history, not many original texts or articles are available in Indian languages. Even in English, there are few technical works by Indian authors that compare to the erudite exposition of Prof. Mallick's writings on mathematics in Bangla. 
+
+## The Need for Outstanding Technical Texts in Vernacular Languages
+
+There is an urgent need to create outstanding technical texts in vernacular languages. English, though widely used, has proven to be a non-sustainable option as a link language. Reasons for this include:
+- Language is a contentious issue in post-independence India, exacerbated by a manufactured north-south divide.
+- Mobility is hampered as many people lack adequate proficiency in English.
+
+However, the necessity of a link language for mobility, technical, cultural, and societal integration cannot be ignored. Since this post is not about the language debate, I will not delve deeper into that topic here.
+
+India is at the forefront of a computer-assisted, AI- and robotics-led industrial revolution. The country cannot progress without a knowledgeable workforce. The "Make in India" movement and startup culture are severely affected by the lack of a workforce with adequate technical knowledge. Many students, even in elite institutions like IITs and NITs, struggle in their first semester due to language barriers. The non-availability of adequate technical literature in native languages exacerbates the problem. While YouTube videos have alleviated this issue to some extent, the availability of technical literature would be a significant help.
+
+## Discussion on Prof. Mallick's Bangla Articles on Mathematics
+
+Prof. Mallick's article begins with a short background on ancient Greek mathematicians. [Eratosthenes of Cyrene](https://en.wikipedia.org/wiki/Eratosthenes), who lived in the third century BC, was the first person to:
+- Calculate the Earth's circumference with less than 1% error.
+- Determine the Earth's axial tilt with similar accuracy.
+- Develop a projection of the Earth using the concepts of parallels and meridians.
+
+Eratosthenes, a native of Libya, lived in Alexandria from 245 BC until his death. He studied in Athens under the Greek philosopher [Aristo of Chios](https://en.wikipedia.org/wiki/Aristo_of_Chios). Another celebrated Greek mathematician, [Euclid](https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/), authored the seminal work *Elements* around 300 BC. In Book IX of *Elements*, Euclid proved the existence of infinitely many prime numbers and presented an important result on prime factorization.
+
+Building on Euclid's work, Eratosthenes designed a simple algorithm for finding prime numbers in a defined range. The algorithm involves iteratively removing multiples of each prime number starting from 2. The article includes illustrative figures that simplify the concept for Bangla readers, making it accessible and engaging.
