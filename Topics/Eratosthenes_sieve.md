@@ -28,12 +28,12 @@ However, the necessity of a link language for mobility, technical, cultural, and
 
 India is at the forefront of a computer-assisted, AI- and robotics-led industrial revolution. The country cannot progress without a knowledgeable workforce. The "Make in India" movement and startup culture are severely affected by the lack of a workforce with adequate technical knowledge. Many students, even in elite institutions like IITs and NITs, struggle in their first semester due to language barriers. The non-availability of adequate technical literature in native languages exacerbates the problem. While YouTube videos have alleviated this issue to some extent, the availability of technical literature would be a significant help.
 
-Prof. Mallick's article begins with a short background on ancient Greek mathematicians. [Eratosthenes of Cyrene](https://en.wikipedia.org/wiki/Eratosthenes), who lived in the third century BC, was the first person to:
+Prof. Mallick's article begins with a short background on ancient Greek mathematicians. [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes), who was the first person to:
 - Calculate the Earth's circumference with less than 1% error.
 - Determine the Earth's axial tilt with similar accuracy.
 - Develop a projection of the Earth using the concepts of parallels and meridians.
 
-Eratosthenes, a native of cryene, lived in Alexandria from 245 BC until his death. He studied in Athens under the Greek philosopher [Aristo of Chios](https://en.wikipedia.org/wiki/Aristo_of_Chios). Another celebrated Greek mathematician, [Euclid](https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/), authored the seminal work *Elements* around 300 BC. In Book IX of *Elements*, Euclid proved the existence of infinitely many prime numbers and proved the result about prime factorization.
+Eratosthenes, a native of Cryene, lived in Alexandria from 245 BC until his death. He studied in Athens under the Greek philosopher [Aristo of Chios](https://en.wikipedia.org/wiki/Aristo_of_Chios). Another celebrated Greek mathematician, [Euclid](https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/), authored the seminal work *Elements* around 300 BC. In Book IX of *Elements*, Euclid proved the existence of infinitely many prime numbers and proved the result about prime factorization.
 
 Building on Euclid's work, Eratosthenes designed a simple algorithm for finding prime numbers in a defined range. The algorithm involves iteratively removing multiples of each prime number starting from 2. The article includes illustrative figures that simplify the concept for Bangla readers, making it accessible and engaging.
 
