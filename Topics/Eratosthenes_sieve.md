@@ -8,7 +8,7 @@ In August 2024, I was a guest speaker at a [three-day workshop at BITS Mesra](./
 The National Education Policy (NEP) tacitly acknowledges this inadequacy. Its language policy states that "wherever possible the medium of instruction until at least class 5, but preferably till class 8 and beyond, will be home language/mother-tongue/local language/regional language." However, the NEP document avoids any reference to the medium of instruction beyond schools. Despite this, regulatory bodies are making efforts to make technical literature accessible in Indian languages. The major hurdle is the lack of homogeneity in adopting a national language in India.
 
 
-Having set the context of discussion, let me reveal the intent behind this post. I received a copy of a Bangla article on "Eratosthenes' Sieve" from Prof. Ashok Mallick on the eve of "Bangla Nababarsha." As usual, Prof. Mallick's article underscores his deep knowledge and interest in popularizing mathematics among vernacular readers. Some of you may have read my review of his book "The Story of Numbers" ([Shankhyar Gulpo](./Book_review.md)) posted earlier.
+Having set the context of discussion, let me reveal the intent behind this post. I received a copy of a Bangla article on "Eratosthenes' Sieve" from Prof. Ashok Mallick on the eve of "Bangla Nababarsha." As usual, Prof. Mallick's article underscores his deep knowledge and interest in popularizing mathematics among vernacular readers. Some of you may have read my review of his book "The Story of Numbers" ([Shankhyar Gulpo](./Book_review.md)) posted earlier and subsequently stitched the connection between natural number and prime numbers.
 
 However, it is debatable how many Bengali readers will actually prefer to read a purely technical article in Bangla. Some reasons for this include:
 - The non-availability of quality technical literature in Bangla.
@@ -39,4 +39,4 @@ Building on Euclid's work, Eratosthenes designed a simple algorithm for finding 
 
 The article deals with Euler's work on the importance Erastosthenes sieve that stiched infiniteness of both natural and prime numbers is 
 known as Golden key for research in many areas of mathmatics. Euler's work had great impact on number theory in general and prime nunbers in particular. The article familiarizes the readers with Reimann zeta function and explains how Euler could arrive at a correct estimation
-of value of zeta(2).
+of value of zeta(2). Starting with seemingly simple Erastosthenes sieve algorithm, the reader gets an interesting peek into Harmonic series, Euler's golden key, Reimann's zeta function and some of the celebrated results connectiong infiniteness of natural numbers and prime numbers
