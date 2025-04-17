@@ -39,6 +39,6 @@ Eratosthenes, a native of Cyrene (now in Libya), lived in Alexandria from 245 BC
 
 The article expands further, focusing on Euler's work concerning the significance of Eratosthenes' sieve. Euler demonstrated how the idea of a sieve connects to the infiniteness of natural and prime numbers. Euler's work is often called the "golden key" for mathematical research in number theory. Euler's contributions profoundly impacted the understanding of prime numbers. 
 
-The article provides an engaging exploration of topics such as the harmonic series, Euler's golden key, Riemann's zeta function, and other foundational concepts in mathematics. Finding the value of $\zeta(s)$ is known as the Basel problem. Several mathematicians, including Bernoulli, Leibniz, and DeMoivre, gave different approximations of $\zeta(s)$. Finally, Euler, a Basel resident, showed $\zeta(n) = C(n)\pi^{2n}$. Using this golden key, Euler could relate natural and prime numbers to derive Erastosthenes' sieve.
+The article provides an engaging exploration of topics such as the harmonic series, Euler's golden key, Riemann's zeta function, and other foundational concepts in mathematics. Finding the value of $\zeta(s)$ is known as the Basel problem. Several mathematicians, including Bernoulli, Leibniz, and DeMoivre, gave progressively better approximations of $\zeta(s)$. However, Euler, a Basel resident, showed $\zeta(n) = C(n)\pi^{2n}$. Using this golden key, Euler could relate natural and prime numbers to derive Erastosthenes' sieve.
 
 [Back to Index](../index.md)
