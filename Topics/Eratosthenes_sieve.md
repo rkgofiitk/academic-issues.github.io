@@ -26,7 +26,7 @@ Having an open mind about technical content in local languages is essential. Bey
 - Language remains a contentious issue in post-independence India, exacerbated by a perceived north-south divide.
 - Most of north India won't mind using Hindi as the link language.
 
-We cannot ignore the necessity of a link language for mobility and technical, cultural, and societal exchanges. However, the cab drivers, the food stall owners, the hoteliers, and the salespersons are not proficient in English. Therefore, last-mile connectivity for free mobility remains an issue in India, even if one argues in favor of English as the link language. Since this post is not about the language debate, I will not expand more on this topic.
+We cannot ignore the necessity of a link language for mobility and technical, cultural, and societal exchanges. However, the cab drivers, the food stall owners, the hoteliers, and the salespersons are not proficient in English. Therefore, last-mile connectivity for free mobility remains an issue in India, even if one argues in favor of English as the link language. Since this post is not about the language debate, I will not expand further on this topic.
 
 India is on the verge of a computer-assisted, AI- and robotics-led industrial revolution. The country cannot progress without a knowledgeable workforce. The 'Make in India' movement, a government initiative aimed at promoting manufacturing in India, and the burgeoning startup culture require a strong foundation of technical education that is accessible to all.
 
