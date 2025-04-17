@@ -8,7 +8,7 @@ In August 2024, I was a guest speaker at a three-day workshop at BITS Mesra. Thi
 
 The [National Education Policy (NEP)](https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf) acknowledges the inadequacy of technical resources in regional languages in higher education. It states, "wherever possible, the medium of instruction until at least class 5, but preferably till class 8, should be in the home language or mother tongue." NEP is silent about teaching technical content in regional languages beyond schools. Therefore, experts formulating the NEP had tacitly recognized the challenges in implementing the policy of using regional languages in higher education.
 
-Having set the context, let me reveal the intent behind this post. I recently received a copy of a Bangla article on ["Eratosthenes' Sieve"](../images/Eratosthenes.pdf) from Prof. Ashok Mallick on the eve of "Bangla Nababarsha" (Bengali New Year). The article highlights the potential of regional languages in disseminating technical knowledge.
+Having set the context, let me reveal the intent behind this post. I recently received a copy of a Bangla article on ["Eratosthenes' Sieve & Euler's Golden Key"](../images/Eratosthenes.pdf) from Prof. Ashok Mallick on the eve of "Bangla Nababarsha" (Bengali New Year). The article highlights the potential of regional languages in disseminating technical knowledge.
 
 However, how many Bengali readers would prefer to read a purely technical article in Bangla is debatable. Some challenges include:
 - There is a lack of quality technical literature in Bangla. 
