@@ -37,8 +37,8 @@ Prof. Mallick's article begins with a short background on ancient Greek mathemat
 
 Eratosthenes, a native of Cyrene (now in Libya), lived in Alexandria from 245 BC until his death. He studied in Athens under the Greek philosopher Aristo of Chios. Building on Euclid's work, Eratosthenes designed a simple algorithm for finding prime numbers in a defined range. This algorithm involves iteratively removing multiples of each prime number starting from 2, leaving only the prime numbers.
 
-The article expands, focusing on Euler's work concerning the significance of Eratosthenes' sieve. Euler demonstrated how the idea of a sieve connects to the infiniteness of natural and prime numbers. Euler's work is often called the "golden key" for mathematical research in number theory. Euler's contributions profoundly impacted the understanding of prime numbers.
+The article expands further, focusing on Euler's work concerning the significance of Eratosthenes' sieve. Euler demonstrated how the idea of a sieve connects to the infiniteness of natural and prime numbers. Euler's work is often called the "golden key" for mathematical research in number theory. Euler's contributions profoundly impacted the understanding of prime numbers. 
 
-The article introduces readers to the value of $\zeta(2) = \pi^2/6$ through the seemingly simple Eratosthenes' sieve algorithm. It provides an engaging exploration of topics such as the harmonic series, Euler's golden key, Riemann's zeta function, and other foundational concepts in mathematics. 
+The article provides an engaging exploration of topics such as the harmonic series, Euler's golden key, Riemann's zeta function, and other foundational concepts in mathematics. Finding the value of $\zeta(s)$ is known as the Basel problem. Several mathematicians, including Bernoulli, Leibniz, and DeMoivre, gave different approximations of $\zeta(s)$. Finally, Euler, a Basel resident, showed $\zeta(2) = \pi^2/6$. Using this golden key, Euler could relate natural and prime numbers to derive Erastosthenes' sieve.
 
 [Back to Index](../index.md)
