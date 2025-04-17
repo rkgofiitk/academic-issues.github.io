@@ -1,4 +1,4 @@
-# Speaking of Eratosthenes' Sieve in Bangla
+# Eratosthenes' Sieve & Euler's Golden Key "in Bangla"
 
 
 AICTE has embarked on a groundbreaking initiative for ['Technical Book Writing and Translation,'](https://www.aicte-india.org/sites/default/files/fds/28.06.2021%20TBW%20SCHEME%20DOCUMENT.pdf) aiming to develop engineering texts in twelve Indial languages. A report says that Anna University has successfully experimented teaching technical content for 10 years now. University  experiments indicate immense potential of regional languages in technical education.
@@ -7,7 +7,7 @@ In August 2024, I was a guest speaker at a three-day workshop at BITS Mesra. Thi
 
 The [National Education Policy (NEP)](https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf) acknowledges the inadequacy of technical resources in regional languages in higher education. It states, "wherever possible, the medium of instruction until at least class 5, but preferably till class 8, should be in the home language or mother tongue." NEP is silent about teaching technical content in regional languages beyond schools. Therefore, experts formulating the NEP had tacitly recongnized the challenges in implementing the policy of using regional languates in higher education.
 
-Having set the context, let me reveal the intent behind this post. I recently received a copy of a Bangla article on ["Eratosthenes' Sieve"]() from Prof. Ashok Mallick on the eve of "Bangla Nababarsha" (Bengali New Year). The article highlights the potential of regional languages in disseminating technical knowledge.
+Having set the context, let me reveal the intent behind this post. I recently received a copy of a Bangla article on ["Eratosthenes' Sieve"](../images/Eratosthenes.pdf) from Prof. Ashok Mallick on the eve of "Bangla Nababarsha" (Bengali New Year). The article highlights the potential of regional languages in disseminating technical knowledge.
 
 However, how many Bengali readers would prefer to read a purely technical article in Bangla is debatable. Some challenges include:
 - There is a lack of quality technical literature in Bangla. 
@@ -33,6 +33,6 @@ Prof. Mallick's article begins with a short background on ancient Greek mathemat
 
 Eratosthenes, a native of Cyrene (now in Libya), lived in Alexandria from 245 BC until his death. He studied in Athens under the Greek philosopher Aristo of Chios. Building on Euclid's work, Eratosthenes designed a simple algorithm for finding prime numbers in a defined range. This algorithm involves iteratively removing multiples of each prime number starting from 2, leaving only the prime numbers.
 
-The article also explores Euler's work on the significance of Eratosthenes' sieve. Euler demonstrated how the sieve connected the infiniteness of natural and prime numbers, a concept often referred to as the "golden key" for mathematical research. Euler's contributions profoundly impacted number theory, particularly in understanding prime numbers.
+The article expands with focus on Euler's work concerning the significance of Eratosthenes' sieve. Euler demonstrated how the idea of sieve connects to the infiniteness of natural and prime numbers. Euler's work open often referred to as the "golden key" for mathematical research in number theory. Euler's contributions profoundly impacted the understanding of prime numbers.
 
-The article introduces readers to the value of ζ(2) through the seemingly simple Eratosthenes' sieve algorithm. It provides an engaging exploration of topics such as the harmonic series, Euler's golden key, Riemann's zeta function, and other foundational concepts in mathematics.
+The article introduces readers to the value of ζ(2) through the seemingly simple Eratosthenes' sieve algorithm. It provides an engaging exploration of topics such as the harmonic series, Euler's golden key, Riemann's zeta function, and other foundational concepts in mathematics. 
