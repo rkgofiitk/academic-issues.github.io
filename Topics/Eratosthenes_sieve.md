@@ -2,6 +2,8 @@
 
 [Blog Index](../index.md)
 
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: { skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'], inlineMath: [['$','$']] } }); </script> <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 AICTE has embarked on a groundbreaking initiative for ['Technical Book Writing and Translation,'](https://www.aicte-india.org/sites/default/files/fds/28.06.2021%20TBW%20SCHEME%20DOCUMENT.pdf) aiming to develop engineering texts in twelve Indian languages. A report says that Anna University has successfully experimented with teaching technical content for 10 years now. University experiments indicate the immense potential of regional languages in technical education.
 
 In August 2024, I was a guest speaker at a three-day workshop at BITS Mesra. This workshop, sponsored under the ['VAANI' scheme](https://aicte-india.org/press-realeases/aicte-launched-aicte-vaani-scheme-promote-indian-languages), was to explore the challenges and opportunities of teaching technical subjects in regional languages. My experience speaking to a knowledgeable audience in Odiya reveals that we are not yet ready to teach technical content in Indian languages. The major hurdle in implementation is the lack of exact equivalent terms in local languages. There is a need to simplify languages to make them suitable for adaptation in teaching technical content. 
@@ -36,6 +38,6 @@ Eratosthenes, a native of Cyrene (now in Libya), lived in Alexandria from 245 BC
 
 The article expands, focusing on Euler's work concerning the significance of Eratosthenes' sieve. Euler demonstrated how the idea of a sieve connects to the infiniteness of natural and prime numbers. Euler's work is often called the "golden key" for mathematical research in number theory. Euler's contributions profoundly impacted the understanding of prime numbers.
 
-The article introduces readers to the value of ζ(2) through the seemingly simple Eratosthenes' sieve algorithm. It provides an engaging exploration of topics such as the harmonic series, Euler's golden key, Riemann's zeta function, and other foundational concepts in mathematics. 
+The article introduces readers to the value of $\zeta(2) = \pi^2/6$ through the seemingly simple Eratosthenes' sieve algorithm. It provides an engaging exploration of topics such as the harmonic series, Euler's golden key, Riemann's zeta function, and other foundational concepts in mathematics. 
 
 [Back to Index](../index.md)
