@@ -2,6 +2,9 @@
 
 [Blog Index](../index.md)
 
+
+
+
 A week back in [another post](./YC_founders_IITs.md), I referred to Commerce Minister Piyush Goyal's 
 address to a government-sponsored event called "[Startup Mahakumbh](https://startupmahakumbh.org)." Goyal 
 said while "they (meaning China) are focusing on EV battery technology, building next generation factories 
@@ -114,6 +117,17 @@ led by political parties occur regularly throughout the year in many states acro
 is not easy in such environments. So, there is a requirement for a major agreement in the highest legislative bodies like parliament
 and state assemblies to remove the impediments if India were to nurture an organically evolving startup revolution. 
 
+# Edits
 
+After the above post on Startups, Bluesmart, and Gensol Engineering scam became public. According to the SEBI report, PFC and 
+IREDAsanctioned loan to Jaggi Brothers (Anmol and Puneet) and Gensol Engineering. There were multiple instances of default in loan 
+repayment servicing from December 2024. However, none of the involved entities submitted any default issue with the loan repayment to 
+CRA. Instead, they certified that there are no loan repayment defaults from any financial institution as of February 2025. It is a big 
+set back for those unhappy with Minister Piyush Goyal's comment about the startup ecosystem in India vis-a-vis China. I 
+understand that Bluesmart is an all-electric ride-share company with a comparable market share to Uber and Ola. Both Tata and Reliance 
+have invested in the company. Therefore, shutting down Bluesmart is a significant setback for startups. Investors will now be extremely 
+cautious about investing funds or sponsoring any startup venture. Gensol Engineering, the parent company of Bluesmart, provided solar 
+power management, engineering procurement and construction, and EV manufacturing. SEBI reported that there is no plant under Gensol. It 
+was a case of corporate fraud, but the event has ignited a big question mark on startups in India. In one of the [TV debates](https://www.youtube.com/watch?v=oYbu-V-OhCg) on the issue last night, Suhel Seth came down heavily on startup backers. He was upset that many startup founders are muddying a well-intentioned government-backed push for innovation in India.
 
 [Back to Index](../index.md)
