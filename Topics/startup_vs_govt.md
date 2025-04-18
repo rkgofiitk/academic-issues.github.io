@@ -122,7 +122,7 @@ and state assemblies to remove the impediments if India were to nurture an organ
 After the above post on Startups, Bluesmart, and Gensol Engineering scam became public. According to the SEBI report, PFC and 
 IREDAsanctioned loan to Jaggi Brothers (Anmol and Puneet) and Gensol Engineering. There were multiple instances of default in loan 
 repayment servicing from December 2024. However, none of the involved entities submitted any default issue with the loan repayment to 
-CRA. Instead, they certified that there are no loan repayment defaults from any financial institution as of February 2025. It is a big 
+CRA. Instead, they certified that no loan repayment defaults from any financial institution as of February 2025. It is a big 
 set back for those unhappy with Minister Piyush Goyal's comment about the startup ecosystem in India vis-a-vis China. I 
 understand that Bluesmart is an all-electric ride-share company with a comparable market share to Uber and Ola. Both Tata and Reliance 
 have invested in the company. Therefore, shutting down Bluesmart is a significant setback for startups. Investors will now be extremely 
