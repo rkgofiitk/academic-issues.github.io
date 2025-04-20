@@ -35,7 +35,7 @@ Prof. Mallick's article begins with a short background on ancient Greek mathemat
 - Determine the Earth's axial tilt with similar accuracy.
 - Develop a projection of the Earth using the concepts of parallels and meridians. 
 
-Eratosthenes, a native of Cyrene (now in Libya), lived in Alexandria from 245 BC until his death. He studied in Athens under the Greek philosopher Aristo of Chios. Building on Euclid's work, Eratosthenes designed a simple algorithm for finding prime numbers in a defined range. This algorithm involves iteratively removing multiples of each prime number starting from 2, leaving only the prime numbers.
+[Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes), a native of Cyrene (now in Libya), lived in Alexandria from 245 BC until his death. He studied in Athens under the Greek philosopher [Aristo of Chios](https://en.wikipedia.org/wiki/Aristo_of_Chios). Building on Euclid's work, Eratosthenes designed a simple algorithm for finding prime numbers in a defined range. This algorithm involves iteratively removing multiples of each prime number starting from 2, leaving only the prime numbers.
 
 The article expands further, focusing on Euler's work concerning the significance of Eratosthenes' sieve. Euler demonstrated how the idea of a sieve connects to the infiniteness of natural and prime numbers. Euler's work is often called the "golden key" for mathematical research in number theory. Euler's contributions profoundly impacted the understanding of prime numbers. 
 
