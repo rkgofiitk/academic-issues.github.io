@@ -1,4 +1,4 @@
-# Eratosthenes' Sieve & Euler's Golden Key "in Bangla"
+# Eratosthenes' Sieve & Euler's Golden Key in "Bangla"
 
 [Blog Index](../index.md)
 
