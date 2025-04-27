@@ -14,4 +14,10 @@ the topic of the current post is on Agentic AI.
 
 India is reported to have only about [half of Agentic AI experts]( https://economictimes.indiatimes.com/tech/artificial-intelligence/india-facing-shortage-of-agentic-ai-professionals-amid-surge-in-demand/articleshow/120651512.cms?from=mdr) than its requirement. The total requirement of 
 Agentic AI experts is 200,000 as agains 100,000 we have in India. The news article seems to make a big hype about 
-agentic AI. It is, therefore, important to understand how Agentic AI is different from generatice AI.  More specifically, the question is: do we have to re-orient CS education syllabus to train Agentic AI experts?
+agentic AI. It is, therefore, important to understand how Agentic AI is different from generatice AI.  More 
+specifically, the question is: do we have to re-orient CS education syllabus to train Agentic AI experts? If so, what will it include?
+
+Traditional AI is rule-based or depend on human intervention. Agentic AI refers to AI system that can autonomously 
+make decisions, take actions and adopt to change in environment. Agentic AI is capable of reasoning, planning and 
+capable of executing tasks across complex workflows. Agentic AI systems are 
+
