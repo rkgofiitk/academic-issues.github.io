@@ -18,6 +18,68 @@ agentic AI. It is, therefore, important to understand how Agentic AI is differen
 specifically, the question is: do we have to re-orient CS education syllabus to train Agentic AI experts? If so, what will it include?
 
 Traditional AI is rule-based or depend on human intervention. Agentic AI refers to AI system that can autonomously 
-make decisions, take actions and adopt to change in environment. Agentic AI is capable of reasoning, planning and 
-capable of executing tasks across complex workflows. Agentic AI systems are 
+make decisions, take actions and adopt to changes in the environment. Agentic AI is capable of reasoning, planning 
+and executing tasks across complex workflows. Agentic AI systems are being used increasingly to automate customer 
+services. They can reschedule deliveries, process cancellation, or recommend replacements without human 
+interventions. They incorporate logic and reasoning under environmental constraints to adjust to new workflows. The
+idea of distributed agent-based system is not new. However, agent-based softwares did not have many takers due to 
+serious concerns about security and privacy issue. Traditional agentic systems were never used across domains of 
+Autonomous Systems (AS). There are several issue in allowing software agents to migrate from one AS to another. 
+These include:
+- Collaboration and Interoperability
+- Cross border AI services
+- Regulatory compliances of Data accesses
+- Data sovereignity
+- Scalability and resource availability
+- Trust and governance
+- Security and privacy
+
+Interoperability issues can be solved largely through standardizations. However, it will be difficult to fully meet the next two requireuments. Security, trust, data governance problems are closely linked to the requirement of Data 
+Sovereignity. While resource availability is a solvable problem, the security and trust are domeinant requirements 
+that come in the way of scalability. Therefore, if at all, Agentic AI system can be deployed under tight control of
+a subdomain of a single AS. The bottom line for deploying a cross domain agentic system is to allow migration of agent. In theory, we can evolve a framework or a set of protocols for Agentic AI system ensuring:
+- Access Control & Authentication
+- AI Governance & Compliance
+- Security Monitoring & Threat Detection
+- Encryption & Secure Data Handling
+- Controlled Migration Protocols 
+
+However, it is almost impossible for network administrators to adjust to the idea of allowing foreign agents to 
+execute workflows in their ASes. Therefore, all the talk about agentic AI systems is restricted to static AI agents, and pre-scheduling their execution. One may note that pre-scheduling is not new. 
+
+AI is undoubtedly reshaping **computer science education**, but traditional **theory and research** behind programming **still hold immense value**. While AI-driven automation and agentic AI are gaining traction, foundational **CS principles—like algorithms, data structures, and software engineering—remain essential**.
+
+1. **AI-Integrated Curricula** – Universities are incorporating AI-focused courses, such as **machine learning, deep learning, and AI ethics**, alongside traditional programming.
+2. **Shift Toward Applied AI** – More emphasis is being placed on **AI-driven software development**, where students learn to integrate AI models into applications.
+3. **Rise of AI-First Programming** – Some institutions are introducing **AI-assisted coding tools** (like GitHub Copilot) to teach students how to work alongside AI rather than just writing code manually.
+4. **Ethics & Governance in AI** – With AI’s growing influence, courses on **AI bias, fairness, and responsible AI development** are becoming more prominent.
+
+### **Will Traditional CS Theory Still Matter?**
+Absolutely! While AI is changing how software is built, **core CS principles remain fundamental**:
+- **Algorithmic efficiency** is still crucial for optimizing AI models.
+- **Formal methods** help ensure AI systems are reliable and secure.
+- **Software architecture** is needed to integrate AI into scalable applications.
+
+Institutions like **Rajiv Gandhi National Institute of Youth Development** and **CBSE** are already adapting their syllabi to include AI while retaining core CS principles. 
+
+Agentic AI is poised to reshape **programming language requirements** in **computer science education** by influencing how students learn, code, and interact with AI-driven systems. Based on recent research, here are some key ways this shift is happening:
+
+### **1. Increased Focus on AI-Integrated Languages**
+- **Python** remains dominant due to its extensive AI libraries (**TensorFlow, PyTorch, Scikit-learn**).
+- **Julia** is gaining traction for AI applications due to its speed and efficiency.
+- **Rust** is being explored for AI security and reliability in agentic systems.
+
+### **2. Shift Toward AI-Assisted Coding**
+- AI-powered tools like **GitHub Copilot** and **OpenAI Codex** are influencing how students approach programming.
+- **Less emphasis on syntax memorization**, more focus on **problem-solving and AI-assisted debugging**.
+
+### **3. New Course Structures**
+- Universities are integrating **AI-driven programming courses**, focusing on **agentic AI, reinforcement learning, and autonomous systems**.
+- **Collaborative AI coding** is becoming a core part of CS education, where students work alongside AI agents.
+
+### **4. Ethical & Governance Considerations**
+- AI-driven programming introduces **new ethical dilemmas**, requiring courses on **AI bias, security, and responsible AI development**.
+- **Regulatory frameworks** for AI-assisted coding are being discussed in academia.
+
+Would you like to explore how specific universities are adapting their CS curricula to accommodate agentic AI?
 
