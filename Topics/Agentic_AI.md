@@ -1,4 +1,4 @@
-# Grappling with Dearth of Agentic AI
+# Grappling with Dearth of Agentic AI Experts
 
 [Blog Index](../index.md)
 
