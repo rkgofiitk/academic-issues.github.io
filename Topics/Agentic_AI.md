@@ -26,9 +26,11 @@ Interoperability issues can be solved largely through standardizations. However,
 - Context Capture (dynamic, multi-source situational awareness).
 - Synthesis of Results (orchestrating components into adaptive, goal-driven workflows)
 
-Synthesis is the unique transformative capability that distinguishes agentic AI from the classical distributed agent-based solutions. Though one can argue theoretically the rule-based synthesis of component results from distributed agents just an additional step. However, learning capability of Agentic AI that largely dependent on leveraging generative power of LLM cannot be matched.
+Synthesis is the unique transformative capability that distinguishes agentic AI from the classical distributed agent-based solutions. Though one may argue that theoretically the rule-based synthesis of component results from distributed agents just an additional step. However, learning capability of Agentic AI that largely dependent on leveraging generative power of LLM cannot be matched. 
 
-AI is undoubtedly reshaping **computer science education**, but traditional **theory and research** behind programming **still hold immense value**. While AI-driven automation and agentic AI are gaining traction, foundational **CS principles—like algorithms, data structures, and software engineering—remain essential**.
+The background discussion between classical distributed agent and Agentic AI system is essential to understand the additional updates to CSE curricula for trainging students with Agentic AI expertise. 
+
+Apart from traditional theory and research behind programming. While AI-driven automation and agentic AI are gaining traction, foundational **CS principles—like algorithms, data structures, and software engineering—remain essential**.
 
 1. **AI-Integrated Curricula** – Universities are incorporating AI-focused courses, such as **machine learning, deep learning, and AI ethics**, alongside traditional programming.
 2. **Shift Toward Applied AI** – More emphasis is being placed on **AI-driven software development**, where students learn to integrate AI models into applications.
