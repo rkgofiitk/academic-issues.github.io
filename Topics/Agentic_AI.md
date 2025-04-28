@@ -21,19 +21,12 @@ These include:
 - Trust and governance
 - Security and privacy
 
-Interoperability issues can be solved largely through standardizations. However, it will be difficult to fully meet cross-border AI services and regulatory compliance for data accessibility in foreign domains. Data sovereignity issue actually is the key impedements to regulatory compliances.  Scalability and resource availability will remain unresolved with or without AI. Security, trust, data governance problems are also closely linked to the requirement of Data Sovereignity. Therefore, if at all, Agentic AI system can be deployed under tight control of a subdomain of a home Autnomous System. It is almost impossible for network administrators to adjust to the idea of allowing foreign agents to execute workflows in their ASes. Therefore, all the talk about agentic AI systems is restricted to static AI agents, and pre-scheduling their execution. One may note that pre-scheduling is not new.The bottom line for deploying a cross domain Agentic AI system is to allow migration of agent. 
+Interoperability issues can be solved largely through standardizations. However, it will be difficult to fully meet cross-border AI services and regulatory compliance for data accessibility in foreign domains. Data sovereignity issue actually is the key impedements to regulatory compliances.  Scalability and resource availability will remain unresolved with or without AI. Security, trust, data governance problems are also closely linked to the requirement of Data Sovereignity. Therefore, if at all, Agentic AI system can be deployed under tight control of a subdomain of a home Autnomous System. It is almost impossible for network administrators to adjust to the idea of allowing foreign agents to execute workflows in their ASes not withstanding iron-clad gaurantees concerning data sovereignity and regulatory compliance regarding data accessibility. Therefore, all the talk about agentic AI systems is restricted to static AI agents, and pre-scheduling their execution. One may note that pre-scheduling is not new. So, the Agentic AI system has following three principal characteristics:
+- Statistical Inference (pattern recognition, predictions).
+- Context Capture (dynamic, multi-source situational awareness).
+- Synthesis of Results (orchestrating components into adaptive, goal-driven workflows)
 
-
-
-
-
-- Access Control & Authentication
-- AI Governance & Compliance
-- Security Monitoring & Threat Detection
-- Encryption & Secure Data Handling
-- Controlled Migration Protocols 
-
-However,  
+Synthesis is the unique transformative capability that distinguishes agentic AI from the classical distributed agent-based solutions. Though one can argue theoretically the rule-based synthesis of component results from distributed agents just an additional step. However, learning capability of Agentic AI that largely dependent on leveraging generative power of LLM cannot be matched.
 
 AI is undoubtedly reshaping **computer science education**, but traditional **theory and research** behind programming **still hold immense value**. While AI-driven automation and agentic AI are gaining traction, foundational **CS principles—like algorithms, data structures, and software engineering—remain essential**.
 
@@ -69,5 +62,4 @@ Agentic AI is poised to reshape **programming language requirements** in **compu
 - AI-driven programming introduces **new ethical dilemmas**, requiring courses on **AI bias, security, and responsible AI development**.
 - **Regulatory frameworks** for AI-assisted coding are being discussed in academia.
 
-Would you like to explore how specific universities are adapting their CS curricula to accommodate agentic AI?
 
