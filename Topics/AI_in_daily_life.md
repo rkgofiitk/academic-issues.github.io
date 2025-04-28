@@ -2,9 +2,7 @@
 
 [Blog Index](../index.md)
 
-Two different new stories about AI caught my attention. One was about innovation to solve a difficult situation arising out of an unknown source. The other is to use generative AI recommendations for daily chores. AI recommendations is already being used in many different ways than we could ever think of. For example, even in creative areas like painting, writing and content creation, visual arts, music and audio, video and animation. 
-
-Delving deeper, we find in technology too there are areas like rapid prototyping, AI-assisted robotic surgery, creating computer softwares, etc., where AI tools are used increasingly.   
+Two different new stories about AI caught my attention. One was about innovation to solve a difficult situation arising out of an unknown source. The other is to use generative AI recommendations for daily chores. AI recommendations is already being used in many different ways than we could ever think of. AI tools are used increasingly in deep-tech areas like driver-less cars, industrial automation, construction, battle field and precision targeting, rapid prototyping, AI-assisted robotic surgery, AI-assisted living, etc. However, AI is also usedin creative areas like painting, writing and content creation, visual arts, music and audio, video and animation.   
 
 Absolutely! Here’s a structured, research-backed document outlining a **Global AI Governance System** with actionable steps for implementation.
 
