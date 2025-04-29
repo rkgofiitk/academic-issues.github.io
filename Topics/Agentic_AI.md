@@ -34,7 +34,7 @@ The requirement of traditional theory and research behind programming will remai
 - AI-driven software development, where students learn to integrate AI models into applications.
 - AI-assisted coding tools (like GitHub Copilot)
 - Distributed Systems with emphasis on agent and P2P systems. 
-- At one course on AI bias, fairness, and responsible AI development.
+- At least one course on AI bias, fairness, and responsible AI development.
 
 The debate on the choice of **first programming language** becomes narrower than before.  Increased significance will be required in teaching AI-integrated languages such as Python, Julia, and Rust.  Furthermore, training in R, MATLAB, SQL, SCALA, Lisp, and Prolog will also be advantageous for creating applications.  However, a significant shift in collaborative AI coding is essential for training Agentic AI expertise.
 
