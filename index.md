@@ -10,7 +10,7 @@ Information flow is a major contributor to mass-based upheavals in the governanc
 is crucial for any system of governance. From time to time, the government comes up with an intervention to correct the educators and 
 support those in power. Therefore, it is essential to analyze the implications of specific policies from a neutral viewpoint.
 
-- [Reorienting CS Curricula for Agentic AI](Topics/Agentic_AI.md)
+- [Beyond Algorithms: Reimagining CS Curricula for Agentic AI](Topics/Agentic_AI.md)
 - [Eratosthenes Sieve and Euler's Golden Key in "Bangla"](Topics/Eratosthenes_sieve.md)
 - [Startups versus Government](Topics/startup_vs_govt.md)
 - [Indian Startups and YC Founders](Topics/YC_founders_IITs.md)
