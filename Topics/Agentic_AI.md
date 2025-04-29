@@ -20,9 +20,9 @@ The idea of [distributed agent-based systems](https://ieeexplore.ieee.org/abstra
 - Security and privacy
 
 We can solve interoperability primarily through standardizations.  However, it will be difficult to fully meet cross-border AI services and regulatory compliance for data accessibility in a foreign domain. Data sovereignty is the key requirement for regulatory compliance. However, preserving it across ASes will become a major hinderance for migration, scalability and resource availability. Security, trust, and data governance problems are also closely linked to data sovereignty requirements. Therefore, we can deploy an Agentic AI system under the tight control of a subdomain of a home Autonomous System. It is almost impossible for network administrators to adjust to allowing foreign agents to execute workflows in their ASes without withstanding iron-clad guarantees concerning data sovereignty and regulatory compliance.  Therefore, Agentic AI systems are restricted to static AI agents and pre-scheduling their execution.  Pre-scheduling a program is not new (Unix cron allows it).  The following three characteristics distinguish an Agentic AI system  from a traditional distributed agent system:
-- Statistical Inference (pattern recognition, predictions).
-- Context awareness (dynamic, multi-source situational awareness).
-- Ability to synthesize results (orchestrating components into adaptive, goal-driven workflows)
+- **Statistical Inference** (pattern recognition, predictions).
+- **Context awareness** (dynamic, multi-source situational awareness).
+- **Ability to synthesize results** (orchestrating components into adaptive, goal-driven workflows)
 
 Synthesis is the unique transformative capability that distinguishes agentic AI from the classical distributed agent-based solutions.  Though one may argue that theoretically, the rule-based synthesis of component results from distributed agents is just an additional post-processing step, traditional distributed agents do not have it.  However, the learning capability of an Agentic AI that is mainly dependent on leveraging the generative power of LLM cannot be matched. 
 
