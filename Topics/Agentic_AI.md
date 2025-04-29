@@ -1,4 +1,4 @@
-# Grappling with Shortage of Agentic AI Experts
+# Reorienting CS Curricula for Agentic AI
 
 [Blog Index](../index.md)
 
