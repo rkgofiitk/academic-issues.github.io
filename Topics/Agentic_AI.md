@@ -1,4 +1,4 @@
-# Beyond Algorithms: Reimagining CS Curricula for Agentic AI
+## Beyond Algorithms: Reimagining CS Curricula for Agentic AI
 
 
 [Blog Index](../index.md)
