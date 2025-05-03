@@ -2,62 +2,29 @@
 
 [Blog Index](../index.md)
 
-Two different new stories about AI caught my attention. One was about innovation to solve a difficult situation arising out of an unknown source. The other is to use generative AI recommendations for daily chores. AI tools are already in use in many ways than we could ever think of. Deep-tech areas like driver-less cars, industrial automation, precision target hittings in battle field, rapid prototyping, robot-assisted surgery, assisted-living, etc. However, AI is also used in creative areas like painting, writing and content creation, visual arts, music and audio, video and animation.   
+Over last couple years awareness of the power of Generative AI has been phenomenal. It has caught imagination of people who found themselves technically challenged in using features of a smart phone. Many have developed capabilities to solve a difficult situation arising out of a source where they don't have competence. One of the extensive use of Generative AI is in seeking recommendations on investment financing and regulatory compliance for tax liabilities and legal situations. The other extensive use of Generative AI is creating reports and documents. HR departments in corporate sectors have started using AI tools for hiring,  layoffs and assessments.  People have now started using Gen AI even in creative areas like painting, writing and content creation, visual arts, music and audio, video and animations. The success and potentials of Generative AI has laid foundations for Agentic AI and General AI (GAI) or Artificial General AI (AGI).  Driver-less cars, industrial automation, precision target hittings in battle field, rapid prototyping, robot-assisted surgery, assisted-livings, represent a few notable use of AGI.  Agentic AI is one of the key framework for large-scale deployment of AGI.
 
-How is agentic AI different from traditional AI systems? Traditional AI systems are designed and trained to perform tasks with predefined set of rules and algorithms. They execute on fixed data sets and required fixed instructions from the user. Essentially traditional AI systems follow a fixed script and orchestrate the available resources and solve a problem in hand. They lack ability to make a decision beyond the defined programming scrpts.
-Agentic AI systems are proactive rather than reactive and work with minimal or no intervention by their human handlers. Agents are context-aware, learn continuously from feedback and experience. They are able to perceive their environment, reason about options, and refine their approach dynamically. So adaptablitiy is key distinguishing feature of agemts. Agentic AI system can build/create workflows with networks of multiple AI agents that collaborate together to solve complex, real-world problems. Agents can migrate. However, agent migration is tricky, especially, if it crosses network boundaries. Agentic AI and the classical distributed agent systems have many thing in common except that Agent AI systems more adaptable to their environment because they can orchestrate resources better and use reinforcement learning. At theoretical level both are same except the learning part in Agentic AI. So, the the hype about Agentic AI is driven by its promise of flexible autonomy abd seem-less orchestration of resources leveraging LLM and reinforcement learning. However, the bottom-line of operation of an Agentic AI system are the underlying algorithms. An algorithmic system cannot completely replicate human cognition even with LLM. 
+Agentic AI systems are proactive rather than reactive and work with minimal or no intervention by their human handlers. Agents are context-aware, learn continuously from feedback and experience. They are able to perceive their environment, reason about options, and refine their approach dynamically. So adaptablitiy is key distinguishing feature of agemts. Agentic AI system can build/create workflows with networks of multiple AI agents that collaborate together to solve complex, real-world problems. Agents can migrate. However, agent migration is tricky, especially, if it crosses network boundaries. Agentic AI and the classical distributed agent systems have many thing in common except that Agent AI systems more adaptable to their environment because they can orchestrate resources better and use reinforcement learning. At theoretical level both are same except the learning part in Agentic AI. So, the the hype about Agentic AI is driven by its promise of flexible autonomy and seamless orchestration of resources leveraging LLM and reinforcement learning. However, the bottom-line of operation of an Agentic AI system are the underlying algorithms. An algorithmic system cannot completely replicate human cognition even with LLM. However, a key challenge in deploying Agentic AI will be evolving a framework of self-sustainable AI goverance.
 
-Statistical inferencing with time-series models are often used in classical distribute agent-based softwares. Since, hostorical patterns form basis for inferencing in any AI system, there is a lot of similarity in programming of Agent AI. However, there are two basic differences 
+Without effective governance AI could exacerbate **economic disparities, cyber threats, and ethical violations**. Let us start with the objectives of AI governance.
 
-
----
-Certainly! Below is a more **detailed implementation plan** expanding on the core elements of the **Automated AI-Based Global AI Governance System** while addressing real-world challenges.
-
----
-
-Great! Let’s add a **cost analysis, feasibility study, and real-world regulatory examples** to make this proposal more actionable.
-
----
-
-# **Automated AI-Based Global AI Governance System**  
-### **A Comprehensive Framework for Ethical AI Regulation & Enforcement with Feasibility Analysis**
-
-## **1. Introduction**  
-AI has rapidly evolved, bringing both transformative benefits and potential risks. Without effective governance, AI could exacerbate **economic disparities, cyber threats, and ethical violations**. This document provides a **structured roadmap** for implementing a **self-sustaining AI governance system** with **cost analysis, feasibility considerations, and real-world examples**.
-
-## **2. Objectives of the AI Governance System**  
-### **A. Regulatory Oversight**
 - Establish a **binding global AI ethics framework**.
 - Automate real-time **AI auditing and risk assessment**.
-- Prevent misuse in **high-risk sectors**, such as autonomous weapons.
-
-### **B. AI Security & Threat Mitigation**
-- **Identify & neutralize rogue AI models**.
+- Prevent misuse in **high-risk sectors**, such as lethal wwappns.
 - Strengthen defenses against **AI-driven cyber attacks**.
 - Create **global counter-AI intelligence systems**.
-
-### **C. AI Accessibility & Equity**
 - Ensure **fair AI access to all nations**.
 - Prevent monopolization of **AI-driven financial systems**.
 - Promote **open-source AI innovation**.
 
----
+It may appear as an unrealizable wish list to many, but we still need to work with dilligence towards it. Otherwise, the gap between haves and have-nots will reach an unsustainable proportion leading to lage-scale disruptions of global proportions. Most difficult objective is establishing a binding global AI ethics framework. We still have to develop a ethical framework for computing and application of computing. So, the issue may seem premature to talk about ethics of gverning AI systems. Ethics is not a tool of surveillance or policing, but a tool for raising red flags and pressurize countries to adhere to mutual cooperation boundaries for established global order. We need to develop a clear policy guidelines for fairness, transparency, accountability and preserving human rights. We need a sort of standardization of these guidelines to determine violations. It is a kind of global societal existence mechanism. Most other objectives are centered around the ethical AI governance system. The foundations of ethics framework is digital data protection laws. European General Data Protection Rules (GDPR) is one of the finest document in this respect. Indian DPDPA is comparable to GDPR. It is consent-centric and has more stricter provision for reporting breaches. However, the major problem with India's
+regulation is enforceability as with any other digitally less unaware nations. 
 
-## **3. Cost Analysis & Infrastructure Investment**
-### **A. Estimated Budget Allocation**
-| **Category** | **Estimated Cost** | **Funding Sources** |
-|-------------|-----------------|----------------|
-| AI Compliance Framework | $3 billion | International bodies, tech firms |
-| Global AI Threat Intelligence Network | $5 billion | Government cybersecurity budgets |
-| AI Transparency & Fair Access Regulation | $2 billion | Public-private partnerships |
-| AI Auditing & Monitoring Tools | $3.5 billion | Research grants, global AI tax |
 
-### **B. Potential Revenue Models**
-- **AI Regulatory Licensing Fees**: Companies pay for compliance validation.  
-- **Blockchain-Based AI Auditing Marketplace**: AI-driven compliance tracking generates revenue.  
-- **AI Democracy & Accessibility Grants**: Subsidies for ethical AI development.
+Our experience in dealing 
 
----
+
+
 
 ## **4. Feasibility Study: Challenges & Mitigation Strategies**
 ### **A. Key Feasibility Factors**
