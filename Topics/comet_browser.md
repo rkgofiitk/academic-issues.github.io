@@ -10,4 +10,4 @@ Perplexity has announced the launch of its agentic browser called Comet. While t
 <center>
 <img src="https://github.com/TheAgenticAI/TheAgenticBrowser/raw/main/ta_browser_workflow.png">
 </center>
-The [GitHub repository](https://github.com/TheAgenticAI/TheAgenticBrowser) gives detailed instructions for downloading and installing the system.
+The <a href="https://github.com/TheAgenticAI/TheAgenticBrowser"> GitHub repository</a> gives detailed instructions for downloading and installing the system.
