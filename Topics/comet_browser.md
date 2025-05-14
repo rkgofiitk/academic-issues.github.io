@@ -2,7 +2,7 @@
 
 Agentic AI is going to change the way we handle our workflow. It provides an autonomous system that can perform complex tasks with minimal human intervention. It can interpret context, evaluate available options, and adapt to the environment to achieve the initially set goals. The four steps of agentic AI software are **perceive**, **reason**, **act**, and **learn**, as indicated by the figure below.
 
-  <div style="width=300; align:center;">
+  <div style="width=100; align:center;">
 <img src="../images/agentic_AI.png">
   </div>
 
