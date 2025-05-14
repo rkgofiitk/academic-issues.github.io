@@ -2,7 +2,7 @@
 
 Agentic AI is going to change the way we handle our workflow. It provides an autonomous system that can perform complex tasks with minimal human intervention. It can interpret context, evaluate available options, and adapt to the environment to achieve the initially set goals. The four steps of agentic AI software are **perceive**, **reason**, **act**, and **learn**, as indicated by the figure below.
 <center>
-<img src="https://blogs.nvidia.com/wp-content/uploads/2024/10/agentic-ai-workflow-1.png">
+<img src="../images/agentic_AI.png">
 </center>
 The data flywheel is the feedback loop where data generated from the agent's interactions is fed back to enhance the learning. LLM works as an orchestrator (reasoning engine). Specific domain knowledge from a local knowledge base may help to augment or refine the quality of outputs. Sufficient guardrails have to be embedded into AI agents when they interact with other applications and software tools and perform critical actions on behalf of humans.
 
