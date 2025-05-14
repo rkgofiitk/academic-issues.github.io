@@ -8,6 +8,6 @@ The data flywheel is the feedback loop where data generated from the agent's int
 
 Perplexity has announced the launch of its agentic browser called Comet. While the Comet launch is awaited, there is a GitHub repository where we can download and play with a Python-powered agentic browser. An agentic AI browser has three principal agents: Planner, Browser, and Critique, as shown in the figure below.
 <center>
-<img src="https://github.com/TheAgenticAI/TheAgenticBrowser/raw/main/ta_browser_workflow.png">
+<img src="images/agentic_AI.pdf">
 </center>
 The <a href="https://github.com/TheAgenticAI/TheAgenticBrowser"> GitHub repository</a> gives detailed instructions for downloading and installing the system.
