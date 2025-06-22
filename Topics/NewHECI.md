@@ -6,7 +6,11 @@ The committee is tasked with resolving implementation issues and harmonizing exi
 
 It is no brainer to understand, our HEI regulatory bodies reek of corruption and incompetence, both in good measures. It starts with appointment of head of the body and percolate down with totally indifferent, incompetent and a majority of corrupt highly politicised employees. We don't have decent institutions beyond IITs, NIITs, CFTIs, a few well established private institutions like Ashoka and BITS. It is an irony and shame that Indian students go to countries like Bangladesh, Iran, Ukraine, Nepal, China for medical studies. Everytime a major armed conflict arises anywhere across the globe, Indian government has to undertake a major evacuation operation to save Indians. Perhaps it will be better to invest heavily in human resources inside the country than to be prepare to a evacuation operation. 
 
-NAAC, AICTE and UGC all have their share of inglorious past and . The scandal involving NAAC assessment experts is fresh in our minds. CBI raided and rounded scores of experts including a professor of JNU in the scandal. 
+NAAC, AICTE and UGC all have their share of inglorious past and have been unable to regulate or enforce a strict quality control governing education system. There have been a series of scandals and scams involving regulatory bodies and central agencies. Three of the recents scams involve UGC, NTS and NAAC are fresh in public mind:
+- [The NAAC rating bribery scams](https://en.wikipedia.org/wiki/NAAC_rating_bribery_case)
+- [The NTS conducted NEET UG exam of 2024](https://en.wikipedia.org/wiki/2024_NEET_controversy)
+- [The UGC conducted NET exam](https://timesofindia.indiatimes.com/education/news/neet-ug-ugc-net-exam-scandal-committee-led-by-ex-isro-chief-to-meet-today-check-crucial-developments/articleshow/111219275.cms)
 
+It is customary to form a committee to investigate these scams and scandals. However, taking advantage of short public memory the committee recommendations are never taken seriously. The system runs on its own dynamics.
 
 
