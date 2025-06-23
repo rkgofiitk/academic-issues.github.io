@@ -15,11 +15,11 @@ NAAC, AICTE, and UGC all have their share of inglorious pasts and have been unab
 
 It is customary to form a committee to investigate these scams and scandals. However, taking advantage of short public memory, the committee formation becomes a sideshow. The committee recommendations are never taken seriously. Behind the scenes, the bureaucrats continue to exercise control through a set of chosen corrupt educators. Whistleblowers and inconvenient people in the education system are carefully identified and harassed. 
 
-[Back Index](../index.md)
+
 
 We should ask for the following two basic clarifications from the Ministry of Education:
 - What is the basic purpose of creating a centralized single agency like the Higher Education Council of India?
 - Why does the government feel that multiple regulatory agencies are inadequate to supervise and control the quality of education?
 
 
-
+[Back Index](../index.md)
