@@ -1,5 +1,7 @@
 ## Yet Another Empowered Committee on Implementation of HECI 
 
+[Blog Index](../index.md)
+
 There is a [small news item on the formation of a committee](https://timesofindia.indiatimes.com/india/isro-ex-chief-led-panel-to-onboard-heis-in-new-regulatory-setup/articleshow/121998309.cms) to be led by Dr. K. Radhakrishnan. The committee will recommend reforms in higher educational institutions in India. [Dr. K. Radhakrishnan](https://en.wikipedia.org/wiki/Koppillil_Radhakrishnan#:~:text=K.,of%20Space%2C%20Government%20of%20India.) was ISRO Chairman and Chairman of the Board of Governors of IIT Kanpur. He is a remote sensing expert and instrumental in setting up a chain of Regional Remote Sensing Servicing Centers in Bangalore, Jodhpur, Nagpur, and Dehradun. RRSSCs are aimed at the generation of spatial data about resources. The purpose of mentioning his background is to apprise the reader of his credentials to lead a team of education experts. The HEI committee headed by Dr Krishanan comprises 18 persons, including the Directors of IIT-Bombay, IIM-Ahmedabad, School of Planning and Architect, New Delhi, and VCs of Delhi, Utkal, and Sastra University, Thanjavur. It will also include Chairpersons of UGC, AICTE, and NCTE. Dr. Radhakrishanan has operated as Chairperson of several high-powered committees and established his credentials to lead an ensemble of people/experts with diverse and highly opinionated views. So, the news about forming such a committee deserves more than a fly reading.  
 
 The committee is tasked with resolving implementation issues and harmonizing existing protocols under the aegis of the new overarching centralized regulatory body called HECI. The committee is supposed to submit its report within three weeks. It is commendable to note that Dr. Radhakrishanan has accepted the daunting task of on-boarding an ensemble of experts with over 400 years of cumulative practical experience in the Higher Education system. He will have to summon his extra-terrestrial experience as the erstwhile Chairperson of ISRO to reach a convergence of opinion and suggestions. Or am I missing the key point that a report may exist, and the committee is just a time-stamping mechanism?  
@@ -12,6 +14,8 @@ NAAC, AICTE, and UGC all have their share of inglorious pasts and have been unab
 - [The UGC conducted NET exam](https://timesofindia.indiatimes.com/education/news/neet-ug-ugc-net-exam-scandal-committee-led-by-ex-isro-chief-to-meet-today-check-crucial-developments/articleshow/111219275.cms)
 
 It is customary to form a committee to investigate these scams and scandals. However, taking advantage of short public memory, the committee formation becomes a sideshow. The committee recommendations are never taken seriously. Behind the scenes, the bureaucrats continue to exercise control through a set of chosen corrupt educators. Whistleblowers and inconvenient people in the education system are carefully identified and harassed. 
+
+[Back Index](../index.md)
 
 We should ask for the following two basic clarifications from the Ministry of Education:
 - What is the basic purpose of creating a centralized single agency like the Higher Education Council of India?
