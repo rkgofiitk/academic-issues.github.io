@@ -1,4 +1,4 @@
-## Yet Another Empowered Committee on Implementation of HECI 
+### Yet Another High-powered Committee on Implementation of HECI 
 
 [Blog Index](../index.md)
 
