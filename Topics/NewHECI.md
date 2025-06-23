@@ -6,11 +6,16 @@ The committee is tasked with resolving implementation issues and harmonizing exi
 
 It is no brainer to understand, our HEI regulatory bodies reek of corruption and incompetence, both in good measures. It starts with appointment of head of the body and percolate down with totally indifferent, incompetent and a majority of corrupt highly politicised employees. We don't have decent institutions beyond IITs, NIITs, CFTIs, a few well established private institutions like Ashoka and BITS. It is an irony and shame that Indian students go to countries like Bangladesh, Iran, Ukraine, Nepal, China for medical studies. Everytime a major armed conflict arises anywhere across the globe, Indian government has to undertake a major evacuation operation to save Indians. Perhaps it will be better to invest heavily in human resources inside the country than to be prepare to a evacuation operation. 
 
-NAAC, AICTE and UGC all have their share of inglorious past and have been unable to regulate or enforce a strict quality control governing education system. There have been a series of scandals and scams involving regulatory bodies and central agencies. Three of the recents scams involve UGC, NTS and NAAC are fresh in public mind:
+NAAC, AICTE and UGC all have their share of inglorious past and have been unable to regulate or enforce a strict quality control in governing education system in the country. There have been a series of scandals and scams involving regulatory bodies and central agencies. Three of the recents scams fresh in public mind involve UGC, NTS and NAAC are :
 - [The NAAC rating bribery scams](https://en.wikipedia.org/wiki/NAAC_rating_bribery_case)
 - [The NTS conducted NEET UG exam of 2024](https://en.wikipedia.org/wiki/2024_NEET_controversy)
 - [The UGC conducted NET exam](https://timesofindia.indiatimes.com/education/news/neet-ug-ugc-net-exam-scandal-committee-led-by-ex-isro-chief-to-meet-today-check-crucial-developments/articleshow/111219275.cms)
 
-It is customary to form a committee to investigate these scams and scandals. However, taking advantage of short public memory the committee recommendations are never taken seriously. The system runs on its own dynamics.
+It is customary to form a committee to investigate these scams and scandals. However, taking advantage of short public memory the committee formation becomes a side show. The committee recommendations are never taken seriously. Behind the scean, the bureaucrats continue to exercise control through a set of chosen corrupt educators. Whistleblowers and inconvenient people in education system are carefully identified get harassed. 
+
+We should ask the following two basic clarifications from the ministry of education:
+- What is the basic purpose of creating a centralized single agency like Higher Education Council of India?
+- Why the government feels that multiple regulatory agencies are inadequate to supervise and control quality of education?
+
 
 
