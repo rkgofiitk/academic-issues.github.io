@@ -1,4 +1,4 @@
-## Moonlighting isn't a Big Deal
+## Moonlighting and Soham Parekh
 
 [Blog Index](../index.md)
 
