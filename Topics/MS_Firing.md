@@ -2,7 +2,7 @@
 
 [Blog Index](../index.md)
 
-Satya Nadella sent a memo to employees about job cuts, laying off 9000 employees in July 2025. Amid Microsoft's record-breaking profit of 75 million USD, Nadella practically abuses a philosophical term, "the enigma of success," to defend the announcement of job cuts. Microsoft has 228k employees. So the "enigma of success" layoffs constitute 3.95% of its workforce. The term "enigma of success" is used to imply that, despite success, the company has to restructure for accelerated growth. The company must pour 80 billion USD into data centers, chips, and AI talent. The way they could do it is to cut the low end of the food chain, announcing 9000 layoffs of inconsequential existing talent. The employees now wonder if the company's claim of an "empathetic culture" has eroded completely, 
+Satya Nadella sent a memo to employees about job cuts, laying off 9000 employees in July 2025. Amid Microsoft's record-breaking profit of 75 million USD, Nadella practically abuses a philosophical term, "the enigma of success," to defend the announcement of job cuts. Microsoft has 228k employees. So the "enigma of success layoffs" constitute 3.95% of its workforce. The term "enigma of success" is used to imply that, despite success, the company has to restructure for accelerated growth. The company must pour 80 billion USD into data centers, chips, and AI talent. The way they could do it is to cut the low end of the food chain, announcing 9000 layoffs of inconsequential existing talent. The employees now wonder if the company's claim of an "empathetic culture" has eroded completely, 
 
 Let us analyze the restructuring issue, which Nadella exuberantly terms an "enigma of success."
 
