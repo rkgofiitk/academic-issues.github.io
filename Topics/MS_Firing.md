@@ -1,4 +1,4 @@
-## Microsoft Laysoff 9k to Fuel its Intelligent Engine
+## Microsoft's "Engima of Success Laysoffs" 
 
 [Blog Index](../index.md)
 
