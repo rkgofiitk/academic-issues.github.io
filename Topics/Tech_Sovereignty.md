@@ -19,7 +19,7 @@ Russia invaded Ukraine on February 24, 2022. The Russian invasion took place due
 |Autonomous Republic of Crimea| 58.5% | Predominantly Russian|
 |Donetsk Oblast| ~48%  | in cities like Donetsk, Makiivk |Strong Russian usage|
 |Luhansk Oblast|	~50–60%| in several regions	|Strong Russian usage|
----
+
 
 Overall, about 29.6% of Ukrainians identified Russian as their native language. 
 
@@ -59,7 +59,7 @@ Indian fintech companies and startups have created a new finance and investment 
 | Data Sovereignty | Sensitive citizen data stored in foreign clouds | High | 
 | Compliance Overreach | Subject to U.S./EU sanctions and export controls | High | 
 | Operational Paralysis | Disruption of tax filings, refunds, compliance | Critical | 
----
+
 
 3. Strategic Objectives
 
@@ -73,7 +73,7 @@ Preserve data sovereignty under Indian jurisdiction
 Reduce/eliminate exposure to foreign sanctions and compliance regimes
 Promote indigenous tech innovation and employment
 
----
+
 
 4. Proposed Framework
 
@@ -96,7 +96,7 @@ Build parallel systems with Indian cloud providers
 Maintain offline backups and hybrid infrastructure
 
 
----
+
 
 5. Comparative Analysis
 
@@ -108,7 +108,7 @@ The table below gives a comparative analysis of data sovereignty and the impacts
 | Zoho | India | High | Low | Ideal | 
 | CtrlS | India | High | Low | Ideal | 
 | Infosys (on Azure) | India/U.S. | Medium | Medium | Vulnerable | 
----
+
 It underlines the urgent requirements of data sovereignty in digital products.  
 
 * **National Security**: Reduced exposure to foreign coercion
@@ -116,11 +116,11 @@ It underlines the urgent requirements of data sovereignty in digital products.
 * **Public Trust**: Citizens assured of data privacy and continuity
 * **Global Leadership**: India sets precedent for digital Sovereignty
 
----
+
  7. Conclusion
 
 India must treat its digital infrastructure as a strategic asset. Sovereign platforms are not just a technical choice but a geopolitical necessity. The time to act is now.
 
----
+
 [Back to Index](../index.md)
 
