@@ -1,8 +1,7 @@
----
+
 
  *India's Digital Sovereignty*
 
----
 [Blog Index](../index.md)
 
  Executive Summary
