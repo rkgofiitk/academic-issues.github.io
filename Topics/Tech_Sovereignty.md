@@ -13,7 +13,7 @@ India's digital infrastructure is vulnerable to suspension of cloud services by 
 
 Russia invaded Ukraine on February 24, 2022. The Russian invasion took place due to Ukraine's political ambitions for integration with NATO and the European Union. President Zelensky wanted to distance Ukraine from Russian influence. However, based on the 2001 census and regional data, approximately  30-35% of Ukraine's territory in the east and south is inhabited predominantly by the Russian-speaking people. Kyiv, Lviv, and Kharkiv are the three geographical regions controlling Ukraine's political and administrative power. People in the Russian speaking areas were unhappy with an oppressive Ukrainian state regime. The distribution of Russian-speaking areas is as follows. 
 
-| Region/City |  % Ethnic Russians |   Russian Language Dominance-|
+| Region/City |  % Ethnic Russians | Language Dominance|
 |---|---|---|
 |Sevastopol (Crimea)|	71.7%	|Predominantly Russian|
 |Autonomous Republic of Crimea| 58.5% | Predominantly Russian|
