@@ -4,7 +4,7 @@
 
 [Blog Index](../index.md)
 
- Executive Summary
+ Abstract
 
 India's digital infrastructure is vulnerable to the blocking of cloud service and workspace APIs by big tech companies like  Microsoft, Google, Meta, Oracle, SAP, and IBM. Recently, the Indian refinery at Nayara in Gujarat suddenly experienced a digital outage. Citing EU sanctions, Microsoft suspended cloud services to Nayara without prior notice for importing Russian crude. The incident is a wake-up call for India to fast-track the implementation of cloud services on indigenous home-grown platforms like Zoho, CtrlS, Meghdoot,  JioCloud, NeuCloud, and encourage the development of a cloud workspace suite based on open source alternatives.
 
