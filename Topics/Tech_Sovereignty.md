@@ -1,6 +1,4 @@
-
-
- ## India's Digital Sovereignty
+## India's Digital Sovereignty
 
 [Blog Index](../index.md)
 
