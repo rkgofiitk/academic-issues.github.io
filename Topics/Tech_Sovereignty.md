@@ -24,10 +24,10 @@ On July 18, 2025, the European Union announced severe sanctions against countrie
 
 The Government of India (GoI) should consider the Nayara incident of Microsoft's digital blocking as a wake-up call. Many critical GoI operations depend on cloud and workspace suites offered by the US-based tech companies. These include revenue collection and many essential operations of government, such as:
 
-  * CBDT (Income Tax Business Application)
-  * GSTN (Goods and Services Tax Network)
-  * MCA21 (Corporate Affairs Portal)
-  * UIDAI (Aadhaar infrastructure)
+- CBDT (Income Tax Business Application)
+- GSTN (Goods and Services Tax Network)
+- MCA21 (Corporate Affairs Portal)
+- UIDAI (Aadhaar infrastructure)
 
 The primary responsibility of  the Central Board of Direct Taxes (CBDT) are the collection of: 
 - Personal income tax
@@ -110,17 +110,15 @@ The table below gives a comparative analysis of data sovereignty and the impacts
 | Infosys (on Azure) | India/U.S. | Medium | Medium | Vulnerable | 
 
 It underlines the urgent requirements of data sovereignty in digital products.  
-
-* **National Security**: Reduced exposure to foreign coercion
-* **Economic Growth**: Boost to Indian tech ecosystem
-* **Public Trust**: Citizens assured of data privacy and continuity
-* **Global Leadership**: India sets precedent for digital Sovereignty
+- **National Security**: Reduced exposure to foreign coercion
+- **Economic Growth**: Boost to Indian tech ecosystem
+- **Public Trust**: Citizens assured of data privacy and continuity
+- **Global Leadership**: India sets precedent for digital Sovereignty
 
 
  <strong>7. Conclusion</strong>
 
-India must treat its digital infrastructure as a strategic asset. Sovereign platforms are not just a technical choice but a geopolitical necessity. The time to act is now.
-
+Digital infrastructure are a strategic asset for any sovereign country. It should fall prey to foreign dominance and compromize citizens access to privacy or ability of a foreign entity to blackmail the nation. Therefore, sovereign platforms are not just a technical choice but a geopolitical necessity.
 
 [Back to Index](../index.md)
 
