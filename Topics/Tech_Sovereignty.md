@@ -9,7 +9,7 @@
 India's digital infrastructure is vulnerable to the blocking of cloud service and workspace APIs by big tech companies like  Microsoft, Google, Meta, Oracle, SAP, and IBM. Recently, the Indian refinery at Nayara in Gujarat suddenly experienced a digital outage. Citing EU sanctions, Microsoft suspended cloud services to Nayara without prior notice for importing Russian crude. The incident is a wake-up call for India to fast-track the implementation of cloud services on indigenous home-grown platforms like Zoho, CtrlS, Meghdoot,  JioCloud, NeuCloud, and encourage the development of a cloud workspace suite based on open source alternatives.
 
 
- 1. Background and Strategic Context
+ <strong>1. Background and Strategic Context</strong>
 
 Russia invaded Ukraine on February 24, 2022. The Russian invasion was provoked by Ukraine's political ambitions for integration with NATO and the European Union. President Zelensky wanted to distance Ukraine from Russian influence. However, Russia viewed Ukrainian ambitions as a ploy by NATO to encircle it. Based on the 2001 census and regional data, approximately 30-35% of Ukraine's territory in the east and south is predominantly inhabited by the Russian-speaking people. Geographical regions Kyiv, Lviv, and Kharkiv control Ukraine's political and administrative power. People in the Russian speaking areas were unhappy with an oppressive Ukrainian state regime. The distribution of Russian-speaking areas is as follows. 
 
@@ -53,7 +53,7 @@ UIDAI (Unified Identification Authority of India) is the statutory authority res
 Although the critical system modules were implemented by Indian IT companies such as TCS, Infosys, HCL, and Wipro, they use various licensed products, such as Microsoft Azure Platform, Oracle, IBM enterprise products, and Google Workspace. Therefore, many critical functionalities may stop working or experience delays if dependence on foreign tech companies is not eliminated. Though it is unlikely that big tech companies will take the disastrous route of unilateral blocking, the Nayara incident reveals a possibility.  
  
 
- 2. Risk Assessment
+<strong>2. Risk Assessment</strong>
 
 To understand the real impacts, let us analyze the risks of using foreign tech products, especially in digital services. The use of digital systems transcends from education to the economy to modern warfare. Sindoor operation highlighted the capabilities of AI-activated India's air-defence and offensive systems of the IAF. It also underlined Indian IT's expertise in building integrated AI-assisted systems to meet the challenges of modern warfare. 
 
@@ -67,7 +67,7 @@ Indian fintech companies and startups have created an efficient, scam-free finan
 | Operational Paralysis | Disruption of tax filings, refunds, compliance | Critical | 
 
 
-3. Strategic Objectives
+<strong>3. Strategic Objectives</strong>
 
 India should work towards eliminating the influence of big tech companies in its digital ecosystem. Nayara-like incident is neither the first nor will be the last instance of denial of digital access to India.
 Both Google and Meta removed Indian government or political content from YouTube and Facebook, citing global practices without legal mandates. Indian content creators were often blocked out, citing compliance with US and EU norms or instances of foreign jurisdiction. 
@@ -79,7 +79,7 @@ Oracle licensing terms allow the US courts to exercise jurisdiction over Indian 
 - Promote indigenous tech innovation and employment
 
 
-4. Proposed Framework
+<strong>4. Proposed Framework</strong>
 
 India should evolve a framework of Indian Data Sovereignty around the following five pillars:
 - Audit and Assessments
@@ -100,7 +100,7 @@ The government should invent a PLI-like tax break for vendors offering sovereign
 Build parallel systems with Indian cloud providers
 Maintain offline backups and hybrid infrastructure
 
-5. Comparative Analysis
+<strong>5. Comparative Analysis</strong>
 
 The table below gives a comparative analysis of data sovereignty and the impacts of EU and US sanctions on using products from foreign versus Indian IT products.
 
@@ -119,7 +119,7 @@ It underlines the urgent requirements of data sovereignty in digital products.
 * **Global Leadership**: India sets precedent for digital Sovereignty
 
 
- 7. Conclusion
+ <strong>7. Conclusion</strong>
 
 India must treat its digital infrastructure as a strategic asset. Sovereign platforms are not just a technical choice but a geopolitical necessity. The time to act is now.
 
