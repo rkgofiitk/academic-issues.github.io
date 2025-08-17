@@ -61,12 +61,12 @@ To understand the real impacts, let us analyze the risks of using foreign tech p
 
 Indian fintech companies and startups have created an efficient, scam-free finance and investment ecosystem within the reach of citizens. Remote education platforms like Swayam, eVidya, Diksha platforms, and NPTL MOOC are helping to provide high-end learning to poor students in remote villages in India. However, the government policy makers should be aware of dependencies on foreign products in Indian's digital space. They should plan to utilize the technical capabilities and expertise of Indian IT companies. A summary of the risk assessment is given in the table below. 
 
-| Risk Type | Description | Impact Level | 
+| Risk Type | Description | Risk Level | 
 | --- | --- | --- | 
-| License Breach | Foreign vendors can suspend services unilaterally | High | 
-| Data Sovereignty | Sensitive citizen data stored in foreign clouds | High | 
+| License Breach | Under control of Foreign vendors | High | 
+| Data Sovereignty | Sensitive data in foreign clouds | High | 
 | Compliance Overreach | Subject to U.S./EU sanctions and export controls | High | 
-| Operational Paralysis | Disruption of tax filings, refunds, compliance | Critical | 
+| Operational Paralysis | Disruption in revenue receipts, compliances, citizen DBTs | Critical | 
 
 
 <strong>3. Strategic Objectives</strong>
@@ -108,7 +108,7 @@ The table below gives a comparative analysis of data sovereignty and the impacts
 
 | Platform | Jurisdiction | Sovereign Control | Sanctions Risk | Suitability for Govt | 
 | --- | --- | --- | --- | --- | 
-| Microsoft Azure | U.S. | Low | High | Risky | 
+| Microsoft Azure | U.S. | Low | High | Highly Risky | 
 | Zoho | India | High | Low | Ideal | 
 | CtrlS | India | High | Low | Ideal | 
 | Infosys (on Azure) | India/U.S. | Medium | Medium | Vulnerable | 
