@@ -16,11 +16,11 @@ Russia invaded Ukraine on February 24, 2022. The Russian invasion was provoked b
 |Sevastopol (Crimea)|	71.7	| Russian|
 |Autonomous Crimean Republic| 58.5 | Strongly Russian|
 |Autonomous Republic of Crimea| 58.5% | Predominantly Russian|
-|Donetsk Oblast, Ternivka| 52.9 |  Strongly Russian|
+|Donetsk Oblast, Ternivka| 52.9 | Strongly Russian|
 |Donetsk, Makiivk| 48-50 | Strongly Russian|
-|Luhanska Raion | 61.1| Strongly Russian|
+|Luhanska Raion | 61.1| Predominantly Russian|
 |Luhansk Oblast|	43.7| 	Strongly Russian|
-|Odessa Oblast, Putyvl Raion | 51.5| Strongly Russina|
+|Odessa Oblast, Putyvl Raion | 51.5| Strongly Russian|
 
 Overall, about 29.6% of Ukrainians identified Russian as their native language. 
 
