@@ -9,14 +9,18 @@ India's digital infrastructure is vulnerable to the blocking of cloud service an
 
  <strong>1. Background and Strategic Context</strong>
 
-Russia invaded Ukraine on February 24, 2022. The Russian invasion was provoked by Ukraine's political ambitions for integration with NATO and the European Union. President Zelensky wanted to distance Ukraine from Russian influence. However, Russia viewed Ukrainian ambitions as a ploy by NATO to encircle it. Based on the 2001 census and regional data, approximately 30-35% of Ukraine's territory in the east and south is predominantly inhabited by the Russian-speaking people. Geographical regions Kyiv, Lviv, and Kharkiv control Ukraine's political and administrative power. People in the Russian speaking areas were unhappy with an oppressive Ukrainian state regime. The distribution of Russian-speaking areas is as follows. 
+Russia invaded Ukraine on February 24, 2022. The Russian invasion was provoked by Ukraine's political ambitions for integration with NATO and the European Union. President Zelensky wanted to distance Ukraine from Russian influence. However, Russia viewed Ukrainian ambitions as a ploy by NATO to encircle it. Based on the 2001 census and regional data, approximately 30-35% of Ukraine's territory in the east and south is predominantly inhabited by the Russian-speaking people. Geographical regions Kyiv, Lviv, and Kharkiv control Ukraine's political and administrative power. People in the Russian speaking areas were unhappy with an oppressive Ukrainian state regime. The distribution of Russian-speaking areas is as follows (source: [wikipedia](https://en.wikipedia.org/wiki/Russians_in_Ukraine)). 
 
-| Region/City |  % Ethnic Russians | Language Dominance|
+| Region/City |  % of Ethnic Russians | Language|
 |---|---|---|
-|Sevastopol (Crimea)|	71.7%	|Predominantly Russian|
+|Sevastopol (Crimea)|	71.7	| Russian|
+|Autonomous Crimean Republic| 58.5 | Strongly Russian|
 |Autonomous Republic of Crimea| 58.5% | Predominantly Russian|
-|Donetsk Oblast| ~48%  | in cities like Donetsk, Makiivk Strong Russian usage|
-|Luhansk Oblast|	~50–60%| in several regions	Strong Russian usage|
+|Donetsk Oblast, Ternivka| 52.9 |  Strongly Russian|
+|Donetsk, Makiivk| 48-50 | Strongly Russian|
+|Luhanska Raion | 61.1| Strongly Russian|
+|Luhansk Oblast|	43.7| 	Strongly Russian|
+|Odessa Oblast, Putyvl Raion | 51.5| Strongly Russina|
 
 Overall, about 29.6% of Ukrainians identified Russian as their native language. 
 
