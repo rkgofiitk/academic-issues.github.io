@@ -2,7 +2,7 @@
 
 [Blog Index](../index.md)
 
- Abstract
+ **Abstract**
 
 India's digital infrastructure is vulnerable to the blocking of cloud service and workspace APIs by big tech companies like  Microsoft, Google, Meta, Oracle, SAP, and IBM. Recently, the Indian refinery at Nayara in Gujarat suddenly experienced a digital outage. Citing EU sanctions, Microsoft suspended cloud services to Nayara without prior notice for importing Russian crude. The incident is a wake-up call for India to fast-track the implementation of cloud services on indigenous home-grown platforms like Zoho, CtrlS, Meghdoot,  JioCloud, NeuCloud, and encourage the development of a cloud workspace suite based on open source alternatives.
 
@@ -43,9 +43,9 @@ CBDT net annual collection is approximately INR 222600 billion, which is 7.2% of
 The Goods and Services Tax Network (GSTN) is the authority responsible for collecting GST. Its net annual collection is approximately INR 203600 billion, 6.6% of GDP
 
 MCA21 is the main corporate compliance and administration portal. It allows stakeholders -- companies, professionals, and citizens -- to access 
-- corporate data,
-- statutory documents, and
-- file compliance documents from anywhere.
+- Corporate data,
+- Statutory documents, and
+- File compliance documents from anywhere.
   
 It enables MCA to monitor fraud, track compliance, and bring total transparency in the administration of corporate affairs.
 
@@ -57,9 +57,9 @@ Although the critical system modules were implemented by Indian IT companies suc
 
 <strong>2. Risk Assessment</strong>
 
-To understand the real impacts, let us analyze the risks of using foreign tech products, especially in digital services. The use of digital systems transcends from education to the economy to modern warfare. Sindoor operation highlighted the capabilities of AI-activated India's air-defence and offensive systems of the IAF. It also underlined Indian IT's expertise in building integrated AI-assisted systems to meet the challenges of modern warfare. 
+To understand the real impacts, let us analyze the risks of using foreign tech products, especially in digital services. The use of digital systems transcends from education to the economy to modern warfare. Sindoor operation highlighted the capabilities of AI-activated air-defence and offensive systems of the IAF. It also underlined Indian IT's expertise in building integrated AI-assisted systems to meet the challenges of modern warfare. 
 
-Indian fintech companies and startups have created an efficient, scam-free finance and investment ecosystem within the reach of citizens. Remote education platforms like Swayam, eVidya, Diksha platforms, and NPTL MOOC are helping to provide high-end learning to poor students in remote villages in India. However, the government policy makers should be aware of dependencies on foreign products in Indian's digital space. They should plan to utilize the technical capabilities and expertise of Indian IT companies. A summary of the risk assessment is given in the table below. 
+Indian fintech companies and startups have created an efficient, scam-free finance and investment ecosystem within the reach of citizens. Remote education platforms like Swayam, eVidya, Diksha platforms, and NPTL MOOC are helping to provide low-cost, high-end learning to poor students in remote villages in India. However, the government policy makers should be aware of dependencies on foreign products in Indian's digital space. They should plan to utilize the technical capabilities and expertise of Indian IT companies. A summary of the risk assessment is given in the table below. 
 
 | Risk Type | Description | Risk Level | 
 | --- | --- | --- | 
@@ -122,7 +122,7 @@ It underlines the urgent requirements of data sovereignty in digital products.
 
  <strong>7. Conclusion</strong>
 
-Digital infrastructure are a strategic asset for any sovereign country. It should fall prey to foreign dominance and compromize citizens access to privacy or ability of a foreign entity to blackmail the nation. Therefore, sovereign platforms are not just a technical choice but a geopolitical necessity.
+Digital infrastructure are a strategic asset for any sovereign country. It should fall prey to foreign dominance and compromize citizens privacy and the ability of a foreign entity to blackmail the nation as a whole. Therefore, sovereign platforms are not just a technical choice but a geopolitical necessity.
 
 [Back to Index](../index.md)
 
