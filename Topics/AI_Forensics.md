@@ -13,11 +13,11 @@ A transition from relying on physical to digital forensics is a natural extensio
 
 Many AI forensic software are available in the market. Evidence collection is an essential aspect of investigative criminology. It consists of the following:
 
-Audio and video evidence
-Surveillance and scene analysis
-Digital footprint and cyber evidence
-Forensic pathology, radiology, and biometrics
-Evidence management
+- Audio and video evidence
+- Surveillance and scene analysis
+- Digital footprint and cyber evidence
+- Forensic pathology, radiology, and biometrics
+- Evidence management
 
 AI audio and video evidence processing consists of speech-to-text transcriptions of interviews, interrogations, and surveillance videos scoured or retrieved from video cameras at the crime scene. Sometimes there is also a need for multilingual translation from regional languages or dialects to the language of courts and investigators. Furthermore, prosecutors may also suggest systematic annotations or tagging and timestamping. Surveillance and scene analysis have three distinct requirements: object identification, movements, and facial recognition. Uniqueness is a critical aspect of identification. Biometrics and supporting elements assist in establishing the uniqueness of identity, which is crucial to evidence authentication. Digital footprints and cyber evidence involve social media mining, emails, chat analysis for scam and deception, and coded exchanges. Evidence management deals with indexing for quick retrieval and predictive modeling for prosecutorial advantages.
 
