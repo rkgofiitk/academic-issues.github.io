@@ -23,20 +23,13 @@ AI audio and video evidence processing consists of speech-to-text transcriptions
 
 Indian courts started using digital forensics after the enactment of the Information Technology Act, 2000. However, AI forensics is relatively new. A few notable Indian products for AI forensics are:
 
-|Products|Description|Primary focus|
-
+| Products |  Description | Primary focus|
 |---|---|---|
-
 |CDAC cyber forensic division| CDAC established in 1988 by MeITY| Cyber crime investigation|
-
 |DRDO & CAIR | A joint venture of DRDO and CAIR| Military-grade secure intelligence applications|
-
 |E-court Phase III| A joint project under the Supreme Court and the Justice Department. Phase I and II were launched earlier in 2023| Integrated AI tools for court applications|
-
 |Sarvam AI| Founded by Sarvam AI | LLM, SLM relevant to court|
-
 |Quer.ai| Established in 2016| AI diagnostic and pathology|
-
 |Skit.ai| Established in 2016| Audio analysis for suspect identification|
 
 3. Evidentiary Appropriateness of AI
