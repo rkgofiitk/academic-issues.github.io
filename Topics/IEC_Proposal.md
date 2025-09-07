@@ -1,5 +1,7 @@
 ##  Independent Education Commission of India 
 
+[Blog Index](../index.md)
+
  **Abstract**
 
 Of late, there have been a lot of conflicts between the governors and the state governments, which are severely affecting universities and other institutions of higher learning. Even the central government is mishandling the institutions of higher learning by orchestrating the selection of "friendly heads" to IITs, AIIMs, IIMs, and central universities without due diligence into their qualification and experience. In this article, we propose that an independent, constitutionally mandated education commission could eliminate the unnecessary, avoidable meddlings in the education system. 
@@ -24,6 +26,6 @@ The CMEC will have jurisdiction over all public and private universities and the
 
 **3. Appointment of Heads**
 
-Appointment of directors and vice-chancellors for CFTIs and universities is a key issue. We have helplessly watched how the politicians usurp control in proxy through appointing a director or a vice-chancellor. In an [earlier article](../), we discussed the appointment of directors at IITs. We intend to create a statutory appointment committee under the commission. It will function in the UPSC style. However, we propose to create a separate position of provost as the head of the academic bodies, like the Senate and the Syndicate. The director, or the vice-chancellor, will closely associate with the provosts, and the two function as a check and balance to ensure that an institution's internal dynamics are factored transparently in its public perceptions. The provost will be co-opted as a commission's appointment committee member. If the provost is a candidate, another member of the concerned Senate or Syndicate will be taken as a co-opted member. 
+Appointment of directors and vice-chancellors for CFTIs and universities is a key issue. We have helplessly watched how the politicians usurp control in proxy through appointing a director or a vice-chancellor. In an [earlier article](../universityChiefExecutive.md), we discussed the appointment of directors at IITs. We intend to create a statutory appointment committee under the commission. It will function in the UPSC style. However, we propose to create a separate position of provost as the head of the academic bodies, like the Senate and the Syndicate. The director, or the vice-chancellor, will closely associate with the provosts, and the two function as a check and balance to ensure that an institution's internal dynamics are factored transparently in its public perceptions. The provost will be co-opted as a commission's appointment committee member. If the provost is a candidate, another member of the concerned Senate or Syndicate will be taken as a co-opted member. 
 
-
+[Back to Index](../index.md)
