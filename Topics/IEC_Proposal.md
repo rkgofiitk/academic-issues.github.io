@@ -1,4 +1,4 @@
-## Independent Education Commission of India 
+## Constitutionally Mandated Education Commission
 
 [Blog Index](../index.md)
 
