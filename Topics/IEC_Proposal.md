@@ -5,7 +5,7 @@
  **Abstract**
 
 Of late, there has been a lot of conflict between the governors and the state governments in appointing vice-chancellors to the state universities. 
-The federal government is accused of recruiting "friendly" directors and vice-chancellors to IITs, AIIMs, IIMs, and central universities without due diligence into their qualifications and experience. In this article, we propose that a Constitutionally Mandated Education Commission  (CMEC) could eliminate the unnecessary, avoidable meddlings in the education system. 
+The central government often appoints "politically aligned friendly" directors and vice-chancellors to IITs, AIIMs, IIMs, and central universities without diligence on their qualifications and experience. In this article, we propose that a Constitutionally Mandated Education Commission  (CMEC) could eliminate the unnecessary, avoidable meddlings in the education system. 
 
  **1. Background**
 
