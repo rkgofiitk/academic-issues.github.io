@@ -52,7 +52,7 @@ On the other hand, the VC or the Director will guide the institution to society'
 
 **5. The Role of the Senate** 
 
-The Senate of each institution is the apex academic body with representation from the faculty and students. Unfortunately, the Senates are now made dysfunctional. Bifurcating the academic administration from executives will make it possible to ensure the independence of academic decisions from unnecessary external interference. The CMEC must ensure the reorganization of the Senate through a policy statement.
+The Senate of each institution is the apex academic body with representation from the faculty and students. Unfortunately, the Senates are now made dysfunctional. Bifurcating the academic administration from executives will ensure isolation of academic decisions from unnecessary external interference. The CMEC must ensure the reorganization of the Senate through a policy statement.
 
 **6. Transparency, Accountability, and Audits**
 
