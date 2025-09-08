@@ -21,14 +21,14 @@ We came across four existing governance models, namely:
   
 The last two represent administrative models created under the respective education ministries by statutory provisions. Wissenschaftsrat is an advisory body with federal recognition, while GEC, formally known as the International Commission on Financing Global Education Opportunity, is a global initiative under the UN. GEC influences participating nations via recommendations, reports, and feedback. 
 
-The utility of UGC is limited. It is a statutory body created by an Act of Parliament that lacks plenary power and is often contested by states. The intention is to safeguard the operations of the universities and other institutions of higher learning from needless, unhinged interference by politicians. Though the media often talks about QS and THE rankings of institutions, they don't reflect employers' perception. For example, Anna University and Amity rank alongside IITs. In reality, IIT Bombay graduates score 96.7, whereas Amity and Anna University scores are between 30 and 45 in employers' perception. JU is considered the topmost state engineering college. The employers' perception score for JU graduates ranges between 37 and 41. Among other things, the employer perception provides a measure of the quality of training received by the students. Citizens helplessly witness politicians ruin the education system. It has led to disastrous consequences like:
+The utility of UGC is limited. It is a statutory body created by an Act of Parliament that lacks plenary power and is often contested by states. The intention is to safeguard the operations of the universities and other institutions of higher learning from needless, unhinged interference by politicians. Though the media often talks about QS and THE rankings of institutions, they don't reflect employers' perception. For example, Anna University and Amity rank alongside IITs. In reality, IIT Bombay graduates score 96.7, whereas Amity and Anna University scores are between 30 and 45 in employers' perception. JU is considered the topmost state engineering college. The employers' perception score for JU graduates ranges between 37 and 41. Among other things, the employer perception provides a measure of the training quality received by the students. Citizens helplessly witness politicians ruin the education system. It has led to disastrous consequences like:
 - Unemployable graduates
-- Governance Paralysis
+- Paralysis of education governance
 - Erosion of academic freedom
 - Poor research and innovation
 - Decoupling of industry and academia
   
-If the proposal for setting up a CMEC anchored under a new Article of the Constitution is adopted, it will give plenary power to the agency. The proposal is unique as there is no parallel anywhere in the world. 
+If the proposal for setting up a CMEC anchored under a new Article of the Constitution is adopted, it will give plenary power to the commission. The proposal is unique without a parallel anywhere in the world. 
 
 **3. The Proposal**
 
