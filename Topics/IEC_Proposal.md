@@ -56,21 +56,19 @@ The Senate of each institution is the apex academic body with representation fro
 
 **6. Transparency, Accountability, and Audits**
 
-The commission should establish a provable audit trail to highlight its efforts to bring transparency and accountability to each institution. This can be made possible by adopting a cryptographic hash-based audit system. The commission should maintain an official channel for public participation and engage them in continuously improving its workflows. There will still be a dependence on the government to fund its activities. However, the central government charges an education and healthcare cess with income tax. The government can use the GST route and eliminate the education cess from income tax. Furthermore, the government can persuade industries to earmark some CSR funding to finance the commission. 
+The commission should establish a provable audit trail to highlight its efforts to bring transparency and accountability to each institution. This can be made possible by adopting a cryptographic hash-based audit system. The commission should maintain an official public participation channel and continuously engage them to improve its operations and workflow. There will still be a dependence on the government for fund allocations. However, the Constitutional mandate will guarantee the flow of funds. The education and healthcare cess collected via income tax could partially fund the commission. The government may also rework the allocation of the GST shares and choose to eliminate the education cess from income tax. Furthermore, the government can persuade the industries to earmark a part of CSR funding.
 
  **7. State-level Participation**                     
 
-The constitution of the commission can be in line with the ECI. Therefore, it can include state-level participation through state cells of the commission. It will reduce the burden on the state's Directorate of Higher Education and make it more efficient. The commission should identify eminent educationists from each state to create state-level cells.
+The constitution of the commission can be in line with the ECI. Therefore, it can include state-level participation by forming state cells. It will reduce the burden on the state's Directorate of Higher Education and make it more efficient. The commission should identify eminent educationists from each state to create state-level cells.
 
 **8. Expected Outcomes**
 
-The first and foremost outcome of CMEC oversight is eliminating campus politics and the meddling of political parties in university affairs across the nation. CMEC will ensure that each institution is administered efficiently and stakeholders can participate effectively in academic decision-making. It will increase public confidence in the government's intentions of eliminating politics from campuses. The overall global ranking of institutions will increase. India's academic sovereignty will be a model for others, including developed nations. Institutions can directly approach constitutional courts to resolve disputes arising from their decision. The overall structure will effectively provide resilience against political sabotage without judicial scrutiny. The Whistleblower Protection Act can ensure that any incursion into academic freedom or financial embezzlement by university administrations will be prosecuted, and perpetrators receive adequate punishments.  In summary, we can view the outcome under the following heads:
+The first and foremost outcome of CMEC oversight is eliminating campus politics and the meddling of political parties in university affairs across the nation. CMEC will ensure that each institution is administered efficiently and stakeholders can participate effectively in academic decision-making. It will increase public confidence in the government's intentions of eliminating politics from campuses. The overall global ranking of institutions will increase. India's academic sovereignty will be a model for others to emulate, including the developed nations. Institutions can directly approach constitutional courts to resolve disputes arising from their decision. The overall structure will effectively provide resilience against political sabotage without judicial scrutiny. The Whistleblower Protection Act would ensure that any incursion into academic freedom or financial embezzlement by university administrations will be prosecuted, and perpetrators receive adequate punishments.  In summary, we can view the outcome under the following heads:
 - Structural Improvements
 - Academic and Operational Improvements
-- Improvements in Legal and Jurisdictional Resilience 
+- Legal and Jurisdictional Resilience 
 - Global Positional Improvements
-
-
 
 
 
