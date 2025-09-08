@@ -10,6 +10,7 @@ Information flow is a major contributor to mass-based upheavals in the governanc
 is crucial for any system of governance. From time to time, the government comes up with an intervention to correct the educators and 
 support those in power. Therefore, it is essential to analyze the implications of specific policies from a neutral viewpoint.
 
+- [Constitutionally Mandated Education Commission](Topics/IEC_Proposal.md)
 - [India's Digital Sovereignty](Topics/Tech_Sovereignty.md)
 - [Microsoft's "Enigma of Success Layoffs"](Topics/MS_Firing.md)
 - [Training AI models with Print Books and Digital Content](Topics/Anthropic_Book_Project.md)
