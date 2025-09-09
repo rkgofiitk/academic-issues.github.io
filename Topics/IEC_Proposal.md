@@ -1,4 +1,4 @@
-## A Proposal for HECI Constitution
+## A Proposal for Reconstitution of HECI
 
 [Blog Index](../index.md)
 
