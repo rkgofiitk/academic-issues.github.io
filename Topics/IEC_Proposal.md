@@ -1,4 +1,4 @@
-## Constitutionally Mandated Education Commission
+## A Proposal for HECI Constitution
 
 [Blog Index](../index.md)
 
