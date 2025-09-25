@@ -53,7 +53,8 @@ Although the Indian IT outsourcing story became a talking point, we should appre
 - There are not many high-level academic institutions like IISc.
 - Upgrade old IITs to research innovation centers.
 - Remove Medical Sciences and Law schools from IITs.
-- Create NSF-like liberal but responsible research funding .
+- Allow IITs, CFTIs to disburse research initiation grants and matching grants to faculty.
+- Create NSF-like liberal but responsible high end research funding.
 - Encourage innovations  in the private sector
 - Reconstitute HECI as a constitutionally mandated body.
 
