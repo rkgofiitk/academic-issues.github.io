@@ -1,4 +1,4 @@
-## Watershade moments in India's Tech Sovereignty. 
+## Watershed moments in India's Tech Sovereignty. 
 
 [Blog Index](../index.md)
 
