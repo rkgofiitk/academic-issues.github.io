@@ -57,7 +57,7 @@ Although the Indian IT outsourcing story became a talking point, we should appre
 - Allow IITs and CFTIs to disburse enough research initiation and matching grants to faculty.
 - Create NSF-like liberal but responsible high-end research funding.
 - Encourage innovations  in the private sector
-- [Reconstitute HECI](./Tech_Sovereignty.md) as a constitutionally mandated body.
+- [Reconstitute HECI](./IEC_Proposal.md) as a constitutionally mandated body.
 
 I am happy to read the news that Sridhar Vembu has declared that Zoho is ready to scale its SaaS to the level of Google. [Ashwini Vaishnaw](https://en.wikipedia.org/wiki/Ashwini_Vaishnaw) has stated that he has migrated to Zoho's service. Let the other powerful people in government take a not of it. 
 
