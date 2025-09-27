@@ -54,11 +54,11 @@ Although the Indian IT outsourcing story became a talking point, we should appre
 - There are not many high-level academic institutions like IISc.
 - Upgrade old IITs to research innovation centers.
 - Remove Medical Sciences and Law schools from IITs.
-- Allow IITs and CFTIs to disburse research initiation and matching grants to faculty.
+- Allow IITs and CFTIs to disburse enough research initiation and matching grants to faculty.
 - Create NSF-like liberal but responsible high-end research funding.
 - Encourage innovations  in the private sector
-- Reconstitute HECI as a constitutionally mandated body.
+- [Reconstitute HECI](./Tech_Sovereignty.md) as a constitutionally mandated body.
 
-I am happy to read the news that Sridhar Vembu has declared that Zoho is ready to scale its SaaS to the level of Google. Ashwini Vaishnav has stated that he has migrated to Zoho's service. Let the other powerful people in government take a not of it. 
+I am happy to read the news that Sridhar Vembu has declared that Zoho is ready to scale its SaaS to the level of Google. [Ashwini Vaishnaw](https://en.wikipedia.org/wiki/Ashwini_Vaishnaw) has stated that he has migrated to Zoho's service. Let the other powerful people in government take a not of it. 
 
 [Back to Index](../index.md)
