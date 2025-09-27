@@ -42,7 +42,9 @@ What do we need to do? H1B visa fee hike is a watershed moment for the reforms t
 - For example, co-opt Mohandas Pai, Nandal Nilekani, and Shridhar Vembu in policy implementation.
 - Invest and create investment opportunities for the cloud ecosystem, like Google.
 - Incentivize Zoho, Jio, Tata, CDAC, Bharati Airtel, Adani, and L&T to bring investments.
-- Lift the salary cap on Big Tech employees. 
+- Lift the salary cap on Big Tech employees.
+- Reduce lower bureaucracy's influence with automations of the entire government clearance system.
+- Set fixed timeframe for all government clearances.
 
 We should understand that ISRO's model of innovations will not succeed across the board. ISRO happened due to Vikram Sarabhai, Satish Dhawan, and US sanctions against scientists. Fewer opportunities elsewhere forced them to build institutions in India.   Similarly, DRDO became successful in missile tech due to Abdul Kalam Azad. Mavericks like Bhaba, Sarbhai, Dhawan, or Azad are rarely found in government labs or have a chance to head the system. We need more far-sighted and honest leaders. Someone in government has to spot an "Indian Oppenheimer" to lead the challenge in India's "Soft Pokharan Project" in this watershed moment. 
 
