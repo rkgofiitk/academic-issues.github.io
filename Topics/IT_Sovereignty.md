@@ -28,7 +28,7 @@ Absence of a decent work culture among blue-collar staff is plaguing the industr
 
 The Indian government started the Make in India push only in 2014. In the last 3 years, the government has started realizing the importance of and methodology for building tech infrastructure. 
 - The startup revolution was initiated under the PLI scheme in 2016,
-- In 2021, the government announced that the DLI scheme was for semiconductor manufacturing.
+- In 2021, the government announced that the [DLI scheme](https://chips-dli.gov.in/) was for semiconductor manufacturing.
 - In 2023,  India launched the  AI mission.
 - In 2016, the UPI micropayment system revolutionized currency-less transactions to check widespread scams and fraud. 
 
@@ -49,7 +49,7 @@ What do we need to do? H1B visa fee hike is a watershed moment for the reforms t
 We should understand that ISRO's model of innovations will not succeed across the board. ISRO happened due to [Vikram Sarabhai](https://en.wikipedia.org/wiki/Vikram_Sarabhai), [Satish Dhawan](https://en.wikipedia.org/wiki/Satish_Dhawan), and US sanctions against scientists. Fewer opportunities elsewhere forced them to build institutions in India.   Similarly, DRDO became successful in missile tech due to [APJ Abdul Kalam](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam). Mavericks like [Bhaba](https://en.wikipedia.org/wiki/Homi_J._Bhabha), Sarbhai, Dhawan, or Kalam are rarely found in government labs or have a chance to head the system. We need more far-sighted and honest leaders. Someone in government has to spot an "Indian Oppenheimer" to lead the challenge in India's "Soft Pokharan Project" in this watershed moment. 
 
 Although the Indian IT outsourcing story became a talking point, we should appreciate that the success was energized by Infosys, Satyam, TCS, Wipro, and HCL after George Fernadez shut out IBM. Let us not have a false pretension that efforts of a few individuals will create a new software ecosystem out of a vacuum. We need an accelerated framework with sufficient government-backed enablers. The right point is to start with reforms in investment, infrastructure, and academic enablers.
-- PLI scheme is good,  but ensure investors chip in
+- [PLI scheme](https://en.wikipedia.org/wiki/Production_Linked_Incentive_schemes_in_India) is good,  but ensure investors chip in
 - Only 1 out of 10 startups, only 1 becomes a hit. 
 - There are not many high-level academic institutions like IISc.
 - Upgrade old IITs to research innovation centers.
