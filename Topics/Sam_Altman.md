@@ -1,4 +1,4 @@
-## AI will replace 40% of Jobs: Myth versus Reality.
+## AI will Replace 40% of Jobs: A Reality Check.
 
 [Blog Index](../index.md)
 
