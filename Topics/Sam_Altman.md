@@ -32,7 +32,7 @@ Let us consider two principal types of jobs depending on the domain of applicati
 
 For example, assume a job like accounting. We can decompose it into smaller tasks such as:
 - Data entry
-= Reconciliation
+- Reconciliation
 - Forecasting
 - Reporting
   
