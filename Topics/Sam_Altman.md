@@ -2,7 +2,7 @@
 
 [Blog Index](../index.md)
 
-Recently, [Sam Altman repeated his claim that AI will replace 40% of the jobs](https://www.hindustantimes.com/business/ai-will-replace-up-to-40-of-tasks-not-humans-openai-ceo-sam-altman-says-101759130724676.html). Let us dissect the reality versus myth created by Altman's utterances. Sam clarified later that his exact statement is "I can easily imagine a world where 30 to 40 per cent of the tasks that happen in the economy today get done by AI in the not very distant future."  Consider the end-to-end intellectual input plus the time from beginning to finish a job. Does it mean that AI can contribute 0.4x of the requirement? It is unlikely. However, Sam defends his utterance with a clever interplay of words to indicate:
+Recently, Sam Altman repeated his claim that [AI will replace 40% of the jobs](https://www.hindustantimes.com/business/ai-will-replace-up-to-40-of-tasks-not-humans-openai-ceo-sam-altman-says-101759130724676.html). Let us dissect the reality versus myth created by Altman's utterances. Sam clarified later that his exact statement is "I can easily imagine a world where 30 to 40 per cent of the tasks that happen in the economy today get done by AI in the not very distant future."  Consider the end-to-end intellectual input plus the time from beginning to finish a job. Does it mean that AI can contribute 0.4x of the requirement? It is unlikely. However, Sam defends his utterance with a clever interplay of words to indicate:
 - Suppose a job is composed of 10 finite tasks.
 - Then the AI assistant can perform 4.
 - So,  6 out of 10 remain incomplete for the job.
