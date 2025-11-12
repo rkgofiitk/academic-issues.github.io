@@ -1,4 +1,4 @@
-## Finternet: Unified Tokenized Financial Infrastructure
+
 
 ## Finternet: Unified Tokenized Financial Infrastructure
 
