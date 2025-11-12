@@ -2,6 +2,8 @@
 
 ## Finternet: Unified Tokenized Financial Infrastructure
 
+[Blog Index](../index.md)
+
 In casual conversations in Hindi, people use words with other similar-sounding words in rhyme to semantically dilute or trivialize the seriousness of a statement. For example, "roti-shoti", "kam-sham", "padhai-vadhai", "techie-shachie", etc. The examples "rhyme-based neologism" are drawn from the dialects of central UP, particularly Kanpur, where I had spent the better part of my time. It is a pleasant surprise when similar rhyming words with "Internet" have been created for technical terminology. 
 
 We do come across descriptions of recursive terminology like 
@@ -28,4 +30,4 @@ The "coincidence of double needs" determines exchange value..  The lack of stand
 
 The idea of digitally converting all financial assets, such as gold, silver, properties, securities, bank deposits, and contracts, into interoperable tokens will have even fewer takers in India. India is a noisy democracy where the country is perpetually in electioneering mode. Election is not state-funded. Political survivability is based on creating fragmentation along multiple fault lines that require massive illegal funding, which is possible through illicit deals and transactions. Bringing transparency to property deals is like intercepting a falcon mid-dive with bare hands. 
 
-
+[Back to Index](../index.md)
