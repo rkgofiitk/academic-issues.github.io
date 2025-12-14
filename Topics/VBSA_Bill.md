@@ -1,4 +1,4 @@
-## Vikashit Bharat Shiksha Adhikshan Bill
+## Viksit Bharat Shiksha Adhikshan Bill
 
 [Blog Index](../index.md)
 
