@@ -14,9 +14,11 @@ The VBSA bill must address the above two points and other implementation-related
 
 Assuming that the Radhakrishnan committee's report serves as the basis for the new VBSA bill, I believe that the committee has thoroughly examined the micro-details of implementation issues and suggested strong countermeasures against political and bureaucratic interferences. If not, the bill may undermine the well-intentioned approach to skill building and disrupt the country's higher education system.
 
+<strong>Edit 1</strong>
+
 A [news item says VBSA bill is now under circulation to MPs](https://www.msn.com/en-in/money/topstories/bill-proposes-rs-2-crore-fine-on-illegal-universities/ar-AA1SlBuZ?ocid=winp2fptaskbar&cvid=91de526e65464247f29cf3d5803e2a2c&ei=4) will be introduced today. It proposes a fine of INR 20 millions for illegal Universities, and promises a "tighter and lighter" regulatory oversight. However, it does not say that commission chair will have constitutional status and both IITs and IIMs will be under the regulatory supervision of the commission. 
 
-<strong>Edit 1</strong>
+
 
 
 [Back to Index](../index.md)
