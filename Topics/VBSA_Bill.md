@@ -12,11 +12,11 @@ Some form of central regulatory control is necessary to oversee the low-grade pr
 
 The VBSA bill must address the above two points and other implementation-related protocols. Any effort to micromanage institutions of higher learning through governmental fiat will have ruinous effects, rather than raising quality.  Furthermore, it is concerning that medical and legal education have been excluded from the proposed HECI's scope, which undermines our confidence in the government's intentions. I must say that the government's approach reflects a political pragmatism. It has chosen a less contentious target in proposing the VBSA bill. Clearly, the government is underprepared to confront the powerful lobby of the legal and medical professions. 
 
-Assuming that the Radhakrishnan committee's report serves as the basis for the new VBSA bill, I believe that the committee has thoroughly examined the micro-details of implementation issues and suggested strong countermeasures against political and bureaucratic interferences. If not, the bill may undermine the well-intentioned approach to skill building and disrupt the country's higher education system. 
+Assuming that the Radhakrishnan committee's report serves as the basis for the new VBSA bill, I believe that the committee has thoroughly examined the micro-details of implementation issues and suggested strong countermeasures against political and bureaucratic interferences. If not, the bill may undermine the well-intentioned approach to skill building and disrupt the country's higher education system.
+
+A [news item says VBSA bill is now under circulation to MPs](https://www.msn.com/en-in/money/topstories/bill-proposes-rs-2-crore-fine-on-illegal-universities/ar-AA1SlBuZ?ocid=winp2fptaskbar&cvid=91de526e65464247f29cf3d5803e2a2c&ei=4) will be introduced today. It proposes a fine of INR 20 millions for illegal Universities, and promises a "tighter and lighter" regulatory oversight. However, it does not say that commission chair will have constitutional status and both IITs and IIMs will be under the regulatory supervision of the commission. 
 
 <strong>Edit 1</strong>
-
-A [news item says VBSA bill is now under circulation to MPs](https://www.msn.com/en-in/money/topstories/bill-proposes-rs-2-crore-fine-on-illegal-universities/ar-AA1SlBuZ?ocid=winp2fptaskbar&cvid=91de526e65464247f29cf3d5803e2a2c&ei=4) will be introduced today. It proposes a fine of INR 20 millions for illegal Universities, and promises a "tighter and lighter" regulatory oversight. However, it does not say that commission chair will have constitutional status. 
 
 
 [Back to Index](../index.md)
