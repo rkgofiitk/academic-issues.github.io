@@ -8,7 +8,7 @@ Now about the victim's harassment aftermath the fraud. Especially, in the case o
 
 The second issue in the victim's harassment begins to unfold after the victim's device is sanitized completely. The bank will require KYC update and it may take up to 3 days for restoration of transaction rights. Most banks are migrating to app based INB transactions. App based INB is optimized for use in mobile devices, it uses biometrics (finger prints) or face IDs for enhanced security while web-based INB offer broader user interface for more extended services. App-based INB becomes useless for a hacked device. While web-based INB may work, but not without a sanitized phone. However, the victim must go through a series of intervention from the relevent branch of the bank before the resumption of services as explained above. Both have advantages and disadvantages as shown in the table below.  
 
-|--------|---------|-------|
+
 | Features | App-based INB | Web-based INB|
 |--------|---------|--------|
 |User experience | Smart design with touch friendly use | Text or Icon based switches for use|
