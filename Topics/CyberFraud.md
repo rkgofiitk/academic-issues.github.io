@@ -12,15 +12,10 @@ The second issue in the victim's harassment begins to unfold after the victim's 
 | Features | App-based INB | Web-based INB|
 |--------|---------|--------|
 |User experience | Smart design with touch friendly use | Text or Icon based switches for use|
-|--------|---------|--------|
 | Updates frequency | High | Moderately low|
-|--------|---------|--------|
 | Dependency | Device dependent | Can be accessed from any where and any device|
-|--------|---------|--------|
 | Connecity | Operates in low data connectivity | Rquires stable N/W connectivity|
-|--------|---------|--------|
 | Performance | Optimized for device | Could time out when connection breaks|
-|--------|---------|--------|
 
 The feature of frequent updates for app-based INB might be hidden curse if the design flow is not very strictly verified. Typically, the app designer use hardware and software codesign approach conforming to RBI's Digital Payment Security Controls and SEBI’s Cyber Resilience Framework so that they can use device biometric sensors, SIM bindings, and secure keystores. Cryptographic keys are stored in h/w and not in app's storage.  I am not sure if the apps use AI backed anomaly detections.
 
