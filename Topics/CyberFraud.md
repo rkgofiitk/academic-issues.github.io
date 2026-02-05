@@ -1,5 +1,7 @@
 ## Handling Cyber Fraud
 
+[Blog Index](../index.md)
+
 There is growing concern among senior citizens in India about various kinds of cyber fraud, which almost entirely snuffs out the urge and passion to live among victims. The type of financial fraud is carefully designed to exploit psychological issues and overall well-being (personal health, family stability, and children) that overwhelm senior people. Many of these people live relatively lonely lives and have to take care of themselves. A few samples of stories that make people fall for scammers are:  
 - Instant and high-yield returns on investment schemes for senior citizens
 - Family emergency known as "Grandparent" scams, saying grandchildren are in trouble with the law.
@@ -33,3 +35,5 @@ The second issue in the victim's harassment begins to unfold after the victim's 
 The feature of frequent updates for app-based INB might be a hidden curse if the design flow is not very strictly verified. Typically, the app designer uses a hardware-software co-design approach that aligns with RBI's Digital Payment Security Controls and SEBI's Cyber Resilience Framework, enabling the use of device biometric sensors, SIM binding, and secure keystores. Cryptographic keys are stored in hardware, not in the app's storage. I don't know if the apps use AI-backed anomaly detections.
 
 Most fraud in India occurs through SIM swapping and the installation of mobile malware. So, hardware-and-software co-design, including device binding, biometrics, and a secure keystore, is the best approach to prevent fraud even if the SIM is compromised. SBI YONO's hardware layer Android keystore/iOS secure enclave to store the cryptographic key. Its software layer uses end-to-end encryption for transactions. I am not sure whether SBI's YONO uses AI-aided fraud detection. HDFC is about to release its app-based INB. The bank uses its own Trusted Execution Environment (TEE, a sandbox environment) for secure PIN and biometric processing. The app is powered by AI-driven fraud detection logic. I am not aware of its performance yet. 
+
+[Back to Index](../index.md)
