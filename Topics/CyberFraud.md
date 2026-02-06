@@ -2,7 +2,7 @@
 
 [Blog Index](../index.md)
 
-There is growing concern among senior citizens in India about various kinds of cyber fraud, which almost entirely snuffs out the urge and passion to live among victims. The type of financial fraud is carefully designed to exploit psychological issues and overall well-being (personal health, family stability, and children) that overwhelm senior people. Many of these people live relatively lonely lives and have to take care of themselves. A few samples of stories that make people fall for scammers are:  
+There is growing concern among senior citizens in India about various kinds of cyber fraud, which may almost entirely snuff out the urge and passion to live among victims. The fraudsters typically exploit psychological vulnerabilities such as loneliness, health concerns, and family responsibilities. A few samples of stories that make people fall for scammers are:  
 - The phone is lost or stolen.
 - Instant and high-yield returns on investment schemes for senior citizens.
 - Family emergency known as "Grandparent" scams, saying grandchildren are in trouble with the law.
