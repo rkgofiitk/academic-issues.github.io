@@ -47,6 +47,6 @@ India's most common fraud occurs through SIM swapping and the installation of mo
 - SBI YONO uses Android keystore/iOS secure enclave with end-to-end encryption.
 - HDFC App (upcoming): Employs Trusted Execution Environment (TEE) with AI-driven fraud detection.
 
-India's banking ecosystem for fraud prevention is evolving rapidly. In the meantime, fraudsters and scammers are exploiting technical gaps and psychological vulnerabilities among potential victims. A stronger hardware-software co-design and AI-driven anomaly detection may finally make the banking system somewhat more impregnable for scammers. Meanwhile, vigilance and fast remedial actions remain the best defense against fraud until systemic changes tilt the balance in favor of citizens. 
+India's digital banking ecosystem for fraud prevention is evolving rapidly. In the meantime, fraudsters and scammers are exploiting technical gaps and psychological vulnerabilities among potential victims. A stronger hardware-software co-design and AI-driven anomaly detection may make the banking system more impregnable for scammers. Meanwhile, vigilance and fast remedial actions remain the best defense against fraud until systemic changes tilt the balance in favor of citizens.  
 
 [Back to Index](../index.md)
