@@ -1,4 +1,4 @@
-## AI Impact Summit at Bharat Mandap
+## AI Impact Summit at Bharat Mandapam
 
 [Blog Index](../index.md)
 
