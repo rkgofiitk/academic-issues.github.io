@@ -1,4 +1,4 @@
-## AI Use in Surveillance & Defense
+## AI in Surveillance & Warfare
 
 [Blog Index](../index.md)
 
