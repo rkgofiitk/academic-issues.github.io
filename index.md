@@ -10,6 +10,7 @@ Information flow is a major contributor to mass-based upheavals in the governanc
 is crucial for any system of governance. From time to time, the government comes up with an intervention to correct the educators and 
 support those in power. Therefore, it is essential to analyze the implications of specific policies from a neutral viewpoint.
 
+- [AI in Surveillance & Defense](Topics/AI_in_Defense.md)
 - [AI Impact Summit at Bharat Mandapam](Topics/AI_Impact_Fiasco.md)
 - [Handling Cyber Frauds](Topics/CyberFraud.md)
 - [Vikashit Bharat Sisksha Adhikshan Bill](Topics/VBSA_Bill.md)
