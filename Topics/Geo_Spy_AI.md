@@ -1,26 +1,26 @@
-## AI Enabled Real-time Behaviorial Analytic System in Investigative Surveillance
+## Cognitive Watchtower Grid
 
 [Blog Index](../index.md)
 
 
-In the previous post, we discussed the implications of AI Surveillance. Let us first get past the obsession with the negative connotations of surveillance. The AI-based Surveillance tools have matured into a Real-time Behavioral Analytics System (RBAS).
+In the previous post, we discussed the implications of AI Surveillance. Let us first get past the negative connotations attached to surveillance. Surveillance works as a deterrent against crimes, infiltration of illegal immigrants, unauthorized/unprotected ingress into areas under high radiation or hazardous chemical exposures, and so on. AI-based monitoring tools have matured beyond surveillance to the point that we can create a grid of cognitive watchtowers for practical, near-real-time cognitive monitoring to enable early warning and response. 
 
-GeoSpy is an AI image investigative analysis tool for the Miami-Dade Sheriff's Office and the LAPD. It is primarily intended to assist law enforcement in investigating images from crime scenes. However, we can visualize its immense use or misuse. The first question is: what the tools can or cannot do? Let us state its obvious positives as an investigative surveillance system:
+GeoSpy is an AI image investigative analysis tool for the Miami-Dade Sheriff's Office and the LAPD. It is primarily intended to assist law enforcement in analyzing images from crime scenes. We must recognize both the immense potential and the risks of such a system. The first question to ask is: what can these tools actually do, and what are their limitations? To begin, let us outline the notable advantages when applied as an investigative surveillance system:
 - Detects whether an image is AI-generated or not.
 - Provides location precision to meter-level accuracy.
 - Provide architectural, cultural, and landmark clues.
 - Support batch processing of multiple image snapshots.
 - Provides APIs for integration in specialized apps.
   
-However, GeoSpy has several notable limitations. It struggles to provide location precision for nondescript rural or urban environments. Precision improves when nearby markers are geo-tagged. For example, it can analyse images from daylight [heist of eight pieces of 19th-century jewellery of French Royals](https://www.bbc.com/news/articles/cg7nrlkg0zxo) from the Louvre Museum, like that which occurred on 19th October, 2025. In other words, GeoSpy tools perform very well on images from Urban settings or heritage sites. GeoSpy may work for short video analysis if the corresponding frame snapshots are batch-processed in sequence. However, computational cost would be prohibitive. Furthermore, as the snapshots of the frames differ only slightly, the analysis results will require robust post-processing to uncover video clues about the event or occurrence. GeoSpy is developed, especially, as a high-precision image analysis tool to assist crime investigations. 
+However, GeoSpy has several limitations. It struggles to provide location precision for untagged nondescript rural or urban environments. Precision improves when nearby locations are geo-tagged. For example, it can analyse images from daylight [heist of eight pieces of 19th-century jewellery of French Royals](https://www.bbc.com/news/articles/cg7nrlkg0zxo) from the Louvre Museum, like that which occurred on 19th October, 2025. In other words, GeoSpy tools perform very well on images from Urban settings or heritage sites. GeoSpy may work for short video analysis if the corresponding frame snapshots are batch-processed in sequence. However, computational cost would be prohibitive. Furthermore, as the snapshots of the frames differ only slightly, the analysis results will require robust post-processing to uncover video clues about the event or occurrence. GeoSpy is developed, especially, as a high-precision image analysis tool to assist crime investigations. 
 
-There are a bunch of RBAS tools that go beyond GeoSpy, such as:
+There are a bunch of video analysis tools that go beyond GeoSpy, such as:
 - Vertex AI plus Geospatial APIs
 - ReelMind's AI interactive Video Maps
 - Eathkit/SPOT (OSINT-focussed tool)
 - Mapbox plus Google Earth Studio
 
-Vertex AI with Google Maps can integrate live video with Google Maps for geospatial analysis. ReelMind's focus is on interactive storytelling that can associate locations with the video. Earthkit/SPOT is an investigative tool with a limited real-time video feed. It uses OSINT (Open-Source Intelligence) to associate events with real-time videos. It is an assisted model for real-time video processing. Generating useful alerts via real-time video analytics is problematic because streaming operates on a produce-and-consume model. So, most of the precious time, bandwidth, and computational power are wasted on non-essential images. The significant video clip may be a fraction of the entire stream. Without AI assistance, there is no prophetic notification for the clip's duration or happenstance. AI can generate predictive notifications because it has the following basic capabilities:
+Vertex AI, when integrated with Google Maps, enables geospatial analysis by combining live video streams with location data. ReelMind focuses on interactive storytelling, linking video content to specific places. Earthkit/SPOT functions as an investigative tool with limited real-time video capabilities, leveraging OSINT (Open-Source Intelligence) to correlate events with live footage. It operates as an assisted model for real-time video processing. However, generating actionable alerts from continuous video streams is still a challenge. Streaming follows a produce-and-consume model, which often wastes time, bandwidth, and computational resources on non-essential frames. The critical segment of interest may represent only a fraction of a long streaming feed. Without AI support, there is no predictive notification regarding when or where such significant clips will occur. By contrast, AI can provide predictive alerts because it possesses the following fundamental capabilities:
 - Analyse patterns of past events to match the innocuous video clips prior to the actual event
 - It can blend temporal and contextual space to relate the insignificant clips to a predictive scenario
 - It can detect anomalies to raise the confidence of predictive scenarios. 
