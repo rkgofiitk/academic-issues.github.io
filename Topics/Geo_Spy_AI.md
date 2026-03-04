@@ -1,4 +1,4 @@
-## Cognitive Watchtower Grid
+##  Surveillance Intelligence Grid: AI-Enabled Early Warning and Response
 
 [Blog Index](../index.md)
 
