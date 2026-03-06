@@ -17,9 +17,11 @@ Aswath Damodaran, a highly aclaimed economics professor at Stern School of Busin
 - The Citrini's report lays out a dark end-game for economy.
 - AI disruption prophecy came out of pains of trillion dollars of investment without proportionate gains
 - AI disruption has led to job losses for largely white collared, high earners.
-- AI adoption happened unevenly 
+- AI adoption is happening across firms quickly leading to unemployment of high earners.
 
-Prof Damodaran's analysis 
+The Citrini's Doomsday predictor relates the AI disruption leading job losses among high earners to a large cut back on consumption and the slowing down of economy. However, this may be true for US or countries with high GDP figures. The countries in South Asia except perhaps China, the AI adoption will be slow. Of course, Indian Government has become an enabler for AI adoption in many sectors including construction which employ a large number of unorganized workers. In the recently concluded AI Impact Summit, we saw all AI company CEOs Anthropic, Meta, Open AI, Google personally attended and forged a number of tie ups with India AI firms for Indian language AI tools.  Prof Damodaran unveils the journey of AI disruption along the path from "impossibility" to "almost certain." AI advocates keep on saying that disruption will happen, but they are not sure when it will happen, because there are insufficient evidences on the disruption happening. Some make reasoned advocacy but they lack enough evidences to back up their claims. The reasoned arguments do make the AI disruption plausible. All depends on AI products and their financial success which is probable. Probable means a fair amount of uncertainity is attached to the happening of the event.   
+
+
   
 
 
