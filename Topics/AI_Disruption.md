@@ -11,13 +11,15 @@ Citrini research is an independent financial research firm founded by James van 
 - Weakening demands to quicken AI deployments.
 - Leading to a cascading rise in unemployment rates.
 
-The concept of Ghost GDP is not new. GDP has always been a ghost GDP and always will remain so. Irrespective or who is government or who is opposition, we know from opposition GDP data published by Government agencies are over-estimates and manipulations without any mathematical proof. Accummulation of wealth among a few groups of big investors or bankers is not real projection of GDP. However, it is the reality that lack of capital terminates the cycle of wealth creation and further investments.     The cycle of reduced demand and linked rise in unemployment is not very difficult to understand. However, AI leading to this phenomenon is a bit too pessimistic and may be intended to spur uprising and instabilities in South Asian countries including India. 
+The concept of Ghost GDP is not new. In reality GDP has always been a "Ghost" and always will remain so irrespective of who is in government or who is in opposition. As always, we continue to learn from the opposition that GDP data published by Government agencies are over-estimates and manipulations. They won't and never will give any proof in support of their claims. Admittedly, the accummulation of wealth among a few groups of big investors or bankers is not real projection of GDP. However, we must understand  that lack of capital terminates the closed loop of wealth generation and investments. Similarly, the cycle of reduced demand and consequential rise in unemployment is also not difficult to understand.  Any progress or achievement in AI will require trillion dollars of investments. It essentially means, unless a nation is able to generate trillion dollars of sparable wealth it cannot make any discernable achievements in AI. Therefore, the Citrini Research's Doomsday AI prophecy leading to drop in S&P 500 index and 10% rise in umployment rate is a wee bit pessimistic and may be intended to spur uprising and instabilities in South Asian countries including India. 
 
-Aswath Damadoran, a highly aclaimed economics professor at Stern School of Business of New York University put Citrini's doomsday AI disruption prediction to 3P test. His worst case analysis of AI disruption concludes that it will still lead to significant long-term benefits. His evaluation says:
-- The sceanrio possible but not plausible.
-- AI disruption is likely to have an uneven adoption.
+Aswath Damodaran, a highly aclaimed economics professor at Stern School of Business of New York University put Citrini's Doomsday AI disruption prediction to his own 3P (possible, paulsible and probable) test.  His worst case analysis of AI disruption [concludes that it may still lead to significant long-term benefits](https://aswathdamodaran.blogspot.com/2026/03/ai-scenarios-from-economic-doomsday-to.html). That pours cold waters on Citrini's report. The brief takeaways from Prof Damodaran's musings are: 
+- The Citrini's report lays out a dark end-game for economy.
+- AI disruption prophecy came out of pains of trillion dollars of investment without proportionate gains
+- AI disruption has led to job losses for largely white collared, high earners.
+- AI adoption happened unevenly 
 
-The AI adoption will require massive investiment in trillions. So, before we can think of AI adoption we need to have trillions of investment that can come only from wealth generation. 
+Prof Damodaran's analysis 
   
 
 
