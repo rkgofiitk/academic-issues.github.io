@@ -13,9 +13,13 @@ Citrini research is an independent financial research firm founded by James van 
 
 The concept of Ghost GDP is not new. GDP has always been a ghost GDP and always will remain so. Irrespective or who is government or who is opposition, we know from opposition GDP data published by Government agencies are over-estimates and manipulations without any mathematical proof. Accummulation of wealth among a few groups of big investors or bankers is not real projection of GDP. However, it is the reality that lack of capital terminates the cycle of wealth creation and further investments.     The cycle of reduced demand and linked rise in unemployment is not very difficult to understand. However, AI leading to this phenomenon is a bit too pessimistic and may be intended to spur uprising and instabilities in South Asian countries including India. 
 
-Aswath Damadoran, a highly aclaimed 
-The report has caught viral attention across the globe.   
-     Aswath Damodaran, a professor at NYU, 
+Aswath Damadoran, a highly aclaimed economics professor at Stern School of Business of New York University put Citrini's doomsday AI disruption prediction to 3P test. His worst case analysis of AI disruption concludes that it will still lead to significant long-term benefits. His evaluation says:
+- The sceanrio possible but not plausible.
+- AI disruption is likely to have an uneven adoption.
+
+The AI adoption will require massive investiment in trillions. So, before we can think of AI adoption we need to have trillions of investment that can come only from wealth generation. 
+  
+
 
 
 [Blog Index](../index.md)
