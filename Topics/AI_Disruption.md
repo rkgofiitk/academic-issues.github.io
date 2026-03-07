@@ -1,4 +1,4 @@
-## AI-Enabled Disruptive Interventions/Inventions
+## Impact of Disruptive Interventions/Inventions of AI
 
 [Blog Index](../index.md)
 
