@@ -2,7 +2,7 @@
 
 [Blog Index](../index.md)
 
-Citrini Research [published a report on 23rd February, 2026](https://www.citriniresearch.com/p/2028gic) that talks about the impact of AI-led disruption on the economy, expanding on two WTF scenarios: 
+Citrini Research [published a report on 23rd February, 2026](https://www.citriniresearch.com/p/2028gic) that talks about the impact of AI-led disruption on the economy, expanding on two "What if" scenarios: 
 - What if AI is always right, and
 - What if AI is always bearish?
 
