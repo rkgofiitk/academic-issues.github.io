@@ -1,0 +1,3 @@
+## Claude Source Code Leaks
+
+On 31st March there is an accidental leak of Claude source code on GitHub repository. The leak is huge as much as a half million lines of code is now in public domain. The code contains [specific signs of users' frustration with Claude code assistant](https://www.scientificamerican.com/article/anthropic-leak-reveals-claude-code-tracking-user-frustration-and-raises-new/#:~:text=On%20March%2031%20artificial%20intelligence,prompts%20for%20signs%20of%20frustration). One may ask "Why this is important?" The AI companies don't care about privacy of the user is always in the knowledege of the developers    
