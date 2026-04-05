@@ -1,5 +1,7 @@
 ## Claude Source Code Leaks
 
+[Blog Index](../index.md)
+
 On 31st March, there was an accidental leak of Claude's source code via its Node Package Manager (NPM) distribution platform. NPM is a public registry used for JS/TypeScript packages. The leak is huge: as much as half a million lines of code are now in the public domain. The following are the details regarding the leak. Anthropic accidentally shipped a .map file along with the Claude code npm package that contained the full readable source code of the CLI tool. Though the package was pulled within hours of the leak, the code had already been mirrored and forked thousands of times on GitHub. So, containment of the fallout from the leak was impossible. In fact, code leaks from Anthropic have occurred three times recently. [Alex Kim's blog post](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/#kairos-the-unreleased-autonomous-agent-mode) gives a detailed analysis ot the implications of code exposure. Mr. Kim points out that the code exposure was accidental. Only 10 days before the accidental shipping, Anthropic sent a legal notice to Open Code to remove built-in Claude authentication, as third-party tools were using Claude's internal APIs at Opus subscription rates rather than pay-per-use rates, incurring a substantial loss of revenue. 
 
 The leaks provided a good and substantial peek into Anthropic's projects, like:
@@ -22,3 +24,4 @@ These laws are meant to provide sector-specific data protection. CCPA has only C
 
 On the flip side, EU law imposes the most restrictive costs on businesses, but is weighted in favor of consumers. Therefore, many argue that AI companies find it expensive to develop products in compliance with the EU GDPR. However, while the issues are not settled to a reasonable threshold, the AI companies, aided and abetted by ethics-devoid investors, could pose a concern for humanity. The soft Manhattan Projects of different AI companies are no less impactful than nuclear proliferation in the personal space of human societies worldwide.
 
+[Back to Index](../index.md)
