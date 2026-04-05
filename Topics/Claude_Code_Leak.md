@@ -1,4 +1,4 @@
-## Claude Source Code Leaks
+## Impacts of Claude Source Code Leaks
 
 [Blog Index](../index.md)
 
