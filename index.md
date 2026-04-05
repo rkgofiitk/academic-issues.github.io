@@ -10,7 +10,7 @@ Information flow is a major contributor to mass-based upheavals in the governanc
 is crucial for any system of governance. From time to time, the government comes up with an intervention to correct the educators and 
 support those in power. Therefore, it is essential to analyze the implications of specific policies from a neutral viewpoint.
 
-- [Impacts of Claude Source Code Leak](Topics/Claude_Code_Leak.md)
+- [Impacts of Claude Source Code Leaks](Topics/Claude_Code_Leak.md)
 - [Impacts of Disruptive Interventions/Inventions of AI](Topics/AI_Disruption.md)
 - [Surveillance Intelligence Grid: AI-Enabled Early Warning & Response](Topics/Geo_Spy_AI.md)
 - [AI in Surveillance & Defense](Topics/AI_in_Defense.md)
