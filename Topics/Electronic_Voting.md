@@ -1,4 +1,4 @@
-## Electronic Voting System & Voter's Identity 
+## Reimagining the Next Level of Upgrade to India’s Electronic Voting System 
 
 [Blog Index](../index.md)
 
