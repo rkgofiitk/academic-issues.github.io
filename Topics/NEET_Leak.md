@@ -23,3 +23,5 @@ The government of India formed a [high-powered committee, headed by K Radhakrish
 I think TCS and several [small IT companies](https://blog.imocha.io/online-assessment-companies-in-india) have capabilities to create CBT within a year.  I am a bit surprised why the Radhakrishnan committee did not propose an implementable idea.
 
 Frequent paper leaks raise serious doubts about whether each step in the process is formally validated a priori. It is difficult to pontificate from the outside unless we know the details. However, unless NTA conducts regular audits and holds accountability for every aspect of exam conduct, its credibility will take a tailspin under public scrutiny. Beyond punitive measures, NTA should establish systematic oversight by independent experts, vetting of question setters, and technological safeguards to ensure exam integrity. 
+
+[Links to earlier post on NEET 2024](./Neet2024.md)
