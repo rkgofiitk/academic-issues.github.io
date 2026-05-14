@@ -14,12 +14,12 @@ Now, let us focus a bit on the consequences of paper leaks. The IIT JEE pattern 
 
 The stakes in NEET are much higher compared to JEE. Therefore, it is not fair to compare the two different, unrelated exams. However, exam conduct should still be consistent to ensure confidentiality and sanctity. I don't know about NEET question setters. How they are picked, or how many of them take ownership of the paper. NEET also relies on creating question banks. I don't know whether the question bank is created each time or if it's a running bank. 
 
-The government of India formed a high-powered committee, headed by K Radhakrishnan, to recommend reforms to the NEET exams following the 2024 paper leak. The committee strongly recommended a computer-based test (CBT). However, NTA cited a significant infrastructure deficit as a reason to continue the paper-based test. In two years, NTA could not build the infrastructure for CBT. CBT could be implemented effectively even without large-scale infrastructure through the following approach:
+The government of India formed a [high-powered committee, headed by K Radhakrishnan](./Nalanda_NTA.md), to recommend reforms to the NEET exams following the 2024 paper leak. The committee strongly recommended a computer-based test (CBT). However, NTA cited a significant infrastructure deficit as a reason to continue the paper-based test. In two years, NTA could not build the infrastructure for CBT. CBT could be implemented effectively even without large-scale infrastructure through the following approach:
 - Deploy an encrypted, low-power server at each exam center.
 - Require candidates to use standardized, pre-verified laptops provided by or certified by NTA to ensure security. 
 - The server would serve one questions at a time to the candidate's laptop and record the candidate's response before serving the next question.
 - Additionally, server would record the entire logs of candidates' behavior during the exam.
   
-I think TCS and several small IT companies have capabilities to create CBT within a year.  I am a bit surprised why the Radhakrishnan committee did not propose an implementable idea.
+I think TCS and several [small IT companies](https://blog.imocha.io/online-assessment-companies-in-india) have capabilities to create CBT within a year.  I am a bit surprised why the Radhakrishnan committee did not propose an implementable idea.
 
 Frequent paper leaks raise serious doubts about whether each step in the process is formally validated a priori. It is difficult to pontificate from the outside unless we know the details. However, unless NTA conducts regular audits and holds accountability for every aspect of exam conduct, its credibility will take a tailspin under public scrutiny. Beyond punitive measures, NTA should establish systematic oversight by independent experts, vetting of question setters, and technological safeguards to ensure exam integrity. 
