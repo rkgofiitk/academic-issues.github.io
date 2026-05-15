@@ -26,7 +26,11 @@ The government of India formed a [high-powered committee, headed by K Radhakrish
   
 I think TCS and several [small IT companies](https://blog.imocha.io/online-assessment-companies-in-india) have capabilities to create CBT within a year.  I am a bit surprised why the Radhakrishnan committee did not propose an implementable idea.
 
-Frequent paper leaks raise serious doubts about whether each step in the process is formally validated a priori. It is difficult to pontificate from the outside unless we know the details. However, unless NTA conducts regular audits and holds accountability for every aspect of exam conduct, its credibility will take a tailspin under public scrutiny. Beyond punitive measures, NTA should establish systematic oversight by independent experts, vetting of question setters, and technological safeguards to ensure exam integrity. 
+Frequent paper leaks raise serious doubts about whether NTA has formally validated each step in the process. Most large-scale computer-assisted systems in India have faced similar challenges in the past. For example, the online ITR filing system in 2021 took nearly six months to stabilize after severe user feedback; GATE 2014, conducted in full CBT mode for the first time, encountered a few major issues; and Aadhaar required 7–8 years to reach stability. However, NEET UG handles about 2.5 million candidates — a scale that India's IT ecosystem can easily support. NTA could adopt a cautious two-tier CBT approach: 
+- Use institutional labs where infrastructure exists, and
+- Deploy laptop-based CBT elsewhere.
+
+Unless NTA conducts regular audits and holds itself accountable for every aspect of exam conduct, its credibility will take a hit under public scrutiny. Beyond punitive measures, NTA should establish systematic oversight by independent experts, vetting of question setters, and technological safeguards to ensure exam integrity.  
 
 [Link to earlier post on NEET 2024](Neet_test2024.md)
 
