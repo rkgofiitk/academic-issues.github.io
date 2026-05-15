@@ -1,4 +1,4 @@
-## NEET Paper Leak 2026
+## NEET Paper Leaks: Crisis of Exam Integrity and Beyond
 
 [Blog Index](../index.md)
 
