@@ -4,7 +4,7 @@
 
 [Link to earlier post on NEET 2024](Neet_test2024.md)
 
-[NTA decided to cancel the NEET 2026 exams following the allegations of a paper leak](https://timesofindia.indiatimes.com/education/news/nta-cancels-neet-ug-2026-examination-fresh-test-dates-to-be-announced-separately/articleshow/131031125.cms). The leak's origin has been traced to Nashik. The city is known for its wineries, such as Sula Vineyards, and is also a major Hindu pilgrimage site. Its Pandavleni Caves are 2000 years old and linked to the Pandavs of the Mahabharata. Unfortunately, the city is linked to two major scams, including the NEET 2026 paper leaks.'
+[NTA decided to cancel the NEET 2026 exams following the allegations of a paper leak](https://timesofindia.indiatimes.com/education/news/nta-cancels-neet-ug-2026-examination-fresh-test-dates-to-be-announced-separately/articleshow/131031125.cms). The leak's origin has been traced to Nashik. The city is known for its wineries, such as Sula Vineyards, and is also a major Hindu pilgrimage site. Its Pandavleni Caves are 2000 years old and linked to the Pandavs of the Mahabharata. Unfortunately, the city is linked to two major scams, including the NEET 2026 paper leaks.
 
 The  NEET 2026 exam was conducted on 3rd May 2026, and the leak was discovered on 12th May. 120 out of 410 questions were exact matches with the paper of 3rd May. Investigators with the Rajasthan Police's Special Operations Group (SOG) found the leak by reviewing a question bank circulated among candidates a few days before the examination. SOG subsequently raided multiple locations, including Sikar and Dehradun, to determine the extent of the leak. Many videos and copies of test papers linked to a coaching academy in Latur also surfaced. 
 
