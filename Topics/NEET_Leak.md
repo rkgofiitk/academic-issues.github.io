@@ -23,7 +23,7 @@ The government of India formed a [high-powered committee, headed by K Radhakrish
 - The server would serve one question at a time to the candidate's laptop and record the candidate's response before serving the next question.
 - Additionally, the server would record the entire logs of candidates' behavior during the exam.
   
-I think TCS and several [small IT companies](https://blog.imocha.io/online-assessment-companies-in-india) have the capabilities to create CBT within a year. I am surprised that the Radhakrishnan committee did not propose an implementable idea.
+TCS and several [small IT companies](https://blog.imocha.io/online-assessment-companies-in-india) have the capabilities to create CBT within a year. I am surprised that the Radhakrishnan committee did not propose an implementable idea.
 
 Frequent paper leaks raise serious doubts about whether NTA has formally validated each step in the process. Most large-scale computer-assisted systems in India have faced similar challenges in the past. For example, the online ITR filing system in 2021 took nearly six months to stabilize after severe user feedback; GATE 2014, conducted in full CBT mode for the first time, encountered a few major issues; and Aadhaar required 7–8 years to reach stability. However, NEET UG handles about 2.5 million candidates — a scale that India's IT ecosystem can easily support. NTA could adopt a cautious two-tier CBT approach: 
 - Use institutional labs where infrastructure exists, and
