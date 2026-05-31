@@ -1,0 +1,30 @@
+## CBSE OSM FIasco
+
+[Blog Index](../index.md)
+
+Once again, the Ministry of Education is under the dock. This time, a severe technical glitch occurred in the portals for the reevaluation of CBSE Plus 2 results.
+- Reevaluation fee fluctuated from Re 1 to Rs 69420.
+- Images of evaluated copies were blurry.
+- Retrieval of unmatched copies of examinees
+- Failed payments for the reevaluation fee.
+  
+It's disheartening to see that the education ministry's agencies are unable to maintain their reputations due to mismanagement and maladministration. The OSM system was implemented by a little-known company called Coempt Edu Teck Private Limited. The same company, in its earlier incarnation as Globarena Technologies, implemented e-evaluation systems for the Telangana School Board exam and the Odisha plus 2 exam in 2019. CBSE maintains that it followed all due processes in accordance with Government Financial Rules (GFR). However, the chronology of events leading to the award of the contract is as follows.
+- The initial RFP was floated in early 2025. It failed to attract any bids.
+- In May 2025. CBSE floated the second tendering process. But in the technical evaluation, all BIDSs, including the one from TCS, were rejected.
+- The third tendering process was floated in August 2025 with relaxed norms, and Coempt Edu Teck was declared the winner.
+
+It has now come to light that Coempt Edu Teck is under investigation by Nagpur University for [allegations of blunders in marksheets, fake documentation, and exam glitches for 2025-26](Hyderabad firm linked to CBSE row under probe at Nagpur University). 
+
+The OSM system suffered [several glitches](https://www.businesstoday.in/india/story/cbse-osm-row-hyderabad-firm-coempt-eduteck-under-scanner-amid-fiasco-533614-2026-05-27). After repeated complaints, the education Minister has now roped in IIT Madras and IIT Kanpur to fix the botched-up portal services. Prof Kamakoti, the current Director of IIT Madras, was the chairperson of the IIT JEE Madras Zone in 2011. He knows the stress students go through in a public exam when it is a question of entry into a professional college. CBSE neither has the capacity nor the expertise to design or deploy portals. In fact, the government is trying to rely on the IIT brand to deflect its responsibility. However, it is not rocket science to fix the OSM system. TCS, Infosys, L&T Infotech, or Zoho could fix the problem in a jiffy. In 2014, TCS was selected during the technical evaluation to conduct online GATE, though at least two smaller companies were also in the fray. The deciding factor was TCS's track record. We preferred to use in-house capabilities for JAM exams, which are much smaller, rather than working with smaller companies with no proven track record. One may think it is a chicken-and-egg problem, but when the stakes are high, it is advisable to stay safe rather than adventurous.   
+
+Most government agencies outsource their portal services through the National Informatics Center (NIC) digital empanelment process. If anyone has ever visited a government portal, they will know that the user experience is not that great for an interactive user. I had tried to access its service portal for consumer complaints, cybercrime, and voter registration and modifications, among others. As an end user, I often wonder: Is there a streamlined audit system for the digital enpanelment process? If so, it is neither effective nor serious. 
+
+Most web portals have serious design issues and collect so much user data that one often gives up registering any complaint. So, the question arises: Are these portal services for compliance or for redressal of citizen grievances? The response time is very long. The user would lose track of the original complaint if and when the response does come. During the SIR exercise, I tried to use the voters' portal to link my mobile number to my voter registration, but I did not receive a response within the 15-day deadline. Curiously enough, login requires a phone number linked to an Aadhaar card. However, the voter has to fill Form-8 to link the same number and file it as a correction. It is a loophole that allows unauthorized persons to access a voter's profile. However, the voter portal is one of the best services I have experienced.
+
+Furthermore, the responses often do not match the queries. They are as generic as possible, never resolve the problem at hand, and are well-designed only to add delay loops. My worst experience was with the State Bank of India. No response ever came from either the nodal officer or the resolution officer to my complaint. 
+
+I hope [CBSE's OSM](https://www.cbse.gov.in/cbsenew/documents/FAQ-OSM_18052026.pdf) will not treat students' complaints in the same cavalier fashion as other branches of government treat citizens' complaints. Though the stakes are high, especially for students, we must look at the root cause. The quality of grading is always an issue. I'd like to narrate an anecdote. We had one of the best teachers for social studies (a combination of history, geography, and civics). He taught us with care, referring to authentic texts from world history. Unfortunately, not a single student in our batch scored more than 50 out of 100 in the final board exam. The point is that the random graders came from different schools and had no idea about our answers. Back then, we had no provision for reevaluation. 
+
+OSM is certainly a welcome step in the right direction. However, students will feel that grading is unfair unless there are sound reasons for the reevaluation markings. The next immediate step will be to use AI-supported automated grading of the papers rather than human graders. However, human oversight may still be necessary to address corner cases. It will eliminate unfair grading. However, gaming GFR to determine the BID winner will continue to land the agency in undesirable public ire.   
+
+[Back to Index](../index.md)
