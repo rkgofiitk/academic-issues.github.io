@@ -1,4 +1,4 @@
-## CBSE OSM FIasco
+## CBSE OSM Fiasco
 
 [Blog Index](../index.md)
 
