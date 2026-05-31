@@ -4,9 +4,9 @@
 
 Once again, the Ministry of Education is under the dock. This time, a severe technical glitch occurred in the portals for the reevaluation of CBSE Plus 2 results.
 - Reevaluation fee fluctuated from Re 1 to Rs 69420.
-- Images of evaluated copies were blurry.
-- Retrieval of unmatched copies of examinees
-- Failed payments for the reevaluation fee.
+- Images of evaluated copies are blurry.
+- Retrieves unmatched copies of examinees
+- Generate failed payment errors.
   
 It's disheartening to see that the education ministry's agencies are unable to maintain their reputations due to mismanagement and maladministration. The OSM system was implemented by a little-known company called Coempt Edu Teck Private Limited. The same company, in its earlier incarnation as Globarena Technologies, implemented e-evaluation systems for the Telangana School Board exam and the Odisha plus 2 exam in 2019. CBSE maintains that it followed all due processes in accordance with Government Financial Rules (GFR). However, the chronology of events leading to the award of the contract is as follows.
 - The initial RFP was floated in early 2025. It failed to attract any bids.
