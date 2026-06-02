@@ -29,4 +29,18 @@ Beyond the web portal, a deeper issue is the use of random graders with little s
 
 OSM is a step in the right direction. Still, the governance failure in ensuring transparent tendering, rigorous audits, and independent oversight has led the CBSE and the Ministry of Education to face severe public scrutiny, and students continue to bear the brunt of systemic mismanagement.
 
+<strong>Update on OSM Hacking</strong>
+Following my [earlier post on the OSM Fiasco](https://rkgofiitk.github.io/academic-issues.github.io/Topics/OSM_Fiasco.html) several new facts have emerged that are not only queer but alarming.  One student investigator alleged that the [CBSE modified the OSM technical evaluation framework](https://www.ndtv.com/education/rules-were-changed-student-claims-cbse-osm-tender-terms-were-altered-before-contract-award-11568698) to enable Coempt Edu Teck to qualify for implementation.  The highlights of his claims are:
+- CBSE removed the clause for blacklisting companies with a poor performance record on similar project implementations from the third bid invitation.
+- It modified the clause on the quality of implementation based on the number of similar projects the bidder has handled.
+  
+He further states that the CBSE also fixed the average minimum turnover at Rs. 50 crores.  Interestingly, Coempt Edu Teck could marginally cross the threshold by Rs. 86 lacs.  Both TCS and Coempt Edu Teck qualified in the third round of the bidding process, but Coempt Edu Teck's bid was only Rs. 24.75, and TCS's quote was Rs. 65.00 per answer script.  So, that is how Coempt Edu Tech became the bid winner.  
+
+Though [CBSE maintains that the main OSM portal is secure](https://timesofindia.indiatimes.com/india/no-security-breaches-cbse-rubbishes-osm-portal-hacking-claim-amid-answer-sheet-mix-up-row-what-we-know-so-far/articleshow/131332457.cms), there is also a report of a hacking of the OSM portal.  The print and India Today published news articles about students hacking the OSM portal.  CBSE says that the hacked site is a testing site.  A plus 2 student who identified himself as an ethical hacker gained access to the examiner's passwords, changed them, and entered marks on OSM without entering the OTP.  Though leaving such simple vulnerabilities exposed on the main site could be an exaggeration, I can understand why the media latched onto the stories.  However, a robust approach for testing the implementation would be:
+- Deliberately expose vulnerabilities in test sites with provisions for activity logging, 
+- Analyze the activity logs and fix the vulnerabilities.
+  
+I don't know the size of the development team or the resources that Coempt Edu Teck assigned to the project.  Whether they were sufficient to test-run the OSM portal service, given that there was a gap of 66 days between the work order and the actual deployment of the OSM site.  
+
+
 [Back to Index](../index.md)
