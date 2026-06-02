@@ -30,6 +30,7 @@ Beyond the web portal, a deeper issue is the use of random graders with little s
 OSM is a step in the right direction. Still, the governance failure in ensuring transparent tendering, rigorous audits, and independent oversight has led the CBSE and the Ministry of Education to face severe public scrutiny, and students continue to bear the brunt of systemic mismanagement.
 
 <strong>Update on OSM Hacking</strong>
+
 Following my [earlier post on the OSM Fiasco](https://rkgofiitk.github.io/academic-issues.github.io/Topics/OSM_Fiasco.html) several new facts have emerged that are not only queer but alarming.  One student investigator alleged that the [CBSE modified the OSM technical evaluation framework](https://www.ndtv.com/education/rules-were-changed-student-claims-cbse-osm-tender-terms-were-altered-before-contract-award-11568698) to enable Coempt Edu Teck to qualify for implementation.  The highlights of his claims are:
 - CBSE removed the clause for blacklisting companies with a poor performance record on similar project implementations from the third bid invitation.
 - It modified the clause on the quality of implementation based on the number of similar projects the bidder has handled.
