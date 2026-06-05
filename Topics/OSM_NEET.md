@@ -1,4 +1,4 @@
-## CBSE OSM. NEET, and the Need for Reforms
+## CBSE OSM, NEET, and the Need for Reforms
 
 [Blog Index](../index.md)
 
