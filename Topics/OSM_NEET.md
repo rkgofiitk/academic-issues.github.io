@@ -1,4 +1,4 @@
-## CBSE OSM. NEET, and Reforms of the Bureaucracy
+## CBSE OSM. NEET, and the Need for Reforms
 
 [Blog Index](../index.md)
 
