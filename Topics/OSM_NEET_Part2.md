@@ -5,7 +5,7 @@
 - Define objectives and scope, refine, and specify
 - Design, verify, and implement
 - Configure and customize 
-- Test, train, and deploy
+- Test run and validate, train, and deploy
 - Monitor, maintain, and update
   
 These cycles of development may overlap to ensure the development team can address all user feedback,  detect and mitigate vulnerabilities before public use. 
