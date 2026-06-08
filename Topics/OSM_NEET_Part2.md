@@ -1,6 +1,6 @@
 ## OSM and NEET 2026 Part II
 
-[IIT Madras (blue team) and IIT Kanpur (red team) reported that they had fixed cyber vulnerabilities](https://www.youtube.com/watch?v=ITvfDG8mtZQ) in the CBSE OSM platform. These teams will remain on standby until reevaluation is complete. The point is not fixing the vulnerabilities, but the ad hoc design bunglings and the fixes after the platform was released to the public. Keeping the hacking and fixing teams on standby reveals fundamental flaws in adopting an ad hoc design approach.  The development and deployment of any software platform  consists of at least the following basic cycles. 
+[IIT Madras (blue team) and IIT Kanpur (red team) reported that they had fixed cyber vulnerabilities](https://www.youtube.com/watch?v=ITvfDG8mtZQ) in the CBSE OSM platform. These teams will remain on standby until reevaluation is complete. The point is not just fixing the vulnerabilities, but the ad hoc design bunglings and the fixes after the platform was released to the public. Keeping the hacking and fixing teams on standby reveals fundamental flaws in adopting an ad hoc design approach.  The development and deployment of any software platform  consists of at least the following basic cycles. 
 
 - Define objectives and scope, refine, and specify
 - Design, verify, and implement
