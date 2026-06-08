@@ -13,11 +13,11 @@ These cycles of development may overlap to ensure the development team can addre
 Verification and validation are complementary: one aligns with the objectives and regulatory compliance, while the other ensures it serves its intended purpose. An old-school approach to document-heavy software verification is no longer used due to its intensive recursive nature. In fact, this is why European development teams lost market share to Asian IT giants like India and China. However, the traditional verification has been replaced with a risk-based verification approach known as Computer Software Assurance (CSA). It focuses on:
 - Prioritizing risks and outcomes
 - Iterates faster 
-- Prioritizes by tasks
+- Prioritizes risk mitigation by tasks
 - Agile and cloud-ready
 - Adheres to regulatory compliance
   
-The transition from CSV (Computer System Verification) to CSA encourages smarter verification through risk assessments and shorter verification time that enable faster cloud adaptation (including addressing cyber attacks). It balances compliance with agility. The point of dwelling on the verification issue is to examine the complexity of setting up a complex red-team/blue-team game on the OSM platform. 
+The transition from CSV (Computer System Verification) to CSA encourages smarter verification through risk assessments and shorter verification time that enable faster cloud adaptation (including addressing cyber attacks). It balances compliance with agility. The point of dwelling on the verification issue is to examine the complexity of setting up a complex red-team/blue-team game on the OSM platform after releasing it to the public. 
 
 In a different stroke, there is also an interesting story of [locking down the question setters](https://www.indiatoday.in/education-today/news/story/neet-ug-re-exam-question-paper-setters-to-remain-in-lockdown-until-june-21-2923383-2026-06-08) of the NEET 2026 retest paper. Why is this necessary? Have the academicians and educationists of the country lost their ethics and become equally prone to threats, coercion, and bribes as the politicians and bureaucrats? Can we not address the extensive rot in Indian society?
 
