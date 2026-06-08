@@ -1,4 +1,4 @@
-## OSM and NEET 2026 Part II
+## OSM and NEET Fiasco: Part II
 
 [Blog Index](../index.md)
 
