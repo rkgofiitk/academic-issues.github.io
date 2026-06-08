@@ -10,6 +10,7 @@ Information flow is a major contributor to mass-based upheavals in the governanc
 is crucial for any system of governance. From time to time, the government comes up with an intervention to correct the educators and 
 support those in power. Therefore, it is essential to analyze the implications of specific policies from a neutral viewpoint.
 
+- [OSM NEET Part II](Topics/OSM_NEET_Part2.md)
 - [OSM, NEET, and the Need for Reforms](Topics/OSM_NEET.md)
 - [CBSE OSM Fiasco](Topics/OSM_Fiasco.md)
 - [NEET 2026 Paper Leak](Topics/NEET_Leak.md)
