@@ -10,7 +10,7 @@
   
 These cycles of development may overlap to ensure the development team can address all user feedback,  detect and mitigate vulnerabilities before public use. 
 
-Verification and validation are complementary: one aligns with the objectives and regulatory standards, while the other ensures it serves the intended purpose of use. An old-school approach to document-heavy software verification is no longer used due to its intensive recursive nature. In fact, this is why European development teams lost market share to Asian IT giants like India and China. However, the traditional verification has been replaced with a risk-based verification approach known as Computer Software Assurance (CSA). It focuses on:
+Verification and validation are complementary: one aligns with the objectives and regulatory compliance, while the other ensures it serves its intended purpose. An old-school approach to document-heavy software verification is no longer used due to its intensive recursive nature. In fact, this is why European development teams lost market share to Asian IT giants like India and China. However, the traditional verification has been replaced with a risk-based verification approach known as Computer Software Assurance (CSA). It focuses on:
 - Prioritizing risks and outcomes
 - Iterates faster 
 - Prioritizes by tasks
