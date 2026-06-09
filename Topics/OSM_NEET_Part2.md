@@ -12,7 +12,7 @@
   
 These cycles of development may overlap to ensure the development team can address all user feedback,  detect and mitigate vulnerabilities before public use. 
 
-Verification and validation are complementary: one aligns with the objectives and regulatory compliance, while the other ensures it serves its intended purpose. An old-school approach to document-heavy software verification is no longer used due to its intensive, recursive nature. In fact, this is why European development teams lost market share to Asian IT giants like India and China. The traditional verification has been replaced with a risk-based verification approach known as Computer Software Assurance (CSA). It focuses on:
+Verification and validation are complementary: one aligns with the objectives and regulatory compliance, while the other ensures it serves its intended purpose. An old-school approach to document-heavy software verification is no longer used due to its intensive, recursive nature. In fact, this is why European development teams lost market share to Asian IT giants like India and China. The traditional verification approach has been replaced by a risk-based approach known as Computer Software Assurance (CSA). It focuses on:
 - Prioritizing risks and outcomes
 - Faster iteration
 - Risk mitigation by tasks
@@ -26,7 +26,7 @@ In a different note, there is also an interesting story of [locking down the que
 We can compare the decay in the education system to the match-fixing and betting scandals involving prominent [Indian and foreign players, journalists, and bookies with underworld connections in 1999-2000](https://www.espncricinfo.com/story/nine-ex-captains-named-in-match-fixing-report-91375). CBI took up the investigation, and the case was lost in the webs of deceit and cold trails. The cartel was so strong that the CBI was unable to unravel the kingpins. A [few unlucky players were banned](https://www.theguardian.com/sport/2000/nov/04/cricket1), but some turned to politics to get around the bans. The point is that administration is entirely in the hands of unethical people, devoid of any morality. The lack of moral turpitude permeates a large segment of the population, affecting society, including academicians, educationists, and academic administrators. 
 
  
-The exposed bungling of CBSE’s OSM platform and NEET 20026 exam paper leak should not be seen as isolated incidents. They represent severe malaise in governance and accountability, and, above all, the absence of ethics. Our education system faces major challenges, including the technical fragility of orchestrated cyber attacks. We need to evolve a risk-based oversight framework, similar to CSA, rather than ad hoc incident-based fixes. That should include:
+The exposed bungling of CBSE’s OSM platform and NEET 20026 exam paper leak should not be seen as isolated incidents. They represent severe malaise in governance and accountability, and, above all, the absence of ethics. Our education system faces major challenges, including technical fragility and orchestrated cyber attacks. We need to evolve a risk-based oversight framework, similar to CSA, rather than ad hoc incident-based fixes. That should include:
 - Independent exam and audit processes
 - Strict vetting and rotation of question setters. 
 - Ethics codes and their enforceability. 
