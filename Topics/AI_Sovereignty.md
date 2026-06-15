@@ -1,6 +1,8 @@
 ## Anthropic Shutdown & AI Sovereignty 
 
-On June 12, 2026, the United States government issued directives to Anthropic, mandating the restriction of access to its Fable 5 and Mythos 5 products for all foreign subscribers. This action prompted significant social media commentary about Infosys Chairman Nandan Nilekani. In his recent address to shareholders, Nilekani advocated focusing on practical use cases for Indian IT companies rather than developing additional large language models (LLMs). The discourse on social media suggested that government strategies may be more effective than the recommendations of private-sector IT leaders.
+[Blog Index](../index.md)
+
+On June 12, 2026, the United States government issued directives to Anthropic, mandating the restriction of access to its Fable 5 and Mythos 5 products for all foreign subscribers. This action prompted significant social media commentary about Infosys Chairman Nandan Nilekani's  2-year-old remarks at the "Build with AI Summit" in Bengaluru. [Nilekani advocated focusing on practical use cases for Indian IT companies rather than developing additional large language models (LLMs)](https://www.businesstoday.in/latest/trends/story/why-nandan-nilekani-is-facing-social-media-heat-after-us-anthropic-curbs-536723-2026-06-13). The discourse on social media suggested that government strategies may be more effective than the recommendations of private-sector IT leaders.
 
 The US government, citing national security concerns, [directed Anthropic to prevent any foreign nationals or countries from accessing Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access). Anthropic disagrees with the ban; it stated that it had no choice but to abruptly shut down Fable 5 and Mythos 5 for all customers. The directive issued on June 12 did not provide specific details regarding the security concerns.
 
@@ -15,3 +17,6 @@ Anthropic has previously worked with the US Military Intelligence and other gove
 In the backdrop of the Fable and Mythos ban on foreign subscribers, the need for sovereign IT infrastructure has become increasingly important. [India is the second-largest user base for Claude](https://www.hindustantimes.com/editorials/the-switch-india-doesn-t-hold-101781456580488.html). India is not home to a sovereign LLM system like OpenAI or Anthropic. So, it does not hold an AI switch. Its entire AI investment budget over five years is 10,372 crore, spread across chipsets, datasets, skilling, and subsidies, which is roughly equivalent to the funding needed to build an LLM.   In an earlier post on this blog, I had alluded to the need for an IT Sovereign framework for a country as large as India, given the evolving defense architecture.
 
  Anthropic’s shutdown is not just a mere clash between users and the company—it exposes a deeper geopolitical imbalance. As Sarvam CEO Pratyush Kumar warns, access to AI without ownership leaves nations vulnerable. For India, the lesson is unmistakably clear: AI sovereignty is not about building another chatbot, but about securing control over defense, data, and digital infrastructure.
+
+
+[Back to Index](../index.md)
