@@ -8,8 +8,8 @@ One of the main worries is the potential for coordinated cyberattacks utilizing 
 
 Anthropic has previously worked with the US Military Intelligence and other government agencies. The dispute escalated in January 2026, when the company was banned from government contracts. The latest directive, citing a suspected Fable 5 jailbreak, forced Anthropic to completely shut down access for subscribers. It acknowledges minor vulnerabilities but says guardrails are being put in place. Ahead of Fable’s release, it collaborated with the US government and the UK AI Security Institute (AISI) to address the government's security concerns. Anthropic argues the ban is unjustified, citing:
 - No deployed model can ever be agnostic to a universal jailbreak.
-- Fables’ defense strategies provide resistance and are continuously upgraded.
-- Security agencies have not disclosed evidence of a non‑universal jailbreak for Fables or Mythos.
+- Fable’s defense strategies provide resistance and are continuously upgraded.
+- Security agencies have not disclosed evidence of a non‑universal jailbreak for Fable or Mythos.
 - The only jailbreak instance was provided by Anthropic itself, which it suspects served as the basis for the directive.
 
 In the backdrop of the Fable and Mythos ban on foreign subscribers, the need for sovereign IT infrastructure has become increasingly important. India is the [second-largest user base for Claude. India does not have a home to OpenAI or Anthropic](https://www.hindustantimes.com/editorials/the-switch-india-doesn-t-hold-101781456580488.html). So, it does not hold an AI switch. Its entire AI investment budget over five years is 10,372 crore, spread across chipsets, datasets, skilling, and subsidies, which is roughly equivalent to the funding needed to build an LLM.   In an earlier post on this blog, I had alluded to the need for an IT Sovereign framework for a country as large as India, given the evolving defense architecture.
