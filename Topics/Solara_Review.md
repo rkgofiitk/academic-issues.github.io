@@ -55,9 +55,9 @@ By contrast, Solara is a user-experience orchestrator that manages intent and co
 Microsoft does not position Solara as a high-performance computing (HPC) platform. Its design prioritizes lightweight orchestration rather than raw computational throughput. While static dependency information could theoretically enable HPC-style end devices, Solara faces significant constraints in handling transactional parallelism.
 
 Transactional semantics enforce rigid dependency boundaries, but several impediments arise:
-Hardware limitations: Solara edge devices are small-form-factor units with low memory, limited cache, and low-bandwidth flash storage, making them unsuitable for sustained parallel workloads.
-Concurrency overhead: Parallel transactions require multiple threads to poll, track, and apply mutating operations concurrently. It demands rapid lock acquisition and release over hardware channels, which can quickly lead to cache thrashing and hardware saturation.
-Network dependency: Because Solara devices act as coordinators, each transaction relies on network round-trip times. Jitter, packet loss, or signal degradation can cascade into transaction aborts and even global database rollbacks.
+- Hardware limitations: Solara edge devices are small-form-factor units with low memory, limited cache, and low-bandwidth flash storage, making them unsuitable for sustained parallel workloads.
+- Concurrency overhead: Parallel transactions require multiple threads to poll, track, and apply mutating operations concurrently. It demands rapid lock acquisition and release over hardware channels, which can quickly lead to cache thrashing and hardware saturation.
+- Network dependency: Because Solara devices act as coordinators, each transaction relies on network round-trip times. Jitter, packet loss, or signal degradation can cascade into transaction aborts and even global database rollbacks.
 These constraints highlight Solara's role more as an agentic orchestrator than a transactional compute engine. Its focus is intent routing and secure chip-to-cloud orchestration, not in parallel transaction processing.
 
 Microsoft's Solara represents a calculated shift toward agentic computing, in which lightweight devices serve as secure facilitators between users and the cloud. Combining closed-loop control theory with generative AI leads to a deterministic barrier that ensures safety, compliance, and reliability. Solara's hardware is intentionally minimal, emphasizing security, connectivity, and ergonomics rather than raw computational power.
