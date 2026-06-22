@@ -16,8 +16,9 @@ By replacing handheld devices, Solara delivers a hands-free, lightweight wearabl
 Since heavy computing is relegated to the cloud, both form factor and resource requirements on end devices are minimized. The end device, with a small touchscreen and an agentic OS with communication interfaces, is sufficient.
 The table below provides a side-by-side comparison of the App-based computing paradigm and agentic computing with Solara.
 
+
+|Dimension |App-Based computing |Agentic Computing|		
 |-----------|-----------------------------------|------------------|  
-|Dimension |App-Based computing |Agentic Computing|									
 |Local Compute Power|	Powerful CPUs/GPUs, large memory, robust storage; can support offline workloads.	| Minimal local compute; offloads tasks to cloud. |	
 |Connectivity Dependence|	Many apps run offline with local data	|Requires continuous cloud connectivity; vulnerable to n/w jitter, packet loss, or outages.|		
 |UI Richness|	Rich, feature-heavy UIs with multitasking, drag-and-drop, advanced visualization.	|Minimal UI; just-in-time agentic interfaces. |		
