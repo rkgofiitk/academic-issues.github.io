@@ -17,13 +17,13 @@ Since heavy computing is relegated to the cloud, both form factor and resource r
 The table below provides a side-by-side comparison of the App-based computing paradigm and agentic computing with Solara.
 
 
-|Dimension |App-Based computing |Agentic Computing|		
+| Dimension | App-Based computing | Agentic Computing |		
 |-----------|-----------------------------------|------------------|  
-|Local Compute Power|	Powerful CPUs/GPUs, large memory, robust storage; can support offline workloads.	| Minimal local compute; offloads tasks to cloud. |	
-|Connectivity Dependence|	Many apps run offline with local data	|Requires continuous cloud connectivity; vulnerable to n/w jitter, packet loss, or outages.|		
+|Local Compute Power|Powerful CPUs/GPUs, large memory, robust storage; can support offline workloads.| Minimal local compute; offloads tasks to cloud. |	
+|Connectivity Dependence|Many apps run offline with local data	|Requires continuous cloud connectivity; vulnerable to n/w jitter, packet loss, or outages.|		
 |UI Richness|	Rich, feature-heavy UIs with multitasking, drag-and-drop, advanced visualization.	|Minimal UI; just-in-time agentic interfaces. |		
-|Ecosystem Maturity|	Decades of mature ecosystems; millions of apps, developer tools, and user familiarity.	|Emerging ecosystem; fewer established workflows, limited developer frameworks, slower adoption.	|
-|Concurrency & Parallelism|	OS-level concurrency, caching, and parallel threads handled locally.|	Small-form-factor hardware struggles with parallel transactions; network dependency increases rollback risks.|
+|Ecosystem Maturity|Decades of mature ecosystems; millions of apps, developer tools, and user familiarity.	|Emerging ecosystem; fewer established workflows, limited developer frameworks, slower adoption.	|
+|Concurrency & Parallelism|OS-level concurrency, caching, and parallel threads handled locally.|Small-form-factor hardware struggles with parallel transactions; network dependency increases rollback risks.|
 |User Control & Customization|Users install, configure, and customize apps freely.	|Agents generate dynamic UIs; less user control over interface design and workflow customization.|	
 |Security Model|Relies on app permissions and OS-level security; vulnerable to exploits and Trojan payloads.|	Strict data gating; zero local data; enterprise lock-in via Intune/Azure AD. Strong but centralized.|	
 Vendor Lock-In|Cross-platform flexibility (Windows, macOS, Linux, Android, iOS).|Deeply tied to Microsoft ecosystem; benefits integration but suffers from vendor dependence.|		
