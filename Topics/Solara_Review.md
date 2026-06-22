@@ -17,29 +17,22 @@ Since heavy computing is relegated to the cloud, both form factor and resource r
 The table below provides a side-by-side comparison of the App-based computing paradigm and agentic computing with Solara.
 
 |-----------|-----------------------------------|------------------|  
-|Dimension |	App-Based computing |Agentic Computing|		
-							
+|Dimension |App-Based computing |Agentic Computing|									
 |Local Compute Power|	Powerful CPUs/GPUs, large memory, robust storage; can support offline workloads.	| Minimal local compute; offloads tasks to cloud. |	
-
 |Connectivity Dependence|	Many apps run offline with local data	|Requires continuous cloud connectivity; vulnerable to n/w jitter, packet loss, or outages.|		
-	
 |UI Richness|	Rich, feature-heavy UIs with multitasking, drag-and-drop, advanced visualization.	|Minimal UI; just-in-time agentic interfaces. |		
-	
 |Ecosystem Maturity|	Decades of mature ecosystems; millions of apps, developer tools, and user familiarity.	|Emerging ecosystem; fewer established workflows, limited developer frameworks, slower adoption.	|
-	
 |Concurrency & Parallelism|	OS-level concurrency, caching, and parallel threads handled locally.|	Small-form-factor hardware struggles with parallel transactions; network dependency increases rollback risks.|
-
 |User Control & Customization|Users install, configure, and customize apps freely.	|Agents generate dynamic UIs; less user control over interface design and workflow customization.|	
-
-|Security Model|Relies on app permissions and OS-level security; vulnerable to exploits and Trojan payloads.|	Strict data gating; zero local data; enterprise lock-in via Intune/Azure AD. Strong but centralized.|
-		
+|Security Model|Relies on app permissions and OS-level security; vulnerable to exploits and Trojan payloads.|	Strict data gating; zero local data; enterprise lock-in via Intune/Azure AD. Strong but centralized.|	
 Vendor Lock-In|Cross-platform flexibility (Windows, macOS, Linux, Android, iOS).|Deeply tied to Microsoft ecosystem; benefits integration but suffers from vendor dependence.|		
 													
 The agentic OS is designed around a closed-loop semantic control system, diverging from the open-loop nature of conventional Generative AI. Classical control theory defines three stages: sensing (measurement), controlling (adjustment), and actuating (execution). Solara extends this model into four distinct states:
 Sensor (measurement state): The Solara badge or desk companion gathers real-world inputs, including speech, location, and ambient context.
-GenAI Core (probabilistic state): A large language model introduces generative capabilities, but as an open-loop system, it can produce hallucinations or unverifiable outputs.
-Control Barrier (policy & constraint state): Enterprise tools like Microsoft Intune, Azure Active Directory, and MDEP enforce a deterministic "Control Barrier Function." Every AI-generated proposal must pass through this constraint matrix before execution.
-Actuator (safe execution state): Only actions validated against safety standards and service-level agreements are executed in the cloud.
+- GenAI Core (probabilistic state): A large language model introduces generative capabilities, but as an open-loop system, it can produce hallucinations or unverifiable outputs.
+- Control Barrier (policy & constraint state): Enterprise tools like Microsoft Intune, Azure Active Directory, and MDEP enforce a deterministic "Control Barrier Function." Every AI-generated proposal must pass through this constraint matrix before execution.
+- Actuator (safe execution state): Only actions validated against safety standards and service-level agreements are executed in the cloud.
+  
 This architecture integrates generative AI into a traditional closed-loop system while leveraging cloud resources for compute-intensive tasks. By introducing the Control Barrier, Solara constrains probabilistic AI within a deterministic, policy-driven framework—ensuring reliability and safety while maintaining flexibility.
 
 The advantage of merging control theory with generative AI is that it enables defining an infrastructure architecture that employs a deterministic barrier filter, thereby constraining probabilistic AI to operate within a restricted, validated, and safe state space. 
