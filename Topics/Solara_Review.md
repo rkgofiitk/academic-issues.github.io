@@ -38,7 +38,7 @@ This architecture integrates generative AI into a traditional closed-loop system
 
 The advantage of merging control theory with generative AI is that it enables defining an infrastructure architecture that employs a deterministic barrier filter, thereby constraining probabilistic AI to operate within a restricted, validated, and safe state space. 
 
-In this space, I am focusing on only two aspects of Solara hardware: secure cloud access and enhanced performance. 
+In this space, we focus on only two aspects of Solara hardware: (i) secure cloud access and (ii) enhanced performance. 
 
 Solara's chip-to-cloud architecture shifts the attack surface to the Internet. Because the native agentic OS exclusively manages communication setup and packet creation, the channel itself becomes highly secure. However, packet contents remain vulnerable: malicious payloads such as Trojan horses can bypass firewalls by exploiting agent reasoning and logic.
 
