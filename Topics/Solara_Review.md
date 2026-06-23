@@ -1,5 +1,7 @@
 ## From Apps to Agents: The Solara Paradigm
 
+[Blog Index](../index.md)
+
 Microsoft is developing an agentic infrastructure model called Solara. It unleashes AI-aided agentic computing with a minimal UI, freeing users from the burden of app-heavy devices, App Store taxes, and mobile OS security pitfalls — while delivering secure, hands-free, chip-to-cloud orchestration.
 
 The end device is envisioned as a compact, Kinect-inspired unit—Kinect being the motion-sensing input device originally designed for Xbox and Windows PCs. Solara hardware emphasizes minimalism and ergonomics, offering:
@@ -62,4 +64,6 @@ These constraints highlight Solara's role more as an agentic orchestrator than a
 
 Microsoft's Solara represents a calculated shift toward agentic computing, in which lightweight devices serve as secure facilitators between users and the cloud. Combining closed-loop control theory with generative AI leads to a deterministic barrier that ensures safety, compliance, and reliability. Solara's hardware is intentionally minimal, emphasizing security, connectivity, and ergonomics rather than raw computational power.
 
-Solara's strength lies in intent orchestration—routing user goals and contextual data to the cloud while minimizing local resource demands. In this role, it complements infrastructure orchestrators such as Kubernetes, focusing on user experience rather than on workload scaling. While Solara is not designed for HPC or parallel transaction processing, its architecture excels at enabling secure cloud access, reducing cognitive load, and providing enterprise-grade data protection.
+Solara's strength lies in intent orchestration—routing user goals and contextual data to the cloud while minimizing local resource demands. In this role, it complements infrastructure orchestrators such as Kubernetes, focusing on user experience rather than on workload scaling. More specifically, Microsoft is not pitching Solara for HPC or parallel transaction processing; its architecture excels at enabling secure cloud access, reducing cognitive load, and providing enterprise-grade data protection.
+
+[Back to Index](../index.md)
