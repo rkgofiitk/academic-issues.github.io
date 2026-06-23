@@ -40,7 +40,7 @@ The advantage of merging control theory with generative AI is that it enables de
 
 In this space, we focus on only two aspects of Solara hardware: (i) secure cloud access and (ii) enhanced performance. 
 
-Solara's chip-to-cloud architecture shifts the attack surface to the Internet. Because the native agentic OS exclusively manages communication setup and packet creation, the channel itself becomes highly secure. However, packet contents remain vulnerable: malicious payloads such as Trojan horses can bypass firewalls by exploiting agent reasoning and logic.
+Solara's chip-to-cloud architecture shifts the attack surface to the Internet. Because the native agentic OS exclusively manages communication setup and packet creation, the communication channel becomes one of the main attack entry points. Packet contents may contain malicious payloads, such as Trojan horses that can bypass firewalls by exploiting agent reasoning and logic.
 
 To mitigate this, Solara emphasizes strict data gating rather than traditional network protection. Security and secrets are enforced through Microsoft Intune, not through AI inference. If a badge or wearable is lost, enterprises can remotely wipe credentials, ensuring zero data loss since no sensitive information resides locally on the device.
 
