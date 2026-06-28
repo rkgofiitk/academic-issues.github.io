@@ -10,6 +10,7 @@ Information flow is a major contributor to mass-based upheavals in the governanc
 is crucial for any system of governance. From time to time, the government comes up with an intervention to correct the educators and 
 support those in power. Therefore, it is essential to analyze the implications of specific policies from a neutral viewpoint.
 
+- [Beyond JEE and GATE, IITs Explore New Pathways](Topics/AI_Adaptive_Tests.md)
 - [From Apps to Agents: The Solara Paradigm](Topics/Solara_Review.md)
 - [Anthropic Shutdown and AI Sovereignty](Topics/AI_Sovereignty.md)
 - [OSM and NEET Fiasco: Part II](Topics/OSM_NEET_Part2.md)
