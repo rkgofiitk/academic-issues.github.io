@@ -12,6 +12,7 @@ IIT Delhi is working on [ALIGN](https://vidyamandir.com/studyhub/iit-delhi-align
 - Multi-disciplinary innovation under NEP
 - Credit transfer framework for students enrolling in courses across institutions.
 - Admission to PG programs.
+  
 ALIGN has already been implemented between IIT Delhi and both NIT Tripura and NIT Sikkim. The ALIGN program is a conventional outreach initiative that has been attempted many times before, but this version is on a larger scale. The success of such initiatives relies heavily on the commitment of the participating institutions.
 
 JEE Advanced is often compared with China's Gaokao. Gaokao is China's national college entrance exam, taken by over 13 million students. It includes the nine top-tier colleges, [collectively known as the C9](https://www.scribd.com/document/957285177/C9-League-Wikipedia), which include Peking University, Tsinghua University, and Fudan University. The acceptance rate ranges from 0.03% to 0.1% for the C9 alliance colleges. JEE Advanced uses JEE Main as a filter. So, considering that, the JEE Advanced acceptance rate is 1.23%. However, JEE Advanced and Gaokao differ in that JEE is designed to select candidates for Engineering courses.
