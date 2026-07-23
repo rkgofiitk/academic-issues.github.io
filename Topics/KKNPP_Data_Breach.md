@@ -18,6 +18,7 @@ World Leaks exhibits an uneven distribution of the victim footprint across sever
 The Kudankulam data breach brings the supply chain's weak link into focus. [Reliance Infrastructure's](http://www.rinfra.com/) servers are hosted by [Yotta](https://yotta.com/ir/index.html?utm_source=copilot.com), which is part of the Hiranandani Group. It is a hyperscale data center and also a Meity-approved sovereign cloud platform. The NPCIL states that the data leak pertains to the Balance of Plant and is comparable to a conventional thermal plant. However, even the BoP data can be weaponized for sabotage and precision strikes. It raises a couple of serious threat issues.
 - A precision strike could target a nearby nuclear reactor.
 - Radiation from a reactor strike would not only affect flora and fauna but also create a permanent roadblock to energy security. 
+
 Therefore, it reveals a dangerous gap between the official government views and those of independent experts.  
 
 
