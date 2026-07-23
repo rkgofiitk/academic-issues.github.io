@@ -15,7 +15,7 @@ The operational camouflage of Hunters International was to provide RaaS (Ransomw
 
 World Leaks exhibits an uneven distribution of the victim footprint across several nations. The maximum number of victims, 91, are from the USA, and 7 each in India and Canada. Sector-wise distribution is even more interesting. Most victims are from healthcare, followed by manufacturing and industrial production, technology and electronics, and consumer service. However, attacks on strategic energy infrastructure signal a shift from corporate extortion to state-level destabilization and will probably become a recurrent tier in their victim selection. It is impossible to believe that the Group's notoriety was unknown to service providers and contractors. 
 
-The Kudankulam data breach brings the supply chain's weak link into focus. Reliance Infrastructure's servers are hosted by [Yotta](https://yotta.com/ir/index.html?utm_source=copilot.com), which belongs to the Hiranandani Group. It is a hyperscale data center and also a Meity-approved sovereign cloud platform. 
+The Kudankulam data breach brings the supply chain's weak link into focus. [Reliance Infrastructure's](http://www.rinfra.com/) servers are hosted by [Yotta](https://yotta.com/ir/index.html?utm_source=copilot.com), which is part of the Hiranandani Group. It is a hyperscale data center and also a Meity-approved sovereign cloud platform. 
 
 The NPCIL states that the data leak pertains to the Balance of Plant and is comparable to a conventional thermal plant. However, even the BoP data can be weaponized for sabotage and precision strikes. It raises a couple of serious threat issues.
 - A precision strike could target a nearby nuclear reactor.
