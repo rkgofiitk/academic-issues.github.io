@@ -13,9 +13,10 @@ World Leaks exhibits an uneven distribution of the victim footprint across sever
 The Kudankulam data breach brings the supply chain's weak link into focus. Reliance Infrastructure's servers are hosted by [Yotta](https://yotta.com/ir/index.html?utm_source=copilot.com), which belongs to the Hiranandani Group. It is a hyperscale data center and also a Meity-approved sovereign cloud platform. 
 
 The NPCIL states that the data leak pertains to the Balance of Plant and is comparable to a conventional thermal plant. However, even the BoP data can be weaponized for sabotage and precision strikes. It raises a couple of serious threat issues.
-A precision strike could target a nearby nuclear reactor.
-Radiation from a reactor strike would not only affect flora and fauna but also create a permanent roadblock to energy security. 
-So there is a dangerous gap between the official government views and those of independent experts.  
+- A precision strike could target a nearby nuclear reactor.
+- Radiation from a reactor strike would not only affect flora and fauna but also create a permanent roadblock to energy security.
+  
+Therefore, it reveals a dangerous gap between the official government views and those of independent experts.  
 
 Although Thermal Power Plants also have strategic importance in the country's energy security, Nuclear Power Plants require the highest level of data security due to their vulnerabilities to radiation leaks.  
 Some important initial recommendations for handling data security breaches are outlined below.
@@ -23,10 +24,10 @@ The Atomic Regulatory Commission (ARC) should enforce a Zero-trust architecture 
 All sensitive data must remain on air-insulated, localized servers with strict protocols for access and admission control.
 The NPCIL, in collaboration with the ARC, must create a SoP for public disclosure of data breaches rather than leaving it to speculation. 
 IAEA already has a framework for nuclear cybersecurity. The ARC should study it to develop its protocols. The key features of the IAEA framework are as follows:
-Security has a graded approach, with each well-defined level having its own protocol in place. 
-Multiple levels prevent, detect, and respond to cyber attacks. 
-Cybersecurity is embedded in the overall security and safety management of the installed systems.
-Identification and protection of Sensitive Digital Assets, such as reactors, BoP systems, and monitoring networks.
-Strict access control regimes to mitigate insider threats. 
+- Security has a graded approach, with each well-defined level having its own protocol in place. 
+- Multiple levels prevent, detect, and respond to cyber attacks. -
+- Cybersecurity is embedded in the overall security and safety management of the installed systems.
+- Identification and protection of Sensitive Digital Assets, such as reactors, BoP systems, and monitoring networks.
+- Strict access control regimes to mitigate insider threats. 
 
 The Kudankulam breach should not be dismissed as a ransomware incident. It is a warning against India's nuclear resilience. Dismissing the leak as "non-sensitive," NPCIL is underestimating adversaries who thrive on exploiting the weak links in the supply chain. Cyber intrusions can lead to precision strikes in the event of a conflict. India must harden its supply chain, enforce nuclear-grade cybersecurity across contractors, and adopt transparency. Energy security is national security, and Kudankulam has exposed how fragile that equation truly is.
