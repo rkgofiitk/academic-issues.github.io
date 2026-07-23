@@ -21,8 +21,12 @@ The Kudankulam data breach brings the supply chain's weak link into focus. [Reli
 
 Therefore, it reveals a dangerous gap between the official government views and those of independent experts.  
 
+Although Thermal Power Plants also have strategic importance in the country's energy security, Nuclear Power Plants require the highest level of data security due to their vulnerabilities to radiation leaks. Some important initial recommendations for handling data security breaches are outlined below. The Atomic Regulatory Commission (ARC) should enforce 
+- A Zero-trust architecture for all supply chain contractors.
+- All sensitive data must remain on air-gapped, localized servers with strict protocols for access and admission control.
+- The NPCIL, in collaboration with the ARC, must create a SoP for public disclosure of data breaches rather than leaving it to speculation.
 
-Although Thermal Power Plants also have strategic importance in the country's energy security, Nuclear Power Plants require the highest level of data security due to their vulnerabilities to radiation leaks. Some important initial recommendations for handling data security breaches are outlined below. The Atomic Regulatory Commission (ARC) should enforce a Zero-trust architecture for all supply chain contractors. All sensitive data must remain on air-insulated, localized servers with strict protocols for access and admission control. The NPCIL, in collaboration with the ARC, must create a SoP for public disclosure of data breaches rather than leaving it to speculation. IAEA already has a framework for nuclear cybersecurity. The ARC should study it to develop its protocols. The key features of the IAEA framework are as follows:
+IAEA already has a framework for nuclear cybersecurity. The ARC should study it to develop its protocols. The key features of the IAEA framework are as follows:
 - Security has a graded approach, with each well-defined level having its own protocol in place. 
 - Multiple levels prevent, detect, and respond to cyber attacks. -
 - Cybersecurity is embedded in the overall security and safety management of the installed systems.
