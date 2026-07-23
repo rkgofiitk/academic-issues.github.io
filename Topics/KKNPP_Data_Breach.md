@@ -23,6 +23,7 @@ The NPCIL states that the data leak pertains to the Balance of Plant and is comp
   
 Therefore, it reveals a dangerous gap between the official government views and those of independent experts.  
 
+
 Although Thermal Power Plants also have strategic importance in the country's energy security, Nuclear Power Plants require the highest level of data security due to their vulnerabilities to radiation leaks.  
 Some important initial recommendations for handling data security breaches are outlined below.
 The Atomic Regulatory Commission (ARC) should enforce a Zero-trust architecture for all supply chain contractors.
