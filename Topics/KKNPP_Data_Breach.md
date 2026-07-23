@@ -11,7 +11,7 @@ Digressing a bit from the topic at hand, it is interesting to learn about the ba
 - Demand a ransom and
 - Leak the data if unpaid.
 
-The operational camouflage of Hunters International was to provide RaaS tools so that other cyber attackers with less sophisticated tools would be unable to carry out cyberattacks.  
+The operational camouflage of Hunters International was to provide RaaS (Ransomware as a Service) tools so that other cyber attackers with less sophisticated tools would be unable to carry out cyberattacks.  
 
 World Leaks exhibits an uneven distribution of the victim footprint across several nations. The maximum number of victims, 91, are from the USA, and 7 each in India and Canada. Sector-wise distribution is even more interesting. Most victims are from healthcare, followed by manufacturing and industrial production, technology and electronics, and consumer service. However, attacks on strategic energy infrastructure signal a shift from corporate extortion to state-level destabilization and will probably become a recurrent tier in their victim selection. The Group's notoriety was known to service providers and contractors. 
 
