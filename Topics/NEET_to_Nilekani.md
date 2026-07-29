@@ -15,7 +15,7 @@ Since independence, successive central governments have established several educ
   
 So, our education policy planners are aware of every knowledge and learning issue that affects nearly 40 million school-leaving students in India. The six commissions and committees mentioned above span the entire school and university education system, and three of them were chaired by luminaries such as Dr. S. Radhakrishnan, Prof. D. S. Kothari, and Prof. Yashpal.  
 
-The Kothari Commission is one of the finest and most comprehensive documents. It dealt with policy matters, structure, and even the management of educational institutions. The salient outcomes of the Kothari Commission reports are:
+The Kothari Commission report is one of the finest and most comprehensive documents. It dealt with policy matters, structure, and even the management of educational institutions. The salient outcomes of the Kothari Commission reports are:
 - <strong>National Policy</strong>: It literally provided the first framework of National Policy on Education.
 - <strong>Structural Uniformity</strong>: It gave a uniform schooling pattern across states and union territories, making migration and relocation seamless.
 - <strong>Language Policy</strong>: It advocates a three-language formula in secondary education nationwide to ensure uniformity in communication. However, the three-language formula is strongly resisted by southern states, especially Tamil Nadu, where it is more a matter of political rhetoric than a means of addressing the link-language issue.
