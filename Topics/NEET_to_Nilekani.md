@@ -29,7 +29,7 @@ Against this backdrop of half a century of reform, the critical mandate of the N
 Nilekani is a venture capitalist with deep technical expertise; Kamokati and Somenath have experience running effective institutions. However, collectively, they face a severe challenge in understanding the issues of students and parents in today's world. Paper leaks are a symptom; the deeper issue is the mismatch between student aspirations and available opportunities. The obsession of Indian parents with having their wards secure a government job or a seat in medical school is the fodder that fuels public frustration and distrust. 
 
 There are two major problems in the spread of medical education:
-- There is a notable lack of expertise and regulatory oversight needed to manage medical education effectively.
+- A  notable lack of expertise and regulatory oversight needed to manage medical education effectively.
 - To some extent, cronyism within the Indian Medical Council also hindered substantial private investment in establishing medical colleges.
 
 The first point warrants further elaboration. Given the critical nature of healthcare, the government mustn't permit just anyone with considerable financial resources to establish a medical school. This regulatory bottleneck explains why NEET has become a high‑stakes bottleneck exam, amplifying the consequences of leaks and malpractice.
