@@ -37,7 +37,7 @@ The first point warrants further elaboration. Given the critical nature of healt
 Now, back to the Nilekani committee's assignment, my understanding of the terms of reference set by the government is very limited. It will mainly  focus on three broad items:
 - Review the entire life cycle of public exams that includes: design, question creation, conduct, evaluation,  and publication of results.
 - Assessing and recommending steps to elevate institutional strength, accountability, and transparency
-- Reform of NTA oversight for governance.
+- Reform of NTA oversight for transparent governance and regaining public trust.
   
 The K. Radhakrishnan committee on NEET leak of 2024 had already created a document on 
 Reform of the exam process
