@@ -6,7 +6,7 @@ In response to the NEET controversy in 2026 and the violent agitation on July 21
 
 Since independence, successive central governments have established several education reform committees. The six influential commissions were:
 
-- <strong>Radhakrishnan Commission</strong>: set up under the chairmanship of S. Radhakrishnan in 1948, which focused on the university education system. 
+- <strong>Radhakrishnan Commission</strong>: Set up under the chairmanship of S. Radhakrishnan in 1948, which focused on the university education system. 
 - <strong>Mudaliar Commission</strong>: Chaired by A. Lakshmanswami Mudaliar to reform secondary school education in 1952. 
 - <strong>Kothari Commission</strong>: Established in 1962 and working for 2 years under the chairmanship of D. S. Kothari, the commission formulated the comprehensive schooling pattern 10+2+3, which is the basis of the education structure today.
 - <strong>National Policy on Education (NPE) 1986</strong>: It was followed by the Ramamurthy Committee, which worked on the technicalities of universalizing and equalizing opportunities. 
