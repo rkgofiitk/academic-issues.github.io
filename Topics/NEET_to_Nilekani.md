@@ -25,15 +25,12 @@ The Kothari Commission is one of the finest and most comprehensive documents. It
 Interestingly, the report included a detailed framework for selecting the fittest candidate to serve as head of the institution.
 The commission understood the importance of both uniformity and diversity within the education system. Additionally, it recognized that interference from the state's civil and political authorities could lead to unnecessary disruptions and changes in the educational framework. If successive governments had carefully implemented the commission's recommendations, we could have established one of the most well-structured and honest education systems in Asia and the Far East.
 
-Against this backdrop of half a century of reform, the critical mandate of the Nilekani Committee is less on pedagogy and more on technology-driven exam integrity. Therefore, we must understand that the committee does not seek an answer to the real challenge of addressing the volume and aspirations of school-leaving students. Opportunities for meritocracy are shrinking with each government intervention that seeks to broaden the reservation beyond boundaries. Engineering education has stabilized with the availability of opportunities in the private sector. However, the problem remains in medical education. 
-
-Nilekani is a venture capitalist with deep technical expertise; Kamokati and Somenath have experience running effective institutions. However, collectively, they face a severe challenge in understanding the issues of students and parents in today's world. 
-
-Paper leaks are a symptom; the deeper issue is the mismatch between student aspirations and available opportunities. The obsession of Indian parents with having their wards secure a government job or a seat in medical school is the fodder that fuels public frustration and distrust. 
+Against this backdrop of half a century of reform, the critical mandate of the Nilekani Committee is less on pedagogy and more on technology-driven exam integrity. Therefore, we must understand that the committee does not seek an answer to the real challenge of addressing the volume and aspirations of school-leaving students. Opportunities for meritocracy are shrinking with each government intervention that seeks to broaden the reservation beyond boundaries. 
+Nilekani is a venture capitalist with deep technical expertise; Kamokati and Somenath have experience running effective institutions. However, collectively, they face a severe challenge in understanding the issues of students and parents in today's world. Paper leaks are a symptom; the deeper issue is the mismatch between student aspirations and available opportunities. The obsession of Indian parents with having their wards secure a government job or a seat in medical school is the fodder that fuels public frustration and distrust. 
 
 There are two major problems in the spread of medical education:
-= There is a notable lack of expertise and regulatory oversight needed to manage medical education effectively. 
-= To some extent, cronyism within the Indian Medical Council also hindered substantial private investment in establishing medical colleges.
+- There is a notable lack of expertise and regulatory oversight needed to manage medical education effectively.
+- To some extent, cronyism within the Indian Medical Council also hindered substantial private investment in establishing medical colleges.
 
 The first point warrants further elaboration. Given the critical nature of healthcare, the government mustn't permit just anyone with considerable financial resources to establish a medical school. This regulatory bottleneck explains why NEET has become a high‑stakes bottleneck exam, amplifying the consequences of leaks and malpractice.
 
