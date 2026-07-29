@@ -45,7 +45,7 @@ Reform of the exam process
 - Recommend structural changes in NTA governance to ensure the integrity, conduct, and security of the exam.
 - Address the grievance redressal mechanism.   
 
-The Radhakrishnan committee had recommended CBT for NEET. However, it did not specifically address the entire technological stack leading to the full adoption of CBT. So, the Nilekani committee expected to focus more on the adaptation of technology (blockchain, AI, biometrics, and cybersecurity). 
+The Radhakrishnan committee had recommended CBT for NEET. However, it did not address the entire technology stack behind the full adoption of CBT. So, the Nilekani committee expected to focus more on the adaptation of technology (blockchain, AI, biometrics, and cybersecurity). 
 
 The Nilekani committee needs to form several technical subcommittees to develop a complete set of detailed Request for Comments (RFC). Every vertical needs a technical subcommittee. I see no technical role for the two bureaucrats on the Nilekani committee, other than facilitating effective communication between the committee and political leadership. The Intelligence Bureau expert on the committee is expected to provide insights into the human factors contributing to the security breach.
 
