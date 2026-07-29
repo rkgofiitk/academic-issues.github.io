@@ -4,7 +4,7 @@
 
 In response to the NEET controversy in 2026 and the violent agitation on July 21, 2026, the Government of India established a high-powered committee on educational reforms, chaired by Nandan Nilekani. The committee consists of six members, including two other experts: Prof. K. Kamakoti, Director of IIT Madras, and S. Somanath, former Chairperson of ISRO.
 
-Since independence, successive central governments have established several education reform committees. Among these, at least half a dozen were major national education and policy commissions and review committees. The six influential commissions were:
+Since independence, successive central governments have established several education reform committees. The six influential commissions were:
 
 - <strong>Radhakrishnan Commission</strong>: set up under the chairmanship of S. Radhakrishnan in 1948, which focused on the university education system. 
 - <strong>Mudaliar Commission</strong>: Chaired by A. Lakshmanswami Mudaliar to reform secondary school education in 1952. 
