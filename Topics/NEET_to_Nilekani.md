@@ -1,5 +1,7 @@
 ## NEET Reforms: Chasing a Technological Panacea
 
+[Blog Index](../index.md)
+
 In response to the NEET controversy in 2026 and the violent agitation on July 21, 2026, the Government of India established a high-powered committee on educational reforms, chaired by Nandan Nilekani. The committee consists of six members, including two other experts: Prof. K. Kamakoti, Director of IIT Madras, and S. Somanath, former Chairperson of ISRO.
 
 Since independence, successive central governments have established several education reform committees. Among these, at least half a dozen were major national education and policy commissions and review committees. The six influential commissions were:
@@ -51,3 +53,5 @@ The Radhakrishnan committee had recommended CBT for NEET. However, it did not sp
 The Nilekani committee needs to form several technical subcommittees to develop a complete set of detailed Request for Comments (RFC). Every vertical needs a technical subcommittee. I see no technical role for the two bureaucrats on the Nilekani committee, other than facilitating effective communication between the committee and political leadership. The Intelligence Bureau expert on the committee is expected to provide insights into the human factors contributing to the security breach.
 
 Creating RFCs and supporting implementation documents is not the ultimate goal; the real challenge lies in actual implementation. Over the years, the JEE Advanced has maintained a reasonable level of security and stability in its conduct, evaluation, and publication of results. However, the coaching mafia has persistently tried to exploit weaknesses in JEE Advanced. The critical question is why they have not succeeded in JEE Advanced but have succeeded in NEET. Finding the answer requires careful examination of the underlying issues. The success of Nilekani's committee will depend not just on drafting RFCs but on whether India's governance model can be honest, shed its bureaucratic arrogance, and finally learn to implement the reforms it frequently commissions.
+
+[Back to Index](../index.md)
