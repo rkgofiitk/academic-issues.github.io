@@ -32,7 +32,7 @@ There are two major problems in the spread of medical education:
 - A  notable lack of expertise and regulatory oversight needed to manage medical education effectively.
 - To some extent, cronyism within the Indian Medical Council also hindered substantial private investment in establishing medical colleges.
 
-The first point warrants further elaboration. Given the critical nature of healthcare, the government mustn't permit just anyone with considerable financial resources to establish a medical school. This regulatory bottleneck explains why NEET has become a high‑stakes bottleneck exam, amplifying the consequences of leaks and malpractice.
+The first point warrants further elaboration. Given the critical nature of healthcare, the government mustn't permit just anyone with considerable financial resources to establish a medical school. This regulatory bottleneck explains why NEET has become a high‑stakes exam, amplifying the consequences of leaks and malpractice.
 
 Now, back to the Nilekani committee's assignment, my understanding of the terms of reference set by the government is very limited. It will mainly  focus on three broad items:
 - Review the entire life cycle of public exams that includes: design, question creation, conduct, evaluation,  and publication of results.
