@@ -2,7 +2,7 @@
 
 [Blog Index](../index.md)
 
-In response to the NEET controversy in 2026 and the violent agitation on July 21, 2026, the Government of India established a high-powered committee on educational reforms, chaired by Nandan Nilekani. The committee consists of six members, including two other experts: Prof. K. Kamakoti, Director of IIT Madras, and S. Somanath, former Chairperson of ISRO.
+In response to the NEET controversy in 2026 and the violent agitation on July 20, 2026, the Government of India established a high-powered committee on educational reforms, chaired by Nandan Nilekani. The committee consists of six members, including two other experts: Prof. K. Kamakoti, Director of IIT Madras, and S. Somanath, former Chairperson of ISRO.
 
 Since independence, successive central governments have established several education reform committees. The six influential commissions were:
 
