@@ -13,7 +13,7 @@ NTA has now proposed implementing a 4-tier paper-scrutiny system before the pape
 - [NEET 2024 Paper Leak Part II](Neet_part2.md)
 - [NEET 2024 Paper Leak Part I](./Neet_test2024.md)
 
-IMHO, the problem with the smooth conduct of the exam will persist unless NTA fully owns and is accountable for exam integrity, rather than diffusing responsibility across universities, committees, and outsourced vendors. The proposed 4-tier paper scrutiny system. The salient points are:
+IMHO, the problem with the smooth conduct of the exam will persist unless NTA fully owns and is accountable for exam integrity, rather than diffusing responsibility across universities, committees, and outsourced vendors. NTA has now proposed a 4-tier paper scrutiny system. The salient points are:
 - Complete revamp of CONOPS (confidential operations)
 - Strict compliance with established examination protocols
 - Onboarding professionals for new leadership positions in the agency
