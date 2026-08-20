@@ -5,14 +5,17 @@ A massive cleanup took place in NTA following the violent protest at Jantar Mant
 In my humble opinion (IMHO), a cosmetic purge of officials is only an ad hoc solution to the issue of coordinated paper leaks facilitated by the coaching mafia and a questionable choice of subject experts. In fact, the CBI named the [subject experts as the kingpins of NEET paper leaks](https://lawbeat.in/articles/liberty-in-the-courts-how-the-neet-ug-fast-track-court-order-shields-indias-youth-from-institutional-fraud-1622545). NTA has removed 600 subject experts. Though we don't know the internal details of the removal, one needs to recognize a fundamental distinction between science and humanities exams to understand why reform must be nuanced. The questions in science topics are specification-driven, with limited room for ambiguity. The errors, while damaging, are usually technical.
 In contrast, questions in the humanities are open to interpretation. The answers may depend on orientation, ideology, or even an examiner's fancy. I recall serving on a Ph.D. selection panel in which candidates from a particular university were trained to respond only within a narrow orientation. History and philosophy, disciplines meant to broaden minds, had been reduced to rehearsed narratives. This is why humanities exams are especially vulnerable to compromised experts and biased question-setting.
 
-NTA has now proposed implementing a 4-tier paper-scrutiny system before the paper is distributed to examinees. In my previous series of posts about NEET reforms, the emphasis was on ownership of the examination. IMHO, the problem with the smooth conduct of the exam will persist unless NTA fully owns and is accountable for exam integrity, rather than diffusing responsibility across universities, committees, and outsourced vendors.
+NTA has now proposed implementing a 4-tier paper-scrutiny system before the paper is distributed to examinees. In my previous series of posts about NEET reforms, the emphasis was on ownership of the examination.
+- {}()
+- []()
+- []()
 
-Now, about the proposed 4-tier paper scrutiny system. The salient points are:
+IMHO, the problem with the smooth conduct of the exam will persist unless NTA fully owns and is accountable for exam integrity, rather than diffusing responsibility across universities, committees, and outsourced vendors. The proposed 4-tier paper scrutiny system. The salient points are:
 - Complete revamp of CONOPS (confidential operations)
 - Strict compliance with established examination protocols
 - Onboarding professionals for new leadership positions in the agency
   
-One key point missing is the audit system. However, the professionals the government has decided to onboard include a [General Manager for Research and Development and Psychometrics](https://education.economictimes.indiatimes.com/news/higher-education/govt-orders-overhaul-of-nta-exam-system-directs-audit-of-entire-testing-process/133292812), and a Chief Information Security Officer. The move demonstrates the government's seriousness about an in-depth, rigorous post-exam audit. Otherwise, creating such senior positions in the agency's hierarchy does not make sense. 
+One key point missing is the revamping of the audit system. However, the professionals the government has decided to onboard include a [General Manager for Research and Development and Psychometrics](https://education.economictimes.indiatimes.com/news/higher-education/govt-orders-overhaul-of-nta-exam-system-directs-audit-of-entire-testing-process/133292812), and a Chief Information Security Officer. The move demonstrates the government's seriousness about an in-depth, rigorous post-exam audit. Otherwise, creating such senior positions in the agency's hierarchy does not make sense. 
 
 The current post-exam audit system is in 4 layers:
 - 30-Day Corrective Action Audit
