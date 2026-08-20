@@ -10,6 +10,7 @@ Information flow is a major contributor to mass-based upheavals in the governanc
 is crucial for any system of governance. From time to time, the government comes up with an intervention to correct the educators and 
 support those in power. Therefore, it is essential to analyze the implications of specific policies from a neutral viewpoint.
 
+- [Opaque Audits and Ad Hoc Purges Undermine NTA Exam Credibility](Topics/NTA_reforms.md)
 - [NEET Reforms: Chasing a Technological Panacea](Topics/NEET_to_Nilekani.md)
 - [The KKNPP Data Breach: India's Nuclear Achilles Heel](Topics/KKNPP_Data_Breach.md)
 - [Beyond JEE and GATE, IITs Explore New Pathways](Topics/AI_Adaptive_Tests.md)
