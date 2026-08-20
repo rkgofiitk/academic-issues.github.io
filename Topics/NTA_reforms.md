@@ -6,12 +6,12 @@ In my humble opinion (IMHO), a cosmetic purge of officials is only an ad hoc sol
 In contrast, questions in the humanities are open to interpretation. The answers may depend on orientation, ideology, or even an examiner's fancy. I recall serving on a Ph.D. selection panel in which candidates from a particular university were trained to respond only within a narrow orientation. History and philosophy, disciplines meant to broaden minds, had been reduced to rehearsed narratives. This is why humanities exams are especially vulnerable to compromised experts and biased question-setting.
 
 NTA has now proposed implementing a 4-tier paper-scrutiny system before the paper is distributed to examinees. In my previous series of posts about NEET reforms, the emphasis was on ownership of the examination.
-- [NEET Paper Leak](./NEET_Leak.md)
 - [Nilekani Reforms Committee](./NEET_to_Nilekani.md)
-- [OSM and NEET Fiasco: Par I](OSM_NEET.md)
+- [NEET Paper Leak](./NEET_Leak.md)
 - [OSM and NEET Fiasco: Part II](OSM_NEET_Part2.md)
-- [NEET 2024 Paper Leak Part I]([Neet_2024.md](./Neet_test2024.md))
+- [OSM and NEET Fiasco: Par I](OSM_NEET.md)
 - [NEET 2024 Paper Leak Part II](Neet_part2.md)
+- [NEET 2024 Paper Leak Part I](./Neet_test2024.md)
 
 IMHO, the problem with the smooth conduct of the exam will persist unless NTA fully owns and is accountable for exam integrity, rather than diffusing responsibility across universities, committees, and outsourced vendors. The proposed 4-tier paper scrutiny system. The salient points are:
 - Complete revamp of CONOPS (confidential operations)
