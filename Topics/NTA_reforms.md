@@ -8,8 +8,8 @@ In contrast, questions in the humanities are open to interpretation. The answers
 NTA has now proposed implementing a 4-tier paper-scrutiny system before the paper is distributed to examinees. In my previous series of posts about NEET reforms, the emphasis was on ownership of the examination.
 - [NEET Paper Leak](./NEET_Leak.md)
 - [Nilekani Reforms Committee](./NEET_to_Nilekani.md)
-- []()
-- []()
+- [NEET 2024 Paper Leak Part-I](Neet_2024.md)
+- [NEET 2024 Paper Leak Part-II](Neet_part2.md)
 
 IMHO, the problem with the smooth conduct of the exam will persist unless NTA fully owns and is accountable for exam integrity, rather than diffusing responsibility across universities, committees, and outsourced vendors. The proposed 4-tier paper scrutiny system. The salient points are:
 - Complete revamp of CONOPS (confidential operations)
