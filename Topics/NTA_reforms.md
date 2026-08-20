@@ -28,7 +28,7 @@ The current post-exam audit system is in 4 layers:
 
 The first three layers are primarily intended to ensure the sanctity and integrity of exam conduct. The inputs collected by these layers improve the integrity of the exam system and its protocols. It is the last layer that provides meaningful input to make the exam paper student-friendly. 
 
-However, the opaque, centralized audit system is the Achilles heel of the current system. It also has several missing links.
+I feel that the opaque, centralized audit system is the Achilles heel of the current system. IMHO, the government is silent on three important issues.
 - Not sharing the audit reports publicly.
 - Over-reliance on outsourcing security and the conduct of examinations.
 - Reactive rather than proactive error and validation mechanisms
