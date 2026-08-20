@@ -6,8 +6,8 @@ In my humble opinion (IMHO), a cosmetic purge of officials is only an ad hoc sol
 In contrast, questions in the humanities are open to interpretation. The answers may depend on orientation, ideology, or even an examiner's fancy. I recall serving on a Ph.D. selection panel in which candidates from a particular university were trained to respond only within a narrow orientation. History and philosophy, disciplines meant to broaden minds, had been reduced to rehearsed narratives. This is why humanities exams are especially vulnerable to compromised experts and biased question-setting.
 
 NTA has now proposed implementing a 4-tier paper-scrutiny system before the paper is distributed to examinees. In my previous series of posts about NEET reforms, the emphasis was on ownership of the examination.
-- [](./NEET_Leak.md)
-- (./NEET_to_Nilekani.md)
+- [NEET Paper Leak](./NEET_Leak.md)
+- [Nilekani Reforms Committee](./NEET_to_Nilekani.md)
 - []()
 - []()
 
