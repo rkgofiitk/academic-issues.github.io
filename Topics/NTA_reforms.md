@@ -18,7 +18,7 @@ IMHO, the problem with the smooth conduct of the exam will persist unless NTA fu
 - Strict compliance with established examination protocols
 - Onboarding professionals for new leadership positions in the agency
   
-One key point missing is the revamping of the audit system. However, the professionals the government has decided to onboard include a [General Manager for Research and Development and Psychometrics](https://education.economictimes.indiatimes.com/news/higher-education/govt-orders-overhaul-of-nta-exam-system-directs-audit-of-entire-testing-process/133292812), and a Chief Information Security Officer. The move demonstrates the government's seriousness about an in-depth, rigorous post-exam audit. Otherwise, creating such senior positions in the agency's hierarchy does not make sense. 
+One key point missing is the revamping of the audit system. The [professionals the government has decided to onboard](https://education.economictimes.indiatimes.com/news/higher-education/govt-orders-overhaul-of-nta-exam-system-directs-audit-of-entire-testing-process/133292812) include a General Manager for Research and Development and Psychometrics, and a Chief Information Security Officer. The move demonstrates the government's seriousness about an in-depth, rigorous post-exam audit. Otherwise, creating such senior positions in the agency's hierarchy does not make sense. 
 
 The current post-exam audit system is in 4 layers:
 - 30-Day Corrective Action Audit
