@@ -20,7 +20,7 @@ There are sound reasons for imposing a reasonable time limit on doctoral program
 
 ### A Case Study from the 1980s
 
-One IIT student I knew submitted a thesis before the six‑year limit. The external examiner sat on it for over a year, then raised objections that the research field was obsolete. Had the examiner rejected the thesis outright, the student could have approached another examiner from the panel. But objections trigger a different process: the candidate must rebut, revise, and resubmit. This creates a delay loop.
+One IIT (not from IITK) student I knew submitted a thesis before the six‑year limit. The external examiner sat on it for over a year, then raised objections that the research field was obsolete. Had the examiner rejected the thesis outright, the student could have approached another examiner from the panel. But objections trigger a different process: the candidate must rebut, revise, and resubmit. This creates a delay loop.
 In this case, the student lacked suitable rebuttals and eventually lost patience. It was the early 1980s, when even email was not widely available at IITs. Such situations are unlikely today, with institutes and candidates integrated into the global research ecosystem and connected by high‑speed Internet.
 
 ### Institutional Bottlenecks
