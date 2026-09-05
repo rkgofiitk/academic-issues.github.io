@@ -29,7 +29,7 @@ The debate over the use of an AI-automated agent divides us into two camps. One 
 
 When poorly implemented, these agents can become bottlenecks, frequently requiring human intervention. Even more concerning, they can expose organizations to vulnerabilities if given unrestricted access. The challenge lies in finding the right balance between autonomy and oversight.
 
-### Promise & Peril
+### Promise & Perils
 
 Open Claw represents both potential and risk. Its open-source nature encourages experimentation but also increases vulnerabilities. Researchers point out concerns about fragile reasoning loops and potential governance issues, while entrepreneurs focus on the efficiency gains it can provide. The reality is somewhere in between:
 
