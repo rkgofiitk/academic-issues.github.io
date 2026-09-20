@@ -11,6 +11,7 @@ is crucial for any system of governance. From time to time, the government comes
 support those in power. Therefore, it is essential to analyze the implications of specific policies from a neutral viewpoint.
 
 - [Satya Niketan Collapse: Unsafe Housing and a Broken University System](Topics/SatyaNiketan_Collapse.md)
+- [Open Claw: A Briefing on Autonomous AI Agents](Topics/Open_Claw_AI_Assistant.md)
 - [Ph.D. at IITs: Between Aspiration and Exploitation](Topics/PhD_At_IITK.md)
 - [Opaque Audits and Ad Hoc Purges Undermine NTA Exam Credibility](Topics/NTA_reforms.md)
 - [NEET Reforms: Chasing a Technological Panacea](Topics/NEET_to_Nilekani.md)
