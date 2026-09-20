@@ -7,7 +7,7 @@ The focus of this post is the question:
   
 AI is the biggest consumer of OSS systems. Every model, every framework, and every deployment pipeline leans heavily on OSS libraries and repositories. However, the growth of AI systems has placed a big strain on the very system that drives its growth. The question that lingers in the minds of tech watchers is: Will AI become a Frankenstein monster to strain the OSS ecosystem?
 
-In a recent tech brief published in ACM Tech Briefs, Srinivas et al. discuss how AI can accelerate the sustainable, long-term adoption of open-source software. According to their estimates, the burden of writing code for tech firms would have been 3.5x greater without the OSS ecosystem. In monetary terms, it exceeds $8.8 trillion additional costs for technology firms in developing AI systems. 
+In a recent tech brief published in ACM Tech Briefs, [Srinivas et al.](https://dl.acm.org/doi/epdf/10.1145/3838809) discuss how AI can accelerate the sustainable, long-term adoption of open-source software. According to their estimates, the burden of writing code for tech firms would have been 3.5x greater without the OSS ecosystem. In monetary terms, it exceeds $8.8 trillion additional costs for technology firms in developing AI systems. 
 
 The OSS ecosystem has contributed in many ways, starting with 
 - Setting requirements priorities, 
@@ -21,11 +21,11 @@ To understand the importance of AI in accelerating the growth of the OSS ecosyst
 - On the flip side, with AI help, the same vulnerabilities can be exploited by attackers to cause devastating damage.
 - The growing volume of generated AI code increases the demand for code review for the project maintainers.
 
-AI can accelerate the technical inputs for the speedy execution of the aforementioned tasks. However, human oversight remains a key bottleneck to AI-led acceleration, hindering the stabilization of a steady pipeline. Srinivas et al. list out four key challenges for AI-accelerated OSS coding:
+AI can accelerate the technical inputs for the speedy execution of the aforementioned tasks. However, human oversight remains a key bottleneck to AI-led acceleration, hindering the stabilization of a steady pipeline. [Srinivas et al.](https://dl.acm.org/doi/epdf/10.1145/3838809) list out four key challenges for AI-accelerated OSS coding:
 - <strong>Cybersecurity</strong>: A growing set of actors either create malicious OSS or contribute packages to popular OSS repositories, deliberately engineering cyber vulnerabilities. How would AI be trained to detect and patch cyber vulnerabilities?
 - <strong>Software maintenance</strong>: The job of a project maintainer is compounded by the speed at which AI can help contributors upload to OSS repositories.
 AI-generated code may have substantial quality flaws and cyber vulnerabilities that facilitate attacks. Local language adoption in OSS use is an important factor for sustainability. However, unlike in English, the adoption of the local language still depends more on human oversight than on AI.
-- <strong>Long-term sustainability</strong>: Although agentic AI systems like Open Claw have made a successful debut, I believe that community consensus, priority-setting, and many governance decisions on the trajectory of OSS require human oversight for long-term sustainability. 
+- <strong>Long-term sustainability</strong>: Although agentic AI systems like [Open Claw](https://rkgofiitk.github.io/academic-issues.github.io/Topics/OpenClaw_AI_Assistant.html) have made a successful debut, I believe that community consensus, priority-setting, and many governance decisions on the trajectory of OSS require human oversight for long-term sustainability. 
 - <strong>Stratified governance and financial support</strong>: OSS has a large, unorganized user base. In this scenario, generating revenue to support OSS ecosystem activities will be a major challenge for AI unless it can automatically charge users' accounts.  Will that even be allowed or practical? So, the human oversight is crucial.
 
 The difficult part of the challenge is not due to AI or agentic AI's capabilities, but to the unstructured nature of OSS development. It necessitates a set of commitments to meet human oversight requirements for the AI-led acceleration of the OSS system to succeed.
