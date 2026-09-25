@@ -58,4 +58,4 @@ Similarly, the [PoPL course may be updated to include](https://www.meoun.uk/the-
 
 The future of computing education lies not in teaching students how to write code, but in empowering them to design systems, specify requirements, and verify correctness in collaboration with GenAI. It requires reimagining curricula to focus on these higher-order skills by updating PoPL and Compiler courses and introducing prompt engineering. With these curricular changes, computer scientists can thrive in a world where coding is no longer the bottleneck but where creativity, precision, and collaboration define success.
 
-[Backto Index](../index.md)
+[Back to Index](../index.md)
