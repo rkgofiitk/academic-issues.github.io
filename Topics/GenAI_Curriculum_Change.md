@@ -31,8 +31,9 @@ Integrating GenAI into code development can re-engage students who once found co
 The theoretical foundations of system development are not new, but they were not introduced as explicitly as they should have been. Consider object-oriented programming (OOP). Freshers often struggle with both learning OOP concepts and producing error-free implementations. With GenAI handling the heavy lifting of code generation, instructors can focus on teaching design principles, specification, and verification—skills that transcend disciplines and prepare students for real-world system building. These core principles of computing fundamentals can be applied across disciplines.  
 
 GenAI has led to the following discernible changes in the programming paradigm:
-Communication between GenAI and developers is more context-rich than in the conventional model, where developers use higher-level programming languages. 
-It shifted the focus of language research from human syntactic comprehension to AI-human collaboration, verification, and high-level abstraction. 
+- Communication between GenAI and developers is more context-rich than in the conventional model, where developers use higher-level programming languages. 
+- It shifted the focus of language research from human syntactic comprehension to AI-human collaboration, verification, and high-level abstraction.
+  
 Prompt engineering has established itself as an intermediary framework between GenAI and system development. At the same time, research in programming languages has reached a new level, making it easier to align with industry needs. How would educators translate these two aspects of change in the programming paradigm to integrate GenAI into the computing education curriculum? 
 
 Computing education should include an introductory course on prompt engineering. It will teach the following skills:
