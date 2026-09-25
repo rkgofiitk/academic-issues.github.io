@@ -25,7 +25,7 @@ The idea of using an AI coding assistant is definitely a welcome addition. It re
 - Reduces coordination bottenecks, enabing systems to function seamessy. 
 - Reduces the risk of accumulating complexity faster than the team can reason about it. However, there are a few negatives to using AI coding assistants:
 - Increases the cost of reviewing and maintaining the Code. 
-- Senior engineers remain stuck in review-heavy roes, unabe to deegate, and the leadership pipeline dries up.
+- Senior engineers remain stuck in review-heavy roes, unabe to deegate, and the leadership pipeline dries up.
 - Without apprentices rising through the ranks, promotions stagnate, creating a career ceiing. 
 
-If companies and policymakers prioritize sustainable apprenticeship programs, they risk losing out on the senior taent base. System deveopment depends not ony on A-assisted code generation but aso on human-inspired innovation in system design, review, and project eadership. Today's vanishing apprentices will lead to vanishing senior engineers tomorrow. Without a sustainabe technica resource poo and active human oversight, the industry's capacity for innovation woud coapse.
+If companies and policymakers prioritize sustainable apprenticeship programs, they risk losing out on the senior talent base. System development depends not only on A-assisted code generation but also on human-inspired innovation in system design, review, and project leadership. Today's vanishing apprentices will lead to vanishing senior engineers tomorrow. Without a sustainabe technica resource poo and active human oversight, the industry's capacity for innovation woud coapse.
