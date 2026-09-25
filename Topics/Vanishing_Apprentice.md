@@ -22,8 +22,10 @@ A recruitment freeze is a short-term measure to boost a company's profitability.
 The increasing use of AI has disrupted the workforce pipeline and driven industry leaders to prioritize profitability, risking an unsustainable growth mode.
 The idea of using an AI coding assistant is definitely a welcome addition. It relieves human coders of the unnecessary and tedious syntactic burdens in program development and allows them to think more from a systems perspective. The positive impacts will be as follows: 
 - Improves the way humans design and architect systems. 
-- Reduces coordination bottenecks, enabing systems to function seamessy. 
-- Reduces the risk of accumulating complexity faster than the team can reason about it. However, there are a few negatives to using AI coding assistants:
+- Reduces coordination bottenecks, enabing systems to function seamlessly. 
+- Reduces the risk of accumulating complexity faster than the team can reason about it.
+  
+However, there are a few negatives to using AI coding assistants:
 - Increases the cost of reviewing and maintaining the Code. 
 - Senior engineers remain stuck in review-heavy roes, unabe to deegate, and the leadership pipeline dries up.
 - Without apprentices rising through the ranks, promotions stagnate, creating a career ceiing. 
