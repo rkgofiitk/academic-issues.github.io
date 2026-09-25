@@ -15,15 +15,17 @@ Why is this an issue? Can AI coding assistants graduate in the next few years to
 - Many tech companies expanded quicky during the COVID-19 pandemic amid broader global economic uncertainty.
 - Isolating blame for the past unplanned expansion on AI is a convenient story to cover up poor planning.
 
-A recruitment freeze is a short-term measure to boost a company's profitability. However, the short-term margin gains are likely to erode quickly, leaving companies weaker in the long run. In other words, a recruitment freeze creates a recurring cyce of temporary profitability followed by structural weakness. The current recruitment terms for freshers have become so brutal that many won't survive at major Tech companies long enough to become senior engineers. A does not make interns redundant; rather, it makes senior engineers incredibly productive. The situation has fipped in the development cycle:
-• Previously, the bottleneck was with fresh developers taking time to develop something.
-• AI now generates code instantly, shifting the bottleneck to the demand for code reviews among senior engineers, which has significantly increased, affecting their ability to focus on design and system architecture. The increasing use of A has disrupted the workforce pipeline and driven industry leaders to prioritize profitability, risking an unsustainable growth mode.
-The idea of using AI coding assistant is definitely a wecome addition. It relieves human coders of the unnecessary and tedious syntactic burdens in program development and allows them to think more from a systems perspective. The positive impacts will be as follows: 
-• Improves the way humans design and architect systems. 
-• Reduces coordination bottenecks, enabing systems to function seamessy. 
-• Reduces the risk of accumulating complexity faster than the team can reason about it. However, there are a few negatives to using A coding assistants:
-• ncreases the cost of reviewing and maintaining the Code. 
-• Senior engineers remain stuck in review-heavy roes, unabe to deegate, and the leadership pipeline dries up.
-• Without apprentices rising through the ranks, promotions stagnate, creating a career ceiing. 
+A recruitment freeze is a short-term measure to boost a company's profitability. However, the short-term margin gains are likely to erode quickly, leaving companies weaker in the long run. In other words, a recruitment freeze creates a recurring cyce of temporary profitability followed by structural weakness. The current recruitment terms for freshers have become so brutal that many won't survive long enough at major Tech companies to become senior engineers. A does not make interns redundant; rather, it makes senior engineers incredibly productive. The situation has fipped in the development cycle:
+- Previously, the bottleneck was with fresh developers taking time to develop something.
+- AI now generates code instantly, shifting the bottleneck to the demand for code reviews among senior engineers, which has significantly increased, affecting their ability to focus on design and system architecture.
+
+The increasing use of AI has disrupted the workforce pipeline and driven industry leaders to prioritize profitability, risking an unsustainable growth mode.
+The idea of using an AI coding assistant is definitely a welcome addition. It relieves human coders of the unnecessary and tedious syntactic burdens in program development and allows them to think more from a systems perspective. The positive impacts will be as follows: 
+- Improves the way humans design and architect systems. 
+- Reduces coordination bottenecks, enabing systems to function seamessy. 
+- Reduces the risk of accumulating complexity faster than the team can reason about it. However, there are a few negatives to using AI coding assistants:
+- Increases the cost of reviewing and maintaining the Code. 
+- Senior engineers remain stuck in review-heavy roes, unabe to deegate, and the leadership pipeline dries up.
+- Without apprentices rising through the ranks, promotions stagnate, creating a career ceiing. 
 
 If companies and policymakers prioritize sustainable apprenticeship programs, they risk losing out on the senior taent base. System deveopment depends not ony on A-assisted code generation but aso on human-inspired innovation in system design, review, and project eadership. Today's vanishing apprentices will lead to vanishing senior engineers tomorrow. Without a sustainabe technica resource poo and active human oversight, the industry's capacity for innovation woud coapse.
