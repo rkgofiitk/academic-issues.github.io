@@ -46,10 +46,10 @@ To better prepare students to address the requirements of language-centric resea
 - Compilers, and 
 - Principles of Programming Languages (PoPL).
 
-PoPL is sometimes offered as an elective to senior undergraduate students. These two courses should be updated to prepare students. A compiler course should emphasize:
-LLM-assisted compilation: Integrating models into compiler stacks as selectors, translators, or native code generators for optimization.
-Universal IR:  Language-independent IRs, shared vector spaces to improve multilingual code understanding, and generation across AI systems
-Automated Heuristics: Eliminating hard-coded compiler priority functions and vectorization logic using neural networks and machine learning cost models.
+PoPL is sometimes offered as an elective to senior undergraduate students. These two courses should be updated to prepare students. A [compiler course should emphasize](https://ai.meta.com/research/publications/meta-large-language-model-compiler-foundation-models-of-compiler-optimization/):
+- <b>LLM-assisted compilation</b>: Integrating models into compiler stacks as selectors, translators, or native code generators for optimization.
+- <b>Universal IR</b>:  Language-independent IRs, shared vector spaces to improve multilingual code understanding, and generation across AI systems
+- <b>Automated Heuristics</b>: Eliminating hard-coded compiler priority functions and vectorization logic using neural networks and machine learning cost models.
 
 Similarly, the [PoPL course may be updated to include](https://www.meoun.uk/the-current-landscape-of-computer-science-education-in-uk-universities/) the following topics:
 - <b>Token economy</b>: Optimizing syntax and semantics to minimize token use in an LLM-driven environment
