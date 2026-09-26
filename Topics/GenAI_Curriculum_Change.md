@@ -36,7 +36,7 @@ GenAI has led to the following discernible changes in the programming paradigm:
   
 Prompt engineering has established itself as an intermediary framework between GenAI and system development. At the same time, research in programming languages has reached a new level, making it easier to align with industry needs. How would educators translate these two aspects of change in the programming paradigm to integrate GenAI into the computing education curriculum? 
 
-Computing education should include an introductory course on prompt engineering. It will teach the following skills:
+Computing education should include an [introductory course on prompt engineering](https://iitmpravartak.org.in/Prompt-Engineering). It will teach the following skills:
 - <b>LLM Basics</b>: Introduction to Large Language Model.
 - <b>Anatomy of prompts</b>: Role, context, instruction, input data, and output specs. 
 - <b>Techniques</b>: Zero-shot and Few-shot prompting. Chain of Thought (CoT), Role-based prompting.
