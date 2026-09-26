@@ -12,6 +12,7 @@ support those in power. Therefore, it is essential to analyze the implications o
 
 - [Will AI strain the open-source software that sustains it?](Topics/AI_Augmented_OSS.md)
 - [Satya Niketan Collapse: Unsafe Housing and a Broken University System](Topics/SatyaNiketan_Collapse.md)
+- [The Vanishing Apprentice: Risks of a Senior Engineer Shortage](Topics/Vanishing_Apprentice.md)
 - [Open Claw: A Briefing on Autonomous AI Agents](Topics/OpenClaw_AI_Assistant.md)
 - [Ph.D. at IITs: Between Aspiration and Exploitation](Topics/PhD_At_IITK.md)
 - [Opaque Audits and Ad Hoc Purges Undermine NTA Exam Credibility](Topics/NTA_reforms.md)
