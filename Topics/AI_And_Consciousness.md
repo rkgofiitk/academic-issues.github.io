@@ -2,7 +2,7 @@
 
 [Blog Index](../index.md)
 
-Anthropic is reportedly teaching consciousness to Claude. Recent news about Swami Sarvapriyananda, a Hindu monk of the Ramakrishna order, who was flown to San Francisco, made headlines.
+Anthropic is reportedly teaching consciousness to Claude. [Recent news about Swami Sarvapriyananda, a Hindu monk of the Ramakrishna order, who was flown to San Francisco, made headlines](https://timesofindia.indiatimes.com/world/us/ai-and-the-monk-anthropic-goes-for-swami-and-friends-to-tame-claude/articleshow/134643599.cms).
 
 Before delving into efforts to teach ethics to AI, let us first dive a bit into the background of [Swami Sarvapriyananda](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda). Swami  Ji was born as Biswarup Palit (pre-monastic name) and grew up in Cuttack. He is an alumnus of Ravenshaw College and holds an MBA from XIMB Bhubaneswar. Swami Sarvapriyananda is not only a distinguished scholar but also one of the most exceptional communicators of Vedanta today. His reputation as a debater, along with his clarity of exposition, enables him to explain concepts of consciousness to audiences that extend beyond traditional spiritual circles.
 
