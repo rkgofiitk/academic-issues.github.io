@@ -6,7 +6,7 @@ Anthropic is reportedly teaching consciousness to Claude. [Recent news about Swa
 
 Before delving into efforts to teach ethics to AI, let us first dive a bit into the background of [Swami Sarvapriyananda](https://en.wikipedia.org/wiki/Swami_Sarvapriyananda). Swami  Ji was born as Biswarup Palit (pre-monastic name) and grew up in Cuttack. He is an alumnus of Ravenshaw College and holds an MBA from XIMB Bhubaneswar. Swami Sarvapriyananda is not only a distinguished scholar but also one of the most exceptional communicators of Vedanta today. His reputation as a debater, along with his clarity of exposition, enables him to explain concepts of consciousness to audiences that extend beyond traditional spiritual circles.
 
-Why is Vedanta important for modeling consciousness? Vedanta breaks down human consciousness into four states:
+[Why is Vedanta important for modeling consciousness](https://www.sloww.co/swami-sarvapriyananda-quotes/)? Vedanta breaks down human consciousness into four states:
 - <b>Waking</b>:  A transitory state engaging the human mind with the external world through the senses.
 - <b>Dreaming</b>: In this state, the human mind engages in a subtle simulation of impressions, detached from physical input.
 - <b>Deep Sleep</b>: A state of nothingness, where simulation ceases, but the feeling of "good sleep" remains when the mind transitions to waking.
