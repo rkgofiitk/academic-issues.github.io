@@ -1,5 +1,6 @@
 ## Exams in the Age of AI:  IIT Bombay's Interim SOP Misses the Big Picture 
 
+[Blog Index](../index.md)
 
 IIT Bombay's Academic Senate has created a [new interim Standard Operating Procedure (SOP)](https://timesofindia.indiatimes.com/city/mumbai/no-frisking-fresh-answer-book-if-caught-cheating-bags-allowed-in-exam-building-iit-bombays-new-interim-sop-for-october-10-11-tests/articleshow/134777998.cms) for the conduct of examinations. The major changes are:
 
@@ -28,3 +29,5 @@ Many institutions have experimented with alternative, effective evaluation mecha
 These methods do not eliminate cheating; they render it irrelevant by shifting the focus from recall to reasoning. The instructors can calibrate the evaluation mechanisms by a judicious combination of these methods. They may inject a surprise element from time to time to challenge a student's intellectual maturity in applying the subject knowledge. 
 
 The conduct of examinations should be based on the realities of our times. If IITs or other institutions of national importance want to stay ahead, they must lead in creative testing mechanisms rather than the old exam system. Otherwise, technology will continue to expose the cracks in a system built for the pre-electronic era. 
+
+[Back to Index](../index.md)
