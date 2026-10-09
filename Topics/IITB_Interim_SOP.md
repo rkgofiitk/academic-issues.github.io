@@ -1,4 +1,6 @@
-## Exams in the Age of AI:  IIT Bombay's Interim SOP Misses the Big Picture 
+## Fitting Socrates to Exams in the Age of AI
+
+### Why IIT Bombay's Interim SOP Misses the Big Picture 
 
 [Blog Index](../index.md)
 
