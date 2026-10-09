@@ -1,6 +1,6 @@
 ## Fitting Socrates to Exams in the Age of AI
 
-### Why IIT Bombay's Interim SOP Misses the Big Picture 
+### Why IIT Bombay's Interim SOP Misses the Big Picture? 
 
 [Blog Index](../index.md)
 
