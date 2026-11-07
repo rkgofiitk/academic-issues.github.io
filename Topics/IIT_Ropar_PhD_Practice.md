@@ -4,9 +4,9 @@
 
 ### Origin of the proposal
 
-IIT Ropar has proposed a pathway in which patents, prototypes, and innovations will be considered as research output in place of a written thesis for a Ph. D. It will award a Ph. D. based on practical work, patents, and inventions of working prototypes. There has been a controversy surrounding the decision. It mainly stems from speculation that anticipated implementation-related challenges could undermine rigorous independent evaluation. 
+IIT Ropar has proposed [a new pathway in which patents, prototypes, and innovations will be considered as research output](https://www.academia360.in/iit-ropar-introduces-phd-model-without-thesis-focuses-on-products-and-startups-report) in place of a written thesis for a Ph. D. It will award a Ph. D. based on practical work, patents, and inventions of working prototypes. There has been a controversy surrounding the decision. It mainly stems from speculation that anticipated implementation-related challenges could undermine rigorous independent evaluation. 
 
-Some observers view IIT Ropar's proposal as a reaction to the reported use of AI in thesis report preparation and a curb on predatory publications. It may not be a sufficient basis for evaluating the proposal, as IITs generally implement substantial and effective safeguards to preserve the quality of their Ph.D. programs. 
+Some observers view IIT Ropar's proposal as a reaction to the reported use of [AI in thesis report preparation](https://www.diplomacy.edu/updates/detecting-ai-in-phd-dissertations-reveals-widespread-use-of-ai-generated/) and a curb on predatory publications. It may not be a sufficient basis for evaluating the proposal, as IITs generally implement substantial and effective safeguards to preserve the quality of their Ph.D. programs. 
 
 An implementation-oriented Ph.D. without a proper report is not entirely novel, though it may sound so to many at institutions across India. IIT Ropar's decision could be guided by many other factors beyond the submission of an AI-assisted thesis report, such as:
 
@@ -19,15 +19,15 @@ Ph. D. of practice will run side by side with research-focused Ph. D. programs. 
 
 ### Historical Perspectives
 
-During British rule, Indian scientists, such as  Acharya Jagadish Chandra Bose (1858-1937), Prof. C. V. Raman (1888-1970), Homi J. Bhabha (1909-1966), and Satish Dhawan (1920-2002), earned international recognition through building instruments, devices, and equipment as proofs of concept for their theories. Side by side, self-taught industrialists G. D. Naidu (1893-1974) and Shankar Abaji Bhise(1867-1935), often referred to as the "Edisons of India," laid the groundwork for indigenous technology and mechanical innovations. 
+During British rule, Indian scientists, such as  [Acharya Jagadish Chandra Bose (1858-1937)](https://en.wikipedia.org/wiki/Jagadish_Chandra_Bose), [Prof. C. V. Raman (1888-1970)](https://en.wikipedia.org/wiki/C._V._Raman), [Homi J. Bhabha (1909-1966)](https://en.wikipedia.org/wiki/Homi_J._Bhabha), and [Satish Dhawan (1920-2002)](https://en.wikipedia.org/wiki/Satish_Dhawan), earned international recognition through building instruments, devices, and equipment as proofs of concept for their theories. Side by side, self-taught industrialists [G. D. Naidu (1893-1974)](https://en.wikipedia.org/wiki/G._D._Naidu) and [Shankar Abaji Bhise(1867-1935)](https://en.wikipedia.org/wiki/Shankar_Abaji_Bhise), often referred to as the "Edisons of India," laid the groundwork for indigenous technology and mechanical innovations. 
 
-The tradition continues at a few research organizations such as BARC, ISRO, and DRDO.
+The tradition continues at a few research organizations such as [BARC](https://www.barc.gov.in/), [ISRO](https://www.isro.gov.in/), and [DRDO](https://drdo.gov.in/drdo/en/).
 
 When the British left, India inherited widespread poverty, low literacy, limited industrialization, and a weak scientific infrastructure. The country's administrative, political, and educational institutions faced enormous challenges in building a modern state with universal access to education and creating the scientific and technological foundations for long-term development. 
 
 Public investments were channeled into strategic areas to alleviate poverty through modern agricultural practices, healthcare, adult literacy, and energy security. Wars in 1962, 1965, and 1971 with China and Pakistan forced the country to divert much of its meager resources to defense and the atomic and space programs. To support high-end technological requirements, it worked to develop the IIT and NIT systems.
 
-While the approach strengthened key national capabilities, many areas of higher education and research remain underfunded for an extended period. At present, India spends 4% of GDP, with the central government's share at 2%, compared with the ideal 6% proposed by the Kothari Commission.
+While the approach strengthened key national capabilities, many areas of higher education and research remain underfunded for an extended period. At present, India spends 4% of GDP, with the central government's share at 2%, compared with the ideal 6% proposed by the [Kothari Commission](https://en.wikipedia.org/wiki/Kothari_Commission).
 
 ### Dominance of Theoretical Research
 
@@ -44,7 +44,7 @@ Cases of plagiarism among graduate students and faculty members have often been 
 - The growth of predatory publishing, manipulated peer review, quality issues, and large-scale retractions has intensified questions and debates on research quality and integrity.
 - Persistent funding disparities between centrally funded and state-funded institutions limit academic access to equal opportunities. 
 
-Kothari Commission Report, one of the finest documents on educational reforms, including the appointments of Vice-Chancellors and Directors (chief administrators) of central universities and other important centrally funded institutes, was ignored. State universities receive substantially less funding compared to centrally funded institutions. This has led to significantly lower access to quality education among a large section of the population.
+[Kothari Commission Report](http://www.academics-india.com/Kothari%20Commission%20Report.pdf), one of the finest documents on educational reforms, including the appointments of Vice-Chancellors and Directors (chief administrators) of central universities and other important centrally funded institutes, was ignored. State universities receive substantially less funding compared to centrally funded institutions. This has led to significantly lower access to quality education among a large section of the population.
 
 In addition to academic accountability, there are other issues with political overtones that foster conflicts among students. Two such important issues are:
 - Increasing presence of mainstream political parties in student unions' activities.
@@ -52,7 +52,7 @@ In addition to academic accountability, there are other issues with political ov
 
 ### Ph. D. of Practice Program
 
-India's startup ecosystem has expanded significantly over the past decade and a half, supported by technology incubators, research parks, venture capitalists, and academia-industry collaborations. Against this background, IIT Ropar's proposal for a Ph.D. in practice program makes a strong statement of purpose.
+[India's startup ecosystem](https://www.startupindia.gov.in/content/sih/en/international/go-to-market-guide/indian-startup-ecosystem.html) has expanded significantly over the past decade and a half, supported by technology incubators, research parks, venture capitalists, and academia-industry collaborations. Against this background, IIT Ropar's proposal for a Ph.D. in practice program makes a strong statement of purpose.
 
 The skepticism about the proposal mainly centered around critical issues of quality and the evaluation system rather than the foundation of the proposed program. These concerns are legitimate and deserve careful consideration. 
 
@@ -68,7 +68,7 @@ Create an effective accountability mechanism for cheating, plagiarism, fraudulen
 Speed up the patent-granting process while simultaneously beginning to measure development using well-known R&D disruption metrics.
 Develop strategies to reform R&D with public participation. 
 
-The Ph. D. of Practice program is intended to reward the technological impact of research rather than publication outputs, as an alternative indicator of innovation and performance. There are well-known R&D disruption metrics:
+The Ph. D. of Practice program is intended to reward the technological impact of research rather than publication outputs, as an alternative indicator of innovation and performance. There are well-known [R&D disruption metrics](https://mitsloan.mit.edu/shared/ods/documents?PublicationDocumentID=5958):
 
 - <strong>Consolidation Disruption Index (CDI)</strong>: Measures how new patent research papers destabilize or consolidate existing technology.
 - <strong>Vitality Index</strong>: Percentage of total revenue generated by products from the new technology in a 3- to 5-year period. This indicates the extent to which the new technology is replacing existing methods.
