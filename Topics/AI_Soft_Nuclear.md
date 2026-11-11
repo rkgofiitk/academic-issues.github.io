@@ -36,6 +36,8 @@ OpenAI has an annualized revenue growth of $50 billion, against losses of approx
 
 Other big tech companies, Nvidia, Apple, Microsoft, and Alphabet, individually command market capitalization in the range of $ 3.5-5 trillion. [Grandview Research](https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market) estimates that the global AI market size is $ 540 billion in 2026. The combined market cap of the AI giants may exceed $20-25 trillion. Although market capitalization does not reflect the economic fundamentals, it indicates the extent of investor confidence and the potential influence within the financial market. Given the scale, resources, and technological reach of these firms,  they have substantial capacity to influence public debate, regulatory discussions, and policy development.
 
+### Shift in Debate on AI Beyond Unalloyed Good
+
 The debate over the AI push by big tech companies happens in multiple directions: 
 - Technological optimism about economic growth, productivity, and the resolution of critical systemic bottlenecks and crises.
 - Concerns about its influence on governance and security, and the disruption of the labor market, 
@@ -44,6 +46,8 @@ The debate over the AI push by big tech companies happens in multiple directions
 Recently, OpenAI has reported advances in [machine-generated solutions to complex mathematical problems](https://openai.com/index/navier-stokes-solution/). It has led to intense speculation about AI-driven disruptions across public, academic, and business discourse. The developments have intensified the discussion on how AI may reshape research innovation across disciplines.
 
 Vardi's commentary may be interpreted as reflecting a broader shift in the AI debate. Many other influential commentators in the technology and innovation community are increasingly expressing concerns that were previously confined to AI critics. These concerns focus on the possibility that advanced digital technologies, including AI-driven surveillance systems, could alter the relationship between governments, corporations, and democratic institutions. The emergence of a technology backlash may encourage governments in countries such as the United States and China to reassess existing approaches to AI governance. Policymakers may seek to balance innovation objectives with concerns about competition, transparency, environmental sustainability, labor market disruption, and public accountability. 
+
+### Conclusions
 
 AI workloads are highly energy-intensive, prompting major tech firms to explore and invest in nuclear power as a reliable source of large-scale, low-carbon electricity. At the same time, AI has the potential to significantly enhance operational efficiency, maintenance, and safety standards in nuclear power plants. While the relationship between AI and nuclear energy is mutually beneficial, the societal implications of widespread AI deployments are increasingly sparking intense public debates.  
 
