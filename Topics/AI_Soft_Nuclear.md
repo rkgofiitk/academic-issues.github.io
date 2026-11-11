@@ -2,6 +2,8 @@
 
 [Blog Index](../index.md)
 
+### Introduction
+
 In his regular column "[Vardi's Insight" in CACM's November 2026](https://dl.acm.org/doi/pdf/10.1145/3850023) issue, Moshe Vardi finds  Peggy Noonan's 2018 description of Silicon Valley executives appropriate for the spirit of times. Ms. Noonan is a weekly columnist for The Wall Street Journal. According to her, these executives are "moral Martians who operate on some weird new postmodern ethical wavelength." 
 
 Vardi's article expands beyond Noonan's description, introducing the terms "cyberia" and "techlash."  Niall Ferguson, a historian at the Hoover Institution, describes "Cyberia" as a "dark, lawless space where malevolent actors reign." The word ["techlash"](https://itif.org/publications/2019/10/28/policymakers-guide-techlash/) is used by the Economist to describe a world of growing hostility towards tech giants. As an instance of emerging technological capabilities that raise governance and security concerns, the researchers from Stanford University and the Arc Institute demonstrated that they had successfully [synthesized a non-natural viral genome](https://www.georgetown.edu/news/ai-generated-viruses-bioengineering-ethics/).
@@ -11,7 +13,9 @@ Vardi refers to Noonan's latest column, "Pause AI for humanity's sake," publishe
 The increasing prominence of AI-related risks in major business publications, such as the Wall Street Journal, reflects concerns among a segment of the US business community about the societal and geopolitical implications of these risks. It raises questions: 
 - What AI-led developments are causing concerns?
 - To what extent do these developments need broader public attention?
-  
+
+### AI-led Developments & Concerns
+ 
 The public concerns about the rapid expansion of AI are across  the following domains:
 - <strong>Opposition to data centers</strong>: Some political commentators say that opposition to data centers may have influenced voters in the [US midterm elections](https://www.foxnews.com/politics/red-counties-data-center-projects-swung-away-gop-midterms-analysis-finds). 
  - <strong>Labor market disruption</strong>: According to a Goldman Sachs estimate,  AI will eventually displace about 9% of the US workforce over a multi-year transition period.
@@ -25,6 +29,8 @@ Goldman Sachs' estimate of labor market disruption pertains only to the USA. Mor
 Researchers and policymakers have expressed concerns that LLMs and specialized AI models may make it easier to overcome barriers in biological research on pathogens. This may increase [the risk of biosecurity breaches](https://globalbiodefense.com/2025/07/02/ai-bioterrorism-threat-biosecurity/) in the absence of a technical, institutional, and regulatory safety regime like IAEI. 
 
 [Technofascism](https://en.wikipedia.org/wiki/Techno-fascism) refers to  the "convergence of AI, big tech platforms, and corporate oligarchic power to establish authoritarian forms of governance." Algorithms could execute massive, AI-aided centralized surveillance and behavioral control, including individual profiling and behavioral patterns, in seconds. These developments have heightened the perception that increasingly sophisticated surveillance capabilities may enable more centralized forms of social and political control without robust democratic safeguards.
+
+### Influences of Big Tech Firms
 
 OpenAI has an annualized revenue growth of $50 billion, against losses of approximately $52 billion. The losses are mainly attributed to the requirements of massive infrastructure and model training costs. Despite substantial losses, it could still command investor confidence and is reported to have closed an [initial funding round of nearly 11 billion](https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html) and is pursuing an additional $20-30 billion in funding. 
 
