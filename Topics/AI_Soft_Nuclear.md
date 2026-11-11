@@ -35,7 +35,7 @@ The debate over the AI push by big tech companies happens in multiple directions
 - Concerns about its influence on governance and security, and the disruption of the labor market, 
 - Concentration of power within a few dominant big tech players.
   
-OpenAI reported machine-generated advances in solving complex mathematical problems (https://openai.com/index/navier-stokes-solution/). It has led to intense speculation about AI-driven disruptions across public, academic, and business discourse. The developments have intensified the discussion on how AI may reshape research innovation across disciplines.
+OpenAI reported advances in [machine-generated solutions to complex mathematical problems](https://openai.com/index/navier-stokes-solution/). It has led to intense speculation about AI-driven disruptions across public, academic, and business discourse. The developments have intensified the discussion on how AI may reshape research innovation across disciplines.
 
 Vardi's commentary may be interpreted as reflecting a broader shift in the AI debate. The influential commentators in the technology and innovation community are increasingly expressing concerns that were previously confined to AI critics. These concerns focus on the possibility that advanced digital technologies, including AI-driven surveillance systems, could alter the relationship between governments, corporations, and democratic institutions.
 
