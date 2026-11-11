@@ -2,7 +2,7 @@
 
 [Blog Index](../index.md)
 
-In his regular column "[Vardi's Insight" in CACM's November 2026](https://dl.acm.org/doi/pdf/10.1145/3850023) issue, Moshe Vardi is sympathetic to Peggy Noonan's 2018 description of Silicon Valley executives. Ms. Noonan is a weekly columnist for The Wall Street Journal. According to her, these executives are "moral Martians who operate on some weird new postmodern ethical wavelength." 
+In his regular column "[Vardi's Insight" in CACM's November 2026](https://dl.acm.org/doi/pdf/10.1145/3850023) issue, Moshe Vardi finds  Peggy Noonan's 2018 description of Silicon Valley executives appropriate for the spirit of times. Ms. Noonan is a weekly columnist for The Wall Street Journal. According to her, these executives are "moral Martians who operate on some weird new postmodern ethical wavelength." 
 
 Vardi's endorsement expands beyond Noonan's description to include the terms "cyberia" and "techlash."  Niall Ferguson, a historian at the Hoover Institution, describes "Cyberia" as a "dark, lawless space where malevolent actors reign." The word ["techlash"](https://itif.org/publications/2019/10/28/policymakers-guide-techlash/) is used by the Economist to describe a world of growing hostility towards tech giants. As an instance of emerging technological capabilities that raise governance and security concerns, the researchers from Stanford University and the Arc Institute demonstrated that they had successfully [synthesized a non-natural viral genome](https://www.georgetown.edu/news/ai-generated-viruses-bioengineering-ethics/).
 
