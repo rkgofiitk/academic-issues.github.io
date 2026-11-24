@@ -1,4 +1,5 @@
-## Reframing AI Safety Challenges: Human Independence, Self-Proliferation, and Coloniality
+## Reframing AI Safety Challenges
+### Human Independence, Self-Proliferation, and Coloniality
 
 [Blog Index](../index.md)
 
