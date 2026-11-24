@@ -1,3 +1,6 @@
+## Reframing AI Safety Challenges: Human Independence, Self-Proliferation, and Coloniality
+
+[Blog Index](../index.md)
 
 ### Introduction
 
@@ -65,3 +68,5 @@ Algorithms provide a vehicle for training AI systems on data from sampled techno
 The analogy between Harari's wheat domestication and AI development suggests that, until now, contemporary AI systems have not succeeded in breaking human dependence. However, with increasing autonomy, particularly through self-proliferation capabilities, AI systems may eventually cross the above threshold to acquire the autonomous capabilities to replicate, maintain, and provision their own resources. It underscores the need to establish governance mechanisms before such systems approach any meaningful threshold of human independence.
 
 The benefits and burdens of AI are distributed unevenly across different geographical regions and societies. A few powerful nations and enterprises control the concentration of data and computational resources. The technological superiority of a few advanced centers will continue the domination of powerful nations. As a result, less powerful nations may find themselves subjugated under the colonial influence of a handful of AI-endowed nations. Hence, concerns about AI safety should extend beyond existential risks or the capabilities of AI models. A more fundamental issue is whether AI systems can eventually approach the human independence threshold and achieve self-sustaining growth. When this potential arises, the questions of technical safety, governance, dependency, and global power relations become intertwined.
+
+[Back to Index](../index.md)
