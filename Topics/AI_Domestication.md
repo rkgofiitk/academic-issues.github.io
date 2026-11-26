@@ -44,7 +44,7 @@ In light of these perspectives, we may redefine AI safety as the challenge of pr
 
 The prospect of deploying increasingly unattended autonomous AI systems has raised questions of power imbalance, neutrality, and global justice, which are essentially manifestations of the coloniality problem. 
 
-Historically, [extractive colonialism](https://economics.mit.edu/sites/default/files/publications/colonial-origins-of-comparative-development.pdf] created a significant asymmetry between imperial centers of power and the Global South. The resulting asymmetries facilitated exploitation, impoverishment of the local population, and suppression of local knowledge and development.  
+Historically, [extractive colonialism](https://economics.mit.edu/sites/default/files/publications/colonial-origins-of-comparative-development.pdf) created a significant asymmetry between imperial centers of power and the Global South. The resulting asymmetries facilitated exploitation, impoverishment of the local population, and suppression of local knowledge and development.  
 
 In the November 2026 issue of CACM, Damian Eke elaborates on the analogous pattern of colonialism emerging from the world's largest economies' emerging AI ecosystem. Although the AI ecosystem is unlikely to reproduce a historical colonial system, it tends to reinforce existing power imbalances and economic disparities by relying on technologically superior resource-extraction mechanisms and denying other countries access to advanced technologies. 
 
