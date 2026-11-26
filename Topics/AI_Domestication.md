@@ -9,7 +9,7 @@ Recently, a series of technology outages disrupted Microsoft, the NSA, major ban
 
 AI systems are  rapidly evolving into a general-purpose technology across domains, including healthcare, education, logistics and transport, public service, finance, creative arts, security and surveillance, and defense. OpenAI's announcement about AI-driven solutions for complex mathematical problems and cancer research has sparked intense debate in scientific and academic circles. However, algorithmic bias, data privacy concerns, intelligent individual surveillance and profiling, labor market disruption, and a lack of transparency are hindering the democratization of technology's benefits. This calls for effective governance mechanisms.  
 
-In the regular column Vardi's Insight, published in the November 2026 issue of CACM, Moshe Vardi discusses various issues related to AI, drawing insights from several articles by public opinion makers in The Wall Street Journal. In this post, we examine the issues from three different perspectives regarding contemporary AI systems:
+In the regular column [Vardi's Insight, published in the November 2026 issue of CACM](https://dl.acm.org/doi/pdf/10.1145/3850023), Moshe Vardi discusses various issues related to AI, drawing insights from several articles by public opinion makers in The Wall Street Journal. In this post, we examine the issues from three different perspectives regarding contemporary AI systems:
 - Crossing the human dependence threshold 
 - Recursive self-improvement and the prospect of self-proliferation
 - The coloniality and concentration of technological power 
